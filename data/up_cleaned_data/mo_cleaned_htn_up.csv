@@ -1,0 +1,141 @@
+number,name_pre,name_post,age_pre,age_post,entry_pre,entry_post,districts_pre,districts_post,phc_name_pre,phc_name_post,experience_pre,experience_post,mobile_no_pre,mobile_no_post,date_pre,date_post,q1_pre,q1_post,q2_pre,q2_post,q3_pre,q3_post,q4_pre,q4_post,q5_pre,q5_post,q6_pre,q6_post,q7_pre,q7_post,q8_pre,q8_post,q9_pre,q9_post,q10_pre,q10_post,condition,state,cadre
+100,हरवेन्द्र सिंह,हरवेंद्र सिंह,45,45,UPMTO1,UPMTO1,1,1,सीएचसी चंदौसी,सीएचसी चंदौसी,14,14,9458248524,9458248524,10-06-2024,10-06-2024,5,5,4,4,2,2,3,2,4,4,3,4,3,2,4,4,1,1,3,3,htn,up,mo
+89,Amit Shukla,Amit Shukla,32,32,UPMTO1,UPMTO1,2,2,CHC Mallhipur,CHC Mallhipur,0.3,0.3,9628090000,9628090000,06-06-2024,06-06-2024,1,1,1,1,2,2,1,1,2,2,3,4,3,3,4,4,2,4,3,4,htn,up,mo
+81,Amresh jaiswal,Amresh jaiswal,39,39,UPMTO1,UPMTO1,2,2,Chc bhangha,CHC bhangha,3.8,3.8,8318158223,8318158223,06-06-2024,06-06-2024,4,4,3,4,2,2,2,4,4,4,2,2,3,3,4,4,2,2,4,4,htn,up,mo
+102,Deep Shikha,Deep Shikha,51,51,UPMTO1,UPMTO1,1,1,D CH Sambhal,D CH Sambhal,2,2,9410457600,9410457600,10-06-2024,10-06-2024,1,1,4,4,4,4,2,2,4,4,2,2,3,2,4,4,2,2,4,3,htn,up,mo
+31,Dr Ahsan Kamal,Dr ahsan Kamal,42,42,UPMTO1,UPMTO1,2,2,Chc bhangha,Chc bagha,12,12,8808577771,8808577771,31-05-2024,31-05-2024,4,4,3,4,3,3,2,2,4,4,3,3,3,3,4,4,2,2,4,3,htn,up,mo
+37,Dr Ajay Anand,Dr Ajay Anand,44,44,UPMTO1,UPMTO1,2,2,Phc titihiriya,Phc titihiriya,12,12,7860284638,7860284638,31-05-2024,31-05-2024,1,1,1,4,4,2,1,1,4,4,1,3,3,3,4,4,4,2,4,4,htn,up,mo
+92,Dr Amrita singh,Dr Amrita Singh,39,39,UPMTO1,UPMTO1,2,2,Sirsiya,Sirsiya,14,14,9889581411,9889581411,06-06-2024,06-06-2024,1,1,4,4,2,2,1,2,4,4,3,3,3,3,4,4,1,2,4,4,htn,up,mo
+138,Dr Anchal Malhotra,Dr Anchal Malhotra,30,30,UPMTO1,UPMTO1,1,1,DCH sambhal,DCH Sambhal,5,5,8958171807,8958171807,11-06-2024,11-06-2024,1,1,4,4,2,2,2,2,3,4,3,4,3,3,4,4,1,4,4,3,htn,up,mo
+9,Dr Awaneesh,Dr Awaneesh,35,35,UPMTO1,UPMTO1,2,2,CHC MALHIPUR,CHC MALHIPUR,11,11,9451312030,9451312030,30-05-2024,30-05-2024,1,1,4,1,2,2,1,2,4,4,2,2,3,3,4,4,2,2,4,4,htn,up,mo
+60,Dr budhiram kumar,Dr budhiram kumar,35,35,UPMTO1,UPMTO1,2,2,All basic medical,All basic medical,7,7,8573935246,8573935246,03-06-2024,03-06-2024,4,5,1,4,3,2,3,1,4,4,1,1,1,3,4,4,2,2,4,4,htn,up,mo
+119,Dr Bushra jabeen,Dr Bushra jabeen,40,40,UPMTO1,UPMTO1,1,1,Phc chamraua,Phc chamraua,40,15.8,9458649492,9458649492,10-06-2024,10-06-2024,1,4,1,4,4,4,1,2,4,4,4,2,3,3,4,4,4,1,4,4,htn,up,mo
+198,Dr farheena Parveen,Dr farheena Parveen,37,37,UPMTO1,UPMTO1,1,1,Phc rajpur bahjoi,Phc rajpur bahjoi,11,11,8279729336,8279729336,14-06-2024,14-06-2024,1,1,1,1,4,4,1,1,3,3,2,2,3,3,4,4,2,2,4,4,htn,up,mo
+87,Dr Girwar Prasad,Dr Girwar Prasad,42,42,UPMTO1,UPMTO1,2,2,Ikuana,Ikuana,9,9,9453486397,9453486397,06-06-2024,06-06-2024,1,1,4,1,2,2,1,1,4,4,2,4,3,3,4,4,2,2,4,4,htn,up,mo
+123,Dr Hemant Kumar,Dr Hemant Kumar,34,34,UPMTO1,UPMTO1,1,1,Chc Panwasa,Chc Panwasa,4.2,4.2,8755733202,8755733202,11-06-2024,11-06-2024,4,4,3,3,2,2,1,1,4,4,3,4,2,3,4,4,4,2,4,4,htn,up,mo
+152,Dr indu tyagi,Dr indu tyagi,43,43,UPMTO1,UPMTO1,1,1,Chc sambhal,Chc sambhal,15.9,15.9,9759384281,9759384281,13-06-2024,13-06-2024,4,4,4,4,4,4,1,1,4,4,3,3,2,3,1,4,2,2,4,4,htn,up,mo
+71,Dr Pratibha Shukla,Dr Pratibha Shukla,38,38,UPMTO1,UPMTO1,2,2,CHC malhipur Shrawasti,CHC malhipur Shrawasti,6,6,9473896141,9473896141,03-06-2024,03-06-2024,4,1,4,4,2,2,1,4,3,3,4,3,3,3,4,4,2,2,4,4,htn,up,mo
+133,Dr Raj kumar Gupta,Dr Raj kumar Gupta,51,51,UPMTO1,UPMTO1,1,1,Ch c junawai,Ch c junawai,10,10,9720267414,9720267414,11-06-2024,11-06-2024,5,1,4,4,2,2,2,1,1,4,3,4,2,3,4,4,4,4,3,4,htn,up,mo
+148,Dr Rajkishore,Dr Rajkishore,42,42,UPMTO1,UPMTO1,1,1,CHC Kaila devi,CHC Kaila devi,14,14,9690725995,9690725995,13-06-2024,13-06-2024,1,5,4,4,2,2,1,1,4,4,2,3,3,3,4,4,2,2,4,4,htn,up,mo
+44,Dr Ram Gopal,Dr Ram Gopal,61,61,UPMTO1,UPMTO1,2,2,CDH srt,CDH srt,32,32,7985929256,7985929256,31-05-2024,31-05-2024,1,1,4,4,2,2,1,1,4,4,4,3,3,3,4,4,2,2,4,4,htn,up,mo
+214,Dr Sachin kumar,Dr Sachin kumar,44,44,UPMTO1,UPMTO1,1,1,Chc Rajpura,Chc Rajpura,12,12,9917057250,9917057250,18-06-2024,18-06-2024,1,1,4,4,2,2,1,2,4,4,3,3,3,2,4,4,2,2,4,4,htn,up,mo
+53,Dr Seema Devi Yadav,Dr Seema Devi Yadav,35,35,UPMTO1,UPMTO1,2,2,CHC Gilaula,CHC Gilaula,6,6,7889251628,7889251628,03-06-2024,03-06-2024,4,4,4,4,2,2,2,1,3,4,4,4,3,2,4,4,2,2,4,3,htn,up,mo
+161,Dr Shama Aslam,Dr Shama Aslam,57,57,UPMTO1,UPMTO1,1,1,PHC Singh Pur Sani Sambhal,PHC Singh Pur Sani Sambhal,15.4,15.4,7906934072,7906934072,13-06-2024,13-06-2024,1,1,1,1,2,2,2,3,4,4,2,2,3,2,4,1,1,1,1,4,htn,up,mo
+33,Dr Sharad Awasthi,Dr Sharad Awasthi,40,40,UPMTO1,UPMTO1,2,2,Phc parevpur,Phc parevpur,6,6,9450497109,9450497109,31-05-2024,31-05-2024,1,1,1,4,2,2,1,1,1,4,3,3,3,3,4,4,2,2,1,1,htn,up,mo
+90,Dr suman babu,Dr suman babu,42,42,UPMTO1,UPMTO1,2,2,Phc jamunaha bazar,Phc jamunaha bazar,7,7,7880738974,7880738974,06-06-2024,06-06-2024,1,1,1,1,1,4,1,4,2,4,3,3,3,3,4,2,2,1,4,4,htn,up,mo
+186,Dr Swati Rastogi,Dr Swati Rastogi,35,35,UPMTO1,UPMTO1,1,1,CHC Sambhal,CHC Sambhal,6,6,9917166457,9917166457,14-06-2024,14-06-2024,1,1,4,4,2,2,1,1,4,4,4,4,3,3,4,4,2,2,4,4,htn,up,mo
+144,Dr Thakur Das,Dr Thakur Das,50,50,UPMTO2,UPMTO2,2,2,CHC  SONWA SRAVASTI,CHC  SONWA SRAVASTI,18,18,9410405032,9410405032,08-10-2024,08-10-2024,1,1,4,4,2,2,1,1,4,4,3,3,3,3,4,4,1,4,4,4,htn,up,mo
+30,Dr Vimal Kumar,Dr Vimal Kumar,36,36,UPMTO1,UPMTO1,2,2,CHC GILAULA,CHC GILAULA,0.3,0.3,9455669446,9455669446,31-05-2024,31-05-2024,4,4,1,4,3,3,2,2,4,4,3,3,3,3,4,4,2,2,4,4,htn,up,mo
+93,Dr. Ajeet Singh,Dr. Ajeet Dingh,39,39,UPMTO1,UPMTO1,2,2,Sirsiya,CHC Sirsiya,14,14,9125989121,9125989121,06-06-2024,06-06-2024,1,1,4,4,2,2,1,2,4,4,3,3,3,3,4,4,2,2,4,2,htn,up,mo
+201,Dr km. Haseeb,Dr. K m. Haseeb,56,56,UPMTO1,UPMTO1,1,1,PHC Saudhan,PHC Saudhan,11,11,9927553397,9927553397,14-06-2024,14-06-2024,1,1,1,1,4,1,1,1,3,4,2,2,3,1,3,1,2,1,4,1,htn,up,mo
+192,Dr. Manish arora,Dr. Manish arora,46,46,UPMTO1,UPMTO1,1,1,CHC sambhal,CHC sambhal,9,9,9997698338,9997698338,14-06-2024,14-06-2024,1,1,4,4,2,2,1,1,4,4,3,4,3,3,4,4,2,2,4,4,htn,up,mo
+73,Dr.Ashish Srivastava,Dr.Ashish Srivastava,42,42,UPMTO1,UPMTO1,2,2,CHC Ikauna,CHC Ikauna,10,10,9415395074,9415395074,03-06-2024,03-06-2024,4,4,1,1,2,2,2,2,4,4,3,3,3,3,4,4,2,2,4,4,htn,up,mo
+84,Dr.Kunwar sujeet Kumar Singh,Dr.Kunwar sujeet Kumar Singh,49,49,UPMTO1,UPMTO1,2,2,Health department,Health department,15,15,8299648234,8299648234,06-06-2024,06-06-2024,5,1,4,4,3,3,1,2,4,4,2,2,3,3,4,1,1,1,1,4,htn,up,mo
+155,Dr.Sahar Farhana,Dr.Sahar Farhana,40,40,UPMTO1,UPMTO1,1,1,Phc Madhan,Phc Madhan,15.9,15.9,9457947023,9457947023,13-06-2024,13-06-2024,4,4,4,4,4,4,3,1,3,4,3,3,2,3,4,5,2,2,4,4,htn,up,mo
+99,Dushyant Kumar,Dushyant Kumar,45,45,UPMTO1,UPMTO1,1,1,Phc,Phc,14,14,9639258210,9639258210,10-06-2024,10-06-2024,5,1,4,4,2,2,3,2,4,4,3,3,3,3,4,4,1,1,3,4,htn,up,mo
+147,Manoj kumar singh,Manoj kumar singh,45,45,UPMTO1,UPMTO1,1,1,NAROLI,NAROLI,14,14,9458058586,9458058586,14-06-2024,14-06-2024,1,1,4,4,2,2,2,2,1,4,3,3,3,3,4,4,2,2,4,4,htn,up,mo
+164,Murad Husain,Murad Husain,62,62,UPMTO1,UPMTO1,1,1,Phc Berni (Narauli),Phc Berni (Narauli),13.8,13.8,9457038018,9457038018,13-06-2024,13-06-2024,4,4,1,1,3,3,1,1,4,1,3,3,3,2,4,1,4,2,3,3,htn,up,mo
+8,Pawan Kumar Singh,Pawan Kumar Singh,33,33,UPMTO1,UPMTO1,2,2,Gilaula,Gilaula,4,4,8896873390,8896873390,30-05-2024,30-05-2024,4,4,4,4,2,2,1,2,4,4,3,3,3,3,4,4,2,2,4,4,htn,up,mo
+34,Poonam Maurya,Poonam Maurya,35,35,UPMTO1,UPMTO1,2,2,"CHC IKAUNA , SHRAWASTI","CHC IKAUNA , SHRAWASTI",30,30,9455893725,9455893725,31-05-2024,31-05-2024,4,1,4,4,2,2,2,2,1,1,4,4,3,3,4,4,2,2,4,3,htn,up,mo
+179,Pravin Chaudhary,Pravin Chaudhary,45,45,UPMTO1,UPMTO1,1,1,Mch,Mch,18,18,7310313444,7310313444,13-06-2024,13-06-2024,4,4,4,1,1,2,3,2,4,4,3,3,3,3,4,4,4,1,4,4,htn,up,mo
+10,Rohit Kumar,Rohit Kumar,39,39,UPMTO1,UPMTO1,2,2,Chc bhinga,Chc bhinga,8.4,8.4,9648234000,9648234000,30-05-2024,30-05-2024,1,1,4,4,2,2,1,1,4,4,3,3,2,2,4,4,2,2,3,4,htn,up,mo
+122,Sandeep singh,Sandeep singh,42,42,UPMTO1,UPMTO1,1,1,Asmoli,Asmoli,14.2,14.2,9027468729,9027468729,11-06-2024,11-06-2024,5,5,4,4,2,2,2,2,4,4,3,2,3,2,4,4,1,2,4,4,htn,up,mo
+146,Sarika agarwal,Sarika agarwal,42,42,UPMTO1,UPMTO1,1,1,Chandausi,Chandausi,8,8,9675666960,9675666960,13-06-2024,13-06-2024,4,1,4,4,2,2,1,1,4,4,3,3,3,3,4,4,1,2,4,4,htn,up,mo
+80,Sunil shukla,Sunil shukla,51,51,UPMTO1,UPMTO1,2,2,Chc Bhangha,Chc bhangha,12,12,9415410086,9415410086,06-06-2024,06-06-2024,1,4,1,4,2,2,2,4,4,4,2,2,3,3,4,4,2,2,4,2,htn,up,mo
+130,Vinay Kumar Gangwar,Vinay Kumar Gangwar,48,48,UPMTO1,UPMTO1,1,1,PHC BABRALA,PHC BABRALA,12,12,9412912947,9412912947,11-06-2024,11-06-2024,4,4,4,4,4,4,1,2,4,4,3,2,3,3,5,4,2,2,4,4,htn,up,mo
+1,Richa Verma,Dr Richa Verma,2,2,UPMTO3,UPMTO3,3,3,CHC kanaili,CHC kanaili,4,4,7398012057,7398012057,18-03-2025,18-03-2025,1,1,4,4,1,2,1,2,3,4,3,2,3,3,3,4,1,2,3,4,htn,up,mo
+2,Priya Gupta,Priya Gupta,2,2,UPMTO3,UPMTO3,3,3,CHC kanailli,CHC kanailli,4,4,9305294103,9305294103,18-03-2025,18-03-2025,1,4,1,4,4,4,3,1,1,4,3,2,3,3,2,2,4,2,3,4,htn,up,mo
+3,Dr mahlaka alvi,Dr mahlaka alvi,2,2,UPMTO3,UPMTO3,3,3,Fru sirathu,Fru sirathu,16,16,7668473553,7668473553,18-03-2025,18-03-2025,1,4,4,4,2,2,2,1,4,4,3,2,3,3,4,4,1,2,4,4,htn,up,mo
+4,Dr. Niraj,Dr. Niraj,1,1,UPMTO3,UPMTO3,3,3,Phc manjhanpur,PHC MANJHANPUR,7,7,8795617875,8795617875,18-03-2025,18-03-2025,1,5,1,1,4,4,1,2,4,4,3,4,3,3,4,5,2,1,4,4,htn,up,mo
+5,Dr Hari Nath Singh,Dr Hari Nath Singh,1,1,UPMTO3,UPMTO3,3,3,PHC SARSAWAN,PHC SARSAWAN,5,5,7992068459,7992068459,18-03-2025,18-03-2025,5,4,4,4,3,2,4,2,4,4,3,3,3,3,4,4,2,2,4,4,htn,up,mo
+6,Dr. Mansi Upadhyay,Dr. Mansi,2,2,UPMTO3,UPMTO3,3,3,CHC chayal,CHC chayal,4,4,9919591555,9919591555,18-03-2025,18-03-2025,1,1,4,4,1,2,4,4,4,4,3,2,3,3,4,4,1,2,4,4,htn,up,mo
+7,Dr M. Saud,Dr M. Saud,1,1,UPMTO3,UPMTO3,3,3,CHC Ismaeel pur KADA,CHC Ismaeel pur KADA,19,19,9451054675,9451054675,18-03-2025,18-03-2025,5,4,4,4,2,2,2,2,4,4,3,3,3,3,5,4,1,2,4,4,htn,up,mo
+8,Dr Arun Kumar Tiwari,Dr Arun Kumar Tiwari,1,1,UPMTO3,UPMTO3,3,3,Chcsaraiakil,Chc sarai akil,16,16,9999228283,9999228283,18-03-2025,18-03-2025,5,1,4,1,2,2,1,1,4,4,1,3,3,3,5,4,2,2,4,4,htn,up,mo
+9,Dr.Auchitya Singh,Dr.Auchitya Singh,1,1,UPMTO3,UPMTO3,3,3,CHC_SIRATHU,CHC_SIRATHU,5,5,9839817013,9839817013,18-03-2025,18-03-2025,1,1,4,4,2,4,1,1,4,4,3,3,3,3,5,1,1,1,1,2,htn,up,mo
+10,MUKTESH DWIVEDI,MUKTESH DWIVEDI,1,1,UPMTO3,UPMTO3,3,3,COMMUNITY HEALTH CENTER CHAIL KAUSHAMBI,COMMUNITY HEALTH CENTER CHAIL KAUSHAMBI,15,15,9452108924,9452108924,18-03-2025,18-03-2025,2,1,1,1,3,2,1,1,4,4,4,3,3,3,4,3,2,2,4,4,htn,up,mo
+11,Dr lalit,Dr lalit,1,1,UPMTO3,UPMTO3,3,3,Phc newada,Phc newada,12,12,7607058559,7607058559,18-03-2025,18-03-2025,1,3,4,4,3,2,2,2,4,4,3,3,3,3,1,4,2,2,4,4,htn,up,mo
+12,Dr Ashok kumar Maurya,Dr Ashok kumar Maurya,1,1,UPMTO3,UPMTO3,3,3,Chc sarsawan,Chc sarsawan,17,16,9415587092,9415587092,18-03-2025,18-03-2025,4,4,4,4,2,2,1,1,4,4,3,2,2,3,4,4,1,4,3,3,htn,up,mo
+13,Dr abhishek kumar,Dr abhishek kumar,1,1,UPMTO3,UPMTO3,3,3,CHC alamchand,CHC alamchand,14,14,9935866154,9935866154,18-03-2025,18-03-2025,1,4,1,4,4,4,1,2,4,4,3,2,3,3,4,4,4,2,4,1,htn,up,mo
+14,Dr. Sashank Gupta,Dr. Sashank Gupta,1,1,UPMTO3,UPMTO3,3,3,Phc newada,Phc newada,11,11,9453010535,9453010535,18-03-2025,18-03-2025,1,4,4,4,1,1,1,1,4,4,3,4,3,3,4,5,2,1,4,4,htn,up,mo
+15,Dr Sanjay Kumar Gupta,Dr Sanjay Kumar Gupta,1,1,UPMTO3,UPMTO3,3,3,PHC Mooratganj,PHC Mooratganj,15.2,15.2,9936520107,9936520107,18-03-2025,18-03-2025,5,1,4,4,2,2,2,2,3,3,2,2,3,3,4,4,4,2,4,4,htn,up,mo
+16,Shipra,Shipra,2,2,UPMTO3,UPMTO3,3,3,Karari,Karari,1,1,7007221570,7007221570,18-03-2025,18-03-2025,5,4,1,1,3,3,4,1,1,4,3,2,3,2,5,5,2,2,4,2,htn,up,mo
+17,Ghulam ali,Ghulam ali,1,1,UPMTO3,UPMTO3,3,3,Nphc Gauspur,Nphc Gauspur,12,12,9807914700,9807914700,18-03-2025,18-03-2025,1,4,4,4,4,4,1,2,4,4,3,2,3,3,5,4,4,2,4,4,htn,up,mo
+18,Dr Sanjay Singh,Dr Sanjay Singh,1,1,UPMTO3,UPMTO3,3,3,CHC kaneli,CHC kaneli,5,5,9580608862,9580608862,18-03-2025,18-03-2025,4,4,1,1,3,2,2,2,3,4,2,2,3,3,5,4,1,2,4,4,htn,up,mo
+19,Dr Poonam Prajapati,Dr Poonam Prajapati,2,2,UPMTO3,UPMTO3,3,3,Selraha paschim,Selraha paschim,1,1,8948083796,8948083796,18-03-2025,18-03-2025,4,4,4,4,3,2,3,2,4,1,2,2,3,3,4,4,2,2,3,3,htn,up,mo
+22,Dr Sudhir Kumar Yadav,Dr Sudhir Kumar Yadav,1,1,UPMTO3,UPMTO3,3,3,Nphc vaiskanti,Nphc vaiskanti,4.11,4.11,9792064162,9792064162,20-03-2025,20-03-2025,4,4,4,4,2,2,1,1,4,4,3,3,3,3,4,4,4,4,3,4,htn,up,mo
+23,Dr.shailendra kumar,Dr.shailendra kumar,1,1,UPMTO3,UPMTO3,3,3,CHC chail,CHC chail,12,12,9453356411,9453356411,20-03-2025,20-03-2025,2,1,1,4,3,3,4,1,4,1,2,2,2,2,5,2,2,1,4,2,htn,up,mo
+24,Dr.manoj kumar Chaurasia,Dr.manoj kumar Chaurasia,1,1,UPMTO3,UPMTO3,3,3,Phc sarsawan,Phc sarsawan,11,11,8543098608,8543098608,20-03-2025,20-03-2025,4,4,1,4,2,2,1,1,4,4,3,3,3,3,5,4,1,2,4,3,htn,up,mo
+25,Sana Mahboob,Sana Mahboob,2,2,UPMTO3,UPMTO3,3,3,PHC Newada,PHC Newada,8,8,9598580647,9598580647,20-03-2025,20-03-2025,4,4,1,4,2,2,1,1,4,4,3,3,2,3,1,4,1,2,2,3,htn,up,mo
+26,Dr neetu singh,Dr neetu singh,2,2,UPMTO3,UPMTO3,3,3,PHC muratganj,Phc muratganj,11,11,9559818300,9559818300,20-03-2025,20-03-2025,4,4,1,4,1,1,1,2,4,4,3,3,3,3,4,4,4,2,4,4,htn,up,mo
+27,Dr Sunita Singh,Dr. Sunita Singh,2,2,UPMTO3,UPMTO3,3,3,PHC Mooratganj,PHC Mooratganj Kaushambi,8687908986,10,8687908986,8687908986,20-03-2025,20-03-2025,5,1,1,4,1,4,1,2,4,4,3,2,3,3,4,4,3,2,4,4,htn,up,mo
+28,Dr. Mohd Shariq Subhan Siddiqui,Dr. Mohd Shariq Subhan Siddiqui,1,1,UPMTO3,UPMTO3,3,3,PHC SARSAWAN KAUSHAMBI,PHC SARSAWAN KAUSHAMBI,12,12,6394588103,6394588103,20-03-2025,20-03-2025,4,4,1,4,2,2,1,1,4,4,3,3,3,3,5,4,4,2,4,1,htn,up,mo
+29,Dr.Sandeep Kumar,Dr.Sandeep Kumar,1,1,UPMTO3,UPMTO3,3,3,Phc Manjhnpur,Phc Manjhnpur,11,11,9918371745,9918371745,20-03-2025,20-03-2025,4,1,1,4,2,4,3,2,1,4,3,1,2,3,4,4,4,2,4,4,htn,up,mo
+30,Firdaus fatima Ahmad,Dr Firdaus Fatima Ahmad,2,2,UPMTO3,UPMTO3,3,3,Kanaili,Kanaili,12,12,8176948538,8176948538,20-03-2025,20-03-2025,5,1,1,1,2,2,3,1,1,4,3,3,3,3,4,4,2,2,4,3,htn,up,mo
+31,Dr sureshchandra,Dr Suresh chandra,1,1,UPMTO3,UPMTO3,3,3,Nphc tikra,Nphc tikra,15,15,9628390306,9628390306,20-03-2025,20-03-2025,4,4,1,4,4,4,1,1,4,1,4,1,3,2,5,1,2,2,4,3,htn,up,mo
+33,Dr. Anil Yadav,Dr. Anil Yadav,1,1,UPMTO3,UPMTO3,3,3,Chc Chail,Chc Chail,108,108,9415171837,9415171837,20-03-2025,20-03-2025,5,5,4,4,2,2,1,1,1,3,2,3,2,2,1,5,4,2,3,3,htn,up,mo
+34,Dr Ved Vrat Singh,Dr Ved Vrat Singh,1,1,UPMTO3,UPMTO3,3,3,NPHC SHAMSHABAD,NPHC SHAMSHABAD,1.8,1.8,7007340104,7007340104,20-03-2025,20-03-2025,4,5,4,4,4,2,1,1,4,4,2,3,2,3,4,4,2,2,4,4,htn,up,mo
+35,Jai Prakash Singh,Jai Prakash Singh,1,1,UPMTO3,UPMTO3,3,3,PHC,Shahjadpur,0.2,0.2,7905540361,7905540361,20-03-2025,20-03-2025,1,5,4,4,4,2,1,1,4,4,2,2,3,3,4,4,2,2,4,4,htn,up,mo
+36,Dr Hashim khan,Dr Hashim  khan,1,1,UPMTO3,UPMTO3,3,3,Cmo kaushambi,Cmo kaushambi,14,14,8004126242,8004126242,20-03-2025,20-03-2025,1,4,4,4,4,2,1,1,4,2,2,3,3,3,4,4,2,2,4,4,htn,up,mo
+37,Dr Nagendra Kumar Singh,Dr Nagendra Kumar Singh,1,1,UPMTO3,UPMTO3,3,3,Nphc,Nphc,16,16,9919738650,9919738650,20-03-2025,20-03-2025,5,5,1,1,1,4,1,3,4,4,4,4,3,3,4,1,2,2,4,4,htn,up,mo
+38,Dr Pooja Thakur,Pooja Thakur,2,2,UPMTO3,UPMTO3,3,3,Sirathu,Sirathu,12,12,7668221621,7668221621,20-03-2025,20-03-2025,4,4,4,4,2,2,2,2,4,3,3,2,3,3,4,4,2,2,4,4,htn,up,mo
+39,Dr.Chandrashekhar,Dr.Chandrashekhar,1,1,UPMTO3,UPMTO3,3,3,Nphc Myohar,Nphc Myohar,14,14,9451842380,9451842380,20-03-2025,20-03-2025,5,4,1,4,1,2,1,1,4,4,4,3,3,3,1,4,2,4,4,4,htn,up,mo
+40,Rohit Kumar,Rohit Kumar,1,1,UPMTO3,UPMTO3,3,3,Sirathu,Sirathu,11,11,9695374737,9695374737,20-03-2025,20-03-2025,4,4,4,4,2,2,2,2,4,4,2,2,3,3,5,4,2,2,4,4,htn,up,mo
+41,Dr Shuaib Qnsari,Dr Shuaib Qnsari,1,1,UPMTO3,UPMTO3,3,3,PHC Manjhanpur,PHC Manjhanpur,15,15,9696966999,9696966999,20-03-2025,20-03-2025,1,5,4,4,4,2,1,1,4,1,3,3,3,3,2,3,1,3,1,2,htn,up,mo
+42,Dharmendra Kanaujiya,Dharmendra Kanaujiya,1,1,UPMTO3,UPMTO3,3,3,PHC,PHC,0.2,0.2,8017948659,8017948659,20-03-2025,20-03-2025,1,4,1,4,2,2,2,2,4,4,3,3,3,3,4,5,2,2,4,4,htn,up,mo
+43,Dr Renu Parihar,Dr Renu Parihar,2,2,UPMTO3,UPMTO3,3,3,CHC Chail,CHC Chail,9,9,9452140744,9452140744,20-03-2025,20-03-2025,4,1,4,4,2,2,2,4,4,4,3,3,3,3,1,4,1,1,3,3,htn,up,mo
+44,Dr Shabina Parvin,Dr,2,2,UPMTO3,UPMTO3,3,3,CHC CHAIL,CHC CHAIL,10,10,9984943860,9984943860,20-03-2025,20-03-2025,1,1,4,4,4,4,2,4,4,2,2,3,3,3,5,1,2,4,4,4,htn,up,mo
+45,Zoya rahmanabbasi,Zoya rahman abbadi,2,2,UPMTO3,UPMTO3,3,3,Phc,Phc,16,16,9336875287,9336875287,20-03-2025,20-03-2025,4,1,4,4,2,2,2,2,3,2,3,3,3,3,4,4,2,2,4,4,htn,up,mo
+46,Dr. Kiran Kesharwani,Dr. Kiran Kesharwani,2,2,UPMTO3,UPMTO3,3,3,PHC Manjhanpur,PHC Manjhanpur,12,12,8707869486,8707869486,20-03-2025,20-03-2025,4,1,4,4,3,3,4,1,4,4,3,3,3,3,4,4,2,2,3,4,htn,up,mo
+47,Dr RAHUL VERMA,Dr RAHUL VERMA,1,1,UPMTO3,UPMTO3,3,3,Phc muratganj,Phc muratganj,13,13,9936445244,9936445244,20-03-2025,20-03-2025,1,4,4,4,4,2,2,1,4,4,2,3,3,3,3,4,2,1,4,4,htn,up,mo
+48,Dr. Naseem Ullah,Dr. Naseem Ullah,1,1,UPMTO3,UPMTO3,3,3,Phc mooratganj,Phc mooratganj,45,11,9335080841,9335080841,20-03-2025,20-03-2025,1,1,4,4,4,4,2,2,4,4,2,2,2,3,3,4,2,2,4,4,htn,up,mo
+49,ALQAMA,ALQAMA,2,2,UPMTO3,UPMTO3,3,3,CHC,CHC,15.5,15.5,9305808818,9305808818,20-03-2025,20-03-2025,1,1,4,4,2,2,2,2,4,2,3,3,3,3,4,4,2,2,4,4,htn,up,mo
+50,Mohd Azam Khan,Mohd Azam khan,1,1,UPMTO3,UPMTO3,3,3,CHC CHAIL,CHC CHAIL,11,11,9451845771,9451845771,20-03-2025,20-03-2025,5,5,1,1,1,1,1,1,4,4,3,3,3,3,1,3,2,1,1,2,htn,up,mo
+51,Dr.irshad ahmad,Dr.Irshad Ahmad,1,1,UPMTO3,UPMTO3,3,3,Karari phc,Karari PHC,14,14,6393706336,6393706336,20-03-2025,20-03-2025,1,4,4,4,4,2,2,1,4,2,2,3,3,3,4,4,2,2,4,4,htn,up,mo
+54,Dinesh prakash,Dinesh prakash,1,1,UPMTO3,UPMTO3,3,3,Bairampur,Bairampur,14,14,8795227299,8795227299,21-03-2025,21-03-2025,1,1,4,4,4,4,4,1,4,4,3,3,2,2,5,1,4,2,4,3,htn,up,mo
+55,Dr Asif siddiqui,Dr Asif siddiqui,1,1,UPMTO3,UPMTO3,3,3,Chc kara,Chc kara,5,5,9452654480,9452654480,21-03-2025,21-03-2025,4,4,1,4,4,4,3,2,4,4,3,3,3,3,4,4,4,2,3,4,htn,up,mo
+56,Dr. Ambikesh Kumar,Dr. Ambikesh Kumar,1,1,UPMTO3,UPMTO3,3,3,CHC Sirathu,CHC Sirathu,5,5,8989100891,8989100891,21-03-2025,21-03-2025,1,1,4,4,2,2,1,4,4,4,3,3,2,3,4,4,1,1,3,3,htn,up,mo
+57,Dr. Tej Pratap,Dr. Tej Pratap,1,1,UPMTO3,UPMTO3,3,3,CHC Kanaili,CHC Kanaili,3,3,9792041863,9792041863,21-03-2025,21-03-2025,4,1,4,4,3,3,1,4,4,4,3,3,3,3,2,5,2,2,4,4,htn,up,mo
+58,Dr.Sagar Biswas,Dr. Sagar Biswas,1,1,UPMTO3,UPMTO3,3,3,CHC KADA,CHC KADA,5,5,7081045282,7081045282,21-03-2025,21-03-2025,4,4,4,4,3,3,1,2,4,4,2,3,3,3,4,4,1,2,4,4,htn,up,mo
+59,Dr Ashish Gupta,Dr Ashish Gupta,1,1,UPMTO3,UPMTO3,3,3,AMNILOKIPUR,AMNILOKIPUR,14,14,9415236376,9415236376,21-03-2025,21-03-2025,1,4,4,4,4,3,3,3,4,4,3,2,3,3,4,5,3,4,4,4,htn,up,mo
+60,Naresh kumar Saroj,Dr.Naresh kumar Saroj,1,1,UPMTO3,UPMTO3,3,3,PHC Newada,PHC Newada,5,5,9838044498,9838044498,21-03-2025,21-03-2025,4,1,4,4,2,2,1,1,4,4,2,2,3,3,5,2,2,1,4,2,htn,up,mo
+61,VIKAS YADAV,Dr vikas yadav,1,1,UPMTO3,UPMTO3,3,3,NPHC AJUHWA,NPHC AJUHWA,8,8,7275344946,7275344946,21-03-2025,21-03-2025,4,1,4,4,2,2,1,1,4,4,2,2,3,3,5,5,2,2,4,4,htn,up,mo
+62,Dr Mohd murtaza,Dr Mohd murtaza,1,1,UPMTO3,UPMTO3,3,3,Phc sarsawan,Phc sarsawan,11,11,9695285417,9695285417,21-03-2025,21-03-2025,1,1,4,4,4,2,2,2,3,4,3,3,3,3,1,5,4,2,4,4,htn,up,mo
+63,Dr Manoj Kumar chaurasiya,Dr Manoj Kumar chaurasiya,1,1,UPMTO3,UPMTO3,3,3,PHC pachhim sarira,PHC pachhim sarira,14,14,8840015452,8840015452,21-03-2025,21-03-2025,4,4,4,4,2,2,4,1,4,4,3,2,2,4,5,2,4,2,4,4,htn,up,mo
+64,Dr aleema,Dr aleema,2,2,UPMTO3,UPMTO3,3,3,Phc manjhanpur,Phc manjhanpur,11.2,11.2,9335107457,9335107457,21-03-2025,21-03-2025,5,4,1,4,2,2,1,1,4,4,3,2,3,3,4,1,2,2,4,4,htn,up,mo
+65,DR. RAMESH KUMAR,DR. RAMESH KUMAR,1,1,UPMTO3,UPMTO3,3,3,PHC NEWADA,PHC NEWADA,11,11,9415628823,9415628823,21-03-2025,21-03-2025,4,1,4,1,2,2,3,1,4,4,4,3,3,3,4,4,4,1,4,3,htn,up,mo
+66,Nikhat Jamal,Dr.Nikhat jamal,2,2,UPMTO3,UPMTO3,3,3,Chc kanaili,Chc kanaili,12,12,9621904924,9621904924,21-03-2025,21-03-2025,4,4,4,4,3,2,1,4,4,4,3,3,3,3,4,4,2,2,4,4,htn,up,mo
+67,Hena kausar,Hena kausar,2,2,UPMTO3,UPMTO3,3,3,CHC,CHC,16,16,9794324518,9794324518,21-03-2025,21-03-2025,1,4,4,4,4,2,3,1,3,4,3,3,3,3,4,5,2,2,4,4,htn,up,mo
+68,Dr Vandana Singh,Dr. Vandana Singh,2,2,UPMTO3,UPMTO3,3,3,CHC Kara Kaushambi,CHC Kara Kaushambi,12,12,7408071119,7408071119,21-03-2025,21-03-2025,5,4,1,1,4,2,1,3,4,4,3,2,3,3,5,5,4,1,3,4,htn,up,mo
+69,Khushnuma bano,Dr khushnuma,2,2,UPMTO3,UPMTO3,3,3,Chc krari,Chc krari,5,5,6396031308,6396031308,21-03-2025,21-03-2025,1,1,4,4,2,2,1,2,1,4,3,3,3,3,4,1,2,2,4,4,htn,up,mo
+70,Dr. Mohd Adil Siddiqui,Dr. Mohd Adil Siddiqui,1,1,UPMTO3,UPMTO3,3,3,CHC karari,CHC karari,5,5,9935706042,9935706042,21-03-2025,21-03-2025,4,1,4,4,2,1,2,1,4,4,3,3,3,3,4,4,2,2,4,4,htn,up,mo
+71,Dr. Poonam,Dr. Poonam,2,2,UPMTO3,UPMTO3,3,3,PHC kasenda,PHC kasenda,14.7,14.7,9506709566,9506709566,21-03-2025,21-03-2025,1,1,4,4,2,2,2,2,4,4,3,2,3,1,4,4,2,1,3,4,htn,up,mo
+72,Vivek Kumar Gupta,Vivek Kumar Gupta,1,1,UPMTO3,UPMTO3,3,3,Surgeon,Surgeon,1.5,1.5,7834909951,7834909951,21-03-2025,21-03-2025,4,4,4,4,2,2,1,2,4,4,3,3,3,3,4,5,2,1,4,4,htn,up,mo
+73,Dr.Afsha bano,Dr.Afsha bano,2,2,UPMTO3,UPMTO3,3,3,Medical officer,Mo,20,20,8400072476,8400072476,21-03-2025,21-03-2025,1,1,4,4,3,3,1,1,4,4,3,3,3,3,5,4,2,1,4,4,htn,up,mo
+74,Dr. Upendra Kumar,Dr.Upendra Kumar,1,1,UPMTO3,UPMTO3,3,3,CHC Chail,CHC Chail,9,9,9140830554,9140830554,21-03-2025,21-03-2025,4,4,4,4,2,2,2,2,4,4,3,3,3,3,4,4,2,2,4,4,htn,up,mo
+75,Anand kumar,Anand,1,1,UPMTO3,UPMTO3,3,3,Chc,Chc,18,18,9918769723,9918769723,21-03-2025,21-03-2025,5,4,4,4,2,2,1,1,4,4,2,3,3,3,4,4,2,2,4,4,htn,up,mo
+76,Dr.kamlesh kumar,Dr.kamlesh kumar,1,1,UPMTO3,UPMTO3,3,3,Phc,Phc muratganj,14,14,9648847012,9648847012,21-03-2025,21-03-2025,1,5,4,4,4,2,2,2,4,4,3,2,2,3,3,2,2,2,4,4,htn,up,mo
+77,Dr sadaf Siddiqui,Dr sadaf Siddiqui,2,2,UPMTO3,UPMTO3,3,3,NPHC bharwari,NPHC bharwari,1.7,1.7,8267988772,8267988772,22-03-2025,22-03-2025,5,4,4,4,4,4,1,1,4,4,3,3,2,2,1,4,2,2,3,4,htn,up,mo
+78,Dr Mohd Ahmar,Dr Mohd Ahmar,1,1,UPMTO3,UPMTO3,3,3,NPHC Karari,NPHC KARARI,4.11,4.11,9557931327,9557931327,22-03-2025,22-03-2025,1,1,4,4,2,2,3,4,4,4,3,3,3,3,4,5,1,1,4,4,htn,up,mo
+79,Dr Balveer,Dr Balveer,1,1,UPMTO3,UPMTO3,3,3,Nphc jugrajpur,Mohd jugrajpur,7,7,8285846862,8285846862,22-03-2025,22-03-2025,1,4,1,4,4,4,4,4,4,4,3,3,3,3,4,4,2,2,4,4,htn,up,mo
+80,Dr vinay Kumar Singh,Dr vinay Kumar Singh,1,1,UPMTO3,UPMTO3,3,3,PHC KASENDA,PHC KASENDA,15.6,15.6,9140740874,9140740874,22-03-2025,22-03-2025,4,1,4,4,1,2,3,2,4,4,2,2,3,3,4,4,2,2,4,4,htn,up,mo
+81,Sakshi verma,Sakshi verma,2,2,UPMTO3,UPMTO3,3,3,Phc charwa,Phc charwa,0.1,0.1,7007097235,7007097235,22-03-2025,22-03-2025,1,4,4,4,2,2,4,2,3,4,3,3,3,3,4,4,1,2,4,4,htn,up,mo
+82,Dr arun kesharwani,Dr arun kesharwani,1,1,UPMTO3,UPMTO3,3,3,Rbsk -Manjhanpur,Rbsk -Manjhanpur,13,13,8303340510,8303340510,22-03-2025,22-03-2025,1,1,1,4,4,2,4,1,4,4,4,3,3,2,4,5,4,2,4,4,htn,up,mo
+83,Dr RAJEEV KUMAR SINGH,Dr RAJEEV KUMAR SINGH,1,1,UPMTO3,UPMTO3,3,3,Phc Newada RBSK,Phc Newada RBSK,12,12,9450604257,9450604257,22-03-2025,22-03-2025,4,1,4,4,4,4,2,1,4,4,3,3,3,3,1,4,2,2,1,3,htn,up,mo
+84,Dr Sachin Kumar Kesharwani,Dr Sachin Kumar Kesharwani,1,1,UPMTO3,UPMTO3,3,3,PHC NEWADA,PHC NEWADA,9,9,9935415341,9935415341,22-03-2025,22-03-2025,1,4,1,1,1,2,2,1,4,4,3,3,2,2,4,5,2,2,4,4,htn,up,mo
+85,Dr. Irfan Ahmed,Dr. Irfan Ahmed,1,1,UPMTO3,UPMTO3,3,3,NPHC Alipurjita kara,NPHC Alipurjita kara,14.5,14.5,9235112100,9235112100,22-03-2025,22-03-2025,1,1,4,4,1,3,2,2,4,3,3,3,3,2,4,5,4,1,4,4,htn,up,mo
+86,Dr Vinod Kumar,Dr Vinod Kumar,1,1,UPMTO3,UPMTO3,3,3,CHC Kanaili,CHC Kanaili,10,10,9415957709,9415957709,22-03-2025,22-03-2025,1,1,4,4,4,4,1,1,3,1,3,3,3,3,1,5,1,2,4,3,htn,up,mo
+87,Dr girijesh kumar,Dr girijesh kumar,1,1,UPMTO3,UPMTO3,3,3,Phc,Phc sarsawan,16,16,9918272129,9918272129,22-03-2025,22-03-2025,4,4,4,4,1,4,2,3,4,4,2,3,3,3,4,4,2,2,4,4,htn,up,mo
+88,Dr Shivi Singh Bisen,Dr Shivi Singh Bisen,2,2,UPMTO3,UPMTO3,3,3,Phc Manjhanpur,Phc Manjhanpur,4.9,4.11,9565599894,9565599894,22-03-2025,22-03-2025,5,4,4,4,2,2,1,4,4,4,3,2,3,3,4,4,4,2,4,4,htn,up,mo
+89,Servash Kumar Triapathi,DR servash Kumar Tripathi,1,1,UPMTO3,UPMTO3,3,3,Phc Newada,Phc Newada,12,12,9305113916,9305113916,22-03-2025,22-03-2025,4,4,4,4,4,4,2,2,4,4,3,3,3,2,4,5,2,2,4,4,htn,up,mo
+90,Dr Chandra Shekhar,Dr Chandra Shekhar,1,1,UPMTO3,UPMTO3,3,3,NPHC tewan,NPHC tewan,5,5,8795875695,8795875695,22-03-2025,22-03-2025,4,4,4,4,1,2,1,2,4,3,2,2,3,3,4,4,1,2,4,4,htn,up,mo
+91,Dr Dileep Patel,Dr Dileep Patel,1,1,UPMTO3,UPMTO3,3,3,"Phc jayantipur, sarsawan kaushambi","Phc jayantipur, sarsawan kaushambi",156,156,6266825356,6266825356,22-03-2025,22-03-2025,5,1,4,4,1,4,2,1,4,4,2,3,3,2,4,4,1,1,3,4,htn,up,mo
+92,Dr Bijay kmuar mishra,Dr Bijay kmuar mishra,1,1,UPMTO3,UPMTO3,3,3,PHC,PHC,14,13,7985118219,7985118219,22-03-2025,22-03-2025,1,1,4,4,2,2,4,4,4,4,2,2,2,3,2,4,1,1,4,3,htn,up,mo
+93,Dr. Vandita Vats,Dr. Vandita Vats,2,2,UPMTO3,UPMTO3,3,3,Sarsawan,Sarsawan,5,5,6387857731,6387857731,22-03-2025,22-03-2025,1,1,4,4,4,2,1,2,4,4,3,3,3,2,4,5,2,2,4,4,htn,up,mo
+94,Ankit chitransh,Ankit chitransh,1,1,UPMTO3,UPMTO3,3,3,Chc,Chc,12,12,7309499959,7309499959,22-03-2025,22-03-2025,1,1,4,4,3,3,1,2,4,4,3,3,2,3,1,1,2,1,4,1,htn,up,mo
+95,Dr.aditya rawat,Dr.aditya rawat,1,1,UPMTO3,UPMTO3,3,3,Phc mooratganj,Phc mooratganj,13,13,9839475609,9839475609,22-03-2025,22-03-2025,1,1,4,4,1,3,1,2,4,4,2,2,2,3,4,4,4,4,4,4,htn,up,mo
+96,Sujai singh,Sujai singh,1,1,UPMTO3,UPMTO3,3,3,CHC,CHC,9,9,7355954280,7355954280,22-03-2025,22-03-2025,4,4,1,4,2,1,2,2,4,4,2,2,3,3,4,4,2,2,4,4,htn,up,mo
+97,Dr pratibha,Dr pratibha,2,2,UPMTO3,UPMTO3,3,3,C.h.c kara,Chc kara,17,17,8707551416,8707551416,22-03-2025,22-03-2025,4,1,1,1,1,1,2,1,4,1,2,2,2,3,4,1,4,1,4,3,htn,up,mo
+52,dr amit singh,dr amit singh,1,1,UPMTO3,UPMTO3,3,3,chc chail,chc chail,12,12,9936450087,9936450086,20-03-2025,20-03-2025,1,1,2,4,3,2,2,1,4,3,2,2,3,3,1,3,2,2,4,4,htn,up,mo
+7,dr satya sharan,dr satya sharan,33,33,UPMTO1,UPMTO1,2,2,chc bhangha,chc bhangha,8.3,8.3,9621526523,9621526533,30-05-2024,30-05-2024,1,4,4,4,2,2,1,1,4,4,3,3,2,3,4,4,2,2,3,3,htn,up,mo
+53,dr. shalini singh,dr. shalini singh,2,2,UPMTO3,UPMTO3,3,3,chc-sarai akil,chc-sarai akil,1.9,1.9,9450166767,9450166764,20-03-2025,20-03-2025,1,1,1,1,2,2,4,4,4,4,3,3,3,3,4,4,2,2,4,4,htn,up,mo
+49,harkesh singh,tarun ravi tripathi,49,57,UPMTO2,UPMTO3,2,3,unicef,sonwa,5,9,9719686131,9935656081,30-05-2024,31-05-2024,5,5,4,4,4,4,4,4,4,4,3,3,3,3,5,5,4,4,4,4,htn,up,mo

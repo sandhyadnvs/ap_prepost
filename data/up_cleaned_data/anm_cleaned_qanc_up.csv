@@ -1,0 +1,577 @@
+number,name_pre,name_post,age_pre,age_post,entry_pre,entry_post,mobile_no_pre,mobile_no_post,designation_pre,designation_post,education_qualification_pre,education_qualification_post,districts_pre,districts_post,phc_name_pre,phc_name_post,sub_center_name_pre,sub_center_name_post,experience_pre,experience_post,date_pre,date_post,q1_pre,q1_post,q2_pre,q2_post,q3_pre,q3_post,q4_pre,q4_post,q5_pre,q5_post,q6_pre,q6_post,q7_pre,q7_post,q8_pre,q8_post,q9_pre,q9_post,q10_pre,q10_post,condition,state,cadre
+4,Neetu,Neetu,35,35,UPMTO1,UPMTO1,9621960962,9621960962,3,3,3,3,3,3,,,Panargoaplpur,Panargoaplpur,1,1,20-03-2025,20-03-2025,5,5,3,3,1,1,4,4,1,1,1,4,2,2,1,1,2,2,1,1,qanc,up,anm
+7,Saroj jaiswal,Saroj jaiswal,54,54,UPMTO1,UPMTO1,7317387036,7317387036,3,3,2,2,3,3,,,Bairgow,Bairgow,22,22,20-03-2025,20-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+8,Pooja kushwaha,Pooja kushwaha,32,32,UPMTO1,UPMTO1,6387898281,6387898281,3,3,3,3,3,3,,,Perai,Perai,6387898281,3,20-03-2025,20-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+9,Neela devi,Neela devi,40,40,UPMTO1,UPMTO1,9984554169,9984554169,3,3,2,2,3,3,,,Sarai Akil,Sarai Akil,14,14,20-03-2025,20-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+13,Rajkaliya Devi,Rajkaliya Devi,30,30,UPMTO1,UPMTO1,9112572326,9112572326,3,3,2,2,3,3,,,Jawahar Nagar,Jawahar Nagar,5,5,20-03-2025,21-03-2025,5,5,3,3,1,2,4,4,1,1,4,4,2,2,1,1,2,2,2,1,qanc,up,anm
+14,Surekha singh,Surekha singh,32,32,UPMTO1,UPMTO1,8127469787,8127469787,3,3,2,2,3,3,,,KHAPRA KHANDEVARA,KHAPRA KHANDEVARA,14,14,20-03-2025,20-03-2025,5,5,3,2,2,2,4,4,2,1,4,4,2,2,1,4,1,2,1,3,qanc,up,anm
+15,Sunita Devi,Sunita Devi,36,36,UPMTO1,UPMTO1,9305089038,9305089038,3,3,4,4,3,3,,,Newada,Newada,10,10,20-03-2025,20-03-2025,5,5,2,2,2,2,1,4,1,1,4,4,2,2,2,4,2,2,3,3,qanc,up,anm
+16,Poonam singh,Poonam singh,26,26,UPMTO1,UPMTO1,9555342907,9555342907,3,3,7,3,3,3,,,Surseni,Surseni,1,1,20-03-2025,20-03-2025,5,5,3,3,2,1,4,4,1,1,1,4,2,2,1,1,2,2,1,1,qanc,up,anm
+18,Ekta,Ekta,30,30,UPMTO1,UPMTO1,9559115988,9559115988,3,3,7,7,3,3,,,Barethi,Barethi,2,2,20-03-2025,20-03-2025,5,5,4,3,2,1,2,4,1,1,1,1,2,2,1,1,1,2,3,3,qanc,up,anm
+20,Rajkumari,Rajkumari,29,29,UPMTO1,UPMTO1,9172692083,9172692083,3,3,3,3,3,3,,,Newada 2nd,Newada 2nd,6,6,20-03-2025,20-03-2025,5,5,3,3,2,2,2,1,1,1,4,4,2,2,1,1,2,2,3,4,qanc,up,anm
+21,Neetu singh,Neetu singh,26,26,UPMTO1,UPMTO1,7390890829,7390890829,3,3,3,3,3,3,,,Chakpinha mustafabad,Chakpinha mustafabad,1,1,20-03-2025,20-03-2025,5,5,3,3,1,1,2,4,1,1,1,4,2,2,2,1,2,2,1,1,qanc,up,anm
+22,Pushpa Devi,Pushpa,28,28,UPMTO1,UPMTO1,8960192457,8960192457,3,3,3,3,3,3,,,Berner,Bener,3,3,20-03-2025,21-03-2025,1,5,3,3,1,1,4,2,1,1,1,4,2,2,1,2,2,2,1,1,qanc,up,anm
+23,Kumari ashwani pal,Kumari ashwani pal,34,34,UPMTO1,UPMTO1,9454090106,9454090106,3,3,2,2,3,3,,,PHC newada,PHC newada,10,10,20-03-2025,20-03-2025,5,5,3,3,2,1,4,4,3,1,4,1,5,2,2,4,2,2,5,2,qanc,up,anm
+24,Rekha devi,Rekha devi,42,42,UPMTO1,UPMTO1,9026827415,9026827415,3,3,2,2,3,3,,,Fakirabad,Fakirabad,9026827415,10,20-03-2025,20-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+25,Archana,Archana,38,38,UPMTO1,UPMTO1,9559511556,9559511556,3,3,2,2,3,3,,,Kataiya,Kataiya se,9,9,20-03-2025,20-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,2,qanc,up,anm
+26,Bineta pradhan,Bineta pradhan,40,40,UPMTO1,UPMTO1,8114179701,8114179701,3,3,7,7,3,3,,,Tarapur,Tarapur,6,6,20-03-2025,20-03-2025,5,5,4,3,1,1,1,4,1,1,4,4,2,2,2,2,2,2,5,2,qanc,up,anm
+27,KamlaSingh,kamla Singh,40,40,UPMTO1,UPMTO1,9720828675,9720828675,3,3,2,2,3,3,,,Tilhapur,Tilhapur,9720828675,12,20-03-2025,20-03-2025,5,5,4,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,3,qanc,up,anm
+28,Suneeta Kushwaha,Suneeta Kushwaha,31,31,UPMTO1,UPMTO1,6388576413,6388576413,3,3,7,7,3,3,,,Rampur,Rampur,5,5,20-03-2025,20-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+29,Reenoo Singh,Reenoo singh,38,38,UPMTO1,UPMTO1,6397313352,6397313352,3,3,7,7,3,3,,,Makhupur,Makhupur,9,9,20-03-2025,20-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+30,Rekha Choudhari,Rekha,35,35,UPMTO1,UPMTO1,9198577513,9198577513,3,3,2,2,3,3,,,Purkash,Purkash,6,6,20-03-2025,20-03-2025,5,5,3,3,3,3,4,3,1,1,4,2,2,2,1,1,2,1,1,1,qanc,up,anm
+31,Kavita Singh,Kavita Singh,41,41,UPMTO1,UPMTO1,7839799901,7839799901,3,3,7,7,3,3,,,Bhagwanpur,Bhagwanpur,12,12,20-03-2025,20-03-2025,5,5,1,3,3,1,1,4,1,1,2,4,2,2,1,1,1,2,1,1,qanc,up,anm
+33,Sneha Kumari kushwaha,Sneha Kumari kushwaha,28,28,UPMTO1,UPMTO1,9621005090,9621005090,3,3,7,7,3,3,,,Basuhar,Basuhar,5,5,20-03-2025,20-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+35,Pramila Devi,Pramila Devi,44,44,UPMTO1,UPMTO1,8115104517,8115104517,3,3,7,7,3,3,,,P H C Newada,P H C Newada,13,13,20-03-2025,20-03-2025,5,5,3,3,1,1,1,1,1,1,4,1,2,2,1,1,2,2,1,1,qanc,up,anm
+38,Anita,Anita,33,33,UPMTO1,UPMTO1,9120205207,9120205207,3,3,7,7,3,3,,,Myohar,Myohar,1,1,21-03-2025,21-03-2025,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+39,KM  RUbi,KM RUBI,26,26,UPMTO1,UPMTO1,8081561097,8081561097,3,3,7,7,3,3,,,Kanili Gram,Kanili Gram,1,1,21-03-2025,21-03-2025,5,5,3,3,1,1,4,1,1,1,4,4,2,2,4,1,2,1,3,3,qanc,up,anm
+41,Savita devi,साविता देवी,36,36,UPMTO1,UPMTO1,7223960939,7223960939,3,3,7,7,3,3,,,Bhakanda,Bhakanda,6,6,21-03-2025,21-03-2025,5,5,1,3,1,1,4,1,1,1,1,1,2,2,1,1,4,4,1,1,qanc,up,anm
+42,Suman Devi,SumanDevi,30,30,UPMTO1,UPMTO1,8172955221,8172955221,3,3,2,2,3,3,,,Kosamkhiraj,CHC Kaneli,3,3,21-03-2025,21-03-2025,5,5,3,3,2,2,4,2,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+43,Soni chaurasia,Soni chaurasia,32,32,UPMTO1,UPMTO1,6393374426,6393374426,3,3,3,3,3,3,,,CHC kanaili,CHC kanaili,2,2,21-03-2025,21-03-2025,5,5,3,3,1,1,4,4,1,1,1,1,2,2,1,1,2,2,1,1,qanc,up,anm
+44,Shakuntala verma,Shakuntala verma,38,38,UPMTO1,UPMTO1,8004115896,8004115896,3,3,4,4,3,3,,,Raksrai,Raksrai,2,2,21-03-2025,21-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+45,Neetu yadav,Neetu yadav,35,35,UPMTO1,UPMTO1,9628962955,9628962955,3,3,2,2,3,3,,,Ranipur,Ranipur,9.11,9.11,21-03-2025,21-03-2025,5,5,4,3,1,1,1,1,1,1,4,4,2,2,1,1,2,4,1,3,qanc,up,anm
+46,Ranjana kumari,Ranjana kumari,28,28,UPMTO1,UPMTO1,8318597391,8318597391,3,3,3,3,3,3,,,chc kanaili,Arka fatehur,2,2,21-03-2025,21-03-2025,5,5,4,4,2,2,4,1,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+47,Deepika Pandey,Deepika Pandey,39,39,UPMTO1,UPMTO1,9580365569,9580365569,3,3,3,3,3,3,,,CHC kaneli,CHC kaneli,2,2,21-03-2025,21-03-2025,5,5,3,3,1,1,4,4,1,1,1,1,2,2,1,1,1,2,1,1,qanc,up,anm
+48,Poonam devi,Poonam devi,29,29,UPMTO1,UPMTO1,7524056808,7524056808,3,3,7,7,3,3,,,Amakunwa,Amakunwa,6,6,21-03-2025,21-03-2025,5,5,3,4,2,1,2,1,1,1,2,4,2,2,1,4,3,2,1,3,qanc,up,anm
+49,Guddi Devi,Guddi Devi,37,37,UPMTO1,UPMTO1,6388267997,6388267997,3,3,4,4,3,3,,,Batbndhuri,Batbndhuri,9,9,21-03-2025,21-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,3,4,1,3,qanc,up,anm
+50,Indravati,Indravati,34,34,UPMTO1,UPMTO1,9792297745,9792297745,3,3,2,2,3,3,,,Chc kanaili,Chc kanaili,2,2,21-03-2025,21-03-2025,5,5,3,3,2,2,4,2,1,1,1,1,2,2,1,1,1,2,1,1,qanc,up,anm
+51,Archana Devi,Archana devi,37,37,UPMTO1,UPMTO1,9651407409,9651407409,3,3,3,3,3,3,,,ChC kanalli,CHc kanaili,2,2,21-03-2025,21-03-2025,5,5,3,4,2,2,1,4,1,1,1,1,2,2,1,1,1,1,1,1,qanc,up,anm
+52,Barkha,Barkha,33,33,UPMTO1,UPMTO1,8853110709,8853110709,3,3,7,7,3,3,,,Mahila,Mahila,13,13,21-03-2025,21-03-2025,5,5,3,3,1,2,1,1,1,1,2,4,2,2,1,1,2,2,1,1,qanc,up,anm
+53,Kirandevi,Kirandevi,34,34,UPMTO1,UPMTO1,7905092754,7905092754,3,3,4,4,3,3,,,Chckanili,Chckinilii,6,6,21-03-2025,21-03-2025,5,5,3,2,2,1,4,4,1,1,4,4,2,2,1,1,1,1,1,1,qanc,up,anm
+54,Sona devi,Sona devi,30,30,UPMTO1,UPMTO1,8006135044,8006135044,3,3,7,2,3,3,,,Kanaili,Kanaili,10.7,10.7,21-03-2025,21-03-2025,5,5,4,3,1,1,4,4,1,1,4,4,2,2,2,1,2,2,3,1,qanc,up,anm
+55,Rajkumari,Rajkumari,33,33,UPMTO1,UPMTO1,9528824828,9528824828,3,3,4,4,3,3,,,Kanaili,Kanaili,9,9,21-03-2025,21-03-2025,5,5,2,1,1,1,2,4,1,1,4,4,2,2,1,1,1,4,1,1,qanc,up,anm
+56,Mantoo Singh,Mantoo Singh,40,40,UPMTO1,UPMTO1,9695577239,9695577239,3,3,3,3,3,3,,,म्योहर,म्योहर,10,10,21-03-2025,21-03-2025,5,5,3,3,1,1,2,1,1,1,4,4,2,2,2,1,2,2,1,1,qanc,up,anm
+57,Reena devi,Reena devi,34,34,UPMTO1,UPMTO1,6386130947,6386130947,3,3,7,7,3,3,,,Bidav,Bidav,1.1,1.1,14-03-2025,21-03-2025,5,5,3,3,2,2,2,1,1,1,1,1,2,2,1,1,2,2,3,1,qanc,up,anm
+58,Radha Devi,Radha Devi,54,54,UPMTO1,UPMTO1,9984246193,9984246193,3,3,2,2,3,3,,,Avana Alampur,Avana Alampur,21,21,21-03-2025,21-03-2025,2,5,1,4,1,2,1,2,4,1,1,4,5,4,2,2,2,3,5,4,qanc,up,anm
+59,Beena yadav,Beena yadav,35,35,UPMTO1,UPMTO1,6306113380,6306113380,3,3,7,7,3,3,,,Kayampur,Kayampur,1.9,1.9,21-03-2025,21-03-2025,5,5,4,4,1,1,1,1,1,1,4,4,2,2,2,4,2,2,4,5,qanc,up,anm
+60,Sushma singh,Sushma singh,37,37,UPMTO1,UPMTO1,8795566577,8795566577,3,3,7,7,3,3,,,Itaila,Itaila,6,6,21-03-2025,21-03-2025,5,5,3,4,1,1,1,1,1,1,1,4,2,2,3,4,2,2,2,1,qanc,up,anm
+61,Suneeta devi,Suneeta devi,39,39,UPMTO1,UPMTO1,9369962434,9369962434,3,3,7,7,3,3,,,Khopa,Khopa,6,6,21-03-2025,21-03-2025,5,5,4,4,1,1,1,4,1,1,1,1,2,2,2,1,2,2,1,1,qanc,up,anm
+62,Guddi devi,Guddi devi,34,34,UPMTO1,UPMTO1,8127211719,8127211719,3,3,7,7,3,3,,,Chhekawa,Chhekawa,9.11,9.11,21-03-2025,21-03-2025,1,5,1,3,1,1,1,1,1,1,4,3,2,2,2,4,4,4,4,3,qanc,up,anm
+63,Gadiya Yadav,Gudiya Yadav,35,35,UPMTO1,UPMTO1,9005114234,9005114234,3,3,2,2,3,3,,,Sachwara,Sachwara,14,14,21-03-2025,21-03-2025,2,5,3,3,1,1,2,2,1,1,4,4,2,2,4,4,2,2,2,1,qanc,up,anm
+67,Asma Bano,Asma Bano,30,30,UPMTO1,UPMTO1,6392657768,6392657768,3,3,4,7,3,3,,,Thambha Alawalpur,Thambha Alawalpur,5,5,24-03-2025,24-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,1,1,1,1,qanc,up,anm
+68,Artichaudhari,Artichaudhari,30,30,UPMTO1,UPMTO1,7081564667,7081564667,3,3,3,7,3,3,,,Sc chimircha,Sc chimircha,5,5,24-03-2025,24-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,1,1,1,1,qanc,up,anm
+69,Reshama Singh,Reshama Singh,24,24,UPMTO1,UPMTO1,6307732946,6307732946,3,3,3,2,3,3,,,Ammvapurab,Ammvapurab,3,3,24-03-2025,24-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,4,4,2,2,1,1,qanc,up,anm
+71,GULAFSHA BANO,GULAFSHA BANO,30,30,UPMTO1,UPMTO1,9506351385,9506351385,3,3,7,7,3,3,,,Bhaila Makdumpur,Bhaila Makdumpur,1,1,24-03-2025,24-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+72,Mamta nishad,Mamta nishad,28,28,UPMTO1,UPMTO1,8299642668,8299642668,3,3,7,7,3,3,,,Dhanpara,Dhanpara,5,5,24-03-2025,24-03-2025,5,5,3,3,1,1,4,4,1,1,1,3,2,2,1,1,2,2,1,1,qanc,up,anm
+73,RANJEETA  SINGH,Ranjeeta singh,38,38,UPMTO1,UPMTO1,9450854722,9450854722,3,3,4,4,3,3,,,P . H. C. Manjhanpur,P. H. C manjhanpur,15,15,24-03-2025,24-03-2025,5,5,3,3,1,1,1,1,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+74,Amita Devi,Amita Devi,29,29,UPMTO1,UPMTO1,9044587181,9044587181,3,3,2,7,3,3,,,Baishkanti,Baishkanti,2.5,2.5,24-03-2025,24-03-2025,5,5,4,3,2,1,4,4,1,1,4,4,2,2,4,1,2,2,1,1,qanc,up,anm
+75,Pooja yadav,Pooja yadav,26,26,UPMTO1,UPMTO1,9369589637,9369589637,3,3,4,2,3,3,,,Bandhwa rajwar,Bandhwa rajwar,33,2,24-03-2025,24-03-2025,5,5,3,3,2,2,2,4,1,1,4,4,2,2,3,4,1,1,1,1,qanc,up,anm
+76,Pritee Devi,Pritee Devi,33,33,UPMTO1,UPMTO1,9935821635,9935821635,3,3,2,2,3,3,,,Manjhanpur,Manjhanpur,6,6,24-03-2025,24-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,4,2,2,1,1,qanc,up,anm
+77,Shashi Prabha maurya,Shashi Prabha maurya,30,30,UPMTO1,UPMTO1,8765160620,8765160620,3,3,2,7,3,3,,,Deewar,Deewar,6,6,24-03-2025,24-03-2025,5,5,3,3,1,1,1,2,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+78,Saroj Kumari Verma,Saroj kumari verma,33,33,UPMTO1,UPMTO1,7905540230,7905540230,3,3,4,4,3,3,,,Phc manjhanpur,Phc manjhanpur,1.9,1.9,24-03-2025,24-03-2025,5,5,3,3,1,1,4,1,1,1,4,4,2,2,3,1,3,2,1,1,qanc,up,anm
+79,Sucheta Singh,Sucheta singh,36,36,UPMTO1,UPMTO1,9129706590,9129706590,3,3,4,4,3,3,,,NewPHc karari,New phc Karai,15,15,24-03-2025,24-03-2025,5,5,3,3,1,2,4,2,1,1,1,4,5,2,2,1,1,2,2,2,qanc,up,anm
+80,Sarita bharti,Sarita bharti,33,33,UPMTO1,UPMTO1,8400585376,8400585376,3,3,4,4,3,3,,,Phc manjhanpur manj,PhC manjhanpur,1.9,1.9,24-03-2025,24-03-2025,5,5,3,3,1,1,4,1,1,1,4,4,2,2,3,1,3,2,1,1,qanc,up,anm
+81,फूलमती देवी,फूलमती देवी,40,40,UPMTO1,UPMTO1,9026465375,9026465375,3,3,7,2,3,3,,,Khaujapur,Phc manjhanpur,10,10,24-03-2025,24-03-2025,5,5,5,4,5,3,2,4,1,1,4,4,2,2,1,1,1,1,1,1,qanc,up,anm
+82,Anjula singh,Anjula singh,37,37,UPMTO1,UPMTO1,8400559088,8400559088,3,3,4,4,3,3,,,Bandhwarajwar,Bandhwarajwar,1.8,1.8,24-03-2025,24-03-2025,5,5,3,3,2,1,4,4,1,1,4,4,2,2,1,1,2,2,2,2,qanc,up,anm
+83,Archana yadav,Archana yadav,34,34,UPMTO1,UPMTO1,9517270656,9517270656,3,3,7,7,3,3,,,NPHC KARARI,NPHC KARARI,6,6,24-03-2025,24-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,3,4,2,2,1,1,qanc,up,anm
+84,Poonam bharti,Poonam bharti,39,39,UPMTO1,UPMTO1,9598606864,9598606864,3,3,7,7,3,3,,,CHC karari,CHC karari,14,14,24-03-2025,24-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,3,4,2,2,1,1,qanc,up,anm
+85,Rashmi joshi,Rashmi joahi,32,32,UPMTO1,UPMTO1,6307823921,6307823921,3,3,3,7,3,3,,,Phc manjanpur,TensaAlamabad,6,6,24-03-2025,24-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,3,1,2,2,1,3,qanc,up,anm
+86,Ramkali,Ramkali,44,44,UPMTO1,UPMTO1,8601559887,8601559887,3,2,7,5,3,3,,,Edilpur,Edilpur,10,10,24-03-2025,17-03-2025,5,5,3,3,2,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+87,Sarla singh,Sarla singh,34,34,UPMTO1,UPMTO1,9058466099,9058466099,3,3,7,7,3,3,,,Ashadha,Ashadha,9,9,24-03-2025,24-03-2025,5,5,3,3,1,1,1,4,1,1,4,4,2,2,3,1,2,1,1,1,qanc,up,anm
+88,Suneeta diwakar,Suneeta diwakar,25,25,UPMTO1,UPMTO1,8081849011,8081849011,3,3,2,7,3,3,,,Bharsawan,Bharsawan,2.5,2.5,24-03-2025,24-03-2025,4,5,4,1,1,1,4,2,1,1,4,4,2,2,4,1,2,2,1,1,qanc,up,anm
+89,Reeta devi,Reeta devi,35,35,UPMTO1,UPMTO1,9198886264,9198886264,3,3,3,3,3,3,,,Pawara,Pawara,6,6,24-03-2025,24-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,4,1,2,2,1,1,qanc,up,anm
+90,Shanti Kaithvas,Shanti Kaithvas,37,37,UPMTO1,UPMTO1,7379344106,7379344106,3,3,7,7,3,3,,,Kadirabad,Kadirabad,10,10,24-03-2025,24-03-2025,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,2,2,2,2,qanc,up,anm
+91,Nilam kumari,Nilam kumari,37,37,UPMTO1,UPMTO1,9648530356,9648530356,3,3,7,7,3,3,,,Osa,Osa,10,10,24-03-2025,24-03-2025,5,5,3,3,2,1,4,4,1,1,4,4,2,2,1,1,2,2,2,2,qanc,up,anm
+92,Chandani Devi,Chandani Devi,26,26,UPMTO1,UPMTO1,6386059365,6386059365,3,3,3,3,3,3,,,Pawara,Pawara,1,1.1,24-03-2025,24-03-2025,5,5,3,3,1,1,4,1,1,1,4,4,2,2,4,1,2,2,1,1,qanc,up,anm
+93,Pooja Devi,Pooja Devi,27,27,UPMTO1,UPMTO1,8140338763,8140338763,3,3,7,7,3,3,,,Bahadurpur,Bahadurpur,1,1,24-03-2025,24-03-2025,5,5,3,3,1,1,4,4,1,1,1,4,2,2,1,1,1,2,1,1,qanc,up,anm
+94,Alka Devi,Alka Devi,35,35,UPMTO1,UPMTO1,9695882049,9695882049,3,3,3,7,3,3,,,Phc manjhanpur,Kuwadeeh,10,10,24-03-2025,24-03-2025,5,5,3,3,1,1,1,4,4,1,4,4,2,2,1,1,1,1,1,1,qanc,up,anm
+95,Kanchan,Kanchan,28,28,UPMTO1,UPMTO1,6392693054,6392693054,3,3,7,7,3,3,,,Pindra,Pindra,1,1,24-03-2025,24-03-2025,5,5,3,3,1,1,1,4,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+96,Poonam Singh,Poonam Singh,25,25,UPMTO1,UPMTO1,9264916272,9264916272,3,3,3,3,3,3,,,Chak thambh a,Chak thambha,2.5,2.5,24-03-2025,24-03-2025,5,5,3,2,1,2,1,1,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+97,Sanjudevi,Sanju,37,37,UPMTO1,UPMTO1,9984972681,9984972681,3,3,1,1,3,3,,,Tewa,Tewa,12,9984972681,24-03-2025,24-03-2025,5,3,3,2,1,1,4,1,1,5,4,2,2,2,1,2,2,2,1,2,qanc,up,anm
+98,Somwati,Somwati,36,36,UPMTO1,UPMTO1,7839819035,7839819035,3,3,7,7,3,3,,,Chaksadlipur,Chaksadlipur,10,10,24-03-2025,24-03-2025,5,5,3,3,2,1,4,4,1,1,4,4,2,2,3,1,2,2,3,1,qanc,up,anm
+99,Rita kumari,Rita kumari,54,54,UPMTO1,UPMTO1,9919809912,9919809912,3,3,7,7,3,3,,,Pindra sahabanpur,Pindra sahabanpur,10,10,24-03-2025,24-03-2025,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,2,2,2,1,qanc,up,anm
+100,Sapna Devi,Sapna Devi,28,28,UPMTO1,UPMTO1,7800897127,7800897127,3,3,2,2,3,3,,,Rasoolpur Barganv,Rasoolpur Barganv,6,6,24-03-2025,24-03-2025,5,5,3,1,1,1,1,4,1,1,1,3,2,2,1,1,1,2,1,2,qanc,up,anm
+102,Rashmi singh,Rashmi singh,36,36,UPMTO1,UPMTO1,7985335959,7985335959,3,3,4,4,3,3,,,Uphc gadhi nagar manjahapur,Uphc,10,10,24-03-2025,24-03-2025,5,5,3,4,2,1,1,1,1,1,1,1,2,2,1,1,1,1,1,2,qanc,up,anm
+110,Meena devi,Meena devi,40,40,UPMTO1,UPMTO1,6386158749,6386158749,3,3,3,3,3,3,,,Guvara tayabpur,Guvara tayabpur,10,10,24-03-2025,24-03-2025,1,5,1,4,1,4,3,3,3,5,3,4,5,4,3,4,3,4,2,4,qanc,up,anm
+111,Annpurna,Annpurna,40,40,UPMTO1,UPMTO1,7054947055,7054947055,3,3,2,2,3,3,,,P H C Manjhanpur,O H C Manjhanpur,20,20,24-03-2025,24-03-2025,5,5,4,3,1,2,4,3,1,1,4,4,2,1,3,1,2,2,4,1,qanc,up,anm
+114,Seema Singh,Seema Singh,29,29,UPMTO1,UPMTO1,9140942409,9140942409,3,3,2,2,3,3,,,Phc manjhanpur,Phc manjhanpur,2.1,3.1,24-03-2025,24-03-2025,5,5,3,3,1,1,4,1,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+144,Zeba khatoon,Zeba khatoon,31,31,UPMTO5,UPMTO5,8429795501,8429795501,3,3,3,3,3,3,,,Kasenda,Kasenda,1,1,20-03-2025,20-03-2025,5,5,4,3,1,1,1,4,1,1,1,4,2,2,2,1,2,2,2,1,qanc,up,anm
+145,Sushma Gautam,SushmaGautam,32,32,UPMTO5,UPMTO5,8601794355,8601794355,3,3,3,3,3,3,,,Chail 2,Chail 2,2011,2011,20-03-2025,20-03-2025,5,5,3,3,2,1,4,4,1,1,1,4,2,2,4,1,1,2,1,1,qanc,up,anm
+146,Kumari Reshmi,Kumari Reshmi,24,24,UPMTO5,UPMTO5,9918871601,9918871601,3,3,2,3,3,3,,,Kathgaon,Kathgaon,2022,2022,20-03-2025,20-03-2025,5,5,3,3,2,1,4,4,1,1,1,4,2,2,4,1,1,2,1,1,qanc,up,anm
+147,Radha Singh,Radha Singh,34,34,UPMTO5,UPMTO5,9628679886,9628679886,3,3,3,3,3,3,,,Mohammadpur,Mohammadpur,6,6,20-03-2025,20-03-2025,5,5,3,3,1,1,1,1,1,1,1,4,2,2,4,1,1,2,1,1,qanc,up,anm
+148,Seema Devi,Seema Devi,1990,34,UPMTO5,UPMTO5,9198434531,9198434531,3,3,4,4,3,3,,,Shaikhpur Rasool pur,Shaikhpur Rasool pur,9,9,20-03-2025,20-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+149,Reena Dipankar,Reena Dipankar,29,29,UPMTO5,UPMTO5,9027348599,9027348599,3,3,6,3,3,3,,,Harduwa,Harduwa,2,2,20-03-2025,20-03-2025,5,5,4,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+150,Preeti Sahu,Preeti sahu,34,34,UPMTO5,UPMTO5,9795544959,9795544959,3,3,2,2,3,3,,,Natka,Natka,2,2,20-03-2025,20-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+151,Khushnuma bano,Khushnuma bano,32,32,UPMTO5,UPMTO5,8787068005,8787068005,3,3,4,4,3,3,,,Chauradeeh,Chauradeeh,6,6,20-03-2025,20-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+152,Monika devi,Monika Devi,34,34,UPMTO5,UPMTO5,7905850020,7905850020,3,3,3,3,3,3,,,Sudhwar,Sudhwar,2,2,20-03-2025,20-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+153,Anuradha srivastava,Anuradha srivastava,35,35,UPMTO5,UPMTO5,7985426620,7985426620,3,3,3,3,3,3,,,Daniyalpur,Daniyalpur  1,1,1,20-03-2025,20-03-2025,5,5,4,3,2,1,1,4,1,1,4,4,2,2,1,1,2,2,2,1,qanc,up,anm
+154,Deep mala devi,Deep mala devi,36,36,UPMTO5,UPMTO5,9555517127,9555517127,3,3,3,3,3,3,,,Chc Chail,Chc Chail,13,13,20-03-2025,20-03-2025,5,5,3,3,1,1,1,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+155,कम. Jyoti kumari,Km. Jyoti kumari,35,35,UPMTO5,UPMTO5,7355798052,7355798052,3,3,3,3,3,3,,,Charwa,Charwa,1,1,20-03-2025,21-03-2025,5,5,3,3,1,1,1,4,1,1,1,4,2,2,1,1,2,2,2,1,qanc,up,anm
+162,Ram kali Ahirwar,Ram kali Ahirwar,31,31,UPMTO5,UPMTO5,9935881362,9935881362,3,3,4,4,3,3,,,Baraula,Baraula,6,6,21-03-2025,21-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,1,2,1,2,qanc,up,anm
+163,Sona Devi,Sona Devi,32,32,UPMTO5,UPMTO5,8318950675,8318950675,3,3,4,4,3,3,,,Katari,Katari,13,13,21-03-2025,21-03-2025,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+165,Savitriq,Savitri,34,34,UPMTO5,UPMTO5,9555849780,9555849780,3,3,2,2,3,3,,,Sarsawan,Sarsawan,6,6,15-03-2025,21-03-2025,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,4,1,1,1,qanc,up,anm
+166,Anisa Bano,Anisa Bano,34,34,UPMTO5,UPMTO5,9305564691,9305564691,3,3,2,2,3,3,,,Alwara,Alwara,6,6,21-03-2025,21-03-2025,5,5,3,3,2,1,4,4,1,1,4,4,2,2,1,1,1,1,1,1,qanc,up,anm
+167,Saroj yadav,Saroj yadav,51,51,UPMTO5,UPMTO5,7839774928,7839774928,3,3,2,4,3,3,,,सोनौली,सोनौली,10,10,21-03-2025,21-03-2025,5,5,3,3,1,2,4,4,1,1,4,4,2,2,1,1,1,2,1,2,qanc,up,anm
+168,Kamelsh.kumari,Kamelsh.kumari,1969,1969,UPMTO5,UPMTO5,9918597389,9918597389,3,3,2,2,3,3,,,Pashchim sharira,Pashchim sharira,22,22,21-03-2025,21-03-2025,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+169,Manju devi,Manju devi,26,26,UPMTO5,UPMTO5,6392851349,6392851349,3,3,2,2,3,3,,,Sarsawan,Sarsawan,72,72,21-03-2025,21-03-2025,5,5,4,3,1,1,4,4,1,1,4,1,2,2,3,1,1,2,1,1,qanc,up,anm
+172,Muneesha Devi,Muneesha Devi,31,31,UPMTO5,UPMTO5,8874941756,8874941756,3,3,2,2,3,3,,,Goraju,Goraju,1,1,21-03-2025,21-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+173,Anshulata,Anshulata,1988,1988,UPMTO5,UPMTO5,7408660411,7408660411,3,3,2,2,3,3,,,Paschim sharira,Paschim sarira,10,10,21-03-2025,21-03-2025,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+174,Shashi Patel,Shashi Patel,48,38,UPMTO5,UPMTO5,8957701653,8957701653,3,3,3,3,3,3,,,Phc Sarsawa,P.H.C Sarsawn,6,6,21-03-2025,21-03-2025,5,5,2,3,1,1,4,4,4,1,4,4,2,2,4,1,1,2,2,1,qanc,up,anm
+175,Mamta pal,Mamta pal,1994,1994,UPMTO5,UPMTO5,9198124137,9198124137,3,3,2,2,3,3,,,Bhawansuri,Bhawansuri,6,6,21-03-2025,21-03-2025,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+176,Kumari Poonam,Kumari Poonam,30,30,UPMTO5,UPMTO5,9335754295,9335754295,3,3,3,3,3,3,,,Nikoda,Nikoda,21,21,21-03-2025,21-03-2025,5,5,4,3,1,2,4,4,1,1,4,4,3,2,3,1,2,2,1,1,qanc,up,anm
+177,SEEMA DEVI,SEEMA DEVI,30,30,UPMTO5,UPMTO5,9669080412,9669080412,3,3,3,3,3,3,,,Paschim sarira,Paschim sarira,7,7,21-03-2025,21-03-2025,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,2,1,1,1,qanc,up,anm
+178,Mamta yadav,Mamta yadav,40,40,UPMTO5,UPMTO5,7618926229,7618926229,3,3,4,4,3,3,,,Pabhosha,Pabhosha,21,21,21-03-2025,21-03-2025,5,5,4,3,1,2,4,4,1,1,4,4,3,2,3,1,2,2,1,1,qanc,up,anm
+179,श्याम कली,श्याम कली,35,35,UPMTO5,UPMTO5,9792649843,9792649843,3,3,2,2,3,3,,,बडहरी,बडहरी,10,10,21-03-2025,21-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+180,Alka Pal,Alka Pal,24,24,UPMTO5,UPMTO5,9580368631,9580368631,3,3,2,2,3,3,,,Phc sarsawan,Phc sarsawan,2,2,21-03-2025,21-03-2025,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+181,Priti Devi,Priti Devi,25,25,UPMTO5,UPMTO5,9170291221,9170291221,3,3,4,4,3,3,,,Pachawan,Pachawan,1,1,21-03-2025,21-03-2025,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+182,Suman Devi,Suman Devi,35,35,UPMTO5,UPMTO5,9559836586,9559836586,3,3,4,4,3,3,,,Barauli,Barauli,6,6,21-03-2025,21-03-2025,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+183,Shobha devi,Shobha devi,37,37,UPMTO5,UPMTO5,9984124602,9984124602,3,3,3,3,3,3,,,Purab sarira,Purab sarira,10,10,21-03-2025,21-03-2025,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+184,Ram Savari,Ram Savari,42,42,UPMTO5,UPMTO5,9621570276,9621570276,3,3,4,4,3,3,,,Sarswa,Uno,14,14,21-03-2025,21-03-2025,5,5,3,3,1,2,1,4,1,1,4,4,2,2,1,1,2,2,3,1,qanc,up,anm
+185,Seema devi,Seema devi,40,40,UPMTO5,UPMTO5,7905798272,7905798272,3,3,3,3,3,3,,,Ajrouil,Ajrouli,40,6,21-03-2025,21-03-2025,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+186,Uma Devi,Uma Devi,35,35,UPMTO5,UPMTO5,9198605485,9198605485,3,3,4,4,3,3,,,Ranipur,Ranipur,6,6,21-03-2025,21-03-2025,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+187,Sonam Devi,Sonam Devi,29,29,UPMTO5,UPMTO5,9026341232,9026341232,3,3,4,4,3,3,,,Banikhas,Banikhas,3,3,21-03-2025,21-03-2025,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,2,1,1,1,qanc,up,anm
+188,Gyanmatidevi,Gyanmatidevi,53,53,UPMTO5,UPMTO5,8840936463,8840936463,3,3,1,1,3,3,,,Bhagwatpur,Bhagwatpur,10,10,21-03-2025,21-03-2025,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+189,Vijaya singh,Vijaya singh,50,50,UPMTO5,UPMTO5,9839941136,9839941136,3,3,2,2,3,3,,,Gadh6 sarsawan kaushambi,Gadhi  sarsawa kaushambi,23,23,21-03-2025,21-03-2025,5,5,3,3,1,1,4,4,1,1,4,1,2,2,1,1,2,2,1,1,qanc,up,anm
+190,Manbashi,Manbashi,31,31,UPMTO5,UPMTO5,7007801821,7007801821,3,3,4,4,3,3,,,Sarpathi,Sarpathi,1,1,21-03-2025,21-03-2025,5,5,2,3,2,1,3,2,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+191,Samta devi,Samta Devi,40,40,UPMTO5,UPMTO5,9984923233,9984923233,3,3,2,2,3,3,,,Sarsawan,Diwana,10,10,21-03-2025,21-03-2025,5,5,3,4,2,2,4,4,1,1,4,4,2,2,1,1,4,2,1,1,qanc,up,anm
+192,Gayatri Devi,Gayatri Devi,35,35,UPMTO5,UPMTO5,6307977609,6307977609,3,3,2,2,3,3,,,Bairmpur,Bairmpur,10,10,21-03-2025,21-03-2025,5,5,3,3,3,1,2,4,3,1,1,4,2,2,1,1,2,2,1,1,qanc,up,anm
+193,Aneeta devi,Aneeta devi,32,32,UPMTO5,UPMTO5,8922875605,8922875605,3,3,2,2,3,3,,,Sahapur,Sahapur,72,72,21-03-2025,21-03-2025,5,5,4,3,2,2,4,4,5,1,1,4,3,2,1,1,1,2,2,1,qanc,up,anm
+271,Deepika tripathi,Deepika tripathi,28,28,UPMTO2,UPMTO2,9415482230,9415482230,3,3,4,4,3,3,,,Selraha west,Selraha west,1.8,1.8,24-03-2025,24-03-2025,5,5,3,3,2,2,1,2,1,1,1,1,2,2,1,1,4,4,2,1,qanc,up,anm
+272,Amrita raj gautam,Amrita raj gautam,33,33,UPMTO2,UPMTO2,7054369204,7054369204,3,3,4,4,3,3,,,Sujatpur,Sujatpur,10,10,24-03-2025,24-03-2025,5,5,3,3,1,2,4,4,1,1,4,4,2,2,1,1,4,4,2,2,qanc,up,anm
+273,Akansha mishra,Akansha mishra,26,26,UPMTO2,UPMTO2,8318659644,8318659644,3,3,4,4,3,3,,,Khanwari,Khanwari,1.8,1.8,24-03-2025,24-03-2025,5,5,3,3,1,2,1,2,1,1,1,1,2,2,1,1,4,4,1,1,qanc,up,anm
+274,Stuti,Stuti,29,29,UPMTO2,UPMTO2,7318376252,7318376252,3,3,4,4,3,3,,,Jhandapur,Jhandapur,9,9,24-03-2025,24-03-2025,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,4,2,2,1,qanc,up,anm
+275,Vandana singh,Vandana singh,35,35,UPMTO2,UPMTO2,8384856519,8384856519,3,3,2,2,3,3,,,Bhadwa,Bhadwa,10,10,24-03-2025,31-03-2025,5,5,3,3,1,2,1,2,1,1,1,1,2,2,1,1,4,4,1,1,qanc,up,anm
+276,Shivali mishra,Shivali mishra,36,36,UPMTO2,UPMTO2,7887222284,7887222284,3,3,3,3,3,3,,,Kaini,Kaini,1.8,1.8,24-03-2025,24-03-2025,5,5,5,4,1,1,4,1,1,1,4,4,2,2,1,2,4,3,1,1,qanc,up,anm
+277,Nisha Verma,Nisha Verma,40,40,UPMTO2,UPMTO2,9125810344,9125810344,3,3,4,4,3,3,,,Gausailum pur,Gausailum pur,1.8,1.8,24-03-2025,24-03-2025,5,5,5,4,1,1,4,4,1,1,4,4,2,2,1,2,4,4,1,1,qanc,up,anm
+278,Archana Arya,Archana Arya,39,39,UPMTO2,UPMTO2,9919686903,9919686903,3,3,7,7,3,3,,,Sub center Malak saddi,Sub center Malak saddi,10,10,24-03-2025,24-03-2025,5,5,3,3,1,2,4,4,1,1,4,4,2,2,1,1,2,2,4,4,qanc,up,anm
+279,Rekha singh,Rekha singh,30,30,UPMTO2,UPMTO2,6395373991,6395373991,3,3,7,7,3,3,,,Kadipur,Kadipur,9,9,24-03-2025,24-03-2025,5,5,3,3,1,2,4,1,1,1,4,4,2,2,1,1,2,2,4,4,qanc,up,anm
+280,Priti Pandey,Priti Pandey,35,35,UPMTO2,UPMTO2,6386369444,6386369444,3,3,4,4,3,3,,,Bharwari,Bharwari,1,1,24-03-2025,24-03-2025,5,5,4,4,2,2,1,1,1,1,1,1,2,2,2,2,2,2,3,3,qanc,up,anm
+281,Km mohini yadav,Km mohini yadav,25,25,UPMTO2,UPMTO2,6386412316,6386412316,3,3,3,3,3,3,,,Chch sirathu,CHC sirathu,2,2,24-03-2025,24-03-2025,5,5,3,3,1,2,4,4,1,1,4,4,2,2,1,1,2,2,1,3,qanc,up,anm
+282,Kiran,Kiran,25,25,UPMTO2,UPMTO2,7897442914,7897442914,3,3,3,3,3,3,,,CHC Sirathu,CHC Sirathu,2,2,24-03-2025,24-03-2025,5,5,3,3,1,2,4,4,1,1,4,4,2,2,1,1,2,2,1,3,qanc,up,anm
+283,Shiv bebi,Shiv bebi,25,25,UPMTO2,UPMTO2,8318216692,8318216692,3,3,3,3,3,3,,,CHC sirathu,CHC sirathu,2,2,24-03-2025,24-03-2025,5,5,3,3,2,2,4,4,1,1,1,1,2,2,1,1,2,4,3,1,qanc,up,anm
+284,Geeta Devi,Geeta Devi,37,37,UPMTO2,UPMTO2,7982654752,7982654752,3,3,3,3,3,3,,,Malak Pinjari,Malak Pinjari,7,7,24-03-2025,24-03-2025,5,5,3,3,1,2,4,1,1,1,4,4,2,2,1,1,2,2,4,4,qanc,up,anm
+285,SAKSHEE,SAKSHEE,25,25,UPMTO2,UPMTO2,6387416728,6387416728,3,3,7,7,3,3,,,Sc Raghunathpur,SC Raghunathpur,2,2,24-03-2025,24-03-2025,5,5,3,3,1,2,4,4,1,1,4,4,2,2,2,1,2,2,4,4,qanc,up,anm
+286,Pratima Devi,Pratima Devi,29,29,UPMTO2,UPMTO2,8840585398,8840585398,3,3,7,7,3,3,,,SC Kuramuridan,SC Kooramuridan,2,2,24-03-2025,24-03-2025,5,5,3,3,1,2,4,4,1,1,4,4,2,2,1,1,2,2,4,4,qanc,up,anm
+287,नीलम देवी,नीलम देवी,34,34,UPMTO2,UPMTO2,9936717045,9936717045,3,3,2,2,3,3,,,Tengai,Tengai,10,10,24-03-2025,24-03-2025,5,5,3,3,2,2,1,1,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+288,"Geeta,devi",गीता देवी,47,47,UPMTO2,UPMTO2,9721749420,9721749420,3,3,2,1,3,3,,,Jawai padri,Jawai padri,15,15,24-03-2025,24-03-2025,1,5,3,3,2,2,1,4,1,1,1,1,2,2,1,1,4,4,1,1,qanc,up,anm
+289,गायत्री देवी,गायत्री देवी,52,52,UPMTO2,UPMTO2,8707588552,8707588552,3,3,1,1,3,3,,,नारा,नारा सेंटर,23,23,24-03-2025,24-03-2025,1,5,5,3,1,2,4,2,5,1,4,4,1,2,2,1,1,3,3,1,qanc,up,anm
+290,SomaPal,Soma Pal,32,32,UPMTO2,UPMTO2,9554819566,9554819566,3,3,2,2,3,3,,,SC Kadipur,Sc Kadipur,6,6,24-03-2025,24-03-2025,5,5,3,3,2,2,1,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+291,SHIMLA DEVI,Shimla Devi,30,30,UPMTO2,UPMTO2,8736825220,8736825220,3,3,3,3,3,3,,,CHC sirthu,CHC sirthu,1,1,24-03-2025,24-03-2025,5,5,3,3,2,2,1,1,1,1,1,1,2,2,1,1,4,3,1,1,qanc,up,anm
+292,Pushpa Devi,Pushpa Devi,29,29,UPMTO2,UPMTO2,6390368986,6390368986,3,3,3,3,3,3,,,CHC Sirathu,CHC Sirathu,2,2,24-03-2025,24-03-2025,5,5,3,3,1,2,4,1,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+294,Sushma Sinjh,Sushma sinjh,38,38,UPMTO2,UPMTO2,8954218008,8954218008,3,3,2,2,3,3,,,Khoravn,Khoravn,12,12,24-03-2025,24-03-2025,5,5,4,4,4,3,4,1,1,1,4,4,2,2,2,1,1,2,3,2,qanc,up,anm
+295,Sushma devi,Sushma devi,37,37,UPMTO2,UPMTO2,7080942887,7080942887,3,3,3,3,3,3,,,CHC sirathu,CHC sirathu,2,2,24-03-2025,24-03-2025,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+296,PRABHADEvi,PRABHADEvi,34,34,UPMTO2,UPMTO2,8052473634,8052473634,3,3,2,2,3,3,,,पैंसा,पैंसा,10,10,24-03-2025,24-03-2025,1,1,1,3,1,2,4,2,2,1,1,4,1,2,1,1,1,3,2,1,qanc,up,anm
+297,Savita Devi,Savita Devi,32,32,UPMTO2,UPMTO2,9621809461,9621809461,3,3,4,4,3,3,,,Jubra,Jubra,6,6,24-03-2025,24-03-2025,5,5,3,3,2,2,4,4,1,1,4,4,3,2,1,1,2,2,1,1,qanc,up,anm
+298,Sandhya rai,Sandhya rai,35,35,UPMTO2,UPMTO2,9452633509,9452633509,3,3,4,4,3,3,,,Roopnarayanpur sailabi,Roopnarayanpur sailabi,10,10,24-03-2025,24-03-2025,5,5,4,4,3,2,2,1,1,1,4,4,4,2,2,1,2,2,2,2,qanc,up,anm
+299,Anu devi,Anudevi,35,35,UPMTO2,UPMTO2,9793518914,9793518914,3,3,2,2,3,3,,,Kima3,Kaima,13,13,24-03-2025,24-03-2025,5,5,3,3,2,2,1,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+300,Reeta Patel,Reeta Patel,42,42,UPMTO2,UPMTO2,7080406638,7080406638,3,3,4,4,3,3,,,Govind pur goriyo,Govind pur goriyo,5,5,24-03-2025,24-03-2025,5,5,3,3,1,2,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+301,Amita singh,Amita singh,35,35,UPMTO2,UPMTO2,7081878833,7081878833,3,3,4,4,3,3,,,Mirzapur jawai,Mirzapur jawai,2,2,24-03-2025,24-03-2025,5,5,3,3,1,2,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+302,Pratibha,Pratibha,59,59,UPMTO2,UPMTO2,9984364667,9984364667,3,3,1,1,3,3,,,Afjalpurvari,Afjalpurvari,19,19,24-03-2025,24-03-2025,5,5,3,3,2,2,2,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+303,Shivani Kesharvani,Shivani Kesharvani,24,24,UPMTO2,UPMTO2,8115188691,8115188691,3,3,2,2,3,3,,,Kundravi,Kundravi,2,2,24-03-2025,24-03-2025,5,5,3,3,2,2,2,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+304,RamRati devi,RamRati devi,37,37,UPMTO2,UPMTO2,9198318993,9198318993,3,3,2,2,3,3,,,Shakha,Shakha,10,10,24-03-2025,24-03-2025,5,5,3,3,1,2,1,4,1,1,4,4,2,2,1,1,2,2,4,4,qanc,up,anm
+305,Rekha kumari,Rekha kumari,40,40,UPMTO2,UPMTO2,8009103022,8009103022,3,3,4,4,3,3,,,Kakodha,Kakodha,10,10,20-03-2025,19-03-2025,5,5,3,3,1,2,4,4,1,1,4,4,2,2,1,1,2,2,4,1,qanc,up,anm
+306,Savita Devi,Savita Devi,36,36,UPMTO2,UPMTO2,8303216182,8303216182,3,3,2,2,3,3,,,Taibapur Shamsabad,Taibapur Shamsabad,10,10,24-03-2025,24-03-2025,5,5,3,3,1,1,4,1,1,1,4,4,2,1,1,1,2,2,4,4,qanc,up,anm
+307,Kiran lta,Kiran lta,56,56,UPMTO2,UPMTO2,7570826829,7570826829,3,3,7,6,3,3,,,SC Sailavi,SC Sailavi,23,23,24-03-2025,24-03-2025,5,5,3,3,1,1,4,4,1,1,4,1,2,2,1,1,2,2,4,4,qanc,up,anm
+308,Sonmati Devi,Sonmati Devi,35,35,UPMTO2,UPMTO2,9559468251,9559468251,3,3,4,4,3,3,,,Malakrejama,Malakrejama,2,2,24-03-2025,24-03-2025,5,5,3,3,1,2,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+309,Rekha kumari,Rekha kumari,45,45,UPMTO2,UPMTO2,9935001428,9935001428,3,3,4,4,3,3,,,Korron,Korron,10,10,25-03-2025,24-03-2025,5,5,4,3,2,2,4,4,1,1,4,4,2,2,3,1,2,2,1,1,qanc,up,anm
+310,Julee verma,Julee verma,35,35,UPMTO2,UPMTO2,6295048520,6295048520,3,3,4,4,3,3,,,Kayisa,Kayisa,11,11,24-03-2025,24-03-2025,5,5,3,3,2,2,2,4,1,1,4,4,2,2,1,2,2,1,1,1,qanc,up,anm
+328,Shweta yadav,Shweta yadav,26,26,UPMTO2,UPMTO2,7379438273,7379438273,3,3,7,7,3,3,,,Sub center,Rampur maduki,21,2,25-03-2025,25-03-2025,5,5,4,4,2,4,4,4,1,1,4,4,2,2,1,1,3,4,2,1,qanc,up,anm
+334,Girja Devi,Girja Devi,40,40,UPMTO2,UPMTO2,9792769107,9792769107,3,3,7,7,3,3,,,Chc sirathu,Chc sirathu,2,2,25-03-2025,25-03-2025,5,5,4,4,1,4,4,1,1,1,1,4,2,2,1,1,4,4,2,1,qanc,up,anm
+335,Amita Singh,Amita Singh,28,28,UPMTO2,UPMTO2,7991534448,7991534448,3,3,7,7,3,3,,,CHC Sirathu,CHC Sirathu,3,3,25-03-2025,25-03-2025,5,5,3,3,2,1,4,4,1,1,4,4,2,2,4,1,4,2,2,1,qanc,up,anm
+337,Niranjna devi,Niranjna devi,27,27,UPMTO2,UPMTO2,7068960178,7068960178,3,3,2,2,3,3,,,N. P. H. C. Udhinkhurd,N. P. H. C. Udhinkhurd,15,15,25-03-2025,25-03-2025,5,5,3,3,1,2,1,1,1,1,4,1,2,2,1,1,2,2,1,1,qanc,up,anm
+338,Vidya Singh,Vidya singh,37,37,UPMTO2,UPMTO2,6392799303,6392799303,3,3,7,7,3,3,,,NPHC kokhraj,NPHC kokhraj,15,37,25-03-2025,25-03-2025,5,5,3,3,1,1,1,1,1,1,4,1,2,2,3,1,2,2,1,1,qanc,up,anm
+340,Romi sachan,Romi sachan,43,43,UPMTO2,UPMTO2,7523832891,7523832891,3,3,4,4,3,3,,,Shamshabad,Shamshabad,15,15,25-03-2025,25-03-2025,5,5,3,3,2,1,2,1,1,1,4,4,2,2,1,1,2,2,1,3,qanc,up,anm
+342,Sangeeta anm,Sangeeta devi,36,36,UPMTO2,UPMTO2,8687098820,8687098820,3,3,4,4,3,3,,,Sc sirathu,Sc sirathu,13,13,25-03-2025,25-03-2025,5,5,3,3,1,1,1,1,1,1,1,1,2,2,2,1,1,2,2,3,qanc,up,anm
+343,Santosh Kumari,Santosh Kumari,39,39,UPMTO2,UPMTO2,7905253416,7905253416,3,3,3,3,3,3,,,Udhin Khurd,Udhin Khurd,10,10,25-03-2025,25-03-2025,5,5,4,3,1,1,1,4,1,1,4,4,2,2,4,4,2,2,1,1,qanc,up,anm
+348,Rajbeti singh,Rajbeti singh,28,28,UPMTO2,UPMTO2,9621526090,9621526090,3,3,7,7,3,3,,,Chc Sirathu Main center,Chc Sirathu Main center,3,3,25-03-2025,25-03-2025,2,5,4,4,2,1,1,1,1,3,1,1,2,4,2,1,4,1,2,1,qanc,up,anm
+349,Renoo devi,Renoo devi,31,31,UPMTO4,UPMTO4,9569699164,9569699164,3,3,4,4,3,3,,,Lokipur,Lokipur,1,1,20-03-2025,20-03-2025,5,5,3,3,2,2,4,4,1,1,1,4,2,2,1,1,2,2,1,1,qanc,up,anm
+350,Rekha Pandey,Rekha Pandey,28,28,UPMTO4,UPMTO4,9506116905,9506116905,3,3,4,4,3,3,,,Mooratganj,Mooratganj,2,2,20-03-2025,20-03-2025,5,5,3,3,2,1,4,4,1,1,1,4,2,2,1,1,1,2,2,1,qanc,up,anm
+351,Deepmala,Deepmala,35,35,UPMTO4,UPMTO4,8115592425,8115592425,3,3,4,4,3,3,,,Phc Muratganj,Phc Muratganj,6,6,20-03-2025,20-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,1,2,1,1,1,2,1,3,qanc,up,anm
+352,Mithlesh,Mithlesh,32,32,UPMTO4,UPMTO4,6393927983,6393927983,3,3,4,4,3,3,,,Siriyanwa,Siriyanwa,2,2,20-03-2025,20-03-2025,5,5,3,3,3,1,3,4,1,1,1,1,1,2,2,1,1,2,1,1,qanc,up,anm
+353,PRITI soni,PRITI soni,30,30,UPMTO4,UPMTO4,7518735976,7518735976,3,3,2,3,3,3,,,ANM,ANM,8,8,20-03-2025,20-03-2025,5,5,4,3,3,2,4,4,1,1,4,4,2,2,2,1,1,2,2,1,qanc,up,anm
+354,Ritlesh mourya,Ritlesh mourya,28,28,UPMTO4,UPMTO4,8869952783,8869952783,3,3,3,3,3,3,,,ANM,ANM,5,5,20-03-2025,20-03-2025,5,5,4,3,2,2,4,4,1,1,4,4,2,2,2,1,1,2,1,1,qanc,up,anm
+355,Safeena,Safeena,25,25,UPMTO4,UPMTO4,7985266372,7985266372,3,3,3,3,3,3,,,Sc Chaphua,Sc Chaphua,2,2,20-03-2025,20-03-2025,5,5,3,3,2,1,4,4,1,1,1,4,2,2,1,1,2,2,3,1,qanc,up,anm
+356,Ankita Sahu,Ankita Sahu,30,30,UPMTO4,UPMTO4,7458819665,7458819665,3,3,2,2,3,3,,,Sc Basedhi,Sc Basedhi,6,6,20-03-2025,20-03-2025,5,5,3,3,2,1,4,4,1,1,1,4,2,2,1,1,1,2,2,1,qanc,up,anm
+357,Reena Rai,Reena Rai,31,31,UPMTO4,UPMTO4,7705949228,7705949228,3,3,4,4,3,3,,,Badegawan,Badegawan,6,6,20-03-2025,20-03-2025,5,5,3,3,2,2,4,4,1,1,1,4,2,2,1,1,1,2,2,1,qanc,up,anm
+358,Veenu,Veenu,31,31,UPMTO4,UPMTO4,8933952375,8933952375,3,3,4,4,3,3,,,Mohnapur,Mohnapur,6,6,20-03-2025,20-03-2025,5,5,3,3,2,1,4,4,1,1,1,4,2,2,1,1,1,2,2,1,qanc,up,anm
+359,Maya devi,Maya devi,42,42,UPMTO4,UPMTO4,9889141207,9889141207,3,3,2,2,3,3,,,Raslupur kaji,Rasulpur kaji,10,10,20-03-2025,20-03-2025,5,5,3,3,1,1,4,1,1,1,4,4,2,2,1,1,1,2,2,1,qanc,up,anm
+360,Sumitra Devi,Sumitra Devi,36,36,UPMTO4,UPMTO4,7390038200,7390038200,3,3,3,3,3,3,,,Sc naraverPatti,Sc naraverPatti,6,6,20-03-2025,20-03-2025,5,5,3,3,1,1,4,4,1,1,4,1,1,2,2,1,1,2,1,1,qanc,up,anm
+361,Nirmala Devi,Nirmala Devi,35,35,UPMTO4,UPMTO4,8948049806,8948049806,3,3,3,3,3,3,,,Bharwari,Bharwari,2,2,20-03-2025,20-03-2025,5,5,3,3,1,2,4,1,1,1,4,4,2,2,1,1,4,2,2,1,qanc,up,anm
+362,Sadhana yadav,Sadhana Yadav,34,34,UPMTO4,UPMTO4,9453506907,9453506907,3,3,4,4,3,3,,,Kaju,Kaju,2,2,20-03-2025,20-03-2025,5,5,4,3,1,1,4,4,1,1,4,1,2,2,1,1,1,2,1,1,qanc,up,anm
+363,Archana maurya,Archana maurya,25,25,UPMTO4,UPMTO4,8528721374,8528721374,3,3,3,3,3,3,,,Ashokpur,Ashokpur,2,2,20-03-2025,20-03-2025,5,5,4,3,1,1,4,4,1,1,4,1,2,2,1,1,1,2,1,1,qanc,up,anm
+364,Poonam Kumari,Poonam Kumari,36,36,UPMTO4,UPMTO4,7880640780,7880640780,3,3,3,3,3,3,,,sc narvarpatti,sc narvarpatti,6,6,20-03-2025,20-03-2025,5,5,3,3,1,1,4,4,1,1,4,1,2,2,1,1,1,2,1,1,qanc,up,anm
+365,Kamlesh Kumari,Kamlesh Kumari,42,42,UPMTO4,UPMTO4,8859761039,8859761039,3,3,4,4,3,3,,,Sc Umarcha,Sc Umarcha,9.2,9.2,20-03-2025,20-03-2025,5,5,3,3,1,1,4,1,1,1,1,1,1,2,2,1,1,2,1,1,qanc,up,anm
+366,Abha singh,Abha singh,32,32,UPMTO4,UPMTO4,6392056234,6392056234,3,3,3,3,3,3,,,Mahagawon,Mahagawon,2,2,20-03-2025,20-03-2025,5,5,3,3,1,1,3,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+367,Savita,Savita,37,37,UPMTO4,UPMTO4,9918588225,9918588225,3,3,3,3,3,3,,,SC pattipareja baad,SC pattipareja baad,2,2,20-03-2025,20-03-2025,5,5,3,3,1,1,4,4,1,1,4,1,2,2,1,1,1,2,1,1,qanc,up,anm
+368,Safeda devi,Safeda devi,57,57,UPMTO4,UPMTO4,9198754175,9198754175,3,3,1,1,3,3,,,Health,Health department,25,25,20-03-2025,20-03-2025,5,5,4,3,2,1,4,4,2,2,4,4,1,2,1,1,4,1,1,1,qanc,up,anm
+369,Babita singh,Babita singh,41,41,UPMTO4,UPMTO4,9557348187,9557348187,3,3,7,7,3,3,,,Ashokpur,Ashokpur,2023,2023,04-06-1983,20-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,3,1,qanc,up,anm
+370,Monika devi,Monika devi,30,30,UPMTO4,UPMTO4,9936024045,9936024045,3,3,2,2,3,3,,,Samaspur,Samaspur,10,10,20-03-2025,20-03-2025,2,5,3,3,2,1,3,1,1,1,4,1,2,2,1,1,1,2,1,1,qanc,up,anm
+371,Maya,Maya,32,32,UPMTO4,UPMTO4,8864960685,8864960685,3,3,3,3,3,3,,,P.h.c gauspur,P.h.c gauspur,1,1,20-03-2025,20-03-2025,5,5,3,3,1,2,4,4,1,1,4,1,2,2,1,1,2,2,1,1,qanc,up,anm
+372,Kusum chaubey,Kusum chaubey,56,56,UPMTO4,UPMTO4,9026725357,9026725357,3,3,3,3,3,3,,,Basedhi,Basedhi,24,24,20-03-2025,20-03-2025,5,5,3,3,1,1,3,4,1,1,4,1,2,2,1,1,2,2,1,1,qanc,up,anm
+373,Archana sihgn,Archana sihgn,35,35,UPMTO4,UPMTO4,7839792561,7839792561,3,3,3,3,3,3,,,20-03-2025,Upkndra Kashiya,9,9,20-03-2025,20-03-2025,5,5,3,3,1,1,4,4,1,1,4,1,2,2,1,1,1,2,1,1,qanc,up,anm
+374,Shobha singh,Shobha singh,39,39,UPMTO4,UPMTO4,9554878927,9554878927,3,3,3,3,3,3,,,Saiyadsarawan,Saiyadsarawan,2023,2023,20-03-2025,20-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,3,1,qanc,up,anm
+375,Anita. Devi,Anita. Devi,35,35,UPMTO4,UPMTO4,8853577374,8853577374,3,3,3,3,3,3,,,Birauli,Birauli,10,10,20-03-2025,20-03-2025,5,5,3,3,1,1,1,1,1,1,1,1,2,2,1,1,1,2,1,1,qanc,up,anm
+376,Lalita Devi,Lalita Devi,37,37,UPMTO4,UPMTO4,9452564912,9452564912,3,3,3,3,3,3,,,Alamchandra  SC,Alamchandra  SC,10,10,20-03-2025,20-03-2025,5,5,3,3,2,1,4,4,1,1,1,4,2,2,1,1,1,2,1,1,qanc,up,anm
+377,Priyanka Devi,Priyanka Devi,28,28,UPMTO4,UPMTO4,9125038754,9125038754,3,3,2,2,3,3,,,Siriyavan kala,Siriyavan kala,5,5,20-03-2025,20-03-2025,5,5,3,3,1,1,1,1,1,1,1,4,2,2,4,1,4,2,1,1,qanc,up,anm
+378,Sushma Pal,Sushma Pal,34,34,UPMTO4,UPMTO4,8173868012,8173868012,3,3,4,3,3,3,,,SC ujihini aima,SC ujihini aima,10,10,20-03-2025,20-03-2025,5,5,3,3,2,1,4,4,1,1,1,4,2,2,1,1,2,2,3,1,qanc,up,anm
+380,Namrata Singh,Namrata Singh,32,32,UPMTO4,UPMTO4,9506730148,9506730148,3,3,4,4,3,3,,,Rasoolpur Badle,Rasoolpur Badle,2,2,20-03-2025,20-03-2025,5,5,4,3,2,1,4,4,1,1,4,4,2,2,1,1,1,2,3,1,qanc,up,anm
+381,Swarnlata Shukla,Swarnlata Shukla,33,33,UPMTO4,UPMTO4,6307519402,6307519402,3,3,2,2,3,3,,,Gauspur,Gauspur,10,10,20-03-2025,20-03-2025,5,5,3,3,2,1,4,4,1,1,1,4,2,2,1,1,1,2,1,1,qanc,up,anm
+383,Ranjana,Ranjana,38,30,UPMTO4,UPMTO4,9984619935,9984619935,3,3,3,3,3,3,,,Gauhani,ANM,10,10,20-03-2025,20-03-2025,3,5,1,3,1,1,1,4,1,1,1,4,2,2,1,1,2,1,2,1,qanc,up,anm
+384,Meera,Meera,34,34,UPMTO4,UPMTO4,8303534779,8303534779,3,3,3,3,3,3,,,Malaknagr,Malaknagr,2,2,20-03-2025,20-03-2025,1,5,4,3,1,1,4,4,1,1,1,4,2,2,2,1,1,1,1,1,qanc,up,anm
+385,Kusum bhartiy,Kusum bhartiy,34,34,UPMTO4,UPMTO4,9559526617,9559526617,3,3,3,3,3,3,,,Balihawa,Balihawa,2,2,20-03-2025,20-03-2025,1,5,4,3,1,1,4,4,1,1,1,4,2,2,1,1,1,1,1,1,qanc,up,anm
+400,Uma devi,Uma devi,37,37,UPMTO4,UPMTO4,9956757376,9956757376,3,3,3,7,3,3,,,Mooratganj,Mooratganj,10,10,21-03-2025,21-03-2025,5,5,3,3,3,2,2,4,1,1,2,1,2,2,2,1,2,2,4,3,qanc,up,anm
+401,Seema devi,Seema Devi,44,44,UPMTO4,UPMTO4,9721857642,9721857642,3,3,7,7,3,3,,,Skada,Sakada,10,10,21-03-2025,21-03-2025,1,5,3,3,1,2,1,4,1,1,4,4,2,2,1,1,3,2,1,1,qanc,up,anm
+402,Laxmi devi,Laxmi devi,32,32,UPMTO4,UPMTO4,7388202542,7388202542,3,3,7,7,3,3,,,Mooratganj,Mooratganj,10,10,21-03-2025,21-03-2025,1,5,3,3,2,1,1,1,1,1,1,4,5,2,1,1,1,2,1,1,qanc,up,anm
+420,Laxmi mishra,Laxmi mishra,44,44,UPMTO3,UPMTO3,9305679583,9305679583,3,3,7,7,3,3,,,Ganpa or khuchkimai,Ganpa or khuchkimai,6,6,24-03-2025,24-03-2025,5,5,1,3,3,1,4,4,1,1,4,4,2,2,1,1,1,2,3,1,qanc,up,anm
+421,Arti,Arti,37,37,UPMTO3,UPMTO3,9198207392,9198207392,3,3,4,4,3,3,,,Ken,Ken,13,13,24-03-2025,24-03-2025,5,5,3,3,2,3,4,4,1,1,4,4,2,2,1,1,2,2,3,1,qanc,up,anm
+422,Snehlata devi,Snehlata devi,33,33,UPMTO3,UPMTO3,8127419155,8127419155,3,3,3,3,3,3,,,Saurai bujurg,Saurai bujurg,9,9,24-03-2025,24-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,3,qanc,up,anm
+423,Sarika rai,Sarika rai,39,39,UPMTO3,UPMTO3,9415245442,9415245442,3,3,4,4,3,3,,,Gaushpur nawa,Gaushpur nawa,1.9,1.9,24-03-2025,24-03-2025,5,5,4,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,3,1,qanc,up,anm
+424,Saroj Kuswaha,Saroj Kushwaha,44,44,UPMTO3,UPMTO3,7388195835,7388195835,3,3,4,3,3,3,,,Kamalpur,Kamalpur,9,9,24-03-2025,24-03-2025,5,5,4,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,5,3,qanc,up,anm
+425,Kalpana,Kalpana,29,29,UPMTO3,UPMTO3,8700541992,8700541992,3,3,3,3,3,3,,,Bhadheri,Bhadheri,2.1,2.1,24-03-2025,24-03-2025,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+426,Beena yadav,Beena yadav,35,35,UPMTO3,UPMTO3,8009806355,8009806355,3,3,7,7,3,3,,,Shahjadpur,Shahjadpur,9,9,24-03-2025,24-03-2025,5,5,3,3,3,1,4,4,1,1,4,4,2,2,3,1,1,2,1,2,qanc,up,anm
+427,Pooja Mishra,Pooja Mishra,31,31,UPMTO3,UPMTO3,6307682948,6307682948,3,3,3,3,3,3,,,Dhumai,Dhumai,1.9,1.9,24-03-2025,24-03-2025,5,5,3,3,1,1,2,4,1,1,4,4,2,2,1,1,3,2,2,1,qanc,up,anm
+428,Kaushilya Devi,Kaushilya Devi,27,27,UPMTO3,UPMTO3,9129178752,9129178752,3,3,4,4,3,3,,,Sayara meethe pur sub centar,Sayara meethe pur sub centar,2,2,24-03-2025,24-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,4,2,3,3,qanc,up,anm
+429,SapnaDevi,SapnaDevi,37,37,UPMTO3,UPMTO3,7897174244,7897174244,3,3,7,7,3,3,,,Lehdari kateeb,Lehdari kateeb,9,9,24-03-2025,24-03-2025,5,5,2,2,1,1,1,2,1,1,4,4,5,2,1,1,1,2,1,2,qanc,up,anm
+430,Renu,Renu,34,34,UPMTO3,UPMTO3,6387498647,6387498647,3,3,7,3,3,3,,,Phc ajuha,Phc ajuha,6,6,24-03-2025,25-03-2025,5,5,3,3,1,1,4,4,1,1,1,4,2,2,1,1,2,2,1,1,qanc,up,anm
+431,Neha Singh,Neha Singh,33,33,UPMTO3,UPMTO3,9839753313,9839753313,3,3,3,3,3,3,,,Lohanda,Lohanda,4,4,24-03-2025,24-03-2025,5,5,3,3,1,1,4,4,1,1,1,4,2,2,1,1,2,2,2,3,qanc,up,anm
+432,Jyoti,Jyoti,25,25,UPMTO3,UPMTO3,6386522543,6386522543,3,3,2,2,3,3,,,Sub centre,Bhirava,2,2,24-03-2025,24-03-2025,3,5,3,3,1,1,1,1,1,1,4,4,2,2,1,1,1,2,2,1,qanc,up,anm
+433,Shila kaushal,Shila kaushal,33,33,UPMTO3,UPMTO3,9305510417,9305510417,3,3,3,3,3,3,,,Phc alipur jeeta,Phc alipur jeeta,1.1,1.1,24-03-2025,24-03-2025,5,5,5,3,1,1,4,4,1,1,4,4,2,2,1,4,2,2,1,1,qanc,up,anm
+434,Anshu Kumari,Anshu Kumari,29,29,UPMTO3,UPMTO3,7455838308,7455838308,3,3,2,2,3,3,,,Sipahubnagar,Sipahubnagar,6,6,24-03-2025,24-03-2025,5,5,5,3,1,1,4,4,1,2,4,4,2,2,1,4,2,2,1,1,qanc,up,anm
+435,Nisha Soni,Nisha Soni,39,39,UPMTO3,UPMTO3,8009347597,8009347597,3,3,2,2,3,3,,,Chak koriyon pure faij,Chak koriyon pure faij,6,6,24-03-2025,24-03-2025,5,5,3,3,1,1,1,1,1,1,1,4,2,2,1,1,1,2,1,1,qanc,up,anm
+436,Mohani singh,Mohani singh,36,36,UPMTO3,UPMTO3,9793799601,9793799601,3,3,3,3,3,3,,,SC-kanwar,SC Kanwar,6,6,24-03-2025,24-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+437,Shobha Devi maurya,Shobha Devi maurya,42,45,UPMTO3,UPMTO3,7839818828,7839818828,3,3,2,2,3,3,,,Atsaray,Atsaray,13,13,24-03-2025,24-03-2025,5,2,3,1,2,2,2,2,1,1,4,1,2,2,2,2,2,2,3,2,qanc,up,anm
+438,Sangeeta,Sangeeta Sharma,45,45,UPMTO3,UPMTO3,7267963864,7267963864,3,3,7,7,3,3,,,Uchranwa,Uchranwa,6,6,24-03-2025,24-03-2025,5,5,3,3,1,1,2,4,1,1,1,4,2,2,4,2,2,1,3,1,qanc,up,anm
+439,Priyanshi Devi,Priyanshi Devi,26,26,UPMTO3,UPMTO3,8840555580,8840555580,3,3,3,3,3,3,,,Dorma,Dorma,2.1,2.1,24-03-2025,24-03-2025,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+440,Babita devi,Babita devi,26,26,UPMTO3,UPMTO3,9026706788,9026706788,3,3,7,7,3,3,,,Farhimpur kalesharmau,Farhimpur kalesharmau,2.1,2.1,24-03-2025,24-03-2025,5,5,3,3,2,1,1,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+441,Anchal verma,Anchal verma,29,29,UPMTO3,UPMTO3,9305524364,9305524364,3,3,7,7,3,3,,,AFJALPUR SATO,AFJALPUR SATO,6,6,24-03-2025,24-03-2025,5,5,3,3,2,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+442,कमला देवी,कमला देवी,57,57,UPMTO3,UPMTO3,9140523666,9140523666,3,3,3,7,3,3,,,कडा,कडा,21,21,24-03-2025,24-03-2025,2,5,5,2,2,1,4,4,1,1,4,4,2,2,1,1,2,1,1,1,qanc,up,anm
+443,Gita,Gita,35,35,UPMTO3,UPMTO3,9369903592,9369903592,3,3,7,7,3,3,,,Ganapa,Ganapa,2,2,24-03-2025,24-03-2025,5,5,3,3,3,1,4,4,1,1,1,4,2,2,1,1,2,2,1,1,qanc,up,anm
+444,Soni devi,Soni devi,28,28,UPMTO3,UPMTO3,7318126049,7318126049,3,3,7,2,3,3,,,Chc,Chc,2,2,24-03-2025,24-03-2025,5,5,3,3,1,2,1,1,1,1,4,4,2,2,2,1,1,1,3,1,qanc,up,anm
+445,Kokila devi,Kokila devi,36,36,UPMTO3,UPMTO3,8726802619,8726802619,3,3,2,2,3,3,,,PHC,PHC Ajhuwa,1,1,24-03-2025,24-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,3,1,qanc,up,anm
+446,Santosh kumari,Santosh kumari,37,37,UPMTO3,UPMTO3,9565432878,9565432878,3,3,2,2,3,3,,,Sc Ganpa,Sc Ganpa,1,1,24-03-2025,24-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,3,1,qanc,up,anm
+447,रामजानकी,रामजानकी,56,56,UPMTO3,UPMTO3,8853392840,8853392840,3,3,1,1,3,3,,,सबसेंटरकमासिन,सबसेंटरकमासिन,23,23,24-03-2025,24-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+449,Shashi,Shashi,30,30,UPMTO3,UPMTO3,9412859166,9412859166,3,3,7,7,3,3,,,Tanda,Tanda,1,1,24-03-2025,24-03-2025,1,5,2,3,1,2,1,3,1,1,1,4,2,2,1,1,2,1,1,1,qanc,up,anm
+450,Shyam sundari,Shyam sundari,27,27,UPMTO3,UPMTO3,6394395104,6394395104,3,3,2,2,3,3,,,Parshkhi,Parshkhi,1,1,24-03-2025,24-03-2025,5,5,3,3,1,1,2,1,1,1,4,4,2,2,2,2,2,2,1,1,qanc,up,anm
+451,Keerti  Yadav,Keerti  Yadav,27,27,UPMTO3,UPMTO3,6307294399,6307294399,3,3,7,7,3,3,,,CHC,Chc,5,5,24-03-2025,24-03-2025,5,5,3,3,1,1,4,1,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+452,Mamta yadav,Mamta yadav,32,32,UPMTO3,UPMTO3,9559753805,9559753805,3,3,7,7,3,3,,,Ambai bujurg,Ambai bujurg,5,5,24-03-2025,24-03-2025,5,5,3,4,1,1,4,4,1,1,4,4,2,2,3,1,2,2,1,3,qanc,up,anm
+453,Shashi yadav,Shashi yadav,37,37,UPMTO3,UPMTO3,8127489756,8127489756,3,3,2,2,3,3,,,Alipurjeeta,Alipurjeeta,13,13,24-03-2025,24-03-2025,5,5,3,3,1,1,2,1,1,1,4,4,2,2,1,1,3,2,1,1,qanc,up,anm
+454,Reena devi,Reena devi,28,28,UPMTO3,UPMTO3,9125791047,9125791047,3,3,7,3,3,3,,,Keshari,Keshari,3,3,24-03-2025,24-03-2025,5,5,1,3,3,2,4,4,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+455,Kanchan,Kanchan,38,38,UPMTO3,UPMTO3,8707397402,8707397402,3,3,3,3,3,3,,,Kanymai,Kanymai,1.9,1.9,24-03-2025,24-03-2025,5,5,5,3,1,1,3,4,1,1,3,4,1,2,1,1,2,2,1,1,qanc,up,anm
+456,Shobha devi,Shobha devi,24,24,UPMTO3,UPMTO3,6386139470,6386139470,3,3,2,2,3,3,,,Chc,Chc,5,5,24-03-2025,24-03-2025,5,5,3,3,1,2,4,1,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+457,Kusmabevi,Kusumabevi,47,47,UPMTO3,UPMTO3,7081387338,7081387338,3,3,7,2,3,3,,,Sahjatpur PHC,Sahajad pur,10,10,24-03-2025,24-03-2025,5,2,3,3,1,3,1,3,1,1,4,2,2,2,1,2,2,2,1,2,qanc,up,anm
+458,Preeti kumari,Preeti kumari,31,31,UPMTO3,UPMTO3,9026387220,9026387220,3,3,2,2,3,3,,,P.H.C ajhuwa,P.H.C ajhuwa,6,6,24-03-2025,24-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,2,2,2,1,2,qanc,up,anm
+459,Sharda devi,Sharda devi,57,57,UPMTO3,UPMTO3,9005021200,9005021200,3,3,7,7,3,3,,,CHC kada,CHC kada,10,10,24-03-2025,24-03-2025,5,5,1,1,1,3,4,4,1,1,4,4,2,2,1,1,1,1,1,1,qanc,up,anm
+465,Km pooja,Km pooja,30,30,UPMTO3,UPMTO3,8957326132,8957326132,3,3,7,7,3,3,,,CHC kara,Kara,1,1,25-03-2025,25-03-2025,2,5,2,3,1,2,4,4,1,1,3,4,2,2,3,1,2,2,3,1,qanc,up,anm
+473,Divya,Divya,30,30,UPMTO3,UPMTO3,7267970082,7267970082,3,3,7,7,3,3,,,Kara,Kara,1,1,25-03-2025,25-03-2025,5,5,4,4,4,3,4,4,1,1,2,4,2,2,3,1,1,2,1,3,qanc,up,anm
+475,Sunita devi,Sunita devi,29,29,UPMTO3,UPMTO3,9140717932,9140717932,3,3,3,3,3,3,,,Gauspur navava,Gauspur navava,1,1,25-03-2025,25-03-2025,5,5,4,3,3,2,1,4,1,1,4,4,2,2,3,1,2,2,3,3,qanc,up,anm
+476,Neetu Verma,Neetu Verma,28,28,UPMTO3,UPMTO3,8303523466,8303523466,3,3,2,2,3,3,,,Atsaray,Atsaray,1,1,25-03-2025,25-03-2025,5,5,4,3,2,2,4,4,1,1,2,4,2,2,4,1,2,2,5,3,qanc,up,anm
+107,harikanti,harikanti,48,48,UPMTO1,UPMTO1,9889823785,9889823782,3,3,1,1,3,3,,,Uphc Ghandhi nagar manjhanpur,Uphc,10,10,25-03-2025,24-03-2025,5,5,3,3,2,1,1,1,1,1,1,4,2,2,1,1,1,2,1,1,qanc,up,anm
+195,meera devi,meera devi,38,38,UPMTO5,UPMTO5,8052541232,8052451232,3,3,3,3,3,3,,,Danpur,Danpur,10,10,21-03-2025,21-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+34,seema kol,seema kol,28,28,UPMTO1,UPMTO1,7039150397,7039150937,3,3,2,2,3,3,,,Sc audhan,Sc audhan,1,1,20-03-2025,20-03-2025,5,5,3,3,1,1,1,4,1,1,4,4,2,2,2,1,2,2,3,4,qanc,up,anm
+460,shalini singh,shalini singh,36,36,UPMTO3,UPMTO3,9721375202,9721375205,3,3,2,2,3,3,,,Sc kamasin,Sc kamasin,1,1,24-03-2025,24-03-2025,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,3,1,qanc,up,anm
+382,usha pal,usha pal,35,35,UPMTO4,UPMTO4,7398654354,9473875197,3,3,3,3,3,3,,,Pannoi,Pannoi,10,10,20-03-2025,20-03-2025,5,5,3,3,1,1,1,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+5,Priti yadav,Priti yadav,25,25,UPMTO1,UPMTO1,7668687442,7668687442,1,1,3,3,1,1,Sodhan Mo,Sodhan Mo,Mujahid pur,Mujahid pur,2.5,2.5,20-06-2024,20-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,4,4,1,2,1,2,qanc,up,anm
+7,Laxmi Verma,Laxmi Verma,32,32,UPMTO1,UPMTO1,8923263192,8923263192,1,1,2,2,1,1,Allipur,Allipur,Nagaleya Ballu,Nagaleya Ballu,0.11,0.11,20-06-2024,20-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,4,1,1,2,4,2,qanc,up,anm
+13,Alpana Barnwal,Alpana Barnwal,38,38,UPMTO1,UPMTO1,9458645850,9458645850,1,1,3,3,1,1,Bahjoi,Bahjoi,Anandpur,Anandpur,8.4,8.4,20-06-2024,20-06-2024,5,5,3,3,1,1,1,4,1,1,4,4,2,2,3,4,2,2,3,4,qanc,up,anm
+14,Pooja Devi,Pooja Devi,34,34,UPMTO1,UPMTO1,7817891232,7817891232,1,1,3,3,1,1,Bahjoi,Bahjoi,Machkhera,Machkhera,9.4,9.4,20-06-2024,20-06-2024,5,5,3,3,1,1,1,4,1,1,4,4,2,2,3,4,2,2,1,3,qanc,up,anm
+15,Poonam Rani,Poonam Rani,39,39,UPMTO1,UPMTO1,6395684409,6395684409,1,1,3,3,1,1,Bahjoi,Bahjoi,Rajupr,Rajupr,9,9,20-06-2024,20-06-2024,5,5,3,3,1,1,1,4,1,1,4,4,2,2,3,1,2,2,3,2,qanc,up,anm
+16,Shanti Dive,ShantiDive,36,36,UPMTO1,UPMTO1,9720521306,9720521306,1,1,3,3,1,1,Kirare,Kirare,Bahjoi,Bahjoi,9.4,9.4,20-06-2024,20-06-2024,5,5,3,3,1,1,2,4,1,1,4,4,2,2,3,1,2,2,1,3,qanc,up,anm
+17,Kiran,Kiran,32,32,UPMTO1,UPMTO1,8191986585,8191986585,1,1,3,3,1,1,Bhapurpatti,Bhapurpatti,Keshopur Rasheta,Keshopur Rasheta,8.4,8.4,20-06-2024,20-06-2024,5,5,3,3,1,1,1,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+18,Usha,Usha,39,39,UPMTO1,UPMTO1,9149318996,9149318996,1,1,3,3,1,1,Bahjoi,Faridpur,Dhatrasekh,Dhatrasekh,2.6,2.6,20-06-2024,20-06-2024,5,5,3,3,2,1,1,4,1,1,4,4,2,2,1,1,2,2,1,2,qanc,up,anm
+24,Nitika,Nitika,1981,43,UPMTO1,UPMTO1,8449820925,8449820925,1,1,4,4,1,1,Bahjoi,Bahjoi,Bahjoi urban,Bahjoi urban,8.4,8.4,20-06-2024,20-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,2,4,2,2,1,1,qanc,up,anm
+26,Priya,Priya,25,25,UPMTO2,UPMTO2,8922996065,8922996065,1,1,2,2,2,2,PHC Gilaula,PHC Gilaula,Sahpur Kathautiya,Sahpur Kathautiya,10,10,30-05-2024,30-05-2024,5,5,3,3,2,2,4,4,1,1,4,4,2,2,4,1,2,2,3,1,qanc,up,anm
+27,Nazni,Nazni,26,26,UPMTO2,UPMTO2,9696477656,9696477656,1,1,4,4,2,2,Sonwa,Sonwa,Sonwa,Sonwa,6,6,30-05-2024,30-05-2024,5,5,5,4,2,2,2,2,1,1,4,4,1,2,4,2,1,2,2,1,qanc,up,anm
+28,Vidya bharti,Vidya bharti,23,23,UPMTO2,UPMTO2,7607211765,7607211765,1,1,2,2,2,2,Sonwa,Sonwa,Bardehra,Bardehra,11,11,30-05-2024,30-05-2024,5,5,3,3,2,1,4,4,1,1,1,4,2,2,1,1,4,2,5,1,qanc,up,anm
+29,Vineeta rawat,Vineeta rawat,24,21,UPMTO2,UPMTO2,9651709377,9651709377,1,1,2,2,2,2,Parevpur,Parevpur,Bagvani,Bagvani,11,11,30-05-2024,30-05-2024,5,5,3,3,4,2,4,4,1,1,1,1,2,2,1,1,2,2,1,1,qanc,up,anm
+31,SanjooÊ Devi Verma,SanjooÊ Devi Verma,28,25,UPMTO2,UPMTO2,9161683629,9161683629,1,1,3,3,2,2,Gilaula,Gilaula,Nibabhari,Nibabhari,3,3,30-05-2024,30-05-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+32,Poonam devi,Poonam devi,29,29,UPMTO2,UPMTO2,8303360531,8303360531,1,1,4,4,2,2,Gilaula,Gilaula,Kataha,Kataha,4,4,30-05-2024,30-05-2024,5,5,2,2,1,1,1,2,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+33,Shilpi,Shilpi,37,37,UPMTO2,UPMTO2,9569988221,9569988221,1,1,3,3,2,2,Gilaula,Gilaula,Ghorma,Ghorma,7,7,30-05-2024,30-05-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+34,Sanju maurya,Sanju maurya,33,33,UPMTO2,UPMTO2,7800241710,7800241710,1,1,4,4,2,2,Gilaula,Gilaula,Gilaula,Gilaula,12,12,30-05-2024,30-05-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+35,Kamlesh,Kamlesh,23,23,UPMTO2,UPMTO2,9511056845,9511056845,1,1,2,2,2,2,SC,Sc,Nibabhari,Nibabhari,11,11,30-05-2024,30-05-2024,5,5,2,5,2,2,4,2,1,1,4,1,2,2,1,1,4,1,2,2,qanc,up,anm
+36,Km siddhi,Km siddhi,26,26,UPMTO2,UPMTO2,8601647099,8601647099,1,1,3,3,2,2,Gilaula,Gilaula,Rampur paida,Rampur paida,4,4,30-05-2024,31-05-2024,5,1,2,2,1,1,1,2,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+37,Ruby dvivedi,Ruby dvivedi,23,23,UPMTO2,UPMTO2,9120866829,9120866829,1,1,2,2,2,2,Gilaula,Gilaula,Kamlabhari,Kamlabhari,4,4,30-05-2024,30-05-2024,1,3,1,3,2,2,2,3,1,1,4,4,2,2,2,2,1,1,3,3,qanc,up,anm
+38,shashilata,shashilata,35,35,UPMTO2,UPMTO2,7355210249,7355210249,1,1,4,4,2,2,gilawla,gilawla,parevpur,parevpur,9,9,30-05-2024,30-05-2024,5,5,3,3,1,1,1,4,1,1,1,4,2,2,2,1,2,2,1,1,qanc,up,anm
+39,Reeta Yadav,Reeta Yadav,23,23,UPMTO2,UPMTO2,6389431052,6389431052,1,1,3,3,2,2,Giloula,Giloula,Langdigula,Langdigula,4,4,30-05-2024,30-05-2024,5,3,3,3,2,2,1,2,1,1,4,4,2,2,1,2,1,2,3,3,qanc,up,anm
+40,Anju Verma,Anju Verma,24,24,UPMTO2,UPMTO2,7081649882,7081649882,1,1,2,2,2,2,Sonwa,Sonwa,Tulsipur,Tulsipur,8,1,30-05-2024,30-05-2024,5,5,3,3,2,1,2,4,1,1,4,4,2,2,1,1,3,2,1,1,qanc,up,anm
+41,Umawatedabe,Umawatedabe,59,59,UPMTO2,UPMTO2,9454306487,9454306487,1,1,2,2,2,2,Gilawla,Gilawla,Bhawsawa,Bhawsawa,18,18,30-05-2024,30-05-2024,5,5,4,3,1,1,1,4,1,1,1,4,2,2,1,1,2,2,1,1,qanc,up,anm
+43,Aarti devi,Arti devi,32,32,UPMTO2,UPMTO2,7318303675,7318303675,1,1,4,4,2,2,Gilaula,Gilaula,Pipra gosai,Pipra gosai,11,11,30-05-2024,30-05-2024,5,5,3,3,2,2,4,4,1,1,4,4,2,2,2,2,2,2,1,1,qanc,up,anm
+46,Beena pandey,Beena pandey,50,50,UPMTO2,UPMTO2,8737818145,8737818145,1,1,2,2,2,2,Ikauna,Ikauna,Kharchviran,Kharchviran,25,24,31-05-2024,31-05-2024,2,1,4,1,1,1,3,1,1,1,1,1,2,2,1,1,1,1,5,5,qanc,up,anm
+47,Seeta Gupta,Seeta Gupta,29,29,UPMTO2,UPMTO2,8009985368,8009985368,1,1,3,3,2,2,CHC Ikauna,Chc Ikauna,Tandwa mahanth,Tandwa mahanth,1,1,31-05-2024,31-05-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+48,Indu,Indu,32,32,UPMTO2,UPMTO2,9082915071,9082915071,1,1,4,4,2,2,CHC ikauna,CHC ikauna,Ikauna dehat,Ikauna dehat,5,5,31-05-2024,31-05-2024,5,5,4,3,2,2,2,4,1,1,4,4,2,2,3,4,2,2,3,3,qanc,up,anm
+49,PratimaÊ pal,Pratima pal,30,30,UPMTO2,UPMTO2,9198527741,9198527741,1,1,4,4,2,2,Ikauna,Ikauna,Chainpur,Chainpur,5,5,31-05-2024,31-05-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,3,1,qanc,up,anm
+50,Lalita.Devi,Lalita Devi,34,34,UPMTO2,UPMTO2,6306835693,6306835693,1,1,3,3,2,2,CHC.E KONA,CHC.E KONA,Tandawa mahanth,Tandawa mahanth,11,11,31-05-2024,31-05-2024,5,5,3,5,1,2,4,2,1,1,4,4,2,2,1,1,1,1,1,3,qanc,up,anm
+51,Lalita Kumari,Lalita Kumari,32,32,UPMTO2,UPMTO2,8707345066,8707345066,1,1,4,4,2,2,CHC. Ikauna,CHC ikauna,Shyam dewariya,SC.Shyam dewariya,5,5,31-05-2024,31-05-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+52,Sangeeta Devi,Sangeeta Devi,38,38,UPMTO2,UPMTO2,7080527699,7080527699,1,1,4,4,2,2,Ikauna,Ikauna CHC,Ikauna main,Ikauna,5,5,31-05-2024,31-05-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+53,Sandhya Singh,Sandhya Singh,35,35,UPMTO2,UPMTO2,8601671828,8601671828,1,1,3,3,2,2,Phc katra,Phc katra,Viduhni,Viduhni,9,9,31-05-2024,31-05-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+55,Rekha mani,Rekha mani,33,33,UPMTO2,UPMTO2,9621485294,9621485294,1,1,4,4,2,2,Chc Ikauna,Chc ikauna,Semghra,Semghra,5,5,31-05-2024,31-05-2024,5,1,3,3,1,2,2,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+56,Ankita Devi,Ankita Devi,35,35,UPMTO2,UPMTO2,9118861693,9118861693,1,1,4,4,2,2,CHC Ikauna,CHC Ikauna,Jaichandpur katghara,Jaichandpur katghara,1,1,31-05-2024,31-05-2024,5,5,2,3,2,1,4,4,1,1,4,4,2,2,1,1,1,2,2,1,qanc,up,anm
+57,Suman Sonkar,Suman Sonkar,25,25,UPMTO2,UPMTO2,8601214000,8601214000,1,1,3,3,2,2,Tilak pur,Tilak pur,SC Gopalpur,SC Gopalpur,9,9,31-05-2024,31-05-2024,5,5,3,3,1,1,2,4,1,1,1,1,2,2,1,1,1,2,1,3,qanc,up,anm
+58,Vandana,Vandana,25,25,UPMTO2,UPMTO2,9198197139,9198197139,1,1,2,2,2,2,Phc _______,________,Chainpur,Chainpur,0.4,0.4,31-05-2024,31-05-2024,5,5,4,3,1,1,1,4,1,1,4,4,1,2,1,1,1,2,3,3,qanc,up,anm
+59,Reena devi,Reena devi,32,32,UPMTO2,UPMTO2,8948979105,8948979105,1,1,3,3,2,2,Tilakpur,Tilakpur,Tilakpur,Tilakpur,0.4,0.4,31-05-2024,31-05-2024,5,5,4,3,1,1,4,4,1,1,4,4,5,1,4,4,2,2,3,3,qanc,up,anm
+60,Suneeta Shukla,Suneeta Shukla,38,38,UPMTO2,UPMTO2,8736037049,8736037049,1,1,4,4,2,2,Ikauna,Ikauna,Pathkaulikla,Pathkaulikla,12,12,31-05-2024,31-05-2024,2,1,4,1,1,1,3,1,1,1,1,1,2,2,1,1,1,1,5,5,qanc,up,anm
+61,Prachi tiwari,Prachi tiwari,24,24,UPMTO2,UPMTO2,6306130213,6306130213,1,1,2,2,2,2,Katra,Katra,Lambuiya,Lambuiya,0.3,0.3,31-05-2024,31-05-2024,5,5,3,3,1,1,3,3,1,1,4,4,2,2,2,2,2,2,1,2,qanc,up,anm
+62,Poonam Shukla,Poonam Shukla,34,34,UPMTO2,UPMTO2,8953677857,8953677857,1,1,4,4,2,2,Ikauna CSC,Ikauna CSC,Purushottampur,Purushottampur,11.5,11.5,31-05-2024,31-05-2024,5,5,2,4,2,1,1,1,1,1,4,4,2,2,3,4,2,2,1,1,qanc,up,anm
+64,______Ê ____,______Ê ____,36,36,UPMTO2,UPMTO2,7317755569,7317755569,1,1,2,2,2,2,C H C IKAUNA,C H C IKAUNA,________,________,0.9,0.9,31-05-2024,31-05-2024,1,1,4,4,2,2,2,2,1,1,4,4,2,2,3,3,2,2,3,3,qanc,up,anm
+65,Suman Bala,Suman Bala,57,57,UPMTO2,UPMTO2,7054879545,7054879545,1,1,1,1,2,2,Katra2,Katra,Katra 2,Katra 2,33,33,31-05-2024,31-05-2024,1,4,2,2,2,2,1,1,1,1,4,1,2,2,2,2,2,2,3,3,qanc,up,anm
+66,Prakashini Mishra,Prakashini Mishra,32,32,UPMTO2,UPMTO2,9026119924,9026119924,1,1,2,2,2,2,CHC Ikauna,CHC Ikauna,Madara 2,Madara 2,0.3,0.3,31-05-2024,31-05-2024,5,5,2,5,2,2,2,1,1,2,4,1,2,2,1,4,1,1,2,1,qanc,up,anm
+67,Sharada Devi,Sharda devi,52,52,UPMTO2,UPMTO2,9984122518,9984122518,1,1,2,2,2,2,Katra,Katra,Kolabhar,Kolabhar,18,18,31-05-2024,31-05-2024,5,5,3,3,1,1,3,3,1,1,4,4,2,2,1,1,2,2,1,2,qanc,up,anm
+68,Tavassum,Tavassum,31,31,UPMTO2,UPMTO2,8707363304,8707363304,1,1,3,3,2,2,CHC,CHC,Ikauna Main,Ikauna Main,12,12,31-05-2024,31-05-2024,5,5,3,3,1,1,1,1,1,1,4,1,2,2,1,1,1,1,3,3,qanc,up,anm
+69,Archana shukla,Archana shukla,33,33,UPMTO2,UPMTO2,8858240320,8858240320,1,1,2,2,2,2,Katra,Katra,Katra 1,Katra 1,12,12,31-05-2024,31-05-2024,5,5,3,5,2,2,2,4,1,1,4,4,2,2,2,4,2,2,3,3,qanc,up,anm
+70,Manshi devi,Manshi devi,33,33,UPMTO2,UPMTO2,9984812064,9984812064,1,1,2,2,2,2,Ikauna,Katra,Madara,Madara,8,16,31-05-2024,31-05-2024,2,5,3,3,2,1,2,3,1,1,1,4,2,2,1,1,3,2,3,2,qanc,up,anm
+87,Neelam,Neelam,35,35,UPMTO2,UPMTO2,9919513423,9919513423,1,1,4,4,2,2,Gilaula,Gilauls,Kataha,Kataha,12,12,03-06-2024,03-06-2024,5,5,3,3,2,1,4,2,1,1,4,4,2,2,2,1,2,2,1,4,qanc,up,anm
+89,Santosh kumari,Santosh Kumari,40,40,UPMTO2,UPMTO2,9554066223,9554066223,1,1,3,3,2,2,Sonwa,Sonwa,AAm chandarkha bujurg,Chandarkha bujurg,12,12,03-06-2024,03-06-2024,5,5,5,3,2,2,1,1,1,1,1,4,2,2,1,1,1,1,5,2,qanc,up,anm
+91,Chhaya kumari,Chhaya kumari,26,26,UPMTO2,UPMTO2,7379331323,7379331323,1,1,2,2,2,2,Gilavla,Gilavla,SC Kasi pur musha,SC Kasi pur musha,11,11,03-06-2024,03-06-2024,5,5,3,5,2,1,4,1,1,1,4,4,1,2,1,1,2,2,3,1,qanc,up,anm
+105,Nidhi,Nidhi,33,33,UPMTO2,UPMTO2,9918812628,9918812628,1,1,3,3,2,2,Semari tarhar,Semari tarhar,Manoharapur,Manoharapur,1,1,04-06-2024,04-06-2024,5,5,3,3,1,1,4,2,1,1,4,4,2,2,1,1,1,2,2,1,qanc,up,anm
+106,Manju,Manju,38,38,UPMTO2,UPMTO2,7565009537,7565009537,1,1,3,3,2,2,Semar. tarhar,Semari tarhar,Semartarhar,Semari tarhar,1,1,04-06-2024,04-06-2024,5,5,3,3,1,1,4,2,1,1,4,4,2,2,1,1,2,2,2,1,qanc,up,anm
+107,Lalita,Lalita,32,32,UPMTO2,UPMTO2,8081210058,8081210058,1,1,2,2,2,2,Semari tarhar,Semari tarhar,Narayanjot,Narayanjot,1,1,04-06-2024,04-06-2024,5,5,4,3,1,1,4,4,1,1,1,4,2,2,4,4,1,2,4,1,qanc,up,anm
+110,Sunita,Sunita,43,43,UPMTO2,UPMTO2,8924873024,8924873024,1,1,2,2,2,2,Semritarher,Semritarher,Dhrampur,Dhrampur,9,9,04-06-2024,04-06-2024,4,5,2,3,1,1,2,2,1,1,1,4,2,2,1,1,2,2,2,1,qanc,up,anm
+111,Reenu Tiwari,Reenu Tiwari,33,33,UPMTO2,UPMTO2,8887550614,8887550614,1,1,3,3,2,2,Chc,ChcIkauna,Chc,Chc,11,11,04-06-2024,04-06-2024,5,5,3,3,2,2,4,2,1,1,1,4,1,1,1,1,1,4,2,3,qanc,up,anm
+112,Gayatti,Gayatri,34,34,UPMTO2,UPMTO2,9044825856,9044825856,1,1,4,4,2,2,Simri tarah,Simri tarah,Lalpur khatra,Lalpur khatra,5,5,04-06-2024,04-06-2024,5,5,3,3,2,1,2,4,1,1,1,4,2,2,1,1,1,1,2,2,qanc,up,anm
+120,Toufeeq Zehra,Toufeeq Zehra,25,25,UPMTO2,UPMTO2,7701871414,7701871414,1,1,4,4,1,1,Gumsani,Gumsani,Obri,Obri,5,5,10-06-2024,10-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,3,3,1,1,2,2,3,3,qanc,up,anm
+122,Sonam,Sonam,31,31,UPMTO2,UPMTO2,8393941383,8393941383,1,1,2,2,1,1,Hajrat Nagar Garhi,Hajrat Nagar Garhi,Hajrat Nagar Garhi,Hajrat Nagar Garhi,9,9,10-06-2024,10-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,3,3,1,3,qanc,up,anm
+124,Pinki Saini,Pinki Saini,31,31,UPMTO2,UPMTO2,7017245320,7017245320,1,1,4,4,1,1,Hajratnager garhi,Hajratnager garhi,Muqurravpur,Muqurravpur,1,1,10-06-2024,10-06-2024,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+125,Babli,Babli,24,24,UPMTO2,UPMTO2,7505418901,7505418901,1,1,2,2,1,1,Singhpursani,Singhpursani,Akhtyarpur Taga,Akhtyarpur Taga,2.07,2.07,10-06-2024,10-06-2024,5,5,5,3,1,1,2,4,1,1,4,4,2,2,1,1,2,1,3,3,qanc,up,anm
+126,Priyanka,Priyanka,30,30,UPMTO2,UPMTO2,9557960746,9557960746,1,1,4,4,1,1,Macharia,Macharia,Macharia,Macharia,6,6,10-06-2024,10-06-2024,5,5,3,3,2,2,4,4,1,1,4,4,2,3,2,1,2,2,1,3,qanc,up,anm
+127,Priyanka Pal,Priyanka Pal,35,35,UPMTO2,UPMTO2,8859316559,8859316559,1,1,4,4,1,1,Anchora Kamboh,Anchora Kamboh,Anchora Kamboh,Anchora Kamboh,5,5.4,10-06-2024,10-06-2024,5,5,3,3,2,2,4,4,1,1,1,4,2,3,1,1,2,2,1,3,qanc,up,anm
+130,Arshe zehra,Arshe zehra,28,28,UPMTO2,UPMTO2,7078605566,7078605566,1,1,3,3,1,1,Madhan,Madhan,Madhan,Madhan,6,6,10-06-2024,10-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,3,4,1,2,2,1,1,qanc,up,anm
+131,Sheshi,Sheshi,38,38,UPMTO2,UPMTO2,9557078199,9557078199,1,1,3,3,1,1,Sariatareen,Sariatareen,Panjusaria,Panjusaria,9,9,10-06-2024,10-06-2024,5,5,3,3,1,1,4,4,1,1,1,1,2,2,1,1,3,2,1,1,qanc,up,anm
+132,Reema,Reema,32,32,UPMTO2,UPMTO2,8171954960,8171954960,1,1,3,3,1,1,Hatimsaria,Hatimsaria,Mehmood Khan Sarai,Mehmood Khan Sarai,8,8,10-06-2024,10-06-2024,5,5,2,3,2,1,4,4,1,1,4,1,2,2,1,1,1,2,1,1,qanc,up,anm
+133,Shakti,Shakti,30,30,UPMTO2,UPMTO2,9756436359,9756436359,1,1,4,4,1,1,Hatim Sarai,Hatim Sarai,Hatim Sarai,Hatim Sarai,10,10,10-06-2024,10-06-2024,5,5,3,3,1,1,2,2,1,1,1,1,2,2,1,1,1,1,3,3,qanc,up,anm
+136,Nishat jahan,Nishat jahan,30,30,UPMTO2,UPMTO2,7248142897,7248142897,1,1,4,4,1,1,Sambhal,Sambhal,Bhartal sirsi,Bhartal sirsi,8,8,10-06-2024,10-06-2024,4,4,3,3,1,1,4,4,1,1,4,4,4,4,4,2,2,2,2,2,qanc,up,anm
+137,Rupkshi,Rupkshi,26,26,UPMTO2,UPMTO2,9870612594,9870612594,1,1,2,2,1,1,Achodaa shambhu,Achodaa shambhu,Saidpur jaskoli,Saidpur jaskoli,1,1,10-06-2024,10-06-2024,5,2,4,5,2,2,4,4,1,1,4,4,1,3,4,1,2,2,3,3,qanc,up,anm
+138,Mohit Kumari ANM,Mohit Kumari,1991,32,UPMTO2,UPMTO2,6395694214,6395694214,1,1,3,3,1,1,____ ___ ___,____ ___ ___,_____,_____,1,1,10-06-2024,10-06-2024,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+139,Avdeshkjumari by,Avdesh kumary,59,59,UPMTO2,UPMTO2,9760161279,9760161279,1,1,3,3,1,1,Asmoli,Madhan,Ityela mafi,Itayela mafi,36,36,10-06-2024,10-06-2024,5,5,4,3,2,1,4,4,1,1,4,4,1,3,4,1,2,2,3,1,qanc,up,anm
+140,Geeta Devi,Geeta Devi,37,37,UPMTO2,UPMTO2,6397515932,6397515932,1,1,3,3,1,1,Singhpur.sani,Singhpur Sani,Singhpur Sani,Singhpur Sani,9,9,10-06-2024,10-06-2024,5,5,3,3,2,1,4,4,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+141,Anjubala,Anju bala,30,30,UPMTO2,UPMTO2,6398274201,6398274201,1,1,3,3,1,1,Asmoli,Asmoli,Saha pur dasar,Saha pur dasar,9,9,10-06-2024,10-06-2024,5,5,5,3,4,2,4,4,1,1,4,4,1,1,4,3,2,2,3,1,qanc,up,anm
+177,Rekha,Rekha,26,26,UPMTO2,UPMTO2,9536560930,9536560930,1,1,2,2,1,1,Soudhan,Soudhan,Khirni,Khirni,5,5,13-06-2024,13-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,4,4,2,2,1,1,qanc,up,anm
+178,Monika,Monika,28,28,UPMTO2,UPMTO2,9368011570,9368011570,1,1,2,2,1,1,Allipur Buzurg,Allipur Buzurg,Allipur Buzurg,Allipur Buzurg,5,5,13-06-2024,13-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,4,4,2,2,1,1,qanc,up,anm
+179,Shital Rani,Shital Rani,36,36,UPMTO2,UPMTO2,8920806061,8920806061,1,1,2,2,1,1,alipur bujurg,alipur bujurg,Affjalpur darulli,Affjalpur darulli,5,5,13-06-2024,13-06-2024,5,5,3,3,2,2,4,4,1,1,4,4,2,2,4,4,2,2,1,1,qanc,up,anm
+182,Ruchi Chauhan,Ruchi Chauhan,35,35,UPMTO2,UPMTO2,9568333990,9568333990,1,1,3,3,1,1,Rajpur,Rajpur,Bheta jaysingh,Bheta jaysingh,9,9,13-06-2024,13-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,1,2,1,1,1,2,3,3,qanc,up,anm
+183,Shalini Singh,Shalini Singh,29,29,UPMTO2,UPMTO2,7011039965,7011039965,1,1,2,2,1,1,Suadhan,Soudhan,Nibora,Nibora,0.5,0.5,13-06-2024,13-06-2024,2,5,3,3,2,2,2,2,1,1,1,1,2,2,1,1,1,2,1,3,qanc,up,anm
+184,Rashmi,Rashmi,31,31,UPMTO2,UPMTO2,7251089351,7251089351,1,1,2,2,1,1,Faridpur,Faridpur,Faridpur,Faridpur,8,8,13-06-2024,13-06-2024,2,4,3,3,2,2,3,2,1,1,1,1,1,2,4,2,1,1,1,1,qanc,up,anm
+187,poonamlata,Poonamlata,23,23,UPMTO2,UPMTO2,9927318430,9927318430,1,1,2,2,1,1,Panwasa,panwasa,Chiroli,Chiroli,8,0.8,13-06-2024,13-06-2024,5,5,1,4,2,2,2,2,3,1,4,4,2,2,3,4,1,2,3,3,qanc,up,anm
+190,Koushalya,Kousahya,56,56,UPMTO2,UPMTO2,9837484851,9837484851,1,1,2,2,1,1,panwasa,Pawansa,Shabawpur,Shewaz pur,33,33,13-06-2024,13-06-2024,5,5,4,4,1,1,4,4,3,1,4,4,2,2,1,3,2,4,2,2,qanc,up,anm
+195,Ruby goutam,Ruby goutam,26,26,UPMTO2,UPMTO2,8395857453,8395857453,1,1,2,2,1,1,Chc gunnour,Danari,Bhakruli,Bhakruli,5,5,14-06-2024,14-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,4,4,2,2,1,1,qanc,up,anm
+197,Bablee,Bablee,23,23,UPMTO2,UPMTO2,9027052787,9027052787,1,1,2,2,1,1,Hari baba bhand,Hari baba bhand,Dupta kalan,Dupta kalan,2,2,14-06-2024,14-06-2024,5,5,3,3,5,1,4,2,1,1,4,4,2,2,4,1,2,2,3,1,qanc,up,anm
+199,Neha verma,Neha verma,26,26,UPMTO2,UPMTO2,9927876061,9927876061,1,1,2,2,1,1,Chc rajpura,Gawa,Bhesroli,Bhesroli,9,9,14-06-2024,14-06-2024,5,5,3,3,2,1,2,2,1,1,4,4,2,2,1,1,2,2,2,2,qanc,up,anm
+200,Ranu kashyap,Ranu kashyap,22,22,UPMTO2,UPMTO2,9634841416,9634841416,1,1,4,4,1,1,Gowan,Gowan,Saitua,Saitua,2,2,14-06-2024,14-06-2024,5,5,3,3,2,1,4,4,1,1,4,4,2,2,1,1,2,2,1,2,qanc,up,anm
+201,Jagnesh,Jagnesh,29,29,UPMTO2,UPMTO2,9870606378,9870606378,1,1,2,2,1,1,Gawan,Gawan,Molanpur,Molanpur,6,6,14-06-2024,14-06-2024,5,5,3,3,1,1,1,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+234,Asha,Asha,33,33,UPMTO2,UPMTO2,9627021816,9627021816,1,1,4,4,1,1,Dhanari,Dhanari,Sirorakaji,Sirorakaji,8,8,18-06-2024,18-06-2024,5,5,3,3,2,2,4,2,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+235,Saroj yadav,Saroj yadav,33,33,UPMTO2,UPMTO2,8392944214,8392944214,1,1,4,4,1,1,Dhanari,Dhanari,Dinora,Dinora,6,6,18-06-2024,18-06-2024,5,5,3,3,1,1,4,4,4,4,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+238,Rashmi,Rashmi,28,28,UPMTO2,UPMTO2,8938076312,8938076312,1,1,3,3,1,1,Chc junawai,Chc junawai,Kiratpur,Kiratpur,1,1,18-06-2024,18-06-2024,5,5,4,3,2,1,4,3,1,1,4,4,2,2,2,1,4,2,1,1,qanc,up,anm
+239,Premlata,Premlata,35,35,UPMTO2,UPMTO2,9711568360,9711568360,1,1,2,2,1,1,Junawai,Junawai,Riwada,Riwada,1,1,18-06-2024,18-06-2024,5,5,3,3,4,1,4,4,1,1,4,4,2,2,1,1,2,2,1,3,qanc,up,anm
+248,Puja yadav,Puja yadav,30,30,UPMTO2,UPMTO2,7249950995,7249950995,1,1,4,4,1,1,Dhanari Rs,Dhanari Rs,Dhanari LS,Dhanari LS,2.6,2.6,20-06-2024,20-06-2024,5,5,3,3,1,1,4,1,1,1,4,4,2,2,1,1,2,2,3,1,qanc,up,anm
+249,Priyanka rani varma,Priyanka rani varma,34,34,UPMTO2,UPMTO2,9719852040,9719852040,1,1,3,3,1,1,Phc gawan,Phc,Gawan,Gawan,8.4,8.4,20-06-2024,27-06-2024,5,5,3,3,1,1,4,4,1,1,1,2,2,2,1,1,2,2,1,1,qanc,up,anm
+250,Shalini Sharma,Shalini Sharma,27,27,UPMTO2,UPMTO2,8057464685,8057464685,1,1,3,3,1,1,Rajpura,Rajpura,Hironi,Hironi,9,9,20-06-2024,20-06-2024,5,5,4,3,2,1,2,1,1,1,4,4,2,2,4,4,2,2,1,1,qanc,up,anm
+253,Julie sagar,Julie sagar,29.2,29,UPMTO2,UPMTO2,8218498714,8218498714,1,1,4,4,1,1,Khajra,Khajra,Jarawar,Jarawar,0.3,0.3,20-06-2024,20-06-2024,5,5,4,3,1,1,4,1,1,1,4,4,2,2,2,1,2,2,3,1,qanc,up,anm
+254,Jasmeen Naqvi,Jasmeen Naqvi,58,58,UPMTO2,UPMTO2,9719673026,9719673026,1,1,2,2,1,1,Gunnaur,Gunnaur,Mein centre,Mein centre,37,37,20-06-2024,20-06-2024,5,5,3,3,1,1,4,4,1,1,1,1,2,2,1,1,2,2,1,1,qanc,up,anm
+255,Reena Bansal,Reena Bansal,53,53,UPMTO2,UPMTO2,9897329642,9897329642,1,1,2,2,1,1,Babrala,Babrala,Babrala,Babrala,10,10,20-06-2024,20-06-2024,5,5,3,3,1,1,4,1,1,1,4,4,2,2,1,1,2,2,3,1,qanc,up,anm
+259,Sumanlata,Sumanlata,57,57,UPMTO2,UPMTO2,8218037525,8218037525,1,1,3,3,1,1,Babrala,Babrala,Sahjanabad,Sahjanabad,37,37,20-06-2024,20-06-2024,5,5,3,3,1,1,2,4,1,1,4,4,2,2,1,1,2,2,2,1,qanc,up,anm
+262,Umesh Kumari,Umesh Kumari,33.2,33.2,UPMTO2,UPMTO2,8958659892,8958659892,1,1,4,4,1,1,Junawai,Junawai,Humaupur,Humaupur,10,10,20-06-2024,20-06-2024,5,5,3,3,2,1,2,4,1,1,4,4,2,2,2,1,2,2,2,2,qanc,up,anm
+263,Leelawati,Leelawati,31,31,UPMTO2,UPMTO2,9536502625,9536502625,1,1,3,3,1,1,Junavai,Junavai,Jalalpur,Jalalpur,8,8,20-06-2024,20-06-2024,5,5,4,3,2,1,4,4,1,1,4,4,2,2,1,1,2,2,4,1,qanc,up,anm
+265,Anjali Rani,Anjali Rani,28,28,UPMTO2,UPMTO2,8218898861,8218898861,1,1,4,4,1,1,Ahrola nobabad,Ahrola nobabad,Mai khaam,Mai khaam,1,1,20-06-2024,20-06-2024,5,5,3,3,1,1,3,3,1,1,4,4,2,2,1,1,1,1,1,1,qanc,up,anm
+270,Reena rani,Reena rani,34,34,UPMTO4,UPMTO4,7007988434,7007988434,1,1,4,4,2,2,Parwaliya,Parwaliya,Subcentre madhwapur,Subcentre madhwapur,5,5,30-05-2024,30-05-2024,5,5,3,3,2,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+271,Rekha,Rekha,34,34,UPMTO4,UPMTO4,9198097190,9198097190,1,1,2,2,2,2,CHC sirsiya,CHC sirsiya,Hempur,Hempur,12,12,30-05-2024,30-05-2024,1,4,4,4,4,2,1,1,4,1,4,4,2,2,1,1,4,2,1,3,qanc,up,anm
+272,Beena Verma,Beena Verma,32,32,UPMTO4,UPMTO4,7800599560,7800599560,1,1,4,4,2,2,Laxchmanpur,Laxchmanpur,Durgapurkp,Durgapurkp,5,5,30-05-2024,30-05-2024,5,5,3,3,2,2,2,2,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+273,Mini shad,Mini shad,35,35,UPMTO4,UPMTO4,9984124476,9984124476,1,1,4,4,2,2,padavaliya,Padavaliya,S/C Chailahi,S/C Chailahi,12,12,30-05-2024,30-05-2024,5,5,3,3,2,2,2,2,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+274,Pooja Pal,Pooja Pal,26,26,UPMTO4,UPMTO4,9695273039,9695273039,1,1,2,2,2,2,PHC titihiriya,PHC Titihiriya,SC Piprahawa joga gaon,SC Piprahawa,5,5,30-05-2024,30-05-2024,5,5,3,3,1,1,2,1,1,1,4,4,2,2,1,4,2,2,1,1,qanc,up,anm
+275,Garima Verma,Garima Verma,38,38,UPMTO4,UPMTO4,9670279010,9670279010,1,1,2,2,2,2,C/H/C Sirshiya,C/H/C Sirshiya,S/C Chilhariya,S/C Chilhariya,9,9,30-05-2024,30-05-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+276,Sarita devi,Sarita devi,33,33,UPMTO4,UPMTO4,9260990837,9260990837,1,1,4,4,2,2,Luxmnpur,Luxmnpur,Yekgharwa,Yekgharwa,5,5,30-05-2024,30-05-2024,5,5,3,3,1,1,2,1,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+277,Manju,Manju,32,32,UPMTO4,UPMTO4,6393844210,6393844210,1,1,4,4,2,2,Parwaliya,Parwaliya,Medhakiya s/c,Sc Medhakiya,5,5,30-05-2024,30-05-2024,5,5,3,3,2,1,4,2,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+279,Meena devi,Meena devi,30,30,UPMTO4,UPMTO4,9519508681,9519508681,1,1,2,2,2,2,CHC sirsiya,CHC sirsiya,Bhagwan pur,Bhagwan pur,12,12,30-05-2024,30-05-2024,5,1,4,4,2,2,4,1,1,1,3,3,1,1,2,4,3,2,3,1,qanc,up,anm
+280,Sunita Vishwakarma,Sunita Vishwakarma,33,33,UPMTO4,UPMTO4,6387469533,6387469533,1,1,2,2,2,2,Laxmanpur,Laxmanpur,Sonoudha tarai,Sonoudha tarai,2015,2015,30-05-2024,30-05-2024,5,5,4,4,2,1,4,4,1,1,4,1,2,2,4,4,2,2,3,1,qanc,up,anm
+281,Pratima Mishra,Pratima Mishra,34,34,UPMTO4,UPMTO4,9455231473,9455231473,1,1,4,4,2,2,Sirsiya,Sirsiya,Takiya,Takiya,2015,2015,30-05-2024,30-05-2024,5,5,4,4,2,2,2,2,1,1,4,4,2,2,2,2,1,2,3,3,qanc,up,anm
+282,Parmlata Pandey,Parmlata Pandey,37,37,UPMTO4,UPMTO4,9956376340,9956376340,1,1,2,2,2,2,Laxmanpur,Laxmanpur,Jokhwa,Jokhwa,9,9,23-05-2024,30-05-2024,5,5,4,3,4,2,4,2,1,1,4,3,2,2,1,1,2,2,3,2,qanc,up,anm
+283,Santosh kumari,Santosh kumari,35,35,UPMTO4,UPMTO4,7607645429,7607645429,1,1,2,2,2,2,Titihiriya,Titihiriya,Motipurkala,Motipurkala,2015,2015,31-05-2024,30-05-2024,1,2,3,3,2,1,2,1,1,1,1,1,2,2,1,1,1,2,1,1,qanc,up,anm
+284,______ ____,______ ____,35,35,UPMTO4,UPMTO4,7992151101,7992151101,1,1,4,4,2,2,Luxmnpur,Luxmnpur,Prsiyaraja,Prsiyaraja,15,15,30-05-2024,30-05-2024,5,5,3,3,1,1,1,1,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+285,Pooja Devi,Pooja Devi,29,29,UPMTO4,UPMTO4,8528874752,8528874752,1,1,2,2,2,2,C.H.C sirsiya,C.H.C sirsiya,S. C sirsiya,S. C sirsiya,0.11,0.11,30-05-2024,30-05-2024,5,5,4,4,2,1,4,1,1,1,4,1,2,2,4,4,2,2,2,1,qanc,up,anm
+286,Damyanti,Damyanti,60,60,UPMTO4,UPMTO4,9956760989,9956760989,1,1,3,2,2,2,Titihiriya,Titihiriya,Motipurkala,Motipurkala,34,34,30-05-2024,30-05-2024,5,5,3,3,2,1,4,4,1,1,4,4,2,2,1,1,2,2,2,1,qanc,up,anm
+288,Suman vishwakarma,Suman vishwakarma,32,32,UPMTO4,UPMTO4,9838647495,9838647495,1,1,3,3,2,2,Laxman pur,Laxman pur,Aggapur,Aggapur,2015,2015,30-05-2024,30-05-2024,5,5,4,3,1,1,4,1,1,1,4,4,2,2,1,1,2,2,3,1,qanc,up,anm
+289,Sone Devi,S0ni,55,55,UPMTO4,UPMTO4,6388063154,6388063154,1,1,2,2,2,2,Tithiriya,Tithiriya,S/C Katkuiya Kala,S/C Katkuiya Kala,35,55,30-05-2024,30-05-2024,5,5,3,3,1,1,1,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+290,Urmila,Urmila,41,41,UPMTO4,UPMTO4,7408269164,7408269164,1,1,2,2,2,2,Sirsia,Sirsia,Medkiya,Medkiya,2015,2015,30-05-2024,30-05-2024,5,5,4,3,1,1,4,1,1,1,4,1,2,2,2,1,1,1,3,1,qanc,up,anm
+291,Vandana Gupta,Vandana Gupta,36,36,UPMTO4,UPMTO4,8127181454,8127181454,1,1,2,2,2,2,PHC Parwaliya,PHC Parwaliya,Balanpur Basantpur,Balanpur Basantpur,12,12,30-05-2024,30-05-2024,5,5,4,3,1,1,1,1,1,1,4,4,2,2,1,1,2,2,3,1,qanc,up,anm
+292,Chandramoti,Chandramoti,35,35,UPMTO4,UPMTO4,6387102389,6387102389,1,1,2,2,2,2,PhC titihiriya,PhC titihiriya,Jamunikala,Jamunikala,12,12,30-05-2024,30-05-2024,5,5,4,3,2,1,2,2,1,1,4,4,2,2,1,1,2,2,3,3,qanc,up,anm
+294,Varsha Goswami,Varsha Goswami,28,28,UPMTO4,UPMTO4,8958891995,8958891995,1,1,2,2,2,2,Hariharpur rani,Hariharpur rani,Bhangha,Bhangha,5,5,31-05-2024,31-05-2024,5,5,3,3,1,1,4,4,3,1,4,4,2,2,4,4,3,2,5,1,qanc,up,anm
+305,Renu malik,Renu malik,29,29,UPMTO4,UPMTO4,9115253118,9115253118,1,1,4,4,2,2,Harihurpur Rani,Hpr,Rewaliya,Rewaliya,5,5,31-05-2024,31-05-2024,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,3,2,1,1,qanc,up,anm
+313,Sonoo devi,Sonoo devi,33,33,UPMTO4,UPMTO4,9839513221,9839513221,1,1,3,3,2,2,Hariharpurrani,Hpr,Bahadurpurwa,Bahadurpurwa,1,1,31-05-2024,31-05-2024,5,5,3,3,4,2,4,4,1,1,4,4,2,2,1,1,4,2,3,2,qanc,up,anm
+318,Laxumi Devi,Laxumi,30,30,UPMTO4,UPMTO4,8009762828,8009762828,1,1,2,2,2,2,Subcentr,Subcentr padwaliya,Subcentr padwaliya,Padwaliya,2,2,03-06-2024,03-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,4,1,1,4,1,1,qanc,up,anm
+322,____ ______,____ ______,42,42,UPMTO4,UPMTO4,8948101440,8948101440,1,1,3,3,2,2,_____,_____,_____,_____,10,10,03-06-2024,03-06-2024,5,5,3,1,1,1,4,4,1,3,4,2,2,2,3,3,1,4,3,1,qanc,up,anm
+326,Savita Rai,Savita Rai,57,57,UPMTO4,UPMTO4,9453687793,9453687793,1,1,2,2,2,2,Lakshmanpur,Lakshmanpur,Su center,Lakshmanpur,35,35,03-06-2024,03-06-2024,5,5,5,3,1,1,1,3,1,1,1,4,1,2,1,1,1,4,1,5,qanc,up,anm
+335,Anshu Tiwari,Anshu Tiwari,22,22,UPMTO4,UPMTO4,7080467883,7080467883,1,1,3,3,2,2,Nasir ganj,Nasir ganj,Asni,Asni,4,4,04-06-2024,04-06-2024,5,5,4,3,1,1,4,1,1,1,1,4,4,1,4,4,2,2,1,1,qanc,up,anm
+346,Mithilesh Verma,Mithilesh Verma,35,35,UPMTO4,UPMTO4,6394327079,6394327079,1,1,4,3,2,2,Jamunaha,Jamunaha,Shikari chuda,Shikari chuda,9,9,04-06-2024,04-06-2024,5,5,4,4,1,1,1,1,1,1,4,4,2,2,1,4,3,2,3,1,qanc,up,anm
+349,Archana Rana,Archana Rana,27,27,UPMTO4,UPMTO4,7232943439,7232943439,1,1,4,4,2,2,Jamunaha,Jamunaha,Harbaspur,Harbaspur,0.4,0.4,04-06-2024,04-06-2024,5,5,4,4,2,2,4,1,1,1,1,4,2,2,1,1,1,3,2,2,qanc,up,anm
+350,Pushplata Sonkar,Pushplata Sonkar,26,26,UPMTO4,UPMTO4,9792410667,9792410667,1,1,3,3,2,2,Jamunaha,Jamunaha,Newada jmadar,Newada jmadar,0.4,0.4,04-06-2024,04-06-2024,5,5,4,4,1,1,4,1,1,1,1,1,2,2,1,1,1,4,2,2,qanc,up,anm
+352,Charu bhatnagar,Charu bhatnagar,34,34,UPMTO4,UPMTO4,8937814014,8937814014,1,1,3,3,1,1,Asmoli,Asmoli,Racheta,Racheta,9,9,11-06-2024,11-06-2024,5,5,3,3,1,1,4,4,1,1,1,1,2,2,1,1,2,2,1,1,qanc,up,anm
+354,Sonam,Sonam,30,30,UPMTO4,UPMTO4,6397157420,6397157420,1,1,4,4,1,1,Asmoli,Asmoli,Satupura,Satupura,9,9,11-06-2024,11-06-2024,5,5,3,3,1,1,4,4,1,1,1,1,2,2,1,1,2,2,1,1,qanc,up,anm
+356,Kajal,Kajal,24,24,UPMTO4,UPMTO4,9012111056,9012111056,1,1,3,3,1,1,Gumsani,Gumsani,Dugawar,Dugawar,2,2,11-06-2024,11-06-2024,5,5,3,3,1,1,4,4,1,1,1,1,2,2,1,1,1,2,1,1,qanc,up,anm
+360,Sneha Gupta,Sneha Gupta,24,24,UPMTO4,UPMTO4,6398412103,6398412103,1,1,3,3,1,1,Asmoli,Asmoli,Saindhari,Saindhari,1,1,11-06-2024,11-06-2024,5,5,3,3,1,1,4,4,1,1,1,1,2,2,1,1,1,2,1,1,qanc,up,anm
+362,Shivi Sharma,Shivi Sharma,23,23,UPMTO4,UPMTO4,7248289722,7248289722,1,1,2,2,1,1,Bahawalpur,Asmoli chc,Asrafpur,Asrafpur,2,2,11-06-2024,11-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+364,Bushra Rani,Bushra Rani,28,28,UPMTO4,UPMTO4,9258561766,9258561766,1,1,3,3,1,1,Chamraua,Chamraua,Turtipura,Turtipura,0.11,0.11,11-06-2024,11-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+365,Amita dhillon,Amita dhillon,25,25,UPMTO4,UPMTO4,7906791964,7906791964,1,1,2,2,1,1,Bhawalpur basali,Bhawalpur basali,Hasangarh,Hasangarh,1,1,11-06-2024,11-06-2024,5,5,3,3,1,1,1,1,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+367,Zainab,Zainab,25,25,UPMTO4,UPMTO4,9528959305,9528959305,1,1,2,2,1,1,Singhpur sahni,Singhpur sahni,Sadiranpur,Sadiranpur,1,1,11-06-2024,11-06-2024,5,5,3,3,1,1,1,1,1,1,1,1,2,2,1,1,2,2,3,3,qanc,up,anm
+368,Parul,Parul,34,34,UPMTO4,UPMTO4,9690916628,9690916628,1,1,2,2,1,1,UPHC,UPHC,Hatim Sarai Sambhal,Hatim Sarai Sambhal,2016,2016,11-06-2024,11-06-2024,5,5,1,3,2,1,4,4,1,1,4,4,2,2,1,4,2,2,3,2,qanc,up,anm
+369,Monika,Monika,30,38,UPMTO4,UPMTO4,9917714674,9917714674,1,1,3,3,1,1,Asmoli,Asmoli,Tanda,Tanda,9,9,11-06-2024,11-06-2024,5,5,3,3,1,1,4,4,1,1,1,1,2,2,1,1,2,2,1,1,qanc,up,anm
+370,Nitu Singh,Nitu Singh,30,30,UPMTO4,UPMTO4,6397521429,6397521429,1,1,4,4,1,1,UPSC,UPHC,Sarai tarin,Sarai tarin,2018,2018,11-06-2024,11-06-2024,5,5,4,4,2,2,4,4,1,1,4,4,2,4,3,4,3,2,1,1,qanc,up,anm
+371,Neha,Neha,29,29,UPMTO4,UPMTO4,9193251908,9193251908,1,1,4,4,1,1,Sambhal,Sambhal,Hisampur,Hisampur,1,1,11-06-2024,11-06-2024,5,5,3,3,1,1,1,4,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+372,Rajni,Rajni,31,31,UPMTO4,UPMTO4,8630106925,8630106925,1,1,2,2,1,1,Sambhal,Sambhal,Bhadrola,Bhadrola,9,9,11-06-2024,11-06-2024,5,5,3,3,1,1,1,1,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+373,Pooja Pal,Pooja Pal,25,25,UPMTO4,UPMTO4,6397021474,6397021474,1,1,4,3,1,1,Hajarat nagar gadi,Hajarat nagar gadi,Rehtol,Rehtol,0.3,0.3,11-06-2024,11-06-2024,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+375,Gulfsha,Gulfsha,1998,1998,UPMTO4,UPMTO4,7055953507,7055953507,1,1,4,4,1,1,Singhpur sani,Singhpur sani,Mirzapur kakrowa,Mirzapur kakrowa,2.5,2.5,11-06-2024,11-06-2024,5,5,3,3,2,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+376,Sarita,Sarita uhu,30,30,UPMTO4,UPMTO4,9997355283,9997355283,1,1,2,2,1,1,Upsc,Sratreen,Sratreen,Summer,2014,2014,11-06-2024,11-06-2024,4,3,5,2,2,3,4,2,1,1,2,1,4,4,3,3,2,2,3,3,qanc,up,anm
+377,Seema devi,Seema devi,33,33,UPMTO4,UPMTO4,7248276351,7248276351,1,1,4,4,1,1,Singhpur sahni,Singhpur sahni,Rustampur niywali,Rustampur niywali,3,3,11-06-2024,11-06-2024,5,5,3,5,1,1,2,1,1,1,4,1,2,2,2,2,1,2,1,3,qanc,up,anm
+379,POONAM,Poonam,1990,1990,UPMTO4,UPMTO4,9528456327,9528456327,1,1,4,4,1,1,SinghpurSin,SinghpurSin,Mandli samaspur,Mandli samaspur,9,9,11-06-2024,11-06-2024,5,5,3,3,2,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+380,Shweta,Shweta,2000,2000,UPMTO4,UPMTO4,6398736650,6398736650,1,1,4,4,1,1,Chamrauaa,Chamrauaa,Eshapur sunwari,Eshapur sunwari,0.3,0.3,11-06-2024,11-06-2024,5,5,3,1,2,2,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+381,Menka Rani,Menka Rani,28,28,UPMTO4,UPMTO4,9917834815,9917834815,1,1,4,4,1,1,Asmoli,Asmoli,Babukada,Babukada,8,8,11-06-2024,11-06-2024,5,5,3,3,1,1,4,1,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+382,Babita,Babita,33,33,UPMTO4,UPMTO4,9690305219,9690305219,1,1,2,2,1,1,Sambhal,Sambhal,Hafizpur,Hafizpur,9,9,11-06-2024,11-06-2024,5,5,1,3,2,1,1,2,1,1,1,1,2,2,1,4,1,2,1,1,qanc,up,anm
+387,Sonika,Sonika,29,29,UPMTO4,UPMTO4,8476803577,8476803577,1,1,2,2,1,1,Hazrat nager gadi,Hazrat nager gadi,Bharahi,Barahi,9,9,13-06-2024,13-06-2024,5,5,3,3,1,1,4,2,1,1,4,4,2,2,1,1,2,2,3,3,qanc,up,anm
+388,Rubi,Rubi,33,33,UPMTO4,UPMTO4,7830953554,7830953554,1,1,3,3,1,1,Achoda kambhoh,Achoda kambhoh,Madala fatehpur,Madala fatehpur,9,9,13-06-2024,13-06-2024,5,5,3,3,2,2,4,2,1,1,4,4,2,2,4,4,2,2,3,3,qanc,up,anm
+393,Rajnesh,Rajnesh,34,34,UPMTO4,UPMTO4,8193827950,8193827950,1,1,3,3,1,1,Machhariya,Machhar ya,Akbarpur Gehra,Akbarpur Gehra,1,1,13-06-2024,13-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,2,1,2,2,1,1,qanc,up,anm
+394,Neha Gupta,Neha Gupta,31,31,UPMTO4,UPMTO4,8954550395,8954550395,1,1,3,3,1,1,Achoda kamboh,Achoda kamboh,Sevda,Sevda,9,9,13-06-2024,13-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,2,1,2,2,1,1,qanc,up,anm
+395,Gita rani,Gita rani,31,31,UPMTO4,UPMTO4,9720378416,9720378416,1,1,4,4,1,1,______,______,______,______,1,1,13-06-2024,13-06-2024,5,5,3,3,2,1,1,1,1,1,1,1,2,2,1,1,2,2,3,3,qanc,up,anm
+398,Rukshar Saifi,Rukshar Saifu,31,31,UPMTO4,UPMTO4,8630741553,8630741553,1,1,4,4,1,1,Macharia,Macharia,Manota,Manota,1,1,13-06-2024,13-06-2024,5,5,2,2,1,1,4,4,1,1,4,4,2,2,2,1,2,2,1,1,qanc,up,anm
+399,Shashi bala,Shashi bala,35,35,UPMTO4,UPMTO4,8126591007,8126591007,1,1,2,2,1,1,Asmoli,Asmoli,Asmoli,Asmoli,1,1,13-06-2024,13-06-2024,5,5,3,3,2,1,4,4,1,1,4,4,2,2,4,4,2,2,3,3,qanc,up,anm
+402,Sangita,Sangita,29,29,UPMTO4,UPMTO4,9536074959,9536074959,1,1,3,3,1,1,Achora combo,Achoda combo,Shahpur sot,Shahpur sot,9,9,13-06-2024,13-06-2024,5,5,2,3,2,1,4,4,1,1,4,4,2,2,2,1,2,2,2,1,qanc,up,anm
+406,Savita rani,Savita rani,31,31,UPMTO4,UPMTO4,7467823505,7467823505,1,1,3,3,1,1,Saraytreen sambhal,Saraytreen sambhal,Bhale bhaj kha,Bhale bhaj kha,9,9,13-06-2024,13-06-2024,5,5,3,3,2,2,4,4,1,1,4,4,2,2,4,4,1,2,1,1,qanc,up,anm
+407,Rani,Rani,1981,1981,UPMTO4,UPMTO4,7078020797,7078020797,1,1,3,1,1,1,Sarah tareen PSC,Sara train PSC,Navab khel,Nava khel,10,5,13-06-2024,13-06-2024,1,4,3,1,2,2,3,1,1,3,4,3,2,2,4,1,1,2,1,2,qanc,up,anm
+408,Radhamani,Radhamani,58,58,UPMTO4,UPMTO4,9012738958,9012738958,1,1,2,2,1,1,Machriya,Mchariya,Nakpur,Nakpur,35,35,13-06-2024,13-06-2024,5,5,2,3,2,2,4,4,1,1,4,4,2,2,4,1,2,1,3,3,qanc,up,anm
+409,Anita Rani,Anita Rani,42,42,UPMTO4,UPMTO4,8126158353,8126158353,1,1,3,3,1,1,Hatim sarai sambhal,Hatim sarai sambhal,Hindupura khara,Hindupura khara,10,10,13-06-2024,13-06-2024,5,5,3,3,2,1,4,4,1,1,4,4,2,2,4,1,1,2,1,1,qanc,up,anm
+410,Kamod,Kamop,34,34,UPMTO4,UPMTO4,6396890141,6396890141,1,1,3,3,1,1,Singpur siani,Singpur siani,Manikhada,Manikhada,1,1,13-06-2024,13-06-2024,5,5,3,3,1,2,1,4,1,1,1,4,2,2,1,1,1,2,2,1,qanc,up,anm
+411,Khushbu,Khushbu,23,23,UPMTO4,UPMTO4,6398129004,6398129004,1,1,3,3,1,1,Singpur saini,Singpur Saini,Bishwanpur,Bishwanpur,2.5,2.6,13-06-2024,13-06-2024,5,5,3,3,1,1,2,4,1,1,4,4,2,2,1,1,1,2,2,2,qanc,up,anm
+412,Poonam Rani,Poonam Rani,57,57,UPMTO4,UPMTO4,9756604952,9756604952,1,1,3,3,1,1,_______ _____,_______ _____,_______ ___,_______ ___,18.4,18.4,13-06-2024,13-06-2024,5,5,3,3,1,1,1,4,1,1,1,1,2,2,1,1,1,2,2,1,qanc,up,anm
+413,Neeshu,Neeshu,22,22,UPMTO4,UPMTO4,8958003130,8958003130,1,1,3,3,1,1,Singpur saney,Singhpur saniy,Punskha,Punshka,0.3,0.3,13-06-2024,13-06-2024,5,5,3,3,1,1,1,4,1,1,4,4,2,2,1,1,1,2,2,1,qanc,up,anm
+415,Indu bharti,Indu bharti,23,23,UPMTO4,UPMTO4,9548853547,9548853547,1,1,2,2,1,1,Anchodha kaboo,Anchodha kaboo,Bilalpat,Bilalpat,2,2,13-06-2024,13-06-2024,5,5,3,5,1,1,4,1,1,1,2,4,2,2,4,1,1,2,1,1,qanc,up,anm
+418,Vimlesh,Vimlesh,25,25,UPMTO4,UPMTO4,9568753602,9568753602,1,1,4,4,1,1,Singpur sani,Singhpur sani,MirjapurÊ kakroa,Mirjapur kakroa,2.6,2.6,14-06-2024,14-06-2024,5,5,1,3,2,2,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+425,Dauli Goutam,Dauli Goutam,24,24,UPMTO4,UPMTO4,9058103511,9058103511,1,1,3,3,1,1,PHC Hajrat nagar Gari,PHC Hajrat nagar Gari,Bahauddinpur,Bahauddinpur,2.6,2.6,14-06-2024,14-06-2024,5,5,1,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+429,Rekha yadav,Rekha yadav,29,29,UPMTO4,UPMTO4,8535017955,8535017955,1,1,2,2,1,1,Chc,Chc,Nayi basti,Nayi basti,0.1,0.1,14-06-2024,14-06-2024,5,5,4,3,2,1,4,4,3,1,4,4,2,2,1,1,1,2,3,1,qanc,up,anm
+433,Neeru Gautam,Neeru Gautam,1990,1990,UPMTO4,UPMTO4,9012364498,9012364498,1,1,2,2,1,1,Madhan,Madhan,Khaspur,Khaspur,6,6,14-06-2024,14-06-2024,5,5,3,3,2,2,3,4,1,1,1,4,2,2,1,1,2,2,3,1,qanc,up,anm
+434,Vinta devi,Vinta devi,36,36,UPMTO4,UPMTO4,9690934966,9690934966,1,1,3,3,1,1,Chamraua,Chamraua,Khaggupura,Khaggupura,8,8,14-06-2024,14-06-2024,5,5,3,3,2,2,4,4,1,1,1,4,2,2,1,1,1,2,2,1,qanc,up,anm
+436,Ammi,Pammi,40,40,UPMTO4,UPMTO4,8192983418,8192983418,1,1,4,4,1,1,Sambhal,Hatim sarya,Hatim Sarai,Hatim Sarai,9,9,14-06-2024,14-06-2024,5,4,3,3,2,2,4,4,1,1,1,4,2,2,1,1,2,2,2,1,qanc,up,anm
+437,Prachal,Prachal,27,27,UPMTO4,UPMTO4,9927661225,9927661225,1,1,2,2,1,1,Sigpur sani,Sigpur sani,Yarpur,Yarpur,0.3,0.3,14-06-2024,14-06-2024,5,5,3,3,2,1,4,4,1,1,4,4,2,2,3,1,1,2,1,1,qanc,up,anm
+438,Savitri,Savitri,32,32,UPMTO4,UPMTO4,8859935256,8859935256,1,1,2,2,1,1,U p h c Saraytrrin,U p h c Saraytrrin,Bhuda saraytrin,Bhuda saraytrin,10,10,14-06-2024,14-06-2024,5,5,3,3,2,1,4,4,1,1,1,4,2,2,1,1,1,2,2,1,qanc,up,anm
+439,Papsi,Papsi Devi,36,36,UPMTO4,UPMTO4,9528402602,9528402602,1,1,2,2,1,1,Machaya,Manota,Darapur,Darapur,1,1,14-06-2024,14-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+440,Shashi yadav,Shaxhi,38,38,UPMTO4,UPMTO4,9761742099,9761742099,1,1,2,2,1,1,Manota,PHC. MADHANÊ MANOTA,Shahbazpur kala,Shahbazpur kala,8,8,14-06-2024,14-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+441,Neeru,Neeru,36,36,UPMTO4,UPMTO4,6396300028,6396300028,1,1,2,2,1,1,Bhawalpur basli,Bhawalpur basli,Akhbandpur,Akhbandpur,5,5,14-06-2024,14-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+442,Prachi Sharma,Prachi Sharma,23,23,UPMTO4,UPMTO4,6395287865,6395287865,1,1,2,2,1,1,Achora,Achora,Pali,Pali,1,1,14-06-2024,14-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+445,Beena,Beena,33,33,UPMTO4,UPMTO4,6397091713,6397091713,1,1,4,4,1,1,Hajarat nagar gadi,Hajarat nagar gadi,Bharatmadapur,Bhartal madapur,9,9,14-06-2024,14-06-2024,5,5,3,3,2,1,4,4,1,1,4,4,2,2,3,1,1,2,3,1,qanc,up,anm
+446,Bhagirathi,Bhagirathi,36,56,UPMTO4,UPMTO4,7351018117,7351018117,1,1,4,4,1,1,Shambhl,Shambhal,Kamalpur saray,Kamalpur saray,36,36,14-06-2024,14-06-2024,5,5,5,4,1,1,4,4,1,1,4,4,2,2,1,1,1,2,3,1,qanc,up,anm
+450,Nidhi,Nidhi,25,25,UPMTO4,UPMTO4,7505136755,7505136755,1,1,4,4,1,1,Soudhan,Soudhan,Raipur,Raipur,3,3,18-06-2024,18-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+451,Km Rajni,Km Rajni,23,23,UPMTO4,UPMTO4,8865893253,8865893253,1,1,4,4,1,1,Soudhan,Soudhan,Sakarpur,Sakarpur,1,1,18-06-2024,18-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+452,Kusumlata,Kusumlata,25,25,UPMTO4,UPMTO4,7409248777,7409248777,1,1,3,2,1,1,Mirzapur,Mirzapur,Rampura,Rampura,3,3,18-06-2024,18-06-2024,5,5,3,3,2,1,1,4,1,1,1,4,2,2,1,1,2,2,1,1,qanc,up,anm
+453,suneeta,suneeta,30,30,UPMTO4,UPMTO4,7905178585,7905178585,1,1,3,3,1,1,Pawasha,Pawasha,Senjna,Senjna,1,1,18-06-2024,18-06-2024,5,5,3,3,2,1,4,4,1,1,4,4,2,2,1,1,2,2,3,1,qanc,up,anm
+454,Madhuri,Madhuri,23,23,UPMTO4,UPMTO4,6398291898,6398291898,1,1,4,4,1,1,Tanda,Tanda,Chachara,Chachara,2,2,18-06-2024,18-06-2024,5,5,1,3,2,1,1,4,1,1,1,4,1,2,1,1,1,2,1,1,qanc,up,anm
+455,Neetesh Kumari,Neetesh Kumari,32,32,UPMTO4,UPMTO4,8954161591,8954161591,1,1,2,2,1,1,Pawansa,Pawansa,Kisoli,Kisoli,9,9,18-06-2024,18-06-2024,4,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,1,3,1,qanc,up,anm
+456,Geeta,Geeta,25,25,UPMTO4,UPMTO4,7302778151,7302778151,1,1,2,2,1,1,Tanda ad,Tanda ad,Tanda,Tanda,6,6,18-06-2024,18-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,2,1,qanc,up,anm
+457,Yogesh Kumari,Yogesh Kumari,27,27,UPMTO4,UPMTO4,7453039569,7453039569,1,1,3,3,1,1,CHC Bahjoi,CHC Bahjoi,Sadatwari,Sadatwari,1,1,18-06-2024,18-06-2024,5,5,2,5,2,2,2,1,1,1,4,4,2,2,1,1,1,2,5,1,qanc,up,anm
+462,Sonam Arya,Sonam Arya,30,30,UPMTO4,UPMTO4,9997301106,9997301106,1,1,3,3,1,1,Pawansa,Pawansa,Rasoolpur,Rasoolpur,9,9,18-06-2024,18-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,1,2,2,1,qanc,up,anm
+464,Rachna yadav,Rachna yadav,32,32,UPMTO4,UPMTO4,8006330445,8006330445,1,1,2,2,1,1,Mirzapur,Mirzapur,Mirzapur,Mirzapur,9,9,18-06-2024,18-06-2024,5,5,3,3,1,1,4,4,1,1,1,1,2,2,1,1,1,2,1,1,qanc,up,anm
+465,Shanti,Shanti,26,26,UPMTO4,UPMTO4,7906946823,7906946823,1,1,2,2,1,1,CHC Bahjoi,CHC Bahjoi,Bhawan,Bhawan,1,1,18-06-2024,18-06-2024,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,1,2,2,1,qanc,up,anm
+467,Sonika varshney,Sonika varshney,41,41,UPMTO4,UPMTO4,9528524753,9528524753,1,1,2,2,1,1,Chc bahjoi,Chc bahjoi,Majhola,Majhola,9,9,18-06-2024,18-06-2024,5,5,3,3,2,1,1,4,1,1,1,4,2,2,1,1,1,2,2,1,qanc,up,anm
+468,Saroj,Saroj,26,26,UPMTO4,UPMTO4,7906543071,7906543071,1,1,2,2,1,1,Panwasa,Panwasa,Dhuraita,Dhurita,1,1,18-06-2024,18-06-2024,5,5,3,3,1,1,4,4,1,1,1,1,2,2,1,1,2,2,1,1,qanc,up,anm
+469,Harpyari,Harpyari,28,28,UPMTO4,UPMTO4,7668551678,7668551678,1,1,3,3,1,1,Bhapur patti,Bhapur patti,Raipur Kalan,Raipur Kalan,3,3,18-06-2024,18-06-2024,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,2,1,3,1,qanc,up,anm
+473,Rekha yadav,Rekha yadav,1992,1992,UPMTO4,UPMTO4,8006009756,8006009756,1,1,3,3,1,1,Pawansa,Pawansa,Atrasi,Atrasi,9,9,18-06-2024,18-06-2024,5,5,3,3,1,2,4,1,1,1,1,1,2,2,1,1,2,1,2,1,qanc,up,anm
+474,Mamta,Mamta,30,30,UPMTO4,UPMTO4,8941033206,8941033206,1,1,3,3,1,1,Pawansa,Pawansa,Chandayan,Chandayan,1,1,18-06-2024,18-06-2024,5,5,4,3,2,2,4,4,1,1,4,4,2,2,1,1,2,1,2,1,qanc,up,anm
+475,Surbhi saxena,Surbhi saxena,28,26,UPMTO4,UPMTO4,9568556148,9568556148,1,1,4,4,1,1,Pawansa,Panwasa,Rudayan,Rudayan,1,1,18-06-2024,18-06-2024,5,1,3,3,1,1,4,4,1,1,1,1,2,2,1,1,2,2,1,1,qanc,up,anm
+478,Kismati singh,Kismati singh,36,36,UPMTO3,UPMTO3,9695798378,9695798378,1,1,4,4,2,2,Sc malhipur kala,Sc malhipur kala,Sc malhipur kala,Sc malhipur kala,10,10,03-06-2024,03-06-2024,5,5,3,3,1,1,1,1,1,1,4,4,2,2,2,2,2,2,3,3,qanc,up,anm
+479,____ _____,____ _____,35,35,UPMTO3,UPMTO3,9580198179,9580198179,1,1,4,4,2,2,_____ ___,_____ ___,________ ______,________ ______,10,10,03-06-2024,03-06-2024,5,5,3,3,1,2,4,1,1,1,4,4,2,2,1,2,2,2,3,3,qanc,up,anm
+480,Sushma Mishra,Sushma Mishra,40,40,UPMTO3,UPMTO3,8887649057,8887649057,1,1,4,4,2,2,Jamunaha,Jamunaha,Jamunaha,Jamunaha,10,10,03-06-2024,03-06-2024,5,5,3,3,2,2,4,4,1,1,4,4,2,2,2,2,2,2,3,3,qanc,up,anm
+481,Poonam Singh,Poonam Singh,28,28,UPMTO3,UPMTO3,9305432388,9305432388,1,1,4,4,2,2,Nasir gunj,Nasir gunj,Dadoura,Dadoura,4,4,03-06-2024,03-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+482,Aneeta verma,Aneeta verma,27,27,UPMTO3,UPMTO3,9651917731,9651917731,1,1,3,3,2,2,Jamunha,Jamunha,Sc manwariya bhoja,Sc manwariya bhoja,7,7,03-06-2024,03-06-2024,5,5,3,3,1,1,2,2,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+483,Madhu devi,Madhu devi,35,35,UPMTO3,UPMTO3,7905517016,7905517016,1,1,2,2,2,2,Jamunaha,Jamunaha,Khawakla,Khawakla,5,5,03-06-2024,03-06-2024,5,5,3,3,1,1,2,2,1,1,4,4,2,2,3,1,1,2,1,1,qanc,up,anm
+484,Priti devi,Priti devi,28,28,UPMTO3,UPMTO3,7800360035,7800360035,1,1,2,2,2,2,SC malhipur main centre,Chc malhipur,SC malhipur main centre,SC malhipur main centre,5,5,04-06-2024,03-06-2024,5,5,3,3,2,2,2,2,1,1,4,4,2,2,1,1,4,2,1,3,qanc,up,anm
+485,Anju,Anju,35,35,UPMTO3,UPMTO3,7505171661,7505171661,1,1,2,2,2,2,Jamunha,Jamunha,Devra,Devra,6,6,03-06-2024,03-06-2024,5,5,3,3,2,2,2,2,1,1,4,4,2,2,1,2,1,2,2,2,qanc,up,anm
+486,Mamta devi,Mamta devi,38,38,UPMTO3,UPMTO3,6390407527,6390407527,1,1,2,2,2,2,Jamunaha,Jamunaha,Devera,Bankatwa maholi,3,3,03-06-2024,03-06-2024,5,5,3,3,2,2,2,2,1,1,4,4,2,2,3,3,3,2,1,3,qanc,up,anm
+487,Vandana kairati,Vandana kairati,1988,1988,UPMTO3,UPMTO3,8528128773,8528128773,1,1,2,2,2,2,Girant,Girant,Sc girant,Sc girant,8,8,03-06-2024,03-06-2024,5,5,3,2,2,1,2,4,1,1,4,4,2,2,2,2,1,2,1,1,qanc,up,anm
+488,____ ____,____ ____,1988,1988,UPMTO3,UPMTO3,9140324913,9140324913,1,1,2,2,2,2,_______,_______,_______,_______,13,13,03-06-2024,03-06-2024,5,5,3,2,2,1,2,4,1,1,4,4,2,2,2,2,1,2,3,1,qanc,up,anm
+489,____ _____,____ _____,35,35,UPMTO3,UPMTO3,7985216115,7985216115,1,1,3,3,2,2,______,______,______,______,9,9,03-06-2024,03-06-2024,5,5,3,3,2,1,4,4,1,1,4,4,2,2,1,1,1,2,1,3,qanc,up,anm
+490,Meenakshi,Meenakshi,31,31,UPMTO3,UPMTO3,9555287604,9555287604,1,1,3,3,2,2,Mahru,Mahru,Mahru,Mahru,5,5,03-06-2024,03-06-2024,5,5,2,2,2,2,4,2,1,1,4,4,2,2,4,4,2,2,3,3,qanc,up,anm
+491,_______,_______,30,30,UPMTO3,UPMTO3,8887554108,8887554108,1,1,3,3,2,2,____,__________,__________,__________,9,9,03-06-2024,03-06-2024,5,5,2,2,2,2,2,4,1,1,4,4,2,2,3,4,2,2,3,3,qanc,up,anm
+492,Mansha devi,Mansha devi,42,42,UPMTO3,UPMTO3,9161040110,9161040110,1,1,3,3,2,2,Girant,Girant,Sc bargadhi,Sc bargadhi,13,13,03-06-2024,03-06-2024,5,5,4,1,1,1,4,1,1,1,4,1,2,2,1,1,1,2,3,1,qanc,up,anm
+493,Reeta sonkar,Reeta sonkar,35,35,UPMTO3,UPMTO3,8318111495,8318111495,1,1,1,1,2,2,Kathramafi,Kathramafi,Kathramafi,Kathramafi,10,10,03-06-2024,03-06-2024,5,3,3,3,1,2,1,2,1,1,4,4,2,2,1,2,1,2,3,3,qanc,up,anm
+494,Kasturi Devi,Kasturi Devi,54,54,UPMTO3,UPMTO3,6388094431,6388094431,1,1,2,2,2,2,PHC Jamunaha,PHC Jamunaha,Belari,Belari,13,13,03-06-2024,03-06-2024,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,2,2,3,3,qanc,up,anm
+495,Sarita Sharma,Sarita Sharma,38,38,UPMTO3,UPMTO3,9696989640,9696989640,1,1,3,3,2,2,Aphc Girant,Aphc Girant,Sc Girant,Girant,8,8,03-06-2024,03-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,3,3,4,4,3,3,qanc,up,anm
+496,____ ____,____ ____,28,28,UPMTO3,UPMTO3,9628051256,9628051256,1,1,3,3,2,2,_ __ __ __ ____,_ __ __ __ ____,_________,_________,12,12,03-06-2024,03-06-2024,5,5,4,5,3,5,2,2,1,1,4,4,2,2,4,4,4,4,5,3,qanc,up,anm
+497,Malkiniya,Malkiniya,27,27,UPMTO3,UPMTO3,7390933856,7390933856,1,1,4,4,2,2,Jamunaha,Jamunaha,Bhagwanpur bhaisahi,Bhagwanpur bhaisahi,0,0,03-06-2024,03-06-2024,5,5,3,3,1,1,2,4,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+498,Sangeeta,Sangeeta,36,36,UPMTO3,UPMTO3,9140510462,9140510462,1,1,3,3,2,2,Jamunaha,Jamunaha,Balapur,Balapur,13,13,03-06-2024,03-06-2024,5,5,4,4,1,1,4,4,1,1,4,4,2,2,1,4,2,2,1,1,qanc,up,anm
+499,Amirun Nisha,Amirun Nisha,36,36,UPMTO3,UPMTO3,7234856020,7234856020,1,1,3,3,2,2,Mallhipur,Mallhipur,Raniseer,Raniseer,13,13,03-06-2024,03-06-2024,5,4,1,1,2,2,2,2,1,1,4,4,2,2,2,2,2,2,2,3,qanc,up,anm
+500,Mala Devi,____ ____,1989,1989,UPMTO3,UPMTO3,6393663576,6393663576,1,1,3,3,2,2,____ ___Ê ____,____ ___Ê ____,SC ______ ______,SC ______ ______,12,12,03-06-2024,03-06-2024,4,5,3,4,2,2,2,2,1,1,4,4,2,2,4,2,4,4,3,2,qanc,up,anm
+501,________,________,32,33,UPMTO3,UPMTO3,9415440026,9415440026,1,1,2,2,2,2,Nasirgunj,_______,______ ____,__________,9,13,03-06-2024,03-06-2024,5,2,3,2,1,1,2,4,2,1,4,4,2,2,1,1,1,2,5,2,qanc,up,anm
+502,kantiverma,kantiverna,33,33,UPMTO3,UPMTO3,9161924297,9161924297,1,1,4,4,2,2,nasirganj,nasirganj,sc gauspur,sc gauspur,9,9,03-06-2024,03-06-2024,5,5,2,2,1,1,4,4,1,1,4,4,2,2,1,1,2,2,2,2,qanc,up,anm
+505,Usha sharma,Usha sharma,41,41,UPMTO3,UPMTO3,9369834789,9369834789,1,1,4,4,2,2,HP Rani,Hp Rani,Chakwa,Chakwa,9,9,04-06-2024,04-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+506,Rita devi,Rita devi,24,24,UPMTO3,UPMTO3,9005153733,9005153733,1,1,2,2,2,2,HPR,HPR,Kharh,Kharch,0.3,0.3,04-06-2024,04-06-2024,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,4,4,1,1,qanc,up,anm
+507,Sarojkumari,Sarojkumari,42,42,UPMTO3,UPMTO3,9026571564,9026571564,1,1,2,2,2,2,H. P. R,H. P. R,Scturusma,Scturusma,14,14,04-06-2024,04-06-2024,1,5,3,3,2,1,2,4,1,1,1,1,2,2,1,1,2,2,1,1,qanc,up,anm
+509,Pushpa,Pushpa,29,29,UPMTO3,UPMTO3,8853937126,8853937126,1,1,4,4,2,2,HPR,HP Rani,Hariharpur Rani 1st,Hariharpur Rani 1st,1,1,04-06-2024,04-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+511,_______ _____,_______ _____,34,34,UPMTO3,UPMTO3,9792077980,9792077980,1,1,2,2,2,2,_____,________ ____,_______,_______,9,9,04-06-2024,04-06-2024,5,5,3,5,1,2,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+512,______ ____,______,37,37,UPMTO3,UPMTO3,6386143690,6386143690,1,1,2,2,2,2,____ ____,____ ____,____,Ammwa,10,10,04-06-2015,04-06-2015,5,5,3,3,1,1,1,4,1,1,4,4,2,2,1,1,3,2,1,1,qanc,up,anm
+513,Amita Tripathi,Amita Tripathi,25,25,UPMTO3,UPMTO3,8756779701,8756779701,1,1,2,2,2,2,Hariharpur rani,Hariharpur rani,Lakahi beninager,Lakahi beninager,0,0,04-06-2024,04-06-2024,5,5,3,3,2,2,4,4,1,1,1,1,1,1,1,1,2,1,1,1,qanc,up,anm
+514,Malti Devi Sharma,Malti devi Sharma,45,45,UPMTO3,UPMTO3,9519389049,9519389049,1,1,2,2,2,2,HP Rani,HP Rani,Laxman pur kothi,Laxman pur kothi,9,9,04-06-2024,04-06-2024,5,5,3,3,2,2,2,2,1,1,4,4,2,2,1,1,2,2,1,3,qanc,up,anm
+515,Shashi Verma,Shashi Verma,33,33,UPMTO3,UPMTO3,7317045007,7317045007,1,1,4,4,2,2,HP Rani,HP Rani,Verga vergi,Verga vergi,8,8,04-06-2024,04-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+516,Durgesh Nandini,Durgesh Nandini,28,28,UPMTO3,UPMTO3,7379463159,7379463159,1,1,2,2,2,2,Bhinga,Bhinga,Lakhahi Beni Nagar,Lakhahi Beni Nagar,0.11,0.11,04-06-2024,04-06-2024,5,5,3,3,2,3,1,1,1,1,1,4,2,2,2,1,4,1,1,1,qanc,up,anm
+517,Radha Mishra,Radha Mishra,34,24,UPMTO3,UPMTO3,8052131467,8052131467,1,1,2,2,2,2,Hpr,Hpr,_______,_______,9,9,04-06-2024,04-06-2024,5,5,3,3,2,2,2,2,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+518,Santosh.Devi,Santosh.Devi,33,33,UPMTO3,UPMTO3,9838591223,9838591223,1,1,4,4,2,2,H.p.R,H.p.R,Patijhiya,Patijhiya,9.1,9.1,04-06-2024,04-06-2024,5,5,3,3,2,2,2,2,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+519,Pratibha,Pratibha,33,33,UPMTO3,UPMTO3,9554857825,9554857825,1,1,2,2,2,2,H.P.R,H.P.R,____ _____,____ _____,8.6,8.6,04-06-2024,04-06-2024,5,5,3,3,2,2,2,2,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+521,______ _____,______ _____,35,35,UPMTO3,UPMTO3,9648719144,9648719144,1,1,4,4,2,2,________ ____,________ ____,_______,_______,14,14,04-06-2024,04-06-2024,5,5,5,5,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+522,Manju Devi,Manju Devi,37,37,UPMTO3,UPMTO3,7703027402,7703027402,1,1,2,2,2,2,_____,H.p.R,__ ___,Gothwa,14,14,04-06-2024,04-06-2024,5,5,3,3,2,2,2,2,1,1,1,1,2,2,1,1,2,2,1,1,qanc,up,anm
+523,Reena Kumari,Reena Kumari,35,35,UPMTO3,UPMTO3,8318679151,8318679151,1,1,4,4,2,2,HPR,HPR,Varga varagi,Varga varagi,5.6,5.6,04-06-2024,04-06-2024,5,5,4,5,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+524,Babita Rani,Babita Rani,31,31,UPMTO3,UPMTO3,9012311004,9012311004,1,1,4,4,2,2,H.P.R,H.P.R,Sc parsa dehariya,Sc parsa dehariya,5.2,5.2,04-06-2024,04-06-2024,5,5,4,3,2,2,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+537,Shalini Sharma,Shalini Sharma,30,30,UPMTO3,UPMTO3,9639689185,9639689185,1,1,4,4,1,1,Semertola,Semertola,Chandausi,Chandausi,10,10,11-06-2024,11-06-2024,5,5,3,3,1,1,1,1,1,1,1,1,5,2,2,1,2,2,3,1,qanc,up,anm
+538,priyanka,priyanka,31,31,UPMTO3,UPMTO3,9084457563,9084457563,1,1,3,3,1,1,naroli,naroli,janaita,janaita,8,8,11-06-2024,11-06-2024,5,5,3,3,1,1,4,1,1,1,4,4,2,2,1,1,1,2,3,1,qanc,up,anm
+539,Guddi,Guddi,31,30,UPMTO3,UPMTO3,7906054573,7906054573,1,1,3,3,1,1,Naroli,Naroli,Paigarafapur,Paigarafapur,1,1,11-06-2024,11-06-2024,5,5,3,3,1,1,4,1,1,1,4,4,2,2,4,1,1,2,2,1,qanc,up,anm
+545,Pushpa,Pushpa,35,35,UPMTO3,UPMTO3,8279986362,8279986362,1,1,2,2,1,1,Berni,Berni,MohammedÊ NagarÊ kasba,MOHAMMEDÊ NagarÊ kasba,1,1,11-06-2024,11-06-2024,5,5,3,3,2,1,4,4,1,1,4,4,2,2,1,1,1,2,1,1,qanc,up,anm
+546,Aditi singh,Aditi singh,28,28,UPMTO3,UPMTO3,9528506174,9528506174,1,1,3,3,1,1,Ughiya0,Ughiya,Pura,Pura,0.12,0.12,12-06-2024,11-06-2024,5,5,3,3,1,1,4,4,1,1,4,1,2,2,1,1,4,4,1,1,qanc,up,anm
+548,Rekha Singh,Rekha Singh,30,30,UPMTO3,UPMTO3,8279742399,8279742399,1,1,4,4,1,1,Naroli,Naroli,Mudiya mithannpur,Mudiya mithannpur,10,0.1,11-06-2024,11-06-2024,5,5,3,3,1,1,4,4,1,1,4,1,2,2,1,1,2,1,1,1,qanc,up,anm
+549,Rani Agarwal,Rani Agarwal,36,36,UPMTO3,UPMTO3,9528044490,9528044490,1,1,4,4,1,1,Naroli,Naroli,Naroli,Naroli,1,1,11-06-2024,11-06-2024,5,5,1,3,2,1,4,1,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+550,Rajkumari,Rajkumari,26,26,UPMTO3,UPMTO3,9368965396,9368965396,1,1,2,2,1,1,Kudfhetgar,Kudfhetgar,Chabdda,Chabdda,1,1,11-06-2024,11-06-2024,5,5,3,3,1,1,4,1,1,1,4,4,2,2,1,1,1,1,1,1,qanc,up,anm
+552,Kalpana Bharti,Kalpana Bharti,30,30,UPMTO3,UPMTO3,8392856422,8392856422,1,1,4,3,1,1,Hanumangarh,Hanumangadi,CHC chandausi,CHC chandausi,8,8,11-06-2024,11-06-2024,5,1,4,2,1,1,1,1,1,1,4,4,2,2,1,2,1,2,2,2,qanc,up,anm
+553,Savita,Savita,29,29,UPMTO3,UPMTO3,9795629598,9795629598,1,1,4,4,1,1,Chandausi,Chandausi,Kabir mohalla,Kabir mohalla.,0.2,0.2,11-06-2024,11-06-2024,5,5,4,4,1,1,1,1,1,1,1,1,2,2,1,1,1,2,2,2,qanc,up,anm
+555,Sushma,Sushma sahni,26,26,UPMTO3,UPMTO3,7055878274,7055878274,1,1,3,3,1,1,Phc,Phc,Akrauli,Akrauli,1,1,11-06-2024,11-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,2,1,1,2,3,1,qanc,up,anm
+556,Shivani yadav,Shivani yadav,25,25,UPMTO3,UPMTO3,7248039167,7248039167,1,1,2,2,1,1,Naroli,Naroli,Mai,Mai,0.4,0.4,11-06-2024,11-06-2024,5,5,4,4,2,2,4,1,1,1,1,1,2,2,1,1,1,2,1,1,qanc,up,anm
+557,Rashmi Devi,Rashmi Devi,28,28,UPMTO3,UPMTO3,6395396018,6395396018,1,1,4,4,1,1,Naroli,Naroli,Majhawali,Majhawali,0.4,0.4,11-06-2024,11-06-2024,5,5,4,4,2,2,4,1,1,1,1,1,2,2,1,1,2,2,1,3,qanc,up,anm
+558,______,______,28,28,UPMTO3,UPMTO3,7906829069,7906829069,1,1,2,2,1,1,_____,_____,______ _____,______ _____,6,6,11-06-2024,11-06-2024,5,5,4,3,1,2,4,4,1,1,1,4,2,2,1,1,2,2,1,3,qanc,up,anm
+559,Meera Raghav,Meera Raghav,57,57,UPMTO3,UPMTO3,9456032089,9456032089,1,1,4,4,1,1,Naroli,Naroli,Aata,Aata,18,18,11-06-2024,11-06-2024,5,5,4,3,2,2,4,4,1,1,1,4,2,2,1,1,2,2,1,3,qanc,up,anm
+560,Shivali,Shivali,28,28,UPMTO3,UPMTO3,8218357452,8218357452,1,1,3,3,1,1,Naroli,Naroli,Bholawai,Bholawai,2,2,11-06-2024,11-06-2024,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,2,2,2,3,qanc,up,anm
+561,Preeti,Preeti,25,25,UPMTO3,UPMTO3,9760161427,9760161427,1,1,3,3,1,1,Naroli,Naroli,Mau assu,Mau assu,2.5,2,11-06-2024,11-06-2024,5,5,3,3,2,1,4,4,1,1,4,4,2,2,1,1,2,2,2,3,qanc,up,anm
+562,Neelam thakur,Neelam,56,56,UPMTO3,UPMTO3,9758858120,9758858120,1,1,1,3,1,1,Naroli,Naroli,Raj thal,Raj thal,36,36,11-06-2024,11-06-2024,5,5,3,3,2,1,4,1,1,1,1,4,2,2,1,1,2,2,1,1,qanc,up,anm
+568,Lata Rani,Lata Rani,30,30,UPMTO3,UPMTO3,6397569102,6397569102,1,1,4,4,1,1,Naroli,Naroli,Darni,Darni,1,1,13-06-2024,13-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+571,Kiran gangwar,Kiran Gangwar,1992,31,UPMTO3,UPMTO3,7534063585,7534063585,1,1,4,4,1,1,Naroli,Naroli,Kokawans,Kokawans,1,1,13-06-2024,13-06-2024,5,5,4,4,1,1,4,4,1,1,4,4,1,2,1,1,2,2,1,1,qanc,up,anm
+572,Priyanka mourya,Priyanka mourya,30,30,UPMTO3,UPMTO3,9536879798,9536879798,1,1,3,3,1,1,Naroli,Naroli,Reeth,Reeth,1,1,13-06-2024,13-06-2024,5,5,4,4,1,1,4,4,1,1,4,4,4,2,2,1,2,2,1,1,qanc,up,anm
+575,Jyoti,Jyoti,32,32,UPMTO3,UPMTO3,9634506899,9634506899,1,1,3,3,1,1,Naroli,Naroli,Pachak,Pachak,1,1,13-06-2024,13-06-2024,5,5,4,4,2,1,4,4,1,1,4,4,2,2,2,2,2,2,5,3,qanc,up,anm
+576,Hemanchala,Hemanchala,37,37,UPMTO3,UPMTO3,8958153890,8958153890,1,1,2,2,1,1,Gumthal,Gumthal,Jarai,Jarai,11,11,13-06-2024,13-06-2024,5,5,3,3,1,1,3,4,1,1,4,4,3,2,1,1,1,2,3,1,qanc,up,anm
+577,Priyanka Chaudhary,Priyanka Chaudhary,22,22,UPMTO3,UPMTO3,9568966845,9568966845,1,1,3,3,1,1,Ugiya,Ugiya,Barrai,Barrai,2.6,2.6,13-06-2024,13-06-2024,5,5,3,3,1,1,4,1,1,1,4,4,2,2,3,1,2,2,1,1,qanc,up,anm
+580,Priyanka,Priyanka,30,30,UPMTO3,UPMTO3,9758390093,9758390093,1,1,4,4,1,1,Naroli,Naroli,Naroli 2,Naroli 2,1,1,13-06-2024,13-06-2024,5,5,5,3,1,1,4,1,1,1,4,4,4,2,2,2,1,1,1,1,qanc,up,anm
+581,Aneeta Kumari,Aneeta Kumari,32,32,UPMTO3,UPMTO3,9837342106,9837342106,1,1,2,2,1,1,Naroli,Naroli,Dharam pur ratta,Dharam pur ratta,1,1,13-06-2024,13-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,1,3,1,1,qanc,up,anm
+582,Phoolwati,Phoolwite,60,60,UPMTO3,UPMTO3,9927855829,9927855829,1,1,2,2,1,1,Naroli,Naroli,Gumthal,Gumthal,37,37,13-06-2024,13-06-2024,5,5,3,3,1,2,4,4,1,1,4,4,1,2,1,1,2,4,1,1,qanc,up,anm
+583,Anita Devi,Anita Devi,45,45,UPMTO3,UPMTO3,8449450765,8449450765,1,1,2,2,1,1,CHC naroli,CHC naroli,Baniya Kheda,Baniya Kheda,9,9,13-06-2024,13-06-2024,5,5,3,3,2,1,4,1,1,1,4,4,2,2,2,1,2,1,5,1,qanc,up,anm
+584,Sunaina suman,Sunaina suman,32,32,UPMTO3,UPMTO3,9719198670,9719198670,1,1,2,2,1,1,Naroli,Naroli,Nagla pooorwa,Nagla pooorwa,9,9,13-06-2024,13-06-2024,5,5,3,3,1,1,1,4,1,1,4,4,3,2,2,1,2,2,3,1,qanc,up,anm
+585,Poonam Rajini,Punam Rajni,45,45,UPMTO3,UPMTO3,9568915528,9568915528,1,1,3,3,1,1,Naroli,Narauli,Kudfatehgarh,_ude Fatehgarh,9,9,13-06-2024,13-06-2024,5,5,4,5,1,1,4,4,1,1,4,1,2,2,2,1,4,1,5,1,qanc,up,anm
+586,Kaushiki raghav,Kaushiki raghav,26,26,UPMTO3,UPMTO3,7037161101,7037161101,1,1,3,3,1,1,Narouli,Narouli,Dever khera,Dever Khera,2.6,2.6,13-06-2024,13-06-2024,5,5,3,3,1,1,1,1,1,1,1,4,5,2,3,1,1,2,5,1,qanc,up,anm
+587,Chanchal Devi,Chanchal Devi,43,43,UPMTO3,UPMTO3,8630190659,8630190659,1,1,3,3,1,1,Samertolla,Samertolla,PPC Chandausi,PPC Chandausi,9,9.8,13-06-2024,13-06-2024,5,5,2,3,1,1,1,1,1,1,1,4,1,2,3,1,3,2,5,3,qanc,up,anm
+588,Ritika,Ritika,27,27,UPMTO3,UPMTO3,9634069138,9634069138,1,1,3,3,1,1,CHC naroli,CHC naroli,Khatha,Khatheta,1,1,13-06-2024,13-06-2024,5,5,3,3,2,2,4,4,1,1,4,4,2,2,2,1,2,2,5,1,qanc,up,anm
+589,Rekha devi,Rekha Devi,26,26,UPMTO3,UPMTO3,8922934490,8922934490,1,1,2,2,2,1,Kabir Mohla,Kabir Mohla,Pcc Chandosi,Pcc Chandosi,9,9,13-06-2024,13-06-2024,5,5,2,2,2,1,2,1,2,1,4,4,1,2,1,1,1,1,2,1,qanc,up,anm
+590,Sunita l,Sunita l,55,55,UPMTO3,UPMTO3,7906778435,7906778435,1,1,1,1,1,1,Naroli,Naroli,Pratura,Pratura,33,33,13-06-2024,13-06-2024,5,5,5,3,2,2,4,1,1,1,4,4,2,2,1,1,4,4,5,1,qanc,up,anm
+591,Krishna Kumari,Krishna Kumari,58,18,UPMTO3,UPMTO3,9411070954,9411070954,1,1,1,1,1,1,Naroli CSC,Naroli,Maulagad,Maulagad,18,18,13-06-2024,13-06-2024,5,5,5,5,2,2,4,2,1,1,4,4,2,2,2,1,4,4,5,1,qanc,up,anm
+592,____ ______,____ ______,59,59,UPMTO3,UPMTO3,9410283642,9410283642,1,1,4,4,1,1,Akroli,______,____,____,19,19,13-06-2024,13-06-2024,5,5,3,3,1,1,1,4,3,1,4,4,2,2,1,1,1,2,1,2,qanc,up,anm
+593,Minakshi Gautam,Minakshi Gautam,37,37,UPMTO3,UPMTO3,9639977530,9639977530,1,1,4,4,1,1,naroli,Naroli,Raholi,Raholi,12,12,13-06-2024,14-06-2024,5,5,3,3,1,1,4,4,1,1,4,1,2,2,1,1,1,2,3,2,qanc,up,anm
+594,Sainu Gupta,Sainu Gupta,33,33,UPMTO3,UPMTO3,9149232569,9149232569,1,1,3,3,1,1,Semertola,Semertola,P P C chandausi,P P C chandausi,9,9,13-06-2024,28-06-2024,5,5,3,3,2,2,4,4,1,1,1,1,2,2,1,1,2,2,3,3,qanc,up,anm
+595,Trapti saxena,Trapti saxena,39,39,UPMTO3,UPMTO3,9012044200,9012044200,1,1,3,3,1,1,Samertola,Samertola,Ppc chandausi,ppc chandausi,9.8,9.8,13-06-2024,13-06-2024,5,5,3,3,1,2,4,4,1,1,1,1,4,2,1,1,3,2,5,3,qanc,up,anm
+596,Poonam Raghav,Punam Raghav,30,30,UPMTO3,UPMTO3,9358735486,9358735486,1,1,2,2,1,1,Narauli,Narauli,Balkaranpur,Bal karanpur,1,1,13-06-2024,13-06-2024,5,5,3,3,2,2,4,2,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+597,Sangeeta Sharma,Sangeeta Sharma,40,40,UPMTO3,UPMTO3,7830869911,7830869911,1,1,2,2,1,1,Naroli,Naroli,Sarai jwalapuri,Sarai jwalapuri,9,9,13-06-2024,13-06-2024,5,5,3,3,1,1,1,2,1,1,4,4,2,2,1,1,1,2,2,2,qanc,up,anm
+602,Sarita Sagar,Sarita Sagar,26,25,UPMTO3,UPMTO3,6398085464,6398085464,1,1,3,3,1,1,pawansa,Pawansa,Ahmadnagar Tharesa,Ahmadnagar Tharesa,1,1,14-06-2024,14-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,1,2,1,2,qanc,up,anm
+606,Meenakshi,Meenakshi,38,38,UPMTO3,UPMTO3,9720747938,9720747938,1,1,4,4,1,1,Rajpur,Rajpur,Bisaru,Bisaru,9,9,14-06-2024,14-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,3,1,2,2,1,1,qanc,up,anm
+607,Anju rani,Anju rani,32,32,UPMTO3,UPMTO3,9627455659,9627455659,1,1,4,4,1,1,Faridpur meri,Faridpur,Pathakpur,Pathakpur,9,9,14-06-2024,14-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+608,Neeta Pathak,Neeta Pathak,40,40,UPMTO3,UPMTO3,8859097282,8859097282,1,1,4,4,1,1,Bahapurpatti,Bahapurpatti,Shamsoi,Shamsoi,9,9,14-06-2024,14-06-2024,5,5,3,3,1,1,2,4,1,1,4,4,2,2,3,1,2,2,1,1,qanc,up,anm
+609,Hemlata,Hemlata,26,26,UPMTO3,UPMTO3,8650578808,8650578808,1,1,4,4,1,1,Rajpur,Rajpur,Dhadhol,Dhadhol,5,5,14-06-2024,14-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+610,Susheela Kumari,Susheela,34,34,UPMTO3,UPMTO3,9719842109,9719842109,1,1,2,2,1,1,Faridpur,Faridpur,Kunwerpur,Kunwerpur,9,9,14-06-2024,14-06-2024,5,5,3,3,2,2,4,4,1,1,4,4,2,2,1,1,2,2,2,2,qanc,up,anm
+611,Jyoti,Jyoti,29,29,UPMTO3,UPMTO3,9058209526,9058209526,1,1,2,2,1,1,Bahapurpatti,Bahapurpatti,Bahapurpatti,Bahapurpatti,9,9,14-06-2024,14-06-2024,5,5,3,3,1,1,2,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+612,Himani Chahal,Himani Chahal,22,22,UPMTO3,UPMTO3,7302530188,7302530188,1,1,3,3,1,1,Tanda Ad,Tanda Ad,Sher kha saraye,Sher kha saraye,1,1,14-06-2024,14-06-2024,5,3,3,3,1,1,4,4,1,1,1,4,2,1,1,1,2,2,1,2,qanc,up,anm
+613,Anjali,Anjali,29,29,UPMTO3,UPMTO3,7017489369,7017489369,1,1,3,3,1,1,Tanda AD,Tanda Ad,Noorio sarai,Noorio sarai,1,1,14-06-2024,14-06-2024,5,5,3,3,1,2,4,2,1,1,1,1,2,2,1,1,2,2,1,1,qanc,up,anm
+614,Nahid Parveen,Nahid Parveen,24,24,UPMTO3,UPMTO3,7900981388,7900981388,1,1,3,3,1,1,Tanda Ad,Tanda,Aainjara,Ainjara,1,1,14-06-2024,14-06-2024,5,5,3,3,2,1,4,4,1,1,4,4,2,2,1,1,2,2,1,3,qanc,up,anm
+615,Nazis bi,Nazis bi,24,24,UPMTO3,UPMTO3,7464813747,7464813747,1,1,3,3,1,1,Tanda AD,Tanda AD,Tanda -sc,Tanda -sc,1,1,14-06-2024,14-06-2024,5,5,3,3,2,1,4,4,1,1,4,4,2,2,1,1,2,2,1,3,qanc,up,anm
+616,Sunita,Sunita,26,26,UPMTO3,UPMTO3,7535068481,7535068481,1,1,3,3,1,1,Pawansa,Pawansa,Aincholi,Aincholi,0.1,0.1,14-06-2024,14-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,2,qanc,up,anm
+617,Priti Yadav,Priti Yadav,26,26,UPMTO3,UPMTO3,7505732765,7505732765,1,1,4,4,1,1,Pawansa,Priti Yadav,Sakin shobhapur,Sakin shobhapur,0.11,0.11,14-06-2024,14-06-2024,4,5,3,3,1,1,2,2,1,1,4,4,2,2,1,1,1,1,2,2,qanc,up,anm
+620,Rekha Rani,Rekha Rani,40,40,UPMTO3,UPMTO3,9917166949,9917166949,1,1,4,4,1,1,Tanda,Tanda,Muzaffarpur,Muzaffarpur,16,16,14-06-2024,14-06-2024,5,5,3,3,1,1,4,4,1,1,1,4,2,2,1,1,2,4,1,3,qanc,up,anm
+622,____ ____,____ ____,60,60,UPMTO3,UPMTO3,9897587355,9897587355,1,1,3,3,1,1,_____,_____,Maukathar,_ _____,60,39,14-06-2024,14-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+625,Vimlesh kumari,Vimlesh kumari,31,31,UPMTO3,UPMTO3,6396981149,6396981149,1,1,2,2,1,1,Soudhan,Soudhan,Soudhan,Soudhan,9,9,14-06-2024,14-06-2024,5,5,3,3,2,1,2,4,1,1,4,4,2,2,1,1,1,3,1,1,qanc,up,anm
+628,Charu Chaudhary,Charu Chaudhary,24,24,UPMTO3,UPMTO3,6397663099,6397663099,1,1,3,3,1,1,Singhpur sani,Singhpur sani,Chitawali,Chitawali,2.6,2.6,18-06-2024,18-06-2024,5,5,3,3,1,1,4,4,1,1,4,4,2,2,3,1,1,2,5,1,qanc,up,anm
+629,Monika,Monika,30,30,UPMTO3,UPMTO3,9548176933,9548176933,1,1,3,3,1,1,Singh purv sani,Singhpur sani,Kurkawali,Kurkawali,9,9,18-06-2024,18-06-2024,5,5,3,3,2,2,4,4,1,1,4,4,2,2,3,1,2,1,5,5,qanc,up,anm
+632,Bhavna Rajput,Bhavna Rajput,25,25,UPMTO3,UPMTO3,6396668578,6396668578,1,1,2,2,1,1,Hajratnagar garhi,Hajratnagar garhi,Phoolsingha,Phoolsingha,10,10,18-06-2024,18-06-2024,5,5,3,3,1,1,4,1,1,1,4,4,2,2,1,1,2,2,1,2,qanc,up,anm
+634,Mamta rani,Mamta rani,28,28,UPMTO3,UPMTO3,9506785122,9506785122,1,1,2,2,1,1,Hajrat nagar gadhi,Hajrat nagar gadhi,Mandlai,Mandlai,3,3,18-06-2024,18-06-2024,5,5,3,3,1,1,4,1,1,1,4,4,2,2,1,1,2,2,1,2,qanc,up,anm
+638,Amrita chauhan,Amrita chauhan,26,26,UPMTO3,UPMTO3,7668902968,7668902968,1,1,3,3,1,1,Asmoli,Asmoli,Rajikhara,Rajikhara,3,3,18-06-2024,18-06-2024,5,5,3,3,2,1,4,4,1,1,4,4,2,2,1,1,2,4,3,1,qanc,up,anm
+640,Neerja,Neerja,30,30,UPMTO3,UPMTO3,9012318257,9012318257,1,1,2,2,1,1,Asmoli,Asmoli,Ratupur,Ratupur,8,8,18-06-2024,18-06-2024,5,5,4,4,1,1,4,4,1,1,4,4,2,2,1,1,2,2,1,1,qanc,up,anm
+642,Reeta Kumari,REETA KUMARI,27,27,UPMTO3,UPMTO3,6399138892,6399138892,1,1,2,2,1,1,Chamrau,Chamrua,Salakhna,Salakhna,3,3,18-06-2024,18-06-2024,5,5,3,3,2,1,1,1,1,1,4,4,2,2,4,1,2,2,1,1,qanc,up,anm
+644,Monika,Monika,24,24,UPMTO3,UPMTO3,9258888926,9258888926,1,1,2,2,1,1,Chamruaaa,Chamruaaa,Lakori jalalpur,Lakhori jalalpur,3,3,18-06-2024,18-06-2024,5,5,4,3,2,2,1,1,1,1,4,4,2,2,2,1,2,2,3,1,qanc,up,anm
+645,Rajbala,Rajbala,30,30,UPMTO3,UPMTO3,6398316656,6398316656,1,1,2,2,1,1,Ghadi,Ghadi,Frozpur,Frozpur,3,3,18-06-2024,18-06-2024,5,5,4,3,2,2,1,1,1,1,4,4,2,2,2,1,2,2,3,1,qanc,up,anm
+646,Archana,Archana,33,33,UPMTO3,UPMTO3,9027641592,9027641592,1,1,4,4,1,1,Asmoli,Asmoli,Saidpur Jairam,Saidpur Jairam,5,5,18-06-2024,18-06-2024,5,5,5,4,1,1,4,4,1,1,4,4,2,2,4,4,2,2,1,1,qanc,up,anm
+647,Varsha tomar,Varsha tomar,32,32,UPMTO3,UPMTO3,9639175827,9639175827,1,1,4,4,1,1,Asmoli,Asmoli,Bheshoda,Bheshoda,8,8,18-06-2024,18-06-2024,5,5,5,3,1,1,4,4,1,1,4,4,2,2,4,1,2,2,1,1,qanc,up,anm
+648,Rinku,Rinku,32,32,UPMTO3,UPMTO3,8808196609,8808196609,1,1,3,3,1,1,Sarai tarin,Sarai tarin,Sarai tarin,Sarai tarin,10,10,18-06-2024,18-06-2024,5,5,4,4,2,2,2,2,1,1,1,1,2,2,1,3,1,4,4,4,qanc,up,anm
+649,Mala devi,Mala devi,32,32,UPMTO3,UPMTO3,8979556072,8979556072,1,1,3,3,1,1,Sarytareen sambhal,Sarytareen sambhal,Sarytareen sambhal,Sarytareen sambhal,9,9,18-06-2024,18-06-2024,5,5,4,4,2,2,2,2,1,1,1,1,2,2,1,3,1,3,4,4,qanc,up,anm
+650,Rajkumari,Rajkumari,67,67,UPMTO3,UPMTO3,9917663366,9917663366,1,1,1,1,1,1,Asmoli,Asmoli,Gumsani,Gumsani,25,25,18-06-2024,18-06-2024,5,5,3,3,2,2,4,4,1,1,4,4,2,2,4,4,2,2,1,1,qanc,up,anm
+93,rajani,rajani,44,44,UPMTO2,UPMTO2,8765721615,8765721612,1,1,2,2,2,2,Gilaula,Gilaula,sonwa,sonwa,17.8,17.8,03-06-2024,03-06-2024,5,5,3,3,2,1,4,4,1,1,4,4,2,2,2,1,2,2,1,1,qanc,up,anm
+72,shalini rahi,shalini rahi,30,30,UPMTO2,UPMTO2,8901514269,8601514269,1,1,4,4,2,2,CHCÊ ikauna,CHC ikauna,majhauwa sumal,majhauwa sumal,1,1,31-05-2024,31-05-2024,5,5,3,3,1,1,1,1,1,1,4,4,2,2,3,1,1,1,5,2,qanc,up,anm

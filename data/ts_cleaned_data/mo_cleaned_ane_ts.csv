@@ -1,0 +1,648 @@
+number,name_pre,name_post,age_pre,age_post,entry_pre,entry_post,districts_pre,districts_post,phc_name_pre,phc_name_post,experience_pre,experience_post,mobile_no_pre,mobile_no_post,date_pre,date_post,q1_pre,q1_post,q2_pre,q2_post,q3_pre,q3_post,q4_pre,q4_post,q5_pre,q5_post,q6_pre,q6_post,q7_pre,q7_post,q8_pre,q8_post,q9_pre,q9_post,q10_pre,q10_post,condition,state,cadre
+1,Dr.Rakesh,Dr.Rakesh,,,MO1,MO1,Medak,Medak,,,,,9502550027,9502550027,11-08-2021,11-08-2021,1,1,1,1,4,4,4,4,1,1,1,1,2,1,4,4,1,1,4,4,ane,ts,mo
+2,Dr Manikanta sivva,Dr.manikanta sivva,,,MO1,MO1,Medak,Medak,,,,,8390270029,8390270029,11-08-2021,11-08-2021,1,1,1,1,4,4,4,4,1,1,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+3,Dr.vishal,Dr.vishal,,,MO1,MO1,Medak,Medak,,,,,9515350541,9515350541,11-08-2021,11-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+4,Dr. Priyadarshini,Dr. Priyadarshini,,,MO1,MO1,Medak,Medak,,,,,9848450539,9848450539,11-08-2021,11-08-2021,1,1,2,1,4,4,4,4,1,1,1,1,2,1,4,4,1,1,4,4,ane,ts,mo
+5,Dr Bhavana Nallapu,Dr Bhavana Nallapu,,,MO1,MO1,Medak,Medak,,,,,9703158186,9703158186,11-08-2021,11-08-2021,1,1,1,1,4,4,4,4,3,1,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+6,Dr bhavani,Dr bhavani,,,MO1,MO1,Medak,Medak,,,,,9666408513,9666408513,11-08-2021,11-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+7,Dr.Pushpalatha,Dr.Pushpalatha,,,MO1,MO1,Medak,Medak,,,,,7416165995,7416165995,11-08-2021,11-08-2021,1,1,1,1,2,2,4,4,3,1,1,1,2,2,4,4,2,1,4,4,ane,ts,mo
+8,Dr. Shravani,Dr. Shravani,,,MO1,MO1,Medak,Medak,,,,,9000601696,9000601696,11-08-2021,11-08-2021,1,1,1,1,4,4,4,4,3,1,3,1,2,2,4,4,1,1,4,4,ane,ts,mo
+9,Dr K Elizabeth Rani,Dr K Elizabeth Rani,,,MO1,MO1,Medak,Medak,,,,,6309605085,6309605085,11-08-2021,11-08-2021,1,1,2,1,4,4,2,2,1,1,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+10,Dr Indira,Dr Indira,,,MO1,MO1,Medak,Medak,,,,,8247023271,8247023271,11-08-2021,11-08-2021,1,1,2,1,4,4,2,2,3,1,1,1,1,1,4,4,1,2,4,4,ane,ts,mo
+11,Dr thakur,Dr thakur,,,MO1,MO1,Medak,Medak,,,,,8696493541,8696493541,11-08-2021,11-08-2021,1,1,1,1,2,2,4,4,1,3,1,1,2,2,4,4,1,1,1,4,ane,ts,mo
+12,Venkat swamy yadav,Venkat swamy yadav,,,MO1,MO1,Medak,Medak,,,,,9985642075,9985642075,11-08-2021,11-08-2021,1,1,1,1,2,2,4,4,1,3,1,1,2,2,4,4,1,1,1,1,ane,ts,mo
+13,Dr. K.Ramesh,Dr. K.Ramesh,,,MO1,MO1,Medak,Medak,,,,,9989836839,9989836839,11-08-2021,11-08-2021,1,1,2,1,3,2,2,2,3,1,1,1,4,4,4,4,1,1,1,4,ane,ts,mo
+15,Dr S Chandrashekhar Rao,Dr S Chandrashekhar Rao,,,MO1,MO1,Medak,Medak,,,,,9393940555,9393940555,11-08-2021,11-08-2021,4,1,1,1,2,2,4,4,3,1,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+16,Dr.Ambika,Dr.Ambika,,,MO1,MO1,Medak,Medak,,,,,9394719370,9394719370,11-08-2021,11-08-2021,1,1,1,1,4,4,4,4,3,1,2,1,2,2,4,4,4,4,4,4,ane,ts,mo
+17,Dr hariprasad,Dr hariprasad,,,MO1,MO1,Medak,Medak,,,,,8500201229,8500201229,11-08-2021,11-08-2021,1,1,2,2,3,2,4,4,3,3,2,1,2,2,1,4,2,2,1,1,ane,ts,mo
+18,Dr. Fouzia,Dr. Fouzia,,,MO1,MO1,Medak,Medak,,,,,9640678557,9640678557,11-08-2021,11-08-2021,1,1,1,1,3,4,4,4,1,1,2,1,1,2,4,4,1,1,2,2,ane,ts,mo
+20,Dr.A.Sridhar,Dr.A.Sridhar,,,MO1,MO1,Sangareddy,Sangareddy,,,,,8555841112,8555841112,12-08-2021,12-08-2021,1,1,1,1,4,4,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+21,Dr.Harshitha,Dr.Harshitha,,,MO1,MO1,Sangareddy,Sangareddy,,,,,9963337075,9963337075,12-08-2021,12-08-2021,1,1,1,1,4,4,2,2,3,3,2,1,2,2,4,4,2,1,4,4,ane,ts,mo
+22,Mood Shanker,Mood Shanker,,,MO1,MO1,Sangareddy,Sangareddy,,,,,9505582348,9505582348,12-08-2021,12-08-2021,1,1,2,1,4,4,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+23,Bhavana,Bhavana,,,MO1,MO1,Sangareddy,Sangareddy,,,,,9848485041,9848485041,12-08-2021,12-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,2,4,4,ane,ts,mo
+24,Dr.G.Ramya,Dr.G.Ramya,,,MO1,MO1,Sangareddy,Sangareddy,,,,,9949986008,9949986008,12-08-2021,12-08-2021,1,1,2,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+25,Dr. Vidya Dharani Myneni,Dr. Vidya Dharani Myneni,,,MO1,MO1,Sangareddy,Sangareddy,,,,,8333848242,8333848242,12-08-2021,12-08-2021,1,1,2,1,4,4,4,4,1,3,1,1,2,2,4,4,2,2,4,4,ane,ts,mo
+26,Dr.G H Swapna,Dr.G H Swapna,,,MO1,MO1,Sangareddy,Sangareddy,,,,,9885842288,9885842288,12-08-2021,12-08-2021,1,1,2,1,3,4,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+27,Srivani.N,Srivani.N,,,MO1,MO1,Sangareddy,Sangareddy,,,,,9642498737,9642498737,12-08-2021,12-08-2021,1,1,2,2,4,4,4,4,1,1,2,1,1,1,4,4,1,1,4,4,ane,ts,mo
+28,Dr.Reshma Anjum,Dr.Reshma Anjum,,,MO1,MO1,Sangareddy,Sangareddy,,,,,8106088288,8106088288,12-08-2021,12-08-2021,2,1,1,1,4,3,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+29,Dr.Radhika Gulangari,Dr.Radhika Gulangari,,,MO1,MO1,Sangareddy,Sangareddy,,,,,9177100959,9177100959,12-08-2021,12-08-2021,1,1,2,1,4,4,4,4,1,1,1,1,2,2,1,4,1,1,4,4,ane,ts,mo
+31,Dr. G. SATYANARAYANA,Dr. G. SATYANARAYANA,,,MO1,MO1,Sangareddy,Sangareddy,,,,,7981325283,7981325283,12-08-2021,12-08-2021,1,1,1,1,4,4,4,1,1,1,2,1,2,1,4,2,1,1,4,4,ane,ts,mo
+32,Dr.nethravathi. j,Dr.nethravathi. j,,,MO1,MO1,Sangareddy,Sangareddy,,,,,9885147470,9885147470,12-08-2021,12-08-2021,1,1,1,1,4,4,4,4,3,1,4,1,1,2,4,4,1,1,2,4,ane,ts,mo
+36,Dr Majeed Nohammed,Dr Majeed,,,MO1,MO1,Sangareddy,Sangareddy,,,,,8897087826,8897087826,13-08-2021,13-08-2021,1,1,1,1,2,2,4,4,3,3,3,1,2,2,2,4,1,1,1,4,ane,ts,mo
+37,Dr. B. Rajeshwar,Dr. B. Rajeshwar,,,MO1,MO1,Sangareddy,Sangareddy,,,,,9000333350,9000333350,13-08-2021,13-08-2021,2,4,1,1,4,4,4,4,3,3,2,1,1,1,4,4,1,1,4,4,ane,ts,mo
+38,Dr M Prashanthi,Dr M Prashanthi,,,MO1,MO1,Sangareddy,Sangareddy,,,,,9959001154,9959001154,13-08-2021,13-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+39,Swetha,Swetha,,,MO1,MO1,Sangareddy,Sangareddy,,,,,7287068485,7287068485,13-08-2021,13-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,1,1,4,4,4,1,1,4,ane,ts,mo
+40,Dr Ganapathi Rao.I,Dr Ganapathi Rao.I,,,MO1,MO1,Sangareddy,Sangareddy,,,,,9550600886,9550600886,13-08-2021,13-08-2021,1,1,2,1,1,4,4,4,1,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+41,Dr.V.shobhana,DR.V.Shobhana,,,MO1,MO1,Medak,Medak,,,,,7382071231,7382071231,13-08-2021,13-08-2021,2,1,2,2,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+42,Dr.B.Narender,Dr.B.Narender,,,MO1,MO1,Sangareddy,Sangareddy,,,,,9666320391,9666320391,13-08-2021,13-08-2021,1,1,1,1,2,4,3,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+43,Dr Rajkumar,Dr.Rajkumar Patlola,,,MO1,MO1,Sangareddy,Sangareddy,,,,,9989103030,9989103030,13-08-2021,13-08-2021,1,1,1,2,4,4,2,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+44,Sravan,Sravan,,,MO1,MO1,Sangareddy,Sangareddy,,,,,7032704913,7032704913,13-08-2021,13-08-2021,1,1,2,2,4,4,2,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+45,B Naveen kumar,B Naveen kumar,,,MO1,MO1,Sangareddy,Sangareddy,,,,,9989413981,9989413981,13-08-2021,13-08-2021,1,1,1,1,2,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+46,Dr.V.Swetha,Dr.V.Swetha,,,MO1,MO1,Medak,Medak,,,,,9494820915,9494820915,13-08-2021,13-08-2021,1,4,2,2,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+47,Dr.Ravi kumar,Dr.Ravi kumar,,,MO1,MO1,Sangareddy,Sangareddy,,,,,9010614610,9010614610,13-08-2021,13-08-2021,1,1,1,1,4,4,2,4,3,3,1,1,2,2,4,4,2,1,4,4,ane,ts,mo
+48,Dr s vinay kumar,Dr s vinay kumar,,,MO1,MO1,Medak,Medak,,,,,8374041456,8374041456,13-08-2021,13-08-2021,1,1,2,2,3,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+51,Dr K Venkata Naresh,Dr K Venkata Naresh,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,9640382691,9640382691,16-08-2021,16-08-2021,1,1,2,2,2,2,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+52,Koushik,Koushik,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,8897534998,8897534998,16-08-2021,16-08-2021,1,1,2,1,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+53,DrPolepally PraveenKumar,DrPolepally PraveenKumar,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,9553473294,9553473294,16-08-2021,16-08-2021,3,1,2,2,4,4,2,2,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+54,Dr. Nalini,Dr. Nalini,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,7989052369,7989052369,16-08-2021,16-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+55,Keerthana Deepthi,Keerthana Deepthi,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,9886837950,9886837950,16-08-2021,16-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+56,Dr. D. Thanmayee,Dr. D. Thanmayee,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,7416831657,7416831657,16-08-2021,16-08-2021,1,1,1,1,4,4,2,2,3,3,1,1,2,2,4,4,2,1,4,4,ane,ts,mo
+57,Dr yadagiri,Dr yadagiri,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,9652077297,9652077297,16-08-2021,16-08-2021,1,1,2,2,2,2,2,2,3,3,4,1,1,1,4,4,1,2,4,4,ane,ts,mo
+58,Sujatha,Dr.sujatha,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,9493104626,9493104626,16-08-2021,16-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+59,Dr.Tejaswini,Dr.Tejaswini,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,9553967854,9553967854,16-08-2021,16-08-2021,1,1,4,1,4,4,2,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+60,Pooja,Pooja,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,9866840297,9866840297,16-08-2021,16-08-2021,3,1,1,2,4,2,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+61,Prathibha,Prathibha,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,7386369553,7386369553,16-08-2021,16-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+62,Dr M Saritha,Dr M Saritha,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,9963449976,9963449976,16-08-2021,16-08-2021,1,1,2,1,4,4,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+63,Dr.Raveena,Dr.Raveena,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,9550039933,9550039933,16-08-2021,16-08-2021,1,1,1,1,3,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+64,Dr.Teerthasi,Dr.Teerthasi,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,9885099614,9885099614,16-08-2021,17-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,1,1,4,4,1,1,1,3,ane,ts,mo
+66,Dr. D. Ravikanth,Dr. D. Ravikanth,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,9599738346,9599738346,17-08-2021,17-08-2021,1,1,2,2,4,4,4,4,1,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+67,SHEERANZ,SHEERANZ,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,9908045405,9908045405,17-08-2021,17-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+69,Dr.komal,Dr.komal,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,9581936867,9581936867,17-08-2021,17-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+70,dr venumadhavi,dr venumadhavi,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,9912207244,9912207244,17-08-2021,17-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,1,1,4,4,1,2,2,4,ane,ts,mo
+71,Kiran maee,Dr kiran maee,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,8555005188,8555005188,17-08-2021,17-08-2021,1,1,4,4,3,3,2,4,3,3,1,1,1,1,4,4,2,1,4,4,ane,ts,mo
+72,Dr shiva kumar,Dr shiva kumar,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,9985990304,9985990304,17-08-2021,17-08-2021,1,1,2,1,3,3,4,4,3,3,1,1,1,1,4,4,1,1,1,1,ane,ts,mo
+73,K.Swapna,K.Swapna,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,9666333041,9666333041,17-08-2021,17-08-2021,1,1,2,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+74,Dr. Ajay Goud,Dr. Ajay Goud,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,9866767021,9866767021,17-08-2021,17-08-2021,1,1,2,2,4,4,2,4,3,3,1,1,2,2,4,4,2,1,4,4,ane,ts,mo
+75,Dr Asraameen,Dr Asraameen,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,9052208035,9052208035,17-08-2021,17-08-2021,1,1,2,2,4,4,2,2,3,3,1,1,1,2,4,4,1,1,1,4,ane,ts,mo
+77,Dr.nirmala,Dr.nirmala,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,9440217455,9440217455,17-08-2021,17-08-2021,1,1,1,1,3,4,4,4,3,3,3,1,2,2,4,4,1,1,4,4,ane,ts,mo
+78,Dr navaneetha,Dr navaneetha,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,9959991981,9959991981,17-08-2021,17-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+79,Dr.Rishitha,Dr.Rishitha,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,6304344045,6304344045,17-08-2021,17-08-2021,1,1,1,2,4,4,2,2,3,3,1,1,2,4,4,4,2,1,2,4,ane,ts,mo
+80,Dr.Radha K,Dr.Radha K,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,9989650006,9989650006,17-08-2021,17-08-2021,1,1,1,2,2,4,4,4,3,3,2,1,2,2,1,4,1,2,1,4,ane,ts,mo
+81,Dr.prasanna laxmi,Dr.prassnna laxmi,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,9912867605,9912867605,17-08-2021,17-08-2021,1,1,1,2,4,4,4,4,4,3,3,1,1,1,4,4,1,1,4,4,ane,ts,mo
+82,Dr Vinaya Sheela,Dr Vinaya Dheela,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,9247452160,9247452160,17-08-2021,17-08-2021,1,1,2,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+83,Dr. Manasa Harsha,Dr. Manasa Harsha,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,9000471444,9000471444,17-08-2021,17-08-2021,1,1,2,1,2,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+86,Dr Karthik Vishnu Wardhan,Dr Karthik Vishnu Wardhan,,,MO2,MO2,Siddipet,Siddipet,,,,,9989351294,9989351294,10-08-2021,10-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,1,4,4,1,1,4,4,ane,ts,mo
+87,Dr Praveen,Dr Praveen,,,MO2,MO2,Siddipet,Siddipet,,,,,8121403581,8121403581,10-08-2021,10-08-2021,1,1,1,1,4,4,2,2,3,3,3,1,2,2,1,4,1,1,4,4,ane,ts,mo
+88,Dr c Arun Kumar,Dr c Arun Kumar,,,MO2,MO2,Siddipet,Siddipet,,,,,9949570209,9949570209,10-08-2021,10-08-2021,1,1,1,1,2,4,4,4,1,1,2,1,2,2,4,4,2,2,4,4,ane,ts,mo
+89,Shashi priya,Shashi priya,,,MO2,MO2,Siddipet,Siddipet,,,,,9441385297,9441385297,10-08-2021,10-08-2021,1,1,1,1,4,4,4,4,3,3,2,1,1,1,4,4,1,1,4,4,ane,ts,mo
+91,Dr. Prathibha gayatri,Dr. Prathibha gayatri,,,MO2,MO2,Siddipet,Siddipet,,,,,9704452155,9704452155,10-08-2021,10-08-2021,1,1,1,1,4,4,4,4,1,1,1,1,4,2,4,4,1,1,4,4,ane,ts,mo
+92,Kuntroy Niveditha,Kuntroy Niveditha,,,MO2,MO2,Siddipet,Siddipet,,,,,9000365305,9000365305,10-08-2021,10-08-2021,4,1,1,1,4,4,2,2,3,3,3,1,2,2,4,4,1,1,4,4,ane,ts,mo
+93,Dr Akhila,Dr Akhila,,,MO2,MO2,Siddipet,Siddipet,,,,,9154627769,9154627769,10-08-2021,10-08-2021,1,1,1,2,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+94,Dr. Azeemuddin,Dr. Azeemuddin,,,MO2,MO2,Siddipet,Siddipet,,,,,7036031508,7036031508,10-08-2021,10-08-2021,1,1,1,1,4,2,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+95,k.mallikarjun,K Mallikarjun,,,MO2,MO2,Siddipet,Siddipet,,,,,9885614618,9885614618,10-08-2021,10-08-2021,1,1,1,1,4,4,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+96,Dr Mohan Krishna Reddy T,Dr Mohan Krishna Reddy T,,,MO2,MO2,Siddipet,Siddipet,,,,,8142574749,8142574749,10-08-2021,10-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+97,Dr ashlesha,Dr ashlesha,,,MO2,MO2,Siddipet,Siddipet,,,,,9985584141,9985584141,10-08-2021,10-08-2021,1,1,1,1,1,4,4,4,3,3,3,1,1,2,4,4,1,1,4,4,ane,ts,mo
+98,Dr. P. Karthik,Dr. P. Karthik,,,MO2,MO2,Siddipet,Siddipet,,,,,9985889666,9985889666,10-08-2021,10-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+99,B Mahesh Kumar,B Mahesh Kumar,,,MO2,MO2,Siddipet,Siddipet,,,,,9440400333,9440400333,10-08-2021,10-08-2021,1,1,1,1,4,4,4,4,1,1,2,1,1,2,4,1,1,1,4,4,ane,ts,mo
+100,Dr Saritha,Dr Saritha,,,MO2,MO2,Siddipet,Siddipet,,,,,7207664363,7207664363,10-08-2021,10-08-2021,1,1,1,1,4,4,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+101,Lingareddy,Lingareddy,,,MO2,MO2,Siddipet,Siddipet,,,,,7995200108,7995200108,10-08-2021,10-08-2021,4,1,1,1,4,4,4,4,1,1,2,1,1,2,4,1,1,1,4,4,ane,ts,mo
+102,Dr B Vijayrao,Dr B Vijayrao,,,MO2,MO2,Siddipet,Siddipet,,,,,9014345627,9014345627,10-08-2021,10-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,4,4,4,ane,ts,mo
+103,Dr .G hima bindu,Dr .G hima bindu,,,MO2,MO2,Siddipet,Siddipet,,,,,9550493756,9550493756,10-08-2021,10-08-2021,1,1,1,1,4,4,4,4,1,3,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+104,Haritha,Haritha,,,MO2,MO2,Siddipet,Siddipet,,,,,9866673168,9866673168,10-08-2021,10-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,1,4,4,1,1,4,4,ane,ts,mo
+105,K sowmya,K sowmya,,,MO2,MO2,Siddipet,Siddipet,,,,,7993484594,7993484594,10-08-2021,10-08-2021,1,1,1,1,4,4,4,4,1,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+106,Dr. G. Bhargavi,Dr. G. Bhargavi,,,MO2,MO2,Siddipet,Siddipet,,,,,9550928028,9550928028,10-08-2021,10-08-2021,1,1,1,1,4,4,4,4,3,3,3,1,1,2,4,4,1,1,4,4,ane,ts,mo
+107,Dr Sugunakarrao,Dr Sugunakarrao,,,MO2,MO2,Siddipet,Siddipet,,,,,8897951999,8897951999,10-08-2021,10-08-2021,1,1,2,2,2,3,4,4,3,4,1,2,1,1,4,4,3,3,1,1,ane,ts,mo
+110,Dr. J. Sai laxmi swetha,Dr. J. Sai laxmi swetha,,,MO2,MO2,Rangareddy,Rangareddy,,,,,9491341809,9491341809,13-08-2021,13-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+111,Dr Revathi,Dr Revathi,,,MO2,MO2,Rangareddy,Rangareddy,,,,,9703082118,9703082118,13-08-2021,13-08-2021,1,1,1,1,2,4,2,2,1,3,3,1,2,2,4,4,2,2,4,4,ane,ts,mo
+112,Amrita,Dr amrita,,,MO2,MO2,Rangareddy,Rangareddy,,,,,8297623895,8297623895,13-08-2021,13-08-2021,1,1,1,1,4,4,2,2,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+113,Dr Aravind Kunuru,Dr Aravind Kunuru,,,MO2,MO2,Rangareddy,Rangareddy,,,,,9502467852,9502467852,13-08-2021,13-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,4,4,4,ane,ts,mo
+114,Dr Hanok kumar ch,Dr Hanok kumar ch,,,MO2,MO2,Rangareddy,Rangareddy,,,,,8143840465,8143840465,13-08-2021,13-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,3,4,ane,ts,mo
+115,Dr Phebe,Dr Phebe,,,MO2,MO2,Rangareddy,Rangareddy,,,,,9490934105,9490934105,13-08-2021,13-08-2021,1,1,1,1,4,4,4,4,3,3,2,1,1,1,4,4,1,1,4,4,ane,ts,mo
+117,Dr P Archana,Dr P Archana,,,MO2,MO2,Rangareddy,Rangareddy,,,,,9848332070,9848332070,13-08-2021,13-08-2021,2,1,1,1,4,4,2,2,3,3,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+118,Dr phalguni,Dr phalguni,,,MO2,MO2,Rangareddy,Rangareddy,,,,,9248889534,9248889534,13-08-2021,13-08-2021,1,1,1,1,4,4,2,2,3,3,3,1,1,1,4,4,1,1,4,4,ane,ts,mo
+119,Md Shadab Jaseem,Dr Md Shadab Jaseem,,,MO2,MO2,Rangareddy,Rangareddy,,,,,8374632973,8374632973,13-08-2021,13-08-2021,1,1,1,1,4,4,4,4,1,3,3,1,1,1,4,4,1,1,4,4,ane,ts,mo
+120,M. Saritha,M. Saritha,,,MO2,MO2,Rangareddy,Rangareddy,,,,,9908895956,9908895956,13-08-2021,13-08-2021,1,1,2,1,4,2,2,2,3,3,2,1,2,2,4,4,4,1,4,4,ane,ts,mo
+121,Prathyusha vainala,Dr.Prathyusha vainala,,,MO2,MO2,Rangareddy,Rangareddy,,,,,9381357194,9381357194,13-08-2021,13-08-2021,1,1,2,2,4,4,4,4,2,3,2,1,2,2,4,4,1,2,3,4,ane,ts,mo
+122,A. K. Madhuri,A. K. Madhuri,,,MO2,MO2,Rangareddy,Rangareddy,,,,,9100717520,9100717520,13-08-2021,13-08-2021,1,1,1,1,4,3,4,4,3,3,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+123,Dr o. Lakshmi jhansi,Dr o. Lakshmi jhansi,,,MO2,MO2,Rangareddy,Rangareddy,,,,,9441928895,9441928895,13-08-2021,13-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,1,4,4,1,1,4,4,ane,ts,mo
+124,Keerthi,Keerthi,,,MO2,MO2,Rangareddy,Rangareddy,,,,,9182911255,9182911255,13-08-2021,13-08-2021,1,1,2,2,2,4,2,2,1,1,1,1,2,2,2,2,1,1,1,1,ane,ts,mo
+125,Sushmitha,Sushmitha,,,MO2,MO2,Rangareddy,Rangareddy,,,,,9666003933,9666003933,13-08-2021,13-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+126,Kavitha s,Dr kavitha s,,,MO2,MO2,Rangareddy,Rangareddy,,,,,9985100050,9985100050,13-08-2021,13-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+133,DR A NAVEEN,Dr A NAVEEN,,,MO2,MO2,Mulugu,Mulugu,,,,,9177649977,9177649977,16-08-2021,16-08-2021,1,1,2,2,4,3,4,4,3,3,2,1,2,2,4,4,1,1,1,4,ane,ts,mo
+138,Dr.Jyothsna devi porika,Dr.Jyothsna devi porika,,,MO2,MO2,Mulugu,Mulugu,,,,,9640142742,9640142742,16-08-2021,16-08-2021,1,1,2,2,3,3,2,4,1,1,1,1,1,1,1,4,1,1,1,4,ane,ts,mo
+139,Dr A Naresh,Dr A Naresh,,,MO2,MO2,Mulugu,Mulugu,,,,,9492445969,9492445969,16-08-2021,16-08-2021,3,1,1,2,3,3,2,4,3,3,1,1,2,2,4,4,1,2,4,4,ane,ts,mo
+142,Dr A sukumar,Dr A sukumar,,,MO2,MO2,Mulugu,Mulugu,,,,,6303865649,6303865649,16-08-2021,16-08-2021,1,1,2,2,3,4,2,4,3,3,4,1,1,1,4,4,1,1,4,4,ane,ts,mo
+143,Dr.Yamuna Chinapaka,Dr.Yamuna Chinapaka,,,MO2,MO2,Mulugu,Mulugu,,,,,9985674111,9985674111,16-08-2021,16-08-2021,1,1,2,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,1,4,ane,ts,mo
+147,Dr Aruna,Dr Aruna,,,MO2,MO2,Mulugu,Mulugu,,,,,9703313880,9703313880,16-08-2021,16-08-2021,1,1,2,2,4,4,4,4,1,1,2,1,2,2,4,4,2,1,4,4,ane,ts,mo
+148,Dr.Rahul kumar. K,Dr.Rahul kumar. K,,,MO2,MO2,Rangareddy,Rangareddy,,,,,9652699462,9652699462,17-08-2021,17-08-2021,1,1,2,2,4,4,4,4,1,1,1,1,2,1,2,2,2,4,4,4,ane,ts,mo
+149,B.Swathi,B.Swathi,,,MO2,MO2,Rangareddy,Rangareddy,,,,,9247789891,9247789891,17-08-2021,17-08-2021,1,1,1,1,4,4,4,4,1,1,1,1,1,1,1,1,1,1,4,4,ane,ts,mo
+150,V Ramakrishna,V Ramakrishna,,,MO2,MO2,Rangareddy,Rangareddy,,,,,9885365954,9885365954,17-08-2021,17-08-2021,1,1,1,1,4,2,2,2,3,3,1,1,2,2,4,4,4,4,4,4,ane,ts,mo
+151,Dr T Damodhar,Dr T Damodhar,,,MO2,MO2,Rangareddy,Rangareddy,,,,,8639398066,8639398066,17-08-2021,18-08-2021,1,2,1,2,4,4,2,2,3,3,1,4,2,2,4,1,4,4,4,1,ane,ts,mo
+152,Jumeirah shima,Juweriah shima,,,MO2,MO2,Rangareddy,Rangareddy,,,,,8125129962,8125129962,17-08-2021,17-08-2021,1,1,2,2,4,4,4,2,1,1,1,1,1,2,4,4,2,4,1,4,ane,ts,mo
+153,Dr p.vandana,Dr vandana,,,MO2,MO2,Rangareddy,Rangareddy,,,,,7989015578,7989015578,17-08-2021,17-08-2021,1,1,1,1,4,4,4,4,3,3,3,1,2,2,4,4,1,1,4,4,ane,ts,mo
+154,Dr Divya Sri,Dr Divya Sri,,,MO2,MO2,Rangareddy,Rangareddy,,,,,9100003939,9100003939,17-08-2021,17-08-2021,1,1,1,1,4,4,4,4,3,3,3,1,2,2,4,4,1,1,4,4,ane,ts,mo
+162,Dr.Narendra,Dr.Narendra,,,MO2,MO2,Jagityal,Jagityal,,,,,9493808628,9493808628,19-08-2021,19-08-2021,1,1,2,2,3,4,2,2,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+163,Dr P Anil,Dr P Anil,,,MO2,MO2,Jagityal,Jagityal,,,,,9550168308,9550168308,19-08-2021,19-08-2021,1,1,2,2,4,4,4,4,3,3,1,2,2,2,4,4,1,1,4,1,ane,ts,mo
+164,Dr sathish kumar,Dr K Sathish Kumar,,,MO2,MO2,Jagityal,Jagityal,,,,,9133797909,9133797909,19-08-2021,19-08-2021,1,2,1,2,4,4,4,4,1,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+165,Dr.kirankumar,Dr.kirankumat,,,MO2,MO2,Jagityal,Jagityal,,,,,9912421199,9912421199,19-08-2021,19-08-2021,1,1,2,2,4,4,2,4,1,3,1,2,1,2,4,4,2,1,1,1,ane,ts,mo
+166,Pranav Nakka,Pranav Nakka,,,MO2,MO2,Jagityal,Jagityal,,,,,9676789006,9676789006,19-08-2021,19-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+167,Drshivakumari,Dr shivakumari,,,MO2,MO2,Jagityal,Jagityal,,,,,7013287281,7013287281,19-08-2021,19-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+169,Dr A.Srinivas,Dr A.Srinivas,,,MO2,MO2,Jagityal,Jagityal,,,,,9490733227,9490733227,19-08-2021,19-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+170,Dr Ramesh A,Dr Ramesh A,,,MO2,MO2,Jagityal,Jagityal,,,,,9491104097,9491104097,19-08-2021,19-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+171,Dr Naresh Agantham,Dr Naresh Agantham,,,MO2,MO2,Jagityal,Jagityal,,,,,8179768608,8179768608,19-08-2021,19-08-2021,1,1,2,2,4,4,4,4,1,1,2,2,2,2,4,4,1,1,4,4,ane,ts,mo
+172,Dr.m.mounika,Dr.m.mounika,,,MO2,MO2,Jagityal,Jagityal,,,,,6304788457,6304788457,19-08-2021,19-08-2021,1,1,2,2,4,4,2,2,3,3,2,4,1,1,4,4,1,1,4,4,ane,ts,mo
+173,Lava kumar,Lava kumarphc,,,MO2,MO2,Jagityal,Jagityal,,,,,7780597916,7780597916,19-08-2021,19-08-2021,2,2,2,2,3,4,2,4,3,3,2,1,2,2,4,4,4,1,3,3,ane,ts,mo
+174,V Sunitha Rani,V Sunitha Rani,,,MO2,MO2,Jagityal,Jagityal,,,,,9492646211,9492646211,19-08-2021,19-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,2,2,4,4,2,1,4,4,ane,ts,mo
+175,Dr.b.sudhaker,Dr.b.sudhaker,,,MO2,MO2,Jagityal,Jagityal,,,,,9866294129,9866294129,19-08-2021,19-08-2021,1,1,2,1,4,4,2,2,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+178,Dr p Spandana,Dr p Spandana,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,7893344950,7893344950,10-08-2021,10-08-2021,1,1,1,2,4,4,4,4,1,3,2,1,1,2,4,4,1,1,4,4,ane,ts,mo
+180,Dr Udaya laxmi,Dr Udaya laxmi,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,8142585070,8142585070,10-08-2021,10-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,1,1,4,4,2,1,4,4,ane,ts,mo
+181,Chava Manideep,Chava Manideep,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,7013053406,7013053406,10-08-2021,10-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,1,2,4,1,1,1,4,4,ane,ts,mo
+182,Satla. Mounika,Satla mounika,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,9704195556,9704195556,10-08-2021,10-08-2021,2,1,1,1,3,3,4,4,1,1,2,1,2,1,4,4,1,1,1,4,ane,ts,mo
+183,Dr P Sudheer,Dr P Sudheer,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,9908399822,9908399822,10-08-2021,10-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+184,Avunuri Mounika,Avunuri Mounika,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,9705008861,9705008861,10-08-2021,10-08-2021,1,1,1,1,4,2,2,4,3,3,2,1,1,1,1,4,1,1,1,4,ane,ts,mo
+185,Dr Bindu pallavi,Dr Bindu pallavi,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,8008944057,8008944057,10-08-2021,10-08-2021,1,1,1,2,4,4,2,4,1,1,2,1,1,1,1,4,1,1,1,4,ane,ts,mo
+186,Sruthi,Sruthi,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,9618844392,9618844392,10-08-2021,10-08-2021,1,1,1,1,4,2,4,4,3,3,2,1,1,1,1,4,1,1,1,4,ane,ts,mo
+187,Korrapati prathyusha,Korrapati prathyusha,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,8985337849,8985337849,10-08-2021,10-08-2021,3,1,2,2,4,4,2,4,1,3,2,1,2,2,4,4,1,1,1,4,ane,ts,mo
+188,Dr Banoth Prasad,Dr Banoth Prasad,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,9666191991,9666191991,10-08-2021,10-08-2021,1,1,1,2,3,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+189,H.Veerababu,H.Veerababu,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,7780493534,7780493534,10-08-2021,10-08-2021,1,1,1,2,3,3,2,4,1,1,2,1,2,1,2,4,1,1,1,4,ane,ts,mo
+190,Dr Banoth parshiya,Dr Banoth parshiya,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,8184817781,8184817781,10-08-2021,10-08-2021,1,1,1,2,3,4,4,4,3,3,3,1,2,2,4,4,1,1,4,4,ane,ts,mo
+191,Chaitnaya,Chaitanya,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,9533966537,9533966537,10-08-2021,10-08-2021,1,1,2,1,3,3,4,4,1,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+192,Dr. S. Manikanta reddy,Dr. S. Manikanta reddy,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,8885643395,8885643395,10-08-2021,10-08-2021,1,1,1,1,4,4,4,4,3,3,2,1,1,1,4,4,1,1,4,4,ane,ts,mo
+193,Dr Balaji,Dr Balaji,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,9493010751,9493010751,10-08-2021,10-08-2021,1,1,1,1,3,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+195,Dr Sravanthi,Dr Sravanthi,,,MO3,MO3,Khammam,Khammam,,,,,8008029720,8008029720,11-08-2021,11-08-2021,1,1,2,2,3,3,4,4,3,3,1,1,2,2,4,4,4,4,4,4,ane,ts,mo
+196,Arshida,Arshida,,,MO3,MO3,Khammam,Khammam,,,,,9703617576,9703617576,11-08-2021,11-08-2021,1,1,1,1,2,2,2,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+197,Dr Nelluri Chandana,Dr Nelluri Chandana,,,MO3,MO3,Khammam,Khammam,,,,,9581568887,9581568887,18-08-2021,11-08-2021,1,1,2,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+198,Dr Evangeline,Dr Evangeline,,,MO3,MO3,Khammam,Khammam,,,,,9490383442,9490383442,11-08-2021,11-08-2021,1,1,2,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+199,Dr Ramesh K,Dr Ramesh K,,,MO3,MO3,Khammam,Khammam,,,,,9849185182,9849185182,11-08-2021,11-08-2021,1,1,1,1,2,2,4,4,3,3,1,1,2,1,4,4,3,1,4,4,ane,ts,mo
+200,A sunanda,A sunanda,,,MO3,MO3,Khammam,Khammam,,,,,9581207370,9581207370,11-08-2021,11-08-2021,1,1,1,1,4,4,4,4,3,3,2,2,1,1,4,4,1,1,4,4,ane,ts,mo
+201,Dr. K. Pavani,Dr. K. Pavani,,,MO3,MO3,Khammam,Khammam,,,,,8978825672,8978825672,11-08-2021,11-08-2021,1,1,1,1,2,2,4,4,3,3,2,1,1,2,4,4,1,1,4,4,ane,ts,mo
+202,DrRama Rao,DrRama Rao,,,MO3,MO3,Khammam,Khammam,,,,,9440868978,9440868978,11-08-2021,11-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,2,1,4,4,1,1,4,4,ane,ts,mo
+203,B srinivas,B srinivas,,,MO3,MO3,Khammam,Khammam,,,,,9885337117,9885337117,11-08-2021,11-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+204,Varaka Navyakanth,Varaka Navyakanth,,,MO3,MO3,Khammam,Khammam,,,,,8465067682,8465067682,11-08-2021,11-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+205,Dr Suresh Thota,Dr Suresh Thota,,,MO3,MO3,Khammam,Khammam,,,,,8801224444,8801224444,11-08-2021,11-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+206,Dr venkatesh,Dr venkatesh,,,MO3,MO3,Khammam,Khammam,,,,,9948755708,9948755708,11-08-2021,11-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,1,2,4,4,1,1,4,4,ane,ts,mo
+207,Dr.Anitha .V.M.,Dr.Anitha .V.M.,,,MO3,MO3,Khammam,Khammam,,,,,9989930331,9989930331,11-08-2021,11-08-2021,1,1,1,3,2,4,4,4,3,3,1,1,2,2,4,4,2,1,4,4,ane,ts,mo
+208,V Pavan kumar,V pavan kumar,,,MO3,MO3,Khammam,Khammam,,,,,9989027131,9989027131,11-08-2021,11-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+209,Dr sucharitha,Dr sucharitha,,,MO3,MO3,Khammam,Khammam,,,,,9494957955,9494957955,11-08-2021,11-08-2021,1,1,1,1,4,4,2,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+211,Dr Raju G,Dr Raju G,,,MO3,MO3,Khammam,Khammam,,,,,9000593703,9000593703,11-08-2021,11-08-2021,1,1,1,2,3,4,2,4,3,3,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+212,Padishala Pushpalatha,Padishala pushpalatha,,,MO3,MO3,Khammam,Khammam,,,,,9676290033,9676290033,11-08-2021,11-08-2021,1,1,1,2,4,4,4,4,3,3,2,1,2,2,1,4,1,1,4,4,ane,ts,mo
+213,Dr sreekanth,Dr sreekanth,,,MO3,MO3,Khammam,Khammam,,,,,9885523484,9885523484,11-08-2021,11-08-2021,2,1,1,2,4,4,2,4,3,3,2,1,1,2,4,4,1,1,4,4,ane,ts,mo
+214,A.Nageswarrao,Nageswar rao,,,MO3,MO3,Khammam,Khammam,,,,,9603072926,9603072926,11-08-2021,11-08-2021,1,1,1,2,3,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+217,Dr Neha ambreen,Dr Neha ambreen,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,9000834549,9000834549,12-08-2021,12-08-2021,1,1,2,1,3,3,2,4,3,3,1,1,1,2,4,4,2,1,4,4,ane,ts,mo
+218,Dr.SANA,Dr.SANA,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,7981791564,7981791564,12-08-2021,12-08-2021,1,1,2,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+219,Dr k Rajasekhar,Dr k Rajasekhar,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,9666379467,9666379467,12-08-2021,12-08-2021,1,1,2,2,3,2,4,4,3,3,1,1,1,1,4,4,1,1,1,1,ane,ts,mo
+220,Dr. Nissy sharon,Dr. Nissy sharon,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,9901190302,9901190302,12-08-2021,12-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,1,2,4,4,2,1,4,4,ane,ts,mo
+221,M. Harish,M. Harish,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,9603916006,9603916006,12-08-2021,12-08-2021,1,1,1,2,4,4,4,4,3,3,2,1,1,1,4,4,4,1,4,4,ane,ts,mo
+222,Dr sreelatha,Dr sreelatha,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,9966876038,9966876038,12-08-2021,12-08-2021,1,1,1,1,4,4,4,4,1,3,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+223,YASA SURESH KUMAR,YASA SURESH KUMAR,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,9133233046,9133233046,12-08-2021,12-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+224,Dr V Rambabu,Dr V Rambabu,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,9866681579,9866681579,12-08-2021,12-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+225,Dr. K. Sandhya Rani,Dr. K. Sandhya Rani,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,9177990988,9177990988,12-08-2021,12-08-2021,2,1,2,1,4,2,2,4,3,3,2,1,1,1,4,4,2,1,4,4,ane,ts,mo
+226,Jithendra naidu,Jithendra naidu,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,9963190037,9963190037,12-08-2021,12-08-2021,1,1,2,1,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+228,Mounica Ramanchi,Mounica Ramanchi,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,8523087180,8523087180,12-08-2021,12-08-2021,1,1,1,1,4,4,2,4,3,3,2,1,2,2,4,4,2,1,4,4,ane,ts,mo
+229,Dr Swapna,Dr Swapna,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,9542968398,9542968398,12-08-2021,12-08-2021,1,1,2,1,4,4,4,4,3,3,2,1,1,1,4,4,1,1,4,4,ane,ts,mo
+230,Dr. S. Geetha,Dr. S. Geetha,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,7997122572,7997122572,12-08-2021,12-08-2021,1,1,1,1,4,4,2,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+231,K Priyanka,K Priyanka,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,9494044167,9494044167,12-08-2021,12-08-2021,1,1,1,1,4,4,4,4,3,3,2,1,1,2,4,4,1,1,4,4,ane,ts,mo
+233,Dr Md Mukram,Dr Md Mukram,,,MO3,MO3,Mahabubabad,Mahabubabad,,,,,7013681208,7013681208,17-08-2021,17-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+234,G. Virajitha,G. Virajitha,,,MO3,MO3,Mahabubabad,Mahabubabad,,,,,8374363500,8374363500,17-08-2021,17-08-2021,1,1,2,1,4,4,2,4,1,3,2,1,2,2,4,4,1,1,4,3,ane,ts,mo
+235,Dr Md Humayun,Dr Md Humayun,,,MO3,MO3,Mahabubabad,Mahabubabad,,,,,9393949420,9393949420,17-08-2021,17-08-2021,1,1,2,2,4,4,4,4,3,1,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+236,Dr.rajkumar,Dr.rajkumar,,,MO3,MO3,Mahabubabad,Mahabubabad,,,,,7661951857,7661951857,17-08-2021,17-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+237,B veda kiran,B veda kiran,,,MO3,MO3,Mahabubabad,Mahabubabad,,,,,9177042143,9177042143,17-08-2021,17-08-2021,1,1,1,2,4,4,4,4,3,3,2,1,2,1,4,4,1,1,4,4,ane,ts,mo
+238,Sainath Sangepu,Sainath Sangepu,,,MO3,MO3,Mahabubabad,Mahabubabad,,,,,7382102460,7382102460,17-08-2021,17-08-2021,2,1,2,2,3,3,4,4,3,3,2,1,2,1,4,4,2,2,4,4,ane,ts,mo
+239,A. Arunadevi,A. Arunadevi,,,MO3,MO3,Mahabubabad,Mahabubabad,,,,,9966713663,9966713663,17-08-2021,17-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+240,Dr G RAVI,Dr G RAVI,,,MO3,MO3,Mahabubabad,Mahabubabad,,,,,9866853995,9866853995,17-08-2021,17-08-2021,1,1,2,2,4,4,4,4,1,1,2,1,2,2,4,4,1,1,2,4,ane,ts,mo
+241,Dr. Vijay Kumar,Dr. Vijay Kumar,,,MO3,MO3,Mahabubabad,Mahabubabad,,,,,8328689951,8328689951,17-08-2021,17-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,2,1,4,4,1,1,4,4,ane,ts,mo
+242,N krishna chaitanya,N krishna chaitanya,,,MO3,MO3,Mahabubabad,Mahabubabad,,,,,7032905161,7032905161,17-08-2021,17-08-2021,1,1,2,1,4,4,2,4,3,3,2,1,1,2,4,4,1,1,4,3,ane,ts,mo
+243,A VIJAY KUMAR,A VIJAY KUMAR,,,MO3,MO3,Mahabubabad,Mahabubabad,,,,,9160455274,9160455274,17-08-2021,17-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+244,Dr.M.RAJENDRA PRASAD,Dr.M.RAJENDRA PRASAD,,,MO3,MO3,Mahabubabad,Mahabubabad,,,,,8008221516,8008221516,17-08-2021,17-08-2021,1,1,2,2,4,3,4,4,3,3,2,1,1,1,4,4,1,1,4,4,ane,ts,mo
+245,Dr  D Anvesh Kumar,Dr  D Anvesh Kumar,,,MO3,MO3,Mahabubabad,Mahabubabad,,,,,9121429921,9121429921,17-08-2021,17-08-2021,1,1,2,2,3,3,4,4,1,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+246,Dr G Sudheer naik,Dr G Sudheer naik,,,MO3,MO3,Mahabubabad,Mahabubabad,,,,,9491348442,9491348442,17-08-2021,17-08-2021,1,1,2,2,4,3,4,4,3,3,2,1,1,1,4,4,2,1,4,4,ane,ts,mo
+247,Dr.K.V.Dileepkumar,Dr.K.V.Dileepkumar,,,MO3,MO3,Mahabubabad,Mahabubabad,,,,,9676545134,9676545134,17-08-2021,17-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,2,2,4,4,1,2,4,4,ane,ts,mo
+248,Dr.Pranavi,Dr.Pranavi,,,MO3,MO3,Mahabubabad,Mahabubabad,,,,,6303093366,6303093366,17-08-2021,17-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,4,1,4,4,2,1,4,4,ane,ts,mo
+249,Dr. ANILKUMAR.CH,Dr. ANILKUMAR.CH,,,MO3,MO3,Mahabubabad,Mahabubabad,,,,,8008171517,8008171517,17-08-2021,17-08-2021,1,1,1,2,4,4,4,4,3,3,1,1,2,1,4,4,1,1,4,4,ane,ts,mo
+250,Dr G SATISH KUMAR,G SATISH KUMAR,,,MO3,MO3,Mahabubabad,Mahabubabad,,,,,9985161693,9985161693,17-08-2021,17-08-2021,1,1,1,2,4,4,4,4,3,3,1,1,1,1,1,4,1,1,4,4,ane,ts,mo
+251,Dr shirish,Dr shirish,,,MO4,MO4,Kamareddy,Kamareddy,,,,,8074241137,8074241137,10-08-2021,10-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,2,2,4,4,2,1,4,4,ane,ts,mo
+252,Dr sameena mohammed,Dr sameena mohammed,,,MO4,MO4,Kamareddy,Kamareddy,,,,,9652200478,9652200478,10-08-2021,10-08-2021,1,1,2,2,4,3,2,2,1,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+254,Dr Radhakishan,Dr Radhakishan,,,MO4,MO4,Kamareddy,Kamareddy,,,,,9885612723,9885612723,10-08-2021,10-08-2021,1,1,1,1,4,4,2,2,3,3,2,1,2,2,4,4,2,1,4,4,ane,ts,mo
+255,Dr Vijaya mahalaxmi,Dr Vijaya mahalaxmi,,,MO4,MO4,Kamareddy,Kamareddy,,,,,7093236232,7093236232,10-08-2021,10-08-2021,1,1,2,1,4,4,2,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+256,Dr saikumar,Dr saikumar,,,MO4,MO4,Kamareddy,Kamareddy,,,,,9550908501,9550908501,10-08-2021,10-08-2021,1,1,2,2,4,4,2,2,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+257,Dr G venkatswamy,Dr G venkatswamy,,,MO4,MO4,Kamareddy,Kamareddy,,,,,9985549833,9985549833,10-08-2021,10-08-2021,1,1,1,1,4,4,4,4,1,1,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+258,ASHWIN babu,ASHWIN babu,,,MO4,MO4,Kamareddy,Kamareddy,,,,,9490422022,9490422022,10-08-2021,10-08-2021,1,1,2,2,4,3,2,2,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+260,Dr shahed ali,Dr shahed ali,,,MO4,MO4,Kamareddy,Kamareddy,,,,,9491622688,9491622688,10-08-2021,10-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,1,4,2,1,4,4,ane,ts,mo
+261,T.mamatha,T.mamatha,,,MO4,MO4,Kamareddy,Kamareddy,,,,,8019597059,8019597059,10-08-2021,10-08-2021,1,1,2,1,4,4,4,4,3,3,1,1,2,2,1,4,1,1,4,4,ane,ts,mo
+262,Dr.A.Harikrishna,Dr.A.Harikrishna,,,MO4,MO4,Kamareddy,Kamareddy,,,,,7095427045,7095427045,10-08-2021,10-08-2021,1,1,1,2,4,4,4,4,3,3,2,1,2,2,4,4,2,1,1,4,ane,ts,mo
+263,Swetha,Swetha,,,MO4,MO4,Kamareddy,Kamareddy,,,,,9000227297,9000227297,10-08-2021,11-08-2021,1,1,1,1,4,4,2,2,1,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+264,Dr.B.Ravinder Reddy,Dr.B.RavinderReddy,,,MO4,MO4,Kamareddy,Kamareddy,,,,,9849287721,9849287721,10-08-2021,10-08-2021,1,1,2,2,3,4,4,4,3,3,3,1,2,1,4,4,1,1,4,4,ane,ts,mo
+265,RAVINDER,RAVINDER,,,MO4,MO4,Kamareddy,Kamareddy,,,,,9440113494,9440113494,10-08-2021,10-08-2021,1,1,2,2,4,4,2,4,3,3,1,1,2,2,1,4,1,1,4,4,ane,ts,mo
+266,Md shujayath,Md shujayath,,,MO4,MO4,Kamareddy,Kamareddy,,,,,9989559128,9989559128,10-08-2021,10-08-2021,1,1,2,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+267,Sushmitha,Sushmitha,,,MO4,MO4,Kamareddy,Kamareddy,,,,,9491595028,9491595028,10-08-2021,10-08-2021,1,1,2,1,4,4,4,4,3,3,1,1,4,4,4,4,2,1,4,4,ane,ts,mo
+268,Nandita,Nandita,,,MO4,MO4,Kamareddy,Kamareddy,,,,,9160228846,9160228846,10-08-2021,10-08-2021,1,1,2,1,4,4,4,4,3,3,3,1,2,2,1,4,1,1,4,4,ane,ts,mo
+269,Dr sharath,Dr sharath,,,MO4,MO4,Kamareddy,Kamareddy,,,,,9494714906,9494714906,10-08-2021,10-08-2021,1,1,1,1,2,3,2,2,3,3,3,1,1,1,4,4,1,1,1,1,ane,ts,mo
+272,Dr. Kapilasai Chepoori,Dr. Kapilasai Chepoori,,,MO4,MO4,Rajanna Siricilla,Rajanna Siricilla,,,,,9705933397,9705933397,12-08-2021,12-08-2021,1,1,1,1,3,4,2,2,1,1,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+273,Dr.sowmya,Dr.k sowmya,,,MO4,MO4,Rajanna Siricilla,Rajanna Siricilla,,,,,9581430777,9581430777,12-08-2021,12-08-2021,1,1,2,1,2,4,2,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+274,Dr mohana Krishna,Dr mohana Krishna,,,MO4,MO4,Rajanna Siricilla,Rajanna Siricilla,,,,,9440623846,9440623846,12-08-2021,12-08-2021,1,1,1,1,4,4,2,2,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+275,Shireesha,Shireesha,,,MO4,MO4,Rajanna Siricilla,Rajanna Siricilla,,,,,6305697399,6305697399,12-08-2021,12-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,1,1,4,4,2,1,4,4,ane,ts,mo
+276,Dr Babu e,Dr Babu e,,,MO4,MO4,Rajanna Siricilla,Rajanna Siricilla,,,,,9490972949,9490972949,12-08-2021,12-08-2021,1,1,2,1,4,4,4,4,3,3,1,1,2,2,4,4,2,1,4,4,ane,ts,mo
+277,Dr.K.Srikar,Dr.K.Srikar,,,MO4,MO4,Rajanna Siricilla,Rajanna Siricilla,,,,,9963992223,9963992223,12-08-2021,12-08-2021,1,1,2,1,4,4,4,4,3,1,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+278,Dr G. Manasa,Dr G. Manasa,,,MO4,MO4,Rajanna Siricilla,Rajanna Siricilla,,,,,8179478220,8179478220,12-08-2021,12-08-2021,1,1,1,2,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+279,dr manasa,dr c manasa,,,MO4,MO4,Rajanna Siricilla,Rajanna Siricilla,,,,,9966002333,9966002333,12-08-2021,12-08-2021,1,1,1,2,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+280,Dr R Ramakrishna,Dr R Ramakrishna,,,MO4,MO4,Rajanna Siricilla,Rajanna Siricilla,,,,,9701672487,9701672487,12-08-2021,12-08-2021,1,1,1,2,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+281,Dr Sanjeev,Dr Sanjeev,,,MO4,MO4,Rajanna Siricilla,Rajanna Siricilla,,,,,6305795480,6305795480,12-08-2021,12-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+282,Dr.G.Ishwarya,Dr.G.Ishwarya,,,MO4,MO4,Rajanna Siricilla,Rajanna Siricilla,,,,,9494982902,9494982902,12-08-2021,12-08-2021,1,1,1,2,4,4,4,4,3,3,2,1,1,1,4,4,1,1,4,4,ane,ts,mo
+283,Dr Nayeem jaha,Dr Nayeem jaha,,,MO4,MO4,Rajanna Siricilla,Rajanna Siricilla,,,,,9701201207,9701201207,12-08-2021,12-08-2021,1,1,2,2,4,2,2,2,1,1,3,1,2,2,4,4,1,1,4,4,ane,ts,mo
+284,Rajyalaxmi Mekala,Rajyalaxmi Mekala,,,MO4,MO4,Rajanna Siricilla,Rajanna Siricilla,,,,,8639128936,8639128936,12-08-2021,12-08-2021,1,1,2,2,4,4,2,4,3,3,2,1,1,1,4,4,1,1,4,4,ane,ts,mo
+285,Subhashini,Subhashini,,,MO4,MO4,Rajanna Siricilla,Rajanna Siricilla,,,,,9985173395,9985173395,12-08-2021,12-08-2021,1,1,1,2,2,4,4,4,3,3,2,1,2,2,2,2,1,1,4,4,ane,ts,mo
+286,Dr N. Spandana,Dr N. Spandana,,,MO4,MO4,Vikarabad,Vikarabad,,,,,7995621356,7995621356,17-08-2021,17-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,2,1,4,4,1,1,4,4,ane,ts,mo
+287,Dr.apoorva,Dr.apoorva,,,MO4,MO4,Vikarabad,Vikarabad,,,,,7569325011,7569325011,17-08-2021,17-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+288,Dr Md Muneeb,Dr Md Muneeb,,,MO4,MO4,Vikarabad,Vikarabad,,,,,8555833201,8555833201,17-08-2021,17-08-2021,1,1,1,1,4,4,2,2,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+289,Dr. Sara masroor,Dr. Sara masroor,,,MO4,MO4,Vikarabad,Vikarabad,,,,,9160584090,9160584090,17-08-2021,17-08-2021,1,1,2,1,4,4,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+298,Lakshmi prasanna,K lakshmi prasanna,,,MO5,MO5,Suryapet,Suryapet,,,,,9177339778,9177339778,11-08-2021,11-08-2021,3,1,2,2,4,3,4,4,3,3,2,1,2,2,4,4,2,2,4,4,ane,ts,mo
+300,Thakur premsingh,Thakur premsingh,,,MO5,MO5,Suryapet,Suryapet,,,,,9010481112,9010481112,11-08-2021,11-08-2021,1,1,2,2,3,4,4,4,3,3,3,1,1,1,4,4,1,1,4,4,ane,ts,mo
+301,Dr. Sudheer,Dr. Sudheer,,,MO5,MO5,Suryapet,Suryapet,,,,,8121286298,8121286298,11-08-2021,11-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,2,2,4,4,2,1,4,4,ane,ts,mo
+302,Dr Naveen,Dr Naveen,,,MO5,MO5,Suryapet,Suryapet,,,,,9640974231,9640974231,11-08-2021,11-08-2021,1,1,2,2,4,4,2,2,3,3,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+303,Y SRISAILAM,Y SRISAILAM,,,MO5,MO5,Suryapet,Suryapet,,,,,9618161973,9618161973,11-08-2021,11-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+304,Dr.p.Sandhya,Dr.p.Sandhya,,,MO5,MO5,Suryapet,Suryapet,,,,,9989860097,9989860097,11-08-2021,11-08-2021,1,1,2,2,4,4,4,4,3,3,3,1,2,2,4,4,1,1,4,4,ane,ts,mo
+305,Laxmalla Dileep Kumar,Laxmalla Dileep Kumar,,,MO5,MO5,Suryapet,Suryapet,,,,,9704816207,9704816207,11-08-2021,11-08-2021,1,1,1,1,4,3,4,4,3,3,1,1,1,1,3,4,1,1,4,4,ane,ts,mo
+306,Dr pala anand kumar,Dr pala anand kumar,,,MO5,MO5,Suryapet,Suryapet,,,,,9000286859,9000286859,11-08-2021,11-08-2021,1,1,1,1,2,2,4,4,3,3,3,1,2,2,4,4,1,1,4,4,ane,ts,mo
+307,DR .RAMYA. B,DR .RAMYA. B,,,MO5,MO5,Suryapet,Suryapet,,,,,8074010389,8074010389,11-08-2021,11-08-2021,1,1,2,2,3,4,4,4,3,3,3,1,1,2,4,4,1,1,4,4,ane,ts,mo
+308,Dr Rajkumar P,Dr Rajkumar P,,,MO5,MO5,Suryapet,Suryapet,,,,,9700072133,9700072133,11-08-2021,11-08-2021,1,1,1,1,4,4,2,2,3,3,1,1,2,2,1,4,4,4,4,4,ane,ts,mo
+309,Dr.e.pradeeptha kumar,Dr.e.pradeeptha kumar,,,MO5,MO5,Suryapet,Suryapet,,,,,8096000040,8096000040,11-08-2021,11-08-2021,1,1,2,2,3,3,2,2,3,3,2,2,1,1,4,4,1,1,4,4,ane,ts,mo
+310,Dr Triveni sana,Dr.Triveni sana,,,MO5,MO5,Suryapet,Suryapet,,,,,7286059713,7286059713,11-08-2021,11-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,1,2,4,4,1,1,4,4,ane,ts,mo
+311,Dr SK  FIROJ,Dr SK  FIROJ,,,MO5,MO5,Suryapet,Suryapet,,,,,9703080973,9703080973,11-08-2021,11-08-2021,1,1,2,2,4,3,4,4,3,3,1,1,2,2,4,4,2,2,4,4,ane,ts,mo
+312,Dr A Nagaiah,Dr A Nagaiah,,,MO5,MO5,Suryapet,Suryapet,,,,,9247221343,9247221343,11-08-2021,11-08-2021,1,1,2,1,4,2,4,4,3,3,2,1,1,1,4,4,1,1,4,4,ane,ts,mo
+313,D Harikishan,D Harikishan,,,MO5,MO5,Suryapet,Suryapet,,,,,9246532522,9246532522,11-08-2021,11-08-2021,1,1,2,1,4,4,4,4,3,3,2,1,1,1,4,4,1,1,4,4,ane,ts,mo
+315,Balakrishna,Balakrishna,,,MO5,MO5,Khammam,Khammam,,,,,9885559239,9885559239,12-08-2021,12-08-2021,1,1,2,2,3,4,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+316,Dr S LAVANYA,Dr S LAVANYA,,,MO5,MO5,Khammam,Khammam,,,,,9502647150,9502647150,12-08-2021,12-08-2021,1,1,1,2,4,4,2,2,3,3,3,2,1,1,4,4,1,2,4,4,ane,ts,mo
+317,Bhumaraju Bhargavi,Bhumaraju Bhargavi,,,MO5,MO5,Khammam,Khammam,,,,,9000975213,9000975213,12-08-2021,12-08-2021,1,1,2,2,4,4,4,4,1,3,2,1,1,1,4,4,2,1,4,4,ane,ts,mo
+318,Dr niveditha,Dr niveditha,,,MO5,MO5,Khammam,Khammam,,,,,9908697908,9908697908,12-08-2021,12-08-2021,4,1,2,2,4,4,4,4,4,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+319,Dr.B shantha rani,Dr B shantha rani,,,MO5,MO5,Khammam,Khammam,,,,,9963074325,9963074325,12-08-2021,12-08-2021,1,1,1,2,4,3,4,4,3,3,2,2,1,1,1,4,1,1,4,4,ane,ts,mo
+320,Dr Md Altaf,Dr Md Altaf,,,MO5,MO5,Khammam,Khammam,,,,,9666553786,9666553786,12-08-2021,12-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,1,2,4,4,2,1,4,4,ane,ts,mo
+321,Dr. I. Motya,Dr. I. Motya,,,MO5,MO5,Khammam,Khammam,,,,,9110753788,9110753788,12-08-2021,12-08-2021,1,1,2,2,4,4,2,2,3,3,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+322,Dr rambabu,Dr rambabu,,,MO5,MO5,Khammam,Khammam,,,,,9666295855,9666295855,12-08-2021,12-08-2021,1,1,2,2,4,4,2,2,3,3,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+323,Dr P Kanaka Durga,Dr P Kanaka Durga,,,MO5,MO5,Khammam,Khammam,,,,,9440727858,9440727858,12-08-2021,12-08-2021,3,1,1,1,3,3,4,4,3,3,3,1,2,1,4,4,1,1,4,4,ane,ts,mo
+330,Madhavi,Madhavi,,,MO5,MO5,Nalgonda,Nalgonda,,,,,8790882288,8790882288,16-08-2021,16-08-2021,1,1,1,1,4,4,4,4,3,1,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+331,DR.P Navaneetha,DR.P Navaneetha,,,MO5,MO5,Nalgonda,Nalgonda,,,,,7675965999,7675965999,16-08-2021,16-08-2021,1,1,2,2,4,4,4,4,1,1,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+332,DR MUSHTAQ AHMED,DR MUSHTAQ AHMED,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9885397560,9885397560,16-08-2021,16-08-2021,1,1,2,2,4,4,2,4,3,3,1,1,2,2,4,4,1,2,4,4,ane,ts,mo
+333,Achi lahari,Achi lahari,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9866073853,9866073853,16-08-2021,16-08-2021,3,1,1,1,4,4,4,4,3,3,3,1,1,1,4,4,2,1,1,4,ane,ts,mo
+334,Modugu Lavanya,Modugu Lavanya,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9705609509,9705609509,16-08-2021,16-08-2021,1,1,1,1,4,4,4,4,1,1,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+335,Dr kiran kumar sattu,Dr kiran kumar sattu,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9440718271,9440718271,16-08-2021,16-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,2,2,4,4,1,2,4,4,ane,ts,mo
+336,Dr.Mobine Ahamad S,Dr.Mobine Ahamad S,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9848168061,9848168061,16-08-2021,16-08-2021,1,1,1,2,4,4,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+337,Dr Ravi,Dr Ravi,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9000092928,9000092928,16-08-2021,16-08-2021,1,1,1,2,2,2,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+338,Deepak,Deepak,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9848558068,9848558068,16-08-2021,16-08-2021,1,1,1,1,4,4,2,2,3,3,2,1,2,1,4,4,1,1,4,4,ane,ts,mo
+339,Dr Vanitha,Dr.vanitha,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9491594883,9491594883,16-08-2021,16-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+340,Dr.kiran kumar gattu,Dr.kiran kumar gattu,,,MO5,MO5,Nalgonda,Nalgonda,,,,,8466005032,8466005032,16-08-2021,16-08-2021,1,1,1,2,2,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+341,K.Varoodhini,K.Varoodhini,,,MO5,MO5,Nalgonda,Nalgonda,,,,,8247005412,8247005412,16-08-2021,16-08-2021,1,1,1,1,4,4,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+342,Dr Tarun Vaddempudi,Dr Tarun Vaddempudi,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9731226222,9731226222,16-08-2021,16-08-2021,1,1,2,2,4,1,2,2,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+343,Kandula Srinadh,Kandula Srinadh,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9948475115,9948475115,16-08-2021,16-08-2021,1,1,1,2,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+344,M Madhava kumar,M Madhava kumar,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9848426036,9848426036,16-08-2021,16-08-2021,1,1,2,2,4,4,2,2,3,3,1,1,1,1,4,4,2,1,4,4,ane,ts,mo
+345,Dr V Bharath Singh,Dr V Bharath Singh,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9440213171,9440213171,16-08-2021,16-08-2021,1,1,1,2,4,4,4,4,1,1,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+346,Dr. Eqbal syed,Dr. Eqbal syed,,,MO5,MO5,Nalgonda,Nalgonda,,,,,8106649402,8106649402,16-08-2021,16-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,2,1,4,4,1,2,4,1,ane,ts,mo
+347,Md Abdul aleem,Md Abdul aleem,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9959312772,9959312772,16-08-2021,16-08-2021,1,1,1,1,2,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+348,Ch.Jamuna,Ch.Jamuna,,,MO5,MO5,Nalgonda,Nalgonda,,,,,8639902020,8639902020,16-08-2021,16-08-2021,1,1,2,2,4,4,4,4,1,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+349,DR N RAJESH KUMAR,DR N RAJESH KUMAR,,,MO5,MO5,Nalgonda,Nalgonda,,,,,7032989014,7032989014,16-08-2021,16-08-2021,1,1,1,1,4,4,2,2,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+350,DR.K.SRIDEVI,DR.K.SRIDEVI,,,MO5,MO5,Nalgonda,Nalgonda,,,,,7799620009,7799620009,16-08-2021,16-08-2021,1,1,2,1,4,4,2,4,3,3,1,1,2,1,4,4,1,1,4,4,ane,ts,mo
+351,Dr srinivas,Dr srinivas,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9966730712,9966730712,16-08-2021,16-08-2021,1,1,1,2,4,2,4,4,3,3,1,1,2,2,1,4,1,1,4,4,ane,ts,mo
+352,Dr Raghuram naik,Dr Raghuram naik,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9494247171,9494247171,16-08-2021,16-08-2021,1,1,2,2,4,2,4,4,3,3,1,1,1,2,4,4,2,1,4,4,ane,ts,mo
+353,B.Nehru,B.Nehru,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9848630680,9848630680,16-08-2021,16-08-2021,1,1,2,2,4,3,2,4,3,3,1,1,1,1,4,4,1,1,2,4,ane,ts,mo
+354,Ubbu narsimha,Ubbu narsimha,,,MO5,MO5,Nalgonda,Nalgonda,,,,,7658996050,7658996050,16-08-2021,16-08-2021,3,1,2,2,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+355,Satyanarayana,Satyanarayana,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9885638399,9885638399,16-08-2021,16-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,1,1,4,4,2,1,1,4,ane,ts,mo
+356,Dr pendem shanker,Dr pendem shanker,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9010605868,9010605868,16-08-2021,16-08-2021,1,1,1,2,2,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+359,Satish Kumar,Satish Kumar,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9866236138,9866236138,17-08-2021,17-08-2021,1,1,2,1,4,4,4,4,3,3,1,1,2,1,4,4,2,1,4,4,ane,ts,mo
+360,Dr. Suhasini D,Dr. Suhasini D,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9704127473,9704127473,17-08-2021,17-08-2021,1,1,1,1,4,4,2,2,1,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+361,Dr Md Samiullah,Dr Md Samiullah,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9491199912,9491199912,17-08-2021,17-08-2021,4,1,2,2,4,4,4,4,3,3,2,1,1,1,4,4,1,1,4,4,ane,ts,mo
+362,Dr.Shankar.Ramavatj,Dr.Shankar.Ramavath,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9000888495,9000888495,24-08-2021,24-08-2021,1,1,2,2,4,3,4,4,3,3,1,1,1,1,4,4,1,2,4,4,ane,ts,mo
+363,Dr Janaki Ramulu,Dr Janaki Ramulu,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9010033242,9010033242,17-08-2021,17-08-2021,1,1,1,1,4,4,2,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+364,Dr B Nithin Goutham,Dr B Nithin Goutham,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9573087708,9573087708,17-08-2021,17-08-2021,1,1,1,1,4,4,4,4,3,3,1,2,2,1,4,4,1,1,4,4,ane,ts,mo
+365,Dr N RAMARISHNAPRASAD RAO,Dr N RAMAKRISHNA PRASAD RAO,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9908141182,9908141182,17-08-2021,17-08-2021,1,1,1,1,4,4,2,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+366,DR.MD.RAFFI,DR.MD.RAFFI,,,MO5,MO5,Nalgonda,Nalgonda,,,,,8340936364,8340936364,17-08-2021,17-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,1,4,4,1,1,4,4,ane,ts,mo
+367,Dr.Upender chandragiri,Dr.Upender chandragiri,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9885926458,9885926458,17-08-2021,17-08-2021,1,1,2,1,4,4,4,4,1,3,1,1,1,1,4,4,2,1,4,4,ane,ts,mo
+368,Nagilla srinivas,Nagilla srinivas,,,MO5,MO5,Nalgonda,Nalgonda,,,,,8096529645,8096529645,17-08-2021,17-08-2021,1,1,2,2,2,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+369,Kalpana vempati,Kalpana vempati,,,MO5,MO5,Nalgonda,Nalgonda,,,,,7330884290,7330884290,17-08-2021,17-08-2021,1,1,2,1,4,4,4,4,1,1,1,1,2,2,2,4,2,1,1,4,ane,ts,mo
+370,Dr.D.Venkanna,Dr.D.Venkanna,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9908540769,9908540769,17-08-2021,17-08-2021,1,1,2,2,3,3,2,4,3,3,3,1,1,1,4,4,2,1,4,4,ane,ts,mo
+371,Dr.MA. Sattar Imran,Dr.MA. Sattar Imran,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9951975554,9951975554,17-08-2021,17-08-2021,2,1,1,2,2,3,4,4,3,3,2,1,2,2,1,4,2,2,4,4,ane,ts,mo
+372,Dr.vijayakumari.G,Dr.vijayakumari.G,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9949957192,9949957192,17-08-2021,17-08-2021,1,1,1,1,4,4,4,4,1,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+373,N.BHAVANI CHAKRAVARTHY,N BHAVANI CHAKRAVARTHY,,,MO5,MO5,Nalgonda,Nalgonda,,,,,8297739559,8297739559,17-08-2021,17-08-2021,1,1,2,1,1,4,2,4,3,3,3,1,2,2,2,4,2,2,2,2,ane,ts,mo
+374,Dr.Anusha,Dr.Anusha,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9059737373,9059737373,17-08-2021,17-08-2021,2,1,2,2,4,4,4,4,3,3,2,1,2,4,4,4,1,1,4,4,ane,ts,mo
+375,V.AISHWARYA,V.AISHWARYA,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9652366787,9652366787,17-08-2021,17-08-2021,1,1,1,1,4,4,4,2,3,1,2,1,1,1,4,4,1,1,4,4,ane,ts,mo
+376,Dugyala Snigdha siva Mallika rani,Dugyala Snigdha siva Mallika rani,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9160242632,9160242632,17-08-2021,17-08-2021,1,1,2,2,4,4,2,4,3,3,2,1,1,4,4,4,1,2,4,4,ane,ts,mo
+377,Prathyusha,Prathyusha,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9052566074,9052566074,17-08-2021,17-08-2021,1,2,1,1,3,3,4,4,1,3,3,1,1,1,1,4,2,2,4,4,ane,ts,mo
+378,Ramakrishna,Dr.v ramakrishna,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9705046015,9705046015,17-08-2021,17-08-2021,1,1,2,2,3,3,4,4,1,3,3,1,1,1,1,4,2,1,4,4,ane,ts,mo
+379,Dr.G.Vishwa jyothi,Dr.G.Vishwa jyothi,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9640545494,9640545494,17-08-2021,17-08-2021,1,1,1,1,2,4,4,4,3,3,1,1,2,2,4,4,1,1,1,4,ane,ts,mo
+381,Kiran,Kiran,,,MO5,MO5,Yadadri Bhuvanagiri,Yadadri,,,,,8309986456,8309986456,21-08-2021,21-08-2021,1,1,2,2,4,4,2,2,3,3,2,1,2,1,4,4,1,1,4,4,ane,ts,mo
+382,Pranisha Y,Pranisha Y,,,MO5,MO5,Yadadri Bhuvanagiri,Yadadri,,,,,9985050344,9985050344,21-08-2021,21-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,1,1,1,4,2,1,4,4,ane,ts,mo
+383,D.R.Deepthi,D.R.Deepthi,,,MO5,MO5,Yadadri Bhuvanagiri,Yadadri,,,,,9703652060,9703652060,21-08-2021,21-08-2021,2,1,2,2,4,4,4,4,3,3,1,1,1,1,1,4,4,1,4,4,ane,ts,mo
+384,Dr B vivekanand,Dr B vivekanand,,,MO5,MO5,Yadadri Bhuvanagiri,Yadadri,,,,,9492036087,9492036087,21-08-2021,21-08-2021,1,1,2,2,3,4,2,4,3,3,1,1,2,2,4,4,2,1,4,4,ane,ts,mo
+385,Dr Kranthi J,Dr Kranthi J,,,MO5,MO5,Yadadri Bhuvanagiri,Yadadri,,,,,8008554353,8008554353,21-08-2021,21-08-2021,1,1,1,1,2,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+386,Dr Yadagiri Udari,Dr Yadagiri Udari,,,MO5,MO5,Yadadri Bhuvanagiri,Yadadri,,,,,9849892717,9849892717,21-08-2021,21-08-2021,1,1,2,2,3,4,2,4,3,3,1,1,1,2,4,4,1,1,1,4,ane,ts,mo
+387,Dr.R.Praveen,Dr.R.Praveen,,,MO5,MO5,Yadadri Bhuvanagiri,Yadadri,,,,,7799892399,7799892399,21-08-2021,21-08-2021,1,1,1,2,4,4,4,4,3,3,1,1,2,2,4,4,4,1,4,4,ane,ts,mo
+388,Y ??????,Y praveena,,,MO5,MO5,Yadadri Bhuvanagiri,Yadadri,,,,,9603303789,9603303789,21-08-2021,21-08-2021,1,1,2,1,4,4,4,4,1,1,2,1,4,4,1,4,1,1,4,4,ane,ts,mo
+389,Dr. Shiva prasad reddy,Dr. Shiva prasad reddy,,,MO5,MO5,Yadadri Bhuvanagiri,Yadadri,,,,,8639746486,8639746486,21-08-2021,21-08-2021,1,1,2,2,4,4,2,4,3,3,1,1,4,1,4,4,1,1,4,4,ane,ts,mo
+390,Dr.N.VamsiKrishna,Dr.N.VamsiKrishna,,,MO5,MO5,Yadadri Bhuvanagiri,Yadadri,,,,,9949997989,9949997989,21-08-2021,21-08-2021,1,1,2,2,4,3,2,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+391,Dasari jyothi,Dasari jyothi,,,MO5,MO5,Yadadri Bhuvanagiri,Yadadri,,,,,7997579168,7997579168,21-08-2021,21-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+392,Dr d swamy,Dr d swamy,,,MO5,MO5,Yadadri Bhuvanagiri,Yadadri,,,,,9247775211,9247775211,21-08-2021,21-08-2021,2,1,2,2,1,3,4,4,3,3,2,1,2,1,4,4,2,2,4,4,ane,ts,mo
+393,Dr.Harsha Reddy,Dr.Harsha Reddy,,,MO5,MO5,Yadadri Bhuvanagiri,Yadadri,,,,,9581222230,9581222230,21-08-2021,21-08-2021,1,1,1,1,4,4,2,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+394,Dr. Shravan kumar,Dr. Shravan kumar,,,MO5,MO5,Yadadri Bhuvanagiri,Yadadri,,,,,9441068763,9441068763,21-08-2021,21-08-2021,1,1,2,1,2,4,1,4,3,3,1,1,2,2,4,4,2,1,4,4,ane,ts,mo
+395,Dr A chaithanya kumar,Dr A chaithanya kumar,,,MO5,MO5,Yadadri Bhuvanagiri,Yadadri,,,,,8096886908,8096886908,21-08-2021,21-08-2021,1,1,2,1,3,3,4,4,3,3,1,1,1,2,4,4,2,1,2,4,ane,ts,mo
+396,Naresh,Naresh,,,MO5,MO5,Yadadri Bhuvanagiri,Yadadri,,,,,9885998526,9885998526,21-08-2021,21-08-2021,1,1,2,2,3,3,4,4,3,3,1,1,1,2,4,4,2,1,2,4,ane,ts,mo
+397,dr  j rajender,dr  j rajender,,,MO5,MO5,Yadadri Bhuvanagiri,Yadadri,,,,,8341132053,8341132053,21-08-2021,21-08-2021,1,1,2,1,3,4,4,4,1,3,3,1,2,2,4,4,1,1,4,4,ane,ts,mo
+398,Dr.Srinivas Racherla,Dr.Srinivas Racherla,,,MO5,MO5,Yadadri Bhuvanagiri,Yadadri,,,,,9010617687,9010617687,21-08-2021,21-08-2021,1,1,1,2,4,4,4,4,3,3,3,1,2,2,4,4,1,1,4,4,ane,ts,mo
+399,Dr ch chandraReddy,Dr chchandraReddy,,,MO5,MO5,Yadadri Bhuvanagiri,Yadadri,,,,,7989119889,7989119889,21-08-2021,21-08-2021,1,1,1,2,2,2,4,4,1,3,2,1,2,2,4,4,1,1,1,1,ane,ts,mo
+400,Dr.K.Ravi kumar,Dr.K.Ravi kumar,,,MO5,MO5,Yadadri Bhuvanagiri,Yadadri,,,,,8341943433,8341943433,21-08-2021,21-08-2021,1,1,2,2,4,4,2,4,1,3,2,1,1,1,4,4,2,2,2,4,ane,ts,mo
+401,Dr kiran kumar,Dr kiran kumar,,,MO5,MO5,Yadadri Bhuvanagiri,Yadadri,,,,,7893450678,7893450678,21-08-2021,21-08-2021,1,1,2,1,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+402,Archana,Arc,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,9966295445,9966295445,09-08-2021,09-08-2021,2,1,2,2,1,3,2,2,3,3,3,1,2,2,4,4,1,1,4,4,ane,ts,mo
+404,Dr M Aravinda,Dr M Aravinda,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,9491999968,9491999968,09-08-2021,09-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+405,Dr.R.Harshavardhini,Dr.R.Harshavardhini,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,7702654093,7702654093,09-08-2021,09-08-2021,1,1,2,2,4,4,4,4,3,1,2,1,2,2,4,4,1,2,4,4,ane,ts,mo
+408,Dr Ravali,Dr Ravali,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,9515248380,9515248380,09-08-2021,09-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,2,1,4,4,ane,ts,mo
+409,Dr M Archana,Dr M Archana,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,7799679728,7799679728,09-08-2021,09-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,2,1,4,4,ane,ts,mo
+410,Dr Deepthi n,Dr Deepthi,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,9959465802,9959465802,09-08-2021,09-08-2021,2,2,2,2,2,4,4,4,1,1,1,1,2,1,4,4,1,1,4,4,ane,ts,mo
+413,Dr srinivas kamini,Dr srinivas kamini,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,9160866747,9160866747,09-08-2021,09-08-2021,1,1,1,1,4,4,2,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+414,Dr sreedevi k,Dr sreedevi k,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,9866079080,9866079080,09-08-2021,09-08-2021,1,1,1,1,4,4,4,4,3,3,2,1,2,3,4,4,2,1,4,1,ane,ts,mo
+415,Dr k himabindu,Dr k himabindu,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,9866409771,9866409771,09-08-2021,09-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,2,2,4,4,2,1,4,4,ane,ts,mo
+416,Dr RAVITEJA P,Dr RAVITEJA P,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,9985555290,9985555290,09-08-2021,09-08-2021,1,1,1,2,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+417,Sindhuja,Sindhuja,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,9866696323,9866696323,09-08-2021,09-08-2021,2,1,1,1,4,4,4,4,1,1,1,1,1,2,1,4,1,1,1,1,ane,ts,mo
+420,Dr MD Yakub Pasha P O MHN,Dr MD Yakub Pasha P O MHN,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,9849014737,9849014737,09-08-2021,09-08-2021,1,1,2,1,4,4,2,2,3,3,3,3,2,2,4,4,1,1,4,1,ane,ts,mo
+423,Dr V. Sandhya Rani,Dr V. Sandhya Rani,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9985168728,9985168728,10-08-2021,10-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+425,Dr Madhuri,Dr Madhuri,,,MO6,MO6,Hyderabad,Hyderabad,,,,,6302806986,6302806986,10-08-2021,10-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+426,Dr Arun Kumar joshi,Dr Arun Kumar joshi,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9966082116,9966082116,10-08-2021,10-08-2021,3,1,1,2,4,4,2,2,3,3,1,1,2,1,4,4,1,1,4,4,ane,ts,mo
+428,Dr.pragnya,Dr.pragnya,,,MO6,MO6,Hyderabad,Hyderabad,,,,,8185027847,8185027847,10-08-2021,10-08-2021,1,1,2,1,2,4,2,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+429,Dr Rana tabassum,Dr Rana tabassum,,,MO6,MO6,Hyderabad,Hyderabad,,,,,7093621500,7093621500,10-08-2021,10-08-2021,1,1,2,2,4,4,2,4,3,3,2,1,2,2,4,4,1,1,1,1,ane,ts,mo
+430,Dr Maimoona,Dr Maimoona,,,MO6,MO6,Hyderabad,Hyderabad,,,,,6304121855,6304121855,10-08-2021,10-08-2021,1,1,2,1,4,4,2,4,3,3,2,1,2,2,4,4,1,1,1,4,ane,ts,mo
+431,Dr Syeda Sarah Ali,Dr Syeda Sarah Ali,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9182045901,9182045901,10-08-2021,10-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,2,2,4,4,1,1,1,1,ane,ts,mo
+433,Dr T Vijaya krishna,Dr T Vijaya krishna,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9849698238,9849698238,10-08-2021,10-08-2021,1,1,2,1,4,4,2,4,1,3,1,1,2,2,4,4,1,2,4,4,ane,ts,mo
+434,Dr.P.Annapurna,dr.p.nnapurna,,,MO6,MO6,Hyderabad,Hyderabad,,,,,7893885301,7893885301,10-08-2021,10-08-2021,1,1,2,2,4,2,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+436,DR ANASOORI VEENA,DR ANASOORI VEENA,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9441314007,9441314007,10-08-2021,10-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+437,M.Santhoshi Jaha,M.Santhoshi Jaha,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9573678070,9573678070,10-08-2021,10-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+438,Dr Bushra Nousheen,Dr Bushra Nousheen,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9866291133,9866291133,10-08-2021,10-08-2021,1,1,2,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+439,Dr Jaipal Reddy,Dr Jaipal Reddy,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9848269558,9848269558,10-08-2021,10-08-2021,1,1,1,1,4,4,4,4,3,3,2,1,1,1,4,4,1,1,4,4,ane,ts,mo
+440,Dr muralidhar,Dr muralidhar,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9441136611,9441136611,10-08-2021,10-08-2021,1,1,1,1,4,2,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+441,Dr veena,Dr veena,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9000993590,9000993590,11-08-2021,11-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,4,1,4,4,ane,ts,mo
+442,P.mamatha,P.mamatha,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9014757152,9014757152,11-08-2021,11-08-2021,1,1,1,1,4,2,2,2,3,3,2,1,1,1,4,4,1,1,4,4,ane,ts,mo
+443,A.Annapurna,A.Annapurna,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9948084946,9948084946,11-08-2021,11-08-2021,1,1,1,1,4,2,2,2,3,3,2,1,2,1,4,4,1,1,4,4,ane,ts,mo
+444,B. Kezia,B. Kezia,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9908474128,9908474128,11-08-2021,11-08-2021,1,1,1,1,4,4,2,2,3,3,2,2,2,2,4,4,1,1,4,4,ane,ts,mo
+446,Dr.Sana Yasmeen,Dr.Sana Yasmeen,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9666220787,9666220787,11-08-2021,11-08-2021,1,1,2,1,4,4,2,2,3,3,1,1,1,4,4,4,1,1,4,4,ane,ts,mo
+447,Dr k Ramakrishna,Dr k Ramakrishna,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9440385551,9440385551,11-08-2021,11-08-2021,1,1,1,1,4,2,2,2,3,3,2,1,2,1,4,4,1,1,4,4,ane,ts,mo
+448,Dr.D.Lingamurthy,Dr.D.Lingamurthy,,,MO6,MO6,Hyderabad,Hyderabad,,,,,8686143438,8686143438,11-08-2021,11-08-2021,1,1,1,1,2,3,4,4,3,3,1,1,3,3,4,4,1,1,1,4,ane,ts,mo
+450,Dr Ravali Gandham,Dr Ravali Gandham,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9666946762,9666946762,11-08-2021,11-08-2021,1,1,1,2,4,3,2,4,3,3,3,3,2,1,1,4,1,1,4,4,ane,ts,mo
+451,Dr mounika vandana,Dr mounika vandana,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9966513377,9966513377,11-08-2021,11-08-2021,1,1,1,1,4,4,4,4,3,3,2,1,1,2,4,4,2,1,4,4,ane,ts,mo
+452,DR WAJIHUDDIN,DR MOHD WAJIHUDDIN,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9177151351,9177151351,11-08-2021,11-08-2021,1,1,2,2,4,4,2,2,3,3,1,1,2,2,1,1,1,1,4,1,ane,ts,mo
+453,Pavani parsa,Pavani parsa,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9848823895,9848823895,11-08-2021,11-08-2021,1,1,1,1,4,4,4,4,1,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+454,Dr RAJASEKHAR PEDDAPAKA,Dr RAJASEKHAR PEDDAPAKA,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9866370222,9866370222,11-08-2021,11-08-2021,2,1,2,2,2,2,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+455,G Geetharani,G Geetharani,,,MO6,MO6,Hyderabad,Hyderabad,,,,,8374052529,8374052529,11-08-2021,11-08-2021,1,1,2,1,3,2,4,2,3,3,2,1,1,1,4,4,1,1,4,4,ane,ts,mo
+456,Prashanthi,Prashanthi,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9063854357,9063854357,11-08-2021,11-08-2021,2,1,2,1,2,3,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+457,Dr Geetha,Dr Geetha,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9441024463,9441024463,11-08-2021,11-08-2021,1,1,1,2,1,4,4,4,3,3,3,2,1,1,4,4,1,1,2,4,ane,ts,mo
+458,Dr.deepthi ji,Dr.deepthi,,,MO6,MO6,Hyderabad,Hyderabad,,,,,8247377262,8247377262,11-08-2021,11-08-2021,1,1,2,1,3,4,2,4,1,3,1,1,1,2,1,4,1,1,4,4,ane,ts,mo
+459,Dr.krishna.mohan,Dr.krishna.mohan,,,MO6,MO6,Hyderabad,Hyderabad,,,,,8500120137,8500120137,11-08-2021,11-08-2021,1,1,2,3,2,3,4,4,1,3,3,1,1,1,1,1,2,2,1,1,ane,ts,mo
+460,P JASPER joyce,P JASPER joyce,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9703924499,9703924499,12-08-2021,12-08-2021,1,1,2,2,4,4,4,4,1,3,1,2,2,2,4,4,1,1,4,4,ane,ts,mo
+461,Syeda khairunnisa uzma,Syeda khairunnisa uzma,,,MO6,MO6,Hyderabad,Hyderabad,,,,,8919157804,8919157804,12-08-2021,12-08-2021,1,1,2,1,4,4,4,4,1,1,2,1,3,2,4,4,1,1,4,4,ane,ts,mo
+462,Dr.Adeeba thalath Khan,Dr.Adeeba thalath Khan,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9390660363,9390660363,12-08-2021,12-08-2021,1,1,1,1,4,4,2,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+463,Dr. Huma kauser,Dr. Huma kauser,,,MO6,MO6,Hyderabad,Hyderabad,,,,,8374715968,8374715968,12-08-2021,12-08-2021,1,1,2,2,4,4,4,4,1,3,1,1,1,1,4,1,1,1,4,4,ane,ts,mo
+464,Dr.Snehika,Dr.Snehika,,,MO6,MO6,Hyderabad,Hyderabad,,,,,8125642907,8125642907,12-08-2021,12-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+469,Dr.Chandana,Dr.Chandana,,,MO6,MO6,Hyderabad,Hyderabad,,,,,8008882542,8008882542,13-08-2021,13-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+471,Dr. A. Srivani,Dr. A. Srivani,,,MO6,MO6,Hyderabad,Hyderabad,,,,,7330828009,7330828009,13-08-2021,13-08-2021,1,1,1,1,4,4,2,2,3,3,1,1,2,2,4,4,4,1,4,1,ane,ts,mo
+472,Dr. Asha jyoti,Dr. Asha jyoti,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9885874314,9885874314,13-08-2021,13-08-2021,1,1,1,1,4,2,4,4,3,3,2,1,2,1,4,4,1,1,4,4,ane,ts,mo
+473,Kranthi Kumar,Kranthi Kumar,,,MO6,MO6,Hyderabad,Hyderabad,,,,,8919106633,8919106633,13-08-2021,13-08-2021,1,1,1,1,4,4,2,2,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+475,Dr B NIKITHA,Dr B NIKITHA,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9000655719,9000655719,13-08-2021,13-08-2021,2,1,1,1,4,4,4,4,3,3,2,1,1,1,4,4,1,1,4,4,ane,ts,mo
+476,Dr. Nishitha,Dr. Nishitha,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9985143700,9985143700,13-08-2021,13-08-2021,1,1,1,1,4,4,4,4,1,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+477,Dr Amir Siddiqi,Dr Amir Siddiqi,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9491657916,9491657916,13-08-2021,13-08-2021,2,1,2,2,4,4,2,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+478,Dr. G. Rajalakshmi,Dr. G. Rajalakshmi,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9849107473,9849107473,13-08-2021,13-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+479,G. sudha Rani,G. Sudha Rani,,,MO6,MO6,Hyderabad,Hyderabad,,,,,7207406982,7207406982,13-08-2021,13-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+480,Dr K sushmitha,Dr K sushmitha,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9502031613,9502031613,13-08-2021,13-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+481,Dr.Javaria Begum,Dr.Javaria Begum,,,MO6,MO6,Hyderabad,Hyderabad,,,,,8500111195,8500111195,13-08-2021,13-08-2021,1,1,2,2,4,4,2,2,3,3,1,1,4,2,1,4,1,1,4,4,ane,ts,mo
+482,Dr Ashritha,Dr Ashritha,,,MO6,MO6,Hyderabad,Hyderabad,,,,,8790594868,8790594868,13-08-2021,13-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,2,2,4,4,1,2,4,4,ane,ts,mo
+483,Dr Durga Kiran VVRS,Dr Durga Kiran VVRS,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9550332882,9550332882,13-08-2021,13-08-2021,1,1,2,2,4,4,2,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+484,Dr Srimannarayana,Dr Srimannarayana,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9440378185,9440378185,13-08-2021,13-08-2021,1,1,2,2,4,3,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+485,C sirisha,C sirisha,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9642037406,9642037406,14-08-2021,14-08-2021,1,1,1,1,4,4,4,4,1,1,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+486,G Swetha,G SWETHA,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9849642814,9849642814,14-08-2021,14-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+487,Dr. S. Lakshmi,Dr. S. Lakshmi,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9848047030,9848047030,14-08-2021,14-08-2021,1,1,2,1,4,4,4,4,3,3,2,1,1,2,4,4,1,1,4,4,ane,ts,mo
+488,Dr.k.shruthi,Dr.k.shruthi,,,MO6,MO6,Hyderabad,Hyderabad,,,,,7013392998,7013392998,14-08-2021,14-08-2021,1,1,2,1,4,4,2,2,1,3,1,1,1,1,2,4,1,1,4,4,ane,ts,mo
+489,Dr.Sri Valli.I,Dr.Sri Valli.I,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9949871794,9949871794,14-08-2021,14-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+490,G Sushma rao,G Sushma rao,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9550539353,9550539353,14-08-2021,14-08-2021,1,1,2,1,4,4,4,4,3,3,1,1,2,2,4,4,2,1,4,4,ane,ts,mo
+491,Dr Nazia kamal,Dr Nazia kamal,,,MO6,MO6,Hyderabad,Hyderabad,,,,,9912000786,9912000786,14-08-2021,14-08-2021,1,1,2,1,3,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+492,Dr mrudhula,Dr mrudhula,,,MO6,MO6,Hyderabad,Hyderabad,,,,,7799510558,7799510558,14-08-2021,14-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+500,E venkatadadan,E venkatadadan,,,MO6,MO6,Narayanpet,Narayanpet,,,,,9966619063,9966619063,17-08-2021,17-08-2021,1,1,1,1,4,4,2,2,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+502,D.kistamma,D.kistamma,,,MO6,MO6,Narayanpet,Narayanpet,,,,,9502187101,9502187101,17-08-2021,17-08-2021,1,1,2,2,4,4,2,2,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+503,Dr B raghavender,Dr B raghavender,,,MO6,MO6,Narayanpet,Narayanpet,,,,,9966423925,9966423925,17-08-2021,17-08-2021,1,1,1,1,4,4,2,2,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+504,Dr. B.V Naresh Chandra,Dr. B.V Naresh Chandra,,,MO6,MO6,Narayanpet,Narayanpet,,,,,8008682724,8008682724,17-08-2021,17-08-2021,1,1,2,2,4,4,2,2,3,3,1,1,1,1,4,4,2,2,4,4,ane,ts,mo
+505,Dr Rahmath,Dr Rahmath,,,MO6,MO6,Narayanpet,Narayanpet,,,,,6304465228,6304465228,17-08-2021,17-08-2021,1,1,1,1,2,2,4,4,3,3,1,1,2,2,4,4,1,1,2,4,ane,ts,mo
+507,dr srikanth reddy,dr srikanth reddy,,,MO6,MO6,Narayanpet,Narayanpet,,,,,8125218065,8125218065,17-08-2021,17-08-2021,1,1,2,2,4,4,4,4,4,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+508,N.S.SRIKANTH,N.S.SRIKANTH,,,MO6,MO6,Narayanpet,Narayanpet,,,,,8686939345,8686939345,17-08-2021,17-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+509,DR.M.SREEMANTH,DR.M.SREEMANTH,,,MO6,MO6,Narayanpet,Narayanpet,,,,,9133706835,9133706835,17-08-2021,17-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+511,Dr.sunil dath,Dr.sunil dath,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,9908900559,9908900559,19-08-2021,19-08-2021,1,1,2,2,4,3,2,2,3,3,2,3,2,2,4,4,1,1,1,1,ane,ts,mo
+512,Dr Dileep Kumar B,Dr Dileep Kumar B,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,8074629600,8074629600,19-08-2021,19-08-2021,1,1,2,2,3,4,4,4,3,3,1,1,1,2,4,4,4,3,4,4,ane,ts,mo
+513,Dr mohansingh,Dr mohansingh jo,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,9885949508,9885949508,19-08-2021,19-08-2021,1,2,2,2,3,1,4,4,3,3,1,1,3,1,4,4,3,2,1,4,ane,ts,mo
+515,Aravindh Reddy,Aravindh Reddy,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,9959060455,9959060455,19-08-2021,19-08-2021,1,1,2,1,4,4,2,2,3,3,2,1,2,2,4,4,2,1,4,4,ane,ts,mo
+516,Dr Pradeep Reddy,Dr Pradeep Reddy,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,8328107280,8328107280,19-08-2021,19-08-2021,1,1,2,2,1,4,4,2,3,3,1,1,1,2,4,4,2,1,3,4,ane,ts,mo
+517,R.Subhash kumar,R.Subhash kumar,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,9866971637,9866971637,19-08-2021,19-08-2021,2,2,2,2,2,2,2,2,3,3,2,3,2,2,4,4,4,1,4,4,ane,ts,mo
+518,Dr Shahla Masood,Dr Shahla  Masood,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,9490563255,9490563255,19-08-2021,19-08-2021,1,1,2,2,4,4,4,4,3,3,2,3,2,2,4,4,1,1,4,4,ane,ts,mo
+519,Dr suman,Dr suman,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,8639215079,8639215079,19-08-2021,19-08-2021,1,1,1,2,4,4,4,4,3,3,1,1,4,4,4,4,3,3,2,4,ane,ts,mo
+526,Dr.R.Srinivas,Dr.R.Srinivas,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,9948581023,9948581023,21-08-2021,21-08-2021,4,1,2,1,4,2,3,4,3,3,2,2,3,1,4,4,4,1,4,4,ane,ts,mo
+527,DR NAGARAJU SOORAM,DR NAGARAJU SOORAM,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,9866440561,9866440561,21-08-2021,21-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,2,2,4,4,4,1,4,4,ane,ts,mo
+528,Bharaththangellapally,Bharaththangellapally,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,8897321328,8897321328,21-08-2021,21-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+529,Vijay,Vijay,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,9703497143,9703497143,21-08-2021,21-08-2021,1,1,1,1,4,4,4,4,3,3,2,2,2,1,4,4,1,1,4,4,ane,ts,mo
+530,Dr b arun,Dr arun,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,9985766088,9985766088,21-08-2021,21-08-2021,1,1,1,1,4,4,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+531,Dr madhulatha,Dr madhulatha,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,7893671173,7893671173,21-08-2021,21-08-2021,1,1,2,1,4,4,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+532,Dr M Soujanya,Dr M Soujanya,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,7702854580,7702854580,21-08-2021,21-08-2021,1,1,2,1,4,4,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+533,Dr P Sushma,Dr P Sushma,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,9573560954,9573560954,21-08-2021,21-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,2,1,4,4,ane,ts,mo
+534,Dr M priyanka,Dr M Priyanka,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,8008754788,8008754788,21-08-2021,21-08-2021,1,1,1,1,4,4,4,4,3,3,2,1,1,2,4,4,2,1,4,4,ane,ts,mo
+535,Malika,Malika,,,MO6,MO6,Warangal Urban,Warangal Urban,,,,,7981319343,7981319343,21-08-2021,21-08-2021,1,1,2,2,1,4,2,2,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+540,SUMANTH KUMAR THANGELLA,SUMANTH KUMAR THANGELLA,,,mo7,mo7,Warangal Rural,Warangal Rural,,,,,9440345097,9440345097,10-08-2021,10-08-2021,1,1,2,2,4,4,4,4,3,3,2,2,2,2,4,4,2,2,4,4,ane,ts,mo
+552,Dr sasikiran,Dr sasikiran,,,mo7,mo7,Jogulamba Gadwal,Jogulamba Gadwal,,,,,9989806092,9989806092,12-08-2021,12-08-2021,1,1,1,2,3,2,4,4,3,3,3,1,1,1,1,4,1,1,4,1,ane,ts,mo
+553,DR SHASHIKALA,DR SHASHIKALA,,,mo7,mo7,Jogulamba Gadwal,Jogulamba Gadwal,,,,,9440914257,9440914257,12-08-2021,12-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+554,Dr. Yamuna,Dr. Yamuna,,,mo7,mo7,Jogulamba Gadwal,Jogulamba Gadwal,,,,,7893625924,7893625924,12-08-2021,12-08-2021,1,1,1,1,4,1,4,4,3,3,2,1,2,2,1,4,1,1,4,4,ane,ts,mo
+555,Dr.savitha,Dr.savitha,,,mo7,mo7,Jogulamba Gadwal,Jogulamba Gadwal,,,,,9030032031,9030032031,12-08-2021,12-08-2021,1,1,1,2,1,2,4,4,3,3,3,1,1,1,1,4,1,1,1,4,ane,ts,mo
+556,Dr. Swaroopa,Dr. Swaroopa,,,mo7,mo7,Jogulamba Gadwal,Jogulamba Gadwal,,,,,9182688513,9182688513,12-08-2021,12-08-2021,1,1,2,2,4,3,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+558,Dr. Suresh,Dr. Suresh,,,mo7,mo7,Jogulamba Gadwal,Jogulamba Gadwal,,,,,9542725325,9542725325,12-08-2021,12-08-2021,1,1,2,2,4,4,4,4,3,3,1,2,1,1,4,4,1,2,4,4,ane,ts,mo
+559,Dr.jayaraju,Dr.jayaraju,,,mo7,mo7,Jogulamba Gadwal,Jogulamba Gadwal,,,,,9866618171,9866618171,12-08-2021,12-08-2021,1,1,2,1,4,4,4,4,3,3,2,1,1,1,4,4,1,1,4,4,ane,ts,mo
+560,Dr rajasimha,Dr rajasimha,,,mo7,mo7,Jogulamba Gadwal,Jogulamba Gadwal,,,,,9948051442,9948051442,12-08-2021,12-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+561,Dr MALAKONDAIAH,Dr MALAKONDAIAH,,,mo7,mo7,Jogulamba Gadwal,Jogulamba Gadwal,,,,,9440075451,9440075451,12-08-2021,12-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,2,1,4,4,1,1,4,4,ane,ts,mo
+562,G.Sravanthi,G.Sravanthi,,,mo7,mo7,Jogulamba Gadwal,Jogulamba Gadwal,,,,,9652252795,9652252795,12-08-2021,12-08-2021,1,1,1,1,4,4,2,2,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+564,Sravanthi,Sravanthi,,,mo7,mo7,Jangaon,Jangaon,,,,,9010595887,9010595887,18-08-2021,18-08-2021,4,1,4,2,4,4,2,2,1,3,4,2,3,2,3,4,3,1,3,1,ane,ts,mo
+565,Dr D mounica,Dr D mounica,,,mo7,mo7,Jangaon,Jangaon,,,,,9030112105,9030112105,18-08-2021,18-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,2,2,4,4,2,2,4,4,ane,ts,mo
+566,Yarava Abhijna Reddy,Yarava Abhijna Reddy,,,mo7,mo7,Jangaon,Jangaon,,,,,7013670387,7013670387,18-08-2021,18-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,2,2,4,4,2,2,4,4,ane,ts,mo
+567,Dr.priyanka,Dr.priyanka,,,mo7,mo7,Jangaon,Jangaon,,,,,7799097345,7799097345,18-08-2021,18-08-2021,1,1,1,2,4,4,2,2,3,3,1,1,1,1,2,4,1,1,4,4,ane,ts,mo
+568,Dr.naveen kumar,Dr.naveen kumar,,,mo7,mo7,Jangaon,Jangaon,,,,,9703802283,9703802283,18-08-2021,18-08-2021,1,1,2,2,2,4,4,4,3,1,2,2,2,1,4,4,2,2,4,4,ane,ts,mo
+569,Anusha nareddy,Anusha nareddy,,,mo7,mo7,Jangaon,Jangaon,,,,,8886786699,8886786699,18-08-2021,18-08-2021,2,1,1,1,4,4,2,4,1,1,1,1,2,2,4,4,1,1,1,4,ane,ts,mo
+570,Dr. Vijay Kiran,Dr. Vijay Kiran,,,mo7,mo7,Jangaon,Jangaon,,,,,9951260029,9951260029,18-08-2021,18-08-2021,1,1,2,2,3,1,4,4,3,3,2,1,1,1,4,4,2,4,4,4,ane,ts,mo
+571,DrPKarunakarRaju,DrPKarunakarRaju,,,mo7,mo7,Jangaon,Jangaon,,,,,9490454536,9490454536,18-08-2021,18-08-2021,1,1,1,1,2,1,4,4,3,3,2,1,1,1,4,4,1,1,4,1,ane,ts,mo
+572,Bhookya Raju,Bhookya Raju,,,mo7,mo7,Jangaon,Jangaon,,,,,9390308965,9390308965,18-08-2021,18-08-2021,1,1,2,2,4,4,4,4,3,3,2,2,1,1,1,4,1,1,2,2,ane,ts,mo
+573,Dr srivani,Dr srivani,,,mo7,mo7,Jangaon,Jangaon,,,,,9492876123,9492876123,18-08-2021,18-08-2021,1,1,2,1,3,4,4,4,1,1,1,1,1,4,4,4,1,1,4,4,ane,ts,mo
+574,Dr.N.kalpanadevi,Dr.N.kalpanadevi,,,mo7,mo7,Jangaon,Jangaon,,,,,7660856725,7660856725,18-08-2021,18-08-2021,1,1,1,1,3,3,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+575,Dr. Asha devi,Dr Asha Devi,,,mo7,mo7,Jangaon,Jangaon,,,,,8686428696,8686428696,18-08-2021,18-08-2021,2,1,2,1,3,3,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+576,Dr Bhajanlal Naik,Dr Bhajanlal Naik,,,mo7,mo7,Jangaon,Jangaon,,,,,9640504215,9640504215,18-08-2021,18-08-2021,1,1,2,1,1,4,2,2,3,3,1,2,1,1,4,4,1,1,4,4,ane,ts,mo
+579,Dr D srinath,Dr D Srinath,,,MO8,MO8,Jayashankar Bhupalapally,Jayashankar Bhupalpally,,,,,8919751634,8919751634,11-08-2021,11-08-2021,1,1,2,2,4,2,4,4,1,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+580,Dr. Alle Raju,Dr.Alle. Raju,,,MO8,MO8,Jayashankar Bhupalapally,Jayashankar Bhupalpally,,,,,9347831688,9347831688,11-08-2021,13-08-2021,1,1,2,1,3,3,2,4,3,3,1,1,1,1,1,4,3,1,2,4,ane,ts,mo
+581,Dr.K sai sudhamsha,Dr.K sai sudhamsha,,,MO8,MO8,Jayashankar Bhupalapally,Jayashankar Bhupalpally,,,,,9515692277,9515692277,11-08-2021,11-08-2021,1,1,2,2,3,3,2,2,3,3,1,1,1,1,1,4,2,1,2,4,ane,ts,mo
+582,Dr k pravalika,Dr k pravalika,,,MO8,MO8,Jayashankar Bhupalapally,Jayashankar Bhupalpally,,,,,9440062988,9440062988,11-08-2021,11-08-2021,1,1,2,2,4,4,4,4,1,1,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+583,Dr a.jyothi,Dr a jyothi,,,MO8,MO8,Jayashankar Bhupalapally,Jayashankar Bhupalpally,,,,,9491642052,9491642052,11-08-2021,11-08-2021,1,1,1,2,4,4,2,2,1,1,1,1,2,2,4,4,2,1,4,4,ane,ts,mo
+584,Dr.Akhil,Dr.Akhil,,,MO8,MO8,Jayashankar Bhupalapally,Jayashankar Bhupalpally,,,,,9703653499,9703653499,11-08-2021,11-08-2021,1,1,1,2,4,4,4,4,1,1,1,1,2,2,4,4,2,1,4,4,ane,ts,mo
+585,Dr. E.Nagasri,Dr. E.Nagasri,,,MO8,MO8,Jayashankar Bhupalapally,Jayashankar Bhupalpally,,,,,7680894149,7680894149,11-08-2021,11-08-2021,1,1,1,2,4,4,4,4,1,3,2,1,1,2,4,4,1,1,4,4,ane,ts,mo
+586,Dr.Gopinath,Dr.Gopinath,,,MO8,MO8,Jayashankar Bhupalapally,Jayashankar Bhupalpally,,,,,9652550306,9652550306,11-08-2021,11-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+587,Dr Ravi Kumar,Dr Ravi Kumar,,,MO8,MO8,Jayashankar Bhupalapally,Jayashankar Bhupalpally,,,,,9701615302,9701615302,11-08-2021,11-08-2021,1,1,2,2,1,1,4,4,3,3,1,1,2,2,4,4,2,1,4,4,ane,ts,mo
+588,Dr.S.Niharika,Dr.S.Niharika,,,MO8,MO8,Jayashankar Bhupalapally,Jayashankar Bhupalpally,,,,,9949820050,9949820050,11-08-2021,11-08-2021,1,1,1,2,4,4,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+589,Lavanya,Lavanya,,,MO8,MO8,Jayashankar Bhupalapally,Jayashankar Bhupalpally,,,,,9642463333,9642463333,11-08-2021,11-08-2021,1,1,1,1,4,4,4,4,1,3,1,1,1,2,4,4,1,1,1,4,ane,ts,mo
+591,Dr v.Umadevi,Dr v.Umadevi,,,MO8,MO8,Jayashankar Bhupalapally,Jayashankar Bhupalpally,,,,,9985810455,9985810455,11-08-2021,11-08-2021,1,1,1,1,3,3,4,4,3,3,3,3,2,2,4,4,1,1,4,4,ane,ts,mo
+592,Jayapal,Jayapal,,,MO8,MO8,Jayashankar Bhupalapally,Jayashankar Bhupalpally,,,,,8008806487,8008806487,11-08-2021,11-08-2021,1,1,2,2,4,4,4,4,3,1,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+594,K Shubhaker,K Shubhaker,,,MO8,MO8,Nizamabad,Nizambad,,,,,9052521990,9052521990,13-08-2021,12-08-2021,1,1,2,1,4,4,2,2,3,3,4,1,2,2,4,4,1,1,4,4,ane,ts,mo
+595,Dr.Deepthi,Dr Deepthi,,,MO8,MO8,Nizamabad,Nizambad,,,,,9912985501,9912985501,12-08-2021,12-08-2021,2,1,1,1,4,2,2,2,1,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+597,Dr M Ashok,Dr M Ashok,,,MO8,MO8,Nizamabad,Nizambad,,,,,9441395868,9441395868,12-08-2021,12-08-2021,1,1,2,2,4,4,4,4,1,1,3,1,1,1,4,4,1,1,4,4,ane,ts,mo
+598,A GANGAREDDY,A GANGAREDDY,,,MO8,MO8,Nizamabad,Nizambad,,,,,9493541213,9493541213,12-08-2021,12-08-2021,1,1,2,1,2,2,4,4,3,3,2,1,1,2,4,4,1,2,4,4,ane,ts,mo
+599,Dr Stefi Rani,Dr Stefi Rani,,,MO8,MO8,Nizamabad,Nizambad,,,,,9492010264,9492010264,12-08-2021,12-08-2021,2,1,1,1,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+601,Dr.S.Ravi shanker,Dr.S.Ravi shanker,,,MO8,MO8,Nizamabad,Nizambad,,,,,7396937108,7396937108,12-08-2021,12-08-2021,1,1,2,2,4,4,4,4,1,3,3,1,1,1,4,1,1,1,4,4,ane,ts,mo
+602,Dr R Bhaskara Rao,Dr R Bhaskara Rao,,,MO8,MO8,Nizamabad,Nizambad,,,,,9912075239,9912075239,12-08-2021,12-08-2021,1,1,2,1,4,2,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+603,Dr.Naveen Kumar.G,Dr.Naveen Kumar.G,,,MO8,MO8,Nizamabad,Nizambad,,,,,9441813135,9441813135,12-08-2021,12-08-2021,1,1,2,1,4,2,2,2,3,3,2,1,2,2,4,4,2,1,1,4,ane,ts,mo
+604,Dr.K Ratan Singh,Dr. K Ratan Singh,,,MO8,MO8,Nizamabad,Nizambad,,,,,9985358599,9985358599,12-08-2021,12-08-2021,1,1,1,1,4,2,4,4,1,3,1,1,1,1,1,4,1,1,4,4,ane,ts,mo
+605,Dr ayesha firdouse,Dr ayesha firdouse,,,MO8,MO8,Nizamabad,Nizambad,,,,,9440354339,9440354339,12-08-2021,12-08-2021,1,1,1,1,4,4,4,4,1,1,2,1,2,2,1,1,1,1,4,4,ane,ts,mo
+606,Noonavath sikinder naik,Noonavath sikinder naik,,,MO8,MO8,Nizamabad,Nizambad,,,,,9848980945,9848980945,12-08-2021,12-08-2021,1,1,2,1,4,4,4,4,3,3,1,1,2,1,4,1,1,1,1,2,ane,ts,mo
+607,Naina,Naina,,,MO8,MO8,Nizamabad,Nizambad,,,,,9848447388,9848447388,12-08-2021,12-08-2021,1,1,2,1,4,2,4,4,3,1,2,1,2,2,4,4,1,1,2,4,ane,ts,mo
+608,Dr G sucharitha,Dr G sucharitha,,,MO8,MO8,Nizamabad,Nizambad,,,,,6303568454,6303568454,12-08-2021,12-08-2021,2,1,2,2,2,2,4,4,3,3,3,1,1,2,4,4,1,1,4,4,ane,ts,mo
+609,Dr.U .Mohan,Dr.U .Mohan,,,MO8,MO8,Nizamabad,Nizambad,,,,,9550013177,9550013177,13-08-2021,13-08-2021,1,1,2,1,4,4,4,4,1,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+610,Dr Ateef uddin,Dr Ateef uddin,,,MO8,MO8,Nizamabad,Nizambad,,,,,8500053902,8500053902,13-08-2021,13-08-2021,2,1,2,2,4,4,4,4,3,3,2,1,1,2,4,4,1,1,4,4,ane,ts,mo
+611,Dr.M.srilatha,Dr.M.srilatha,,,MO8,MO8,Nizamabad,Nizambad,,,,,9247284157,9247284157,13-08-2021,13-08-2021,1,1,2,1,4,4,4,4,1,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+612,P.prameeda,P.prameeda,,,MO8,MO8,Nizamabad,Nizambad,,,,,9494560060,9494560060,13-08-2021,13-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+613,Dr Naga Jyothi,Dr Naga Jyothi,,,MO8,MO8,Nizamabad,Nizambad,,,,,9491644440,9491644440,13-08-2021,13-08-2021,1,1,1,1,4,4,4,4,3,3,2,1,1,2,4,4,1,1,4,4,ane,ts,mo
+614,A Ashwini,A Ashwini,,,MO8,MO8,Nizamabad,Nizambad,,,,,9000594761,9000594761,13-08-2021,13-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+615,Dr. Saritha. B,Dr. Saritha,,,MO8,MO8,Nizamabad,Nizambad,,,,,9032388666,9032388666,13-08-2021,13-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+616,Dr.ambika,Dr.ambika,,,MO8,MO8,Nizamabad,Nizambad,,,,,8184989910,8184989910,13-08-2021,13-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,2,2,4,4,ane,ts,mo
+617,Samrat yadav,Samrat yadav,,,MO8,MO8,Nizamabad,Nizambad,,,,,8886421236,8886421236,13-08-2021,13-08-2021,1,1,2,1,4,4,4,2,1,3,2,1,1,1,1,1,1,2,1,1,ane,ts,mo
+618,S Narasimha Swamy,S Narasimha Swamy,,,MO8,MO8,Nizamabad,Nizambad,,,,,7013732590,7013732590,13-08-2021,13-08-2021,1,1,1,2,4,2,2,2,3,3,1,1,1,1,1,4,1,1,4,1,ane,ts,mo
+619,Dr D Rekha,Dr D Rekha,,,MO8,MO8,Nizamabad,Nizambad,,,,,9912078910,9912078910,13-08-2021,13-08-2021,1,1,1,2,4,4,4,4,1,3,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+620,Dr naaz,Dr naaz,,,MO8,MO8,Nizamabad,Nizambad,,,,,9985567866,9985567866,13-08-2021,13-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+621,P Madhusudhan,P Madhusudhan,,,MO8,MO8,Nizamabad,Nizambad,,,,,9603467439,9603467439,13-08-2021,06-08-2021,1,1,1,1,4,4,2,2,1,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+625,Dr K Satyajeeth Ray,Dr K Satyajeeth Ray,,,MO8,MO8,Karimnagar,Karimnagar,,,,,9052530007,9052530007,21-08-2021,21-08-2021,1,1,1,2,4,4,2,2,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+626,Dr K. RAMADEVI,Dr K. RAMADEVI,,,MO8,MO8,Karimnagar,Karimnagar,,,,,8985444638,8985444638,21-08-2021,21-08-2021,1,1,1,2,4,4,4,4,3,3,1,1,2,1,4,4,2,1,4,4,ane,ts,mo
+627,Dr Indu,Dr Indu,,,MO8,MO8,Karimnagar,Karimnagar,,,,,9989359148,9989359148,21-08-2021,21-08-2021,1,1,2,2,4,4,2,2,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+628,V.Vasudha Bharadwaj,V.Vasudha Bharadwaj,,,MO8,MO8,Karimnagar,Karimnagar,,,,,8886546626,8886546626,21-08-2021,21-08-2021,1,1,1,1,4,4,2,4,1,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+629,Sridharreddy,Sridharreddy,,,MO8,MO8,Karimnagar,Karimnagar,,,,,9441891334,9441891334,21-08-2021,21-08-2021,1,1,1,2,4,4,4,4,3,3,2,1,2,1,4,4,1,1,4,4,ane,ts,mo
+630,Varuna.kathi,Varuna.kathi,,,MO8,MO8,Karimnagar,Karimnagar,,,,,8522919670,8522919670,21-08-2021,21-08-2021,2,1,2,2,4,4,4,4,1,1,2,2,1,1,4,4,1,1,4,4,ane,ts,mo
+631,Dr Syed Shakeer,Dr Syed Shakeer,,,MO8,MO8,Karimnagar,Karimnagar,,,,,9059555705,9059555705,21-08-2021,21-08-2021,1,1,1,1,4,4,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+633,Dr rajendhar,Dr rajendhar,,,MO8,MO8,Karimnagar,Karimnagar,,,,,9492959116,9492959116,21-08-2021,21-08-2021,1,1,2,1,4,4,2,2,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+634,Dr.syeda farheen fatima,Dr.syeda farheen fatima,,,MO8,MO8,Karimnagar,Karimnagar,,,,,9700376819,9700376819,21-08-2021,21-08-2021,1,1,1,1,2,2,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+635,M Vamshi krishna,M Vamshi krishna,,,MO8,MO8,Karimnagar,Karimnagar,,,,,8179961619,8179961619,21-08-2021,21-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+636,Dr ramadevi,Dr ramadevi,,,MO8,MO8,Karimnagar,Karimnagar,,,,,8985856979,8985856979,21-08-2021,21-08-2021,1,1,2,1,4,3,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+638,Dr. D. Shyam prasad,Dr. D. Shyam prasad,,,MO8,MO8,Karimnagar,Karimnagar,,,,,9959379534,9959379534,21-08-2021,21-08-2021,1,1,2,2,4,4,4,4,2,2,2,1,3,2,4,4,1,1,4,4,ane,ts,mo
+639,Dr B SRINIVAS,Dr B SRINIVAS,,,MO8,MO8,Karimnagar,Karimnagar,,,,,8886577780,8886577780,21-08-2021,21-08-2021,1,1,2,1,4,4,4,4,1,1,1,1,1,1,4,4,2,1,4,4,ane,ts,mo
+640,Dr.T.Swathi,Dr.T.Swathi,,,MO8,MO8,Karimnagar,Karimnagar,,,,,9490284692,9490284692,21-08-2021,21-08-2021,1,1,2,1,2,4,2,2,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+641,Dr k.Raghupathi,Dr k.Raghupathi,,,MO8,MO8,Karimnagar,Karimnagar,,,,,9966291316,9966291316,21-08-2021,21-08-2021,1,1,1,1,4,4,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+642,Bijili Srinivas,Bijili Srinivas,,,MO8,MO8,Karimnagar,Karimnagar,,,,,9440287772,9440287772,21-08-2021,21-08-2021,1,1,2,1,4,4,2,2,3,3,3,1,1,1,4,4,1,1,2,4,ane,ts,mo
+643,Dr. S. Sandhya rani,Dr. S. Sandhya rani,,,MO8,MO8,Karimnagar,Karimnagar,,,,,9491125289,9491125289,21-08-2021,21-08-2021,2,1,2,1,3,4,4,4,3,3,3,1,2,2,4,4,2,1,4,4,ane,ts,mo
+644,Greeshmanya,Greeshmanya,,,MO8,MO8,Karimnagar,Karimnagar,,,,,8801756361,8801756361,21-08-2021,21-08-2021,1,1,2,2,3,3,2,2,3,3,2,1,1,1,1,4,2,2,4,4,ane,ts,mo
+645,Jhansi,Jhansi,,,MO8,MO8,Karimnagar,Karimnagar,,,,,7989790126,7989790126,21-08-2021,21-08-2021,1,1,1,1,4,4,4,4,1,3,1,1,2,2,4,4,4,1,4,4,ane,ts,mo
+646,Dr ramesh,Dr ramesh,,,MO8,MO8,Karimnagar,Karimnagar,,,,,9966302928,9966302928,21-08-2021,21-08-2021,1,1,2,2,2,2,2,2,1,1,1,1,1,1,1,1,2,2,1,1,ane,ts,mo
+647,Radhika Rani,Radhika Rani,,,MO8,MO8,Karimnagar,Karimnagar,,,,,9059293804,9059293804,21-08-2021,21-08-2021,1,1,1,2,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+651,Dr.Esin Muhstaq,Dr.Esin Muhstaq,,,MO9,MO9,Mahabubnagar,Mahabubnagar,,,,,9642837557,9642837557,09-08-2021,09-08-2021,1,1,2,2,4,4,2,4,3,3,2,1,2,1,4,4,2,1,1,4,ane,ts,mo
+652,Dr P.Tulasi,Dr P.Tulasi,,,MO9,MO9,Mahabubnagar,Mahabubnagar,,,,,9848162595,9848162595,09-08-2021,09-08-2021,1,1,1,1,4,4,4,4,3,3,3,1,1,1,4,4,1,1,4,4,ane,ts,mo
+653,Shabana begum,Shabana begum,,,MO9,MO9,Narayanpet,Mahabubnagar,,,,,7799090986,7799090986,09-08-2021,09-08-2021,3,1,1,2,4,4,2,4,3,3,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+654,Dr Shivakanth,Dr Shivakanth,,,MO9,MO9,Mahabubnagar,Mahabubnagar,,,,,8465844772,8465844772,09-08-2021,09-08-2021,1,1,2,1,4,4,2,2,1,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+655,Dr Naveen,Dr Naveen,,,MO9,MO9,Mahabubnagar,Mahabubnagar,,,,,8008571531,8008571531,09-08-2021,09-08-2021,1,1,2,2,4,1,4,4,1,3,1,2,2,1,4,4,1,1,4,1,ane,ts,mo
+656,Dr Naresh,Dr naresh,,,MO9,MO9,Mahabubnagar,Mahabubnagar,,,,,9949512141,9949512141,09-08-2021,09-08-2021,2,1,2,2,3,4,2,2,3,3,1,1,2,2,4,4,2,1,1,4,ane,ts,mo
+657,Dr Satyanarayana,Dr Satyanarayana,,,MO9,MO9,Mahabubnagar,Mahabubnagar,,,,,9966428222,9966428222,09-08-2021,09-08-2021,3,1,1,1,2,4,2,4,3,3,1,1,2,2,4,4,2,2,4,4,ane,ts,mo
+658,Dr Radhika,Dr Radhika,,,MO9,MO9,Mahabubnagar,Mahabubnagar,,,,,9542978046,9542978046,09-08-2021,09-08-2021,2,1,1,1,4,4,4,4,1,1,2,1,2,2,4,4,1,1,4,1,ane,ts,mo
+659,Dr.Mohammed Asgar Ali,Dr.Mohammed Asgar Ali,,,MO9,MO9,Mahabubnagar,Mahabubnagar,,,,,9885621303,9885621303,09-08-2021,09-08-2021,1,1,2,2,4,4,4,4,1,3,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+660,Dr pragathi,Dr pragathi,,,MO9,MO9,Mahabubnagar,Mahabubnagar,,,,,9666633813,9666633813,09-08-2021,09-08-2021,2,1,1,1,4,4,4,4,1,1,3,1,2,2,4,4,1,1,4,4,ane,ts,mo
+661,Dr prathap chouhan m,Dr prathap chouhan m,,,MO9,MO9,Mahabubnagar,Mahabubnagar,,,,,9492171236,9492171236,09-08-2021,09-08-2021,1,1,1,1,4,4,4,4,3,3,2,1,2,2,4,4,1,1,4,1,ane,ts,mo
+662,Dr J T Peace Preethy,Dr J T Peace Preethy,,,MO9,MO9,Mahabubnagar,Mahabubnagar,,,,,9490413099,9490413099,09-08-2021,09-08-2021,1,1,1,2,4,4,2,2,3,3,1,1,2,2,4,4,2,1,4,4,ane,ts,mo
+663,Dr Nagesh ajmeera,Dr Nagesh ajmeera,,,MO9,MO9,Mahabubnagar,Mahabubnagar,,,,,9949377875,9949377875,09-08-2021,09-08-2021,1,1,1,2,4,4,4,4,3,3,1,1,2,2,4,4,1,2,4,4,ane,ts,mo
+664,Dr Sunitha.A,Dr Sunitha.A,,,MO9,MO9,Mahabubnagar,Mahabubnagar,,,,,7995440545,7995440545,09-08-2021,09-08-2021,1,1,1,1,4,4,4,4,1,1,2,1,2,1,1,4,1,1,4,4,ane,ts,mo
+665,Dr.k swetha,Dr.k swetha,,,MO9,MO9,Mahabubnagar,Mahabubnagar,,,,,9491983015,9491983015,09-08-2021,09-08-2021,1,1,2,2,4,4,4,4,1,1,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+666,Dr.P.Vijayalakashmi,Dr.P.Vijayalakashmi,,,MO9,MO9,Mahabubnagar,Mahabubnagar,,,,,9948035152,9948035152,09-08-2021,09-08-2021,1,1,1,1,4,4,4,4,3,3,3,1,1,2,4,4,1,1,4,4,ane,ts,mo
+668,"Dr,balram","Dr, Balram",,,MO9,MO9,Mahabubnagar,Mahabubnagar,,,,,9676192026,9676192026,09-08-2021,09-08-2021,1,1,2,2,4,4,4,4,3,3,3,1,1,1,4,4,1,1,4,4,ane,ts,mo
+670,Dr shabana tasleem,Dr shabana tasleem,,,MO9,MO9,Wanaparthy,Wanaparthy,,,,,9666921876,9666921876,10-08-2021,10-08-2021,1,1,1,1,4,4,4,4,3,3,2,1,2,1,4,4,1,1,4,4,ane,ts,mo
+671,Dr praveen kumar,Dr praveen kumar,,,MO9,MO9,Wanaparthy,Wanaparthy,,,,,9030650614,9030650614,10-08-2021,10-08-2021,2,1,2,2,4,4,4,4,3,3,2,2,1,1,4,4,1,1,4,4,ane,ts,mo
+672,Dr. Shankar,Dr. Shankar,,,MO9,MO9,Wanaparthy,Wanaparthy,,,,,9966969198,9966969198,10-08-2021,10-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,1,1,4,4,1,1,4,4,ane,ts,mo
+673,Dr uma k,Dr uma k,,,MO9,MO9,Wanaparthy,Wanaparthy,,,,,9573749886,9573749886,10-08-2021,10-08-2021,1,1,1,2,4,4,4,4,3,3,2,1,1,2,4,4,1,1,4,4,ane,ts,mo
+674,Sowjanya,Sowjanya,,,MO9,MO9,Wanaparthy,Wanaparthy,,,,,8121513614,8121513614,10-08-2021,10-08-2021,1,1,1,2,4,4,4,4,3,3,2,1,1,2,4,4,1,1,4,4,ane,ts,mo
+675,Dr Rakesh reddy,Dr Rakesh reddy,,,MO9,MO9,Wanaparthy,Wanaparthy,,,,,9885536526,9885536526,10-08-2021,10-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+676,Faneendra,Faneendra,,,MO9,MO9,Wanaparthy,Wanaparthy,,,,,9966225440,9966225440,10-08-2021,10-08-2021,1,1,4,2,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+677,Dr Akshay Kumar,Dr Akshay kumar,,,MO9,MO9,Wanaparthy,Wanaparthy,,,,,9182709933,9182709933,10-08-2021,10-08-2021,2,1,2,2,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+678,Dr.vamshee krishna. B,Dr.vamshee krishna. B,,,MO9,MO9,Wanaparthy,Wanaparthy,,,,,9491530217,9491530217,10-08-2021,10-08-2021,1,1,1,2,4,4,4,4,3,3,3,3,4,1,4,4,1,1,1,1,ane,ts,mo
+679,P.SaiTeja,P.SaiTeja,,,MO9,MO9,Wanaparthy,Wanaparthy,,,,,9346024581,9346024581,10-08-2021,10-08-2021,1,1,2,2,3,4,4,2,3,3,2,1,1,1,4,4,1,1,4,4,ane,ts,mo
+680,Shravani,Shravani,,,MO9,MO9,Wanaparthy,Wanaparthy,,,,,8464849036,8464849036,10-08-2021,10-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+681,Dr ramudu,Dr ramudu,,,MO9,MO9,Wanaparthy,Wanaparthy,,,,,7702701772,7702701772,10-08-2021,10-08-2021,1,1,1,2,4,4,4,4,3,3,1,3,1,1,4,4,1,1,4,1,ane,ts,mo
+682,Dr.K.Bharadwaj,Dr.K.Bharadwaj,,,MO9,MO9,Wanaparthy,Wanaparthy,,,,,9032660890,9032660890,10-08-2021,10-08-2021,1,1,2,2,4,4,2,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+683,Dr Rizwana tanveer,Dr Rizwana tanveer,,,MO9,MO9,Wanaparthy,Wanaparthy,,,,,9573523360,9573523360,10-08-2021,10-08-2021,1,1,2,2,3,3,2,2,3,3,2,1,1,2,4,4,1,2,4,4,ane,ts,mo
+684,DR.MANJULA,DR.MANJULA,,,MO9,MO9,Wanaparthy,Wanaparthy,,,,,9542407998,9542407998,10-08-2021,10-08-2021,3,1,1,2,2,4,2,4,3,3,2,1,2,1,4,4,2,1,4,4,ane,ts,mo
+685,Dr Ismail Md,Dr Ismail Md,,,MO9,MO9,Wanaparthy,Wanaparthy,,,,,9059563318,9059563318,10-08-2021,03-08-2021,1,1,2,2,3,3,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+686,Dr raghavulu100,Dr raghavulu100,,,MO9,MO9,Wanaparthy,Wanaparthy,,,,,9908223478,9908223478,10-08-2021,10-08-2021,1,1,2,2,4,3,4,4,1,1,2,1,1,2,4,4,1,1,1,4,ane,ts,mo
+687,Dr subbareddy naru,Dr subbareddy naru,,,MO9,MO9,Nagarkurnool,Nagarlarnool,,,,,9550549987,9550549987,12-08-2021,12-08-2021,1,1,1,2,4,4,4,4,3,3,1,1,3,2,4,4,1,1,4,4,ane,ts,mo
+688,DR.B.SHRAVAN KUMAR,DR.B.SHRAVAN KUMAR,,,MO9,MO9,Nagarkurnool,Nagarlarnool,,,,,9985001567,9985001567,12-08-2021,12-08-2021,1,1,3,2,3,4,4,4,3,3,2,1,2,2,4,4,4,1,4,4,ane,ts,mo
+689,Dr A Dasaratham,Dr A Dasaratham,,,MO9,MO9,Nagarkurnool,Nagarlarnool,,,,,8897909711,8897909711,12-08-2021,12-08-2021,1,1,2,2,3,3,4,4,3,3,2,1,2,1,4,4,1,1,4,4,ane,ts,mo
+690,Dr.pradeep,Dr.pradeep,,,MO9,MO9,Nagarkurnool,Nagarlarnool,,,,,9440219501,9440219501,12-08-2021,12-08-2021,1,1,2,2,1,2,4,4,3,3,1,1,1,2,4,4,2,1,4,4,ane,ts,mo
+691,Shivakumar,Shivakumar,,,MO9,MO9,Nagarkurnool,Nagarlarnool,,,,,9052269469,9052269469,12-08-2021,12-08-2021,3,1,1,1,4,4,4,4,3,3,2,1,2,2,4,4,1,1,1,4,ane,ts,mo
+692,Goutam,puri goutham,,,MO9,MO9,Nagarkurnool,Nagarlarnool,,,,,7793932939,7793932939,12-08-2021,12-08-2021,2,1,2,2,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+693,Dr suresh babu,Dr suresh babu,,,MO9,MO9,Nagarkurnool,Nagarlarnool,,,,,9985659890,9985659890,12-08-2021,12-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,2,2,4,4,2,2,4,4,ane,ts,mo
+694,Dr. Srinivasulu Guptha,Dr. Srinivasulu Guptha,,,MO9,MO9,Nagarkurnool,Nagarlarnool,,,,,9949868652,9949868652,12-08-2021,12-08-2021,1,1,2,2,3,4,4,4,3,3,2,1,2,1,4,4,4,1,4,1,ane,ts,mo
+695,Dr.S.Chandra sekhar,Dr.S.Chandra sekhar,,,MO9,MO9,Nagarkurnool,Nagarlarnool,,,,,9441694387,9441694387,12-08-2021,12-08-2021,1,1,2,2,4,4,2,2,3,3,1,1,1,1,4,4,1,1,1,1,ane,ts,mo
+696,Dr Vasanta leela,Dr Vasanta leela,,,MO9,MO9,Nagarkurnool,Nagarlarnool,,,,,7989970919,7989970919,12-08-2021,12-08-2021,1,1,1,1,4,3,2,2,3,3,1,2,2,1,1,4,1,1,4,4,ane,ts,mo
+697,T manjula vani,T manjula vani,,,MO9,MO9,Nagarkurnool,Nagarlarnool,,,,,9866851661,9866851661,12-08-2021,12-08-2021,1,1,1,1,2,4,4,4,3,3,1,1,2,1,4,4,2,2,4,4,ane,ts,mo
+698,chandulal,chandulal,,,MO9,MO9,Nagarkurnool,Nagarlarnool,,,,,9949950288,9949950288,12-08-2021,12-08-2021,1,1,2,2,4,3,4,4,3,3,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+699,Dr Aruna dorbala,Dr Aruna dorbala,,,MO9,MO9,Nagarkurnool,Nagarlarnool,,,,,9959172497,9959172497,12-08-2021,12-08-2021,1,1,1,1,2,2,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+701,Swetha,Dr swetha,,,MO9,MO9,Mahabubnagar,Mahabubnagar,,,,,7995201695,7995201695,13-08-2021,13-08-2021,1,1,1,2,4,4,2,2,3,3,3,1,2,2,4,4,1,1,4,4,ane,ts,mo
+702,Harinath,Harinath,,,MO9,MO9,Mahabubnagar,Mahabubnagar,,,,,9849485850,9849485850,13-08-2021,13-08-2021,1,1,2,2,4,4,2,4,1,1,2,1,2,2,4,4,2,1,4,4,ane,ts,mo
+703,Dr. V. Yashwanth Rani,Dr. V. Yashwanth Rani,,,MO9,MO9,Nagarkurnool,Nagarlarnool,,,,,8498035226,8498035226,13-08-2021,13-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+704,Dr srujana,Dr srujana,,,MO9,MO9,Mahabubnagar,Mahabubnagar,,,,,9701188664,9701188664,13-08-2021,13-08-2021,1,1,1,2,2,4,4,4,3,3,3,1,1,1,4,4,2,1,1,4,ane,ts,mo
+705,Dr shreekannth,Dr shreekannth,,,MO9,MO9,Nagarkurnool,Nagarlarnool,,,,,8498896191,8498896191,13-08-2021,13-08-2021,1,1,2,2,4,3,2,2,1,1,2,1,1,1,1,4,1,1,4,4,ane,ts,mo
+706,Dr Raghavender Reddy M,Dr Raghavender Reddy M,,,MO9,MO9,Mahabubnagar,Mahabubnagar,,,,,8977744111,8977744111,13-08-2021,13-08-2021,1,1,2,2,4,4,2,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+707,Dr Krishnaiah,Dr Krishnaiah,,,MO9,MO9,Nagarkurnool,Nagarlarnool,,,,,8019796766,8019796766,13-08-2021,13-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+708,K.khaja,K.khaja,,,MO9,MO9,Mahabubnagar,Mahabubnagar,,,,,7780323491,7780323491,13-08-2021,13-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,1,1,4,4,2,1,4,4,ane,ts,mo
+709,Dr Narayanaswamy,Dr Narayanaswamy,,,MO9,MO9,Nagarkurnool,Nagarlarnool,,,,,9052584810,9052584810,13-08-2021,13-08-2021,1,1,2,2,4,3,2,4,3,3,1,1,1,1,4,4,1,2,3,4,ane,ts,mo
+712,Nikhila,Nikhila,,,MO10,MO10,Nirmal,Nirmal,,,,,9441506545,9441506545,09-08-2021,09-08-2021,1,1,2,2,4,4,2,2,3,3,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+713,Dr Jadhav Srikanth,Dr Jadhav Srikanth,,,MO10,MO10,Nirmal,Nirmal,,,,,7013270841,7013270841,09-08-2021,09-08-2021,1,1,1,2,3,3,4,4,3,3,1,1,2,1,4,4,1,1,4,4,ane,ts,mo
+714,Dr Nageshwer rao,Dr Nageshwer rao,,,MO10,MO10,Nirmal,Nirmal,,,,,9849551862,9849551862,09-08-2021,09-08-2021,1,1,2,2,4,3,2,2,1,1,3,3,2,1,4,4,1,1,4,4,ane,ts,mo
+715,Ganneri harika,Ganneri harika,,,MO10,MO10,Nirmal,Nirmal,,,,,9000547673,9000547673,09-08-2021,09-08-2021,1,1,4,2,4,4,4,4,3,3,2,1,1,1,4,4,1,1,4,4,ane,ts,mo
+716,Dr. K. Sandhyarani,Dr. K. Sandhyarani,,,MO10,MO10,Nirmal,Nirmal,,,,,8074363508,8074363508,09-08-2021,09-08-2021,1,1,2,2,4,4,4,4,3,3,3,1,1,1,4,4,1,1,4,4,ane,ts,mo
+717,Dr. RAMESH,Dr. RAMESH,,,MO10,MO10,Nirmal,Nirmal,,,,,9290653536,9290653536,09-08-2021,09-08-2021,1,1,2,2,2,3,2,2,1,1,2,1,2,1,4,4,1,1,4,4,ane,ts,mo
+718,Dr.Swapna,Dr.Swapna,,,MO10,MO10,Nirmal,Nirmal,,,,,9948901539,9948901539,09-08-2021,09-08-2021,1,1,2,2,3,1,2,2,3,3,3,3,1,2,1,1,1,1,4,4,ane,ts,mo
+719,Subhash jadhav,Subhash jadhav,,,MO10,MO10,Nirmal,Nirmal,,,,,9848871196,9848871196,09-08-2021,09-08-2021,2,1,2,2,4,3,4,4,3,3,1,1,2,1,4,4,1,1,4,4,ane,ts,mo
+720,Dr K Sruthi Reddy,Dr K SruthiReddy,,,MO10,MO10,Nirmal,Nirmal,,,,,9441459441,9441459441,09-08-2021,09-08-2021,1,1,4,2,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+722,Dr V Nagaraju,Dr V Nagaraju,,,MO10,MO10,Nirmal,Nirmal,,,,,9703110245,9703110245,10-08-2021,10-08-2021,1,1,2,1,2,3,4,4,3,3,1,1,2,2,1,4,1,1,4,4,ane,ts,mo
+724,Dr a nageshwar raouphc,Dr a nageshwar rao,,,MO10,MO10,Nirmal,Nirmal,,,,,9866139815,9866139815,10-08-2021,10-08-2021,1,1,2,2,3,3,4,4,3,3,3,1,1,1,4,4,1,1,4,4,ane,ts,mo
+725,Dr. Ramya,Dr. Ramya,,,MO10,MO10,Nirmal,Nirmal,,,,,8498848833,8498848833,10-08-2021,10-08-2021,1,1,1,2,4,4,2,4,1,3,1,1,2,2,4,4,2,1,4,4,ane,ts,mo
+726,Dr. Rathod Avinash,Dr. Rathod Avinash,,,MO10,MO10,Nirmal,Nirmal,,,,,9010016689,9010016689,10-08-2021,10-08-2021,1,1,2,1,2,3,2,4,3,3,1,1,1,1,4,4,1,1,1,4,ane,ts,mo
+727,Dr KIRANMAI,Dr KIRANMAI,,,MO10,MO10,Nirmal,Nirmal,,,,,8179361238,8179361238,10-08-2021,10-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+728,Dr. Ayesha Tamkeen,Dr Ayesha Tamkeen,,,MO10,MO10,Nirmal,Nirmal,,,,,9700066002,9700066002,10-08-2021,10-08-2021,2,1,2,1,4,4,4,4,1,3,1,1,2,2,4,4,2,1,4,4,ane,ts,mo
+729,Dr Shyam kumar,Dr Shyam kumar,,,MO10,MO10,Komarambheem Asifabad,Komarambheem Asifabad,,,,,9885485425,9885485425,11-08-2021,11-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,1,ane,ts,mo
+730,Dr Sathish Koppula,Dr Sathish Koppula,,,MO10,MO10,Komarambheem Asifabad,Komarambheem Asifabad,,,,,9030634547,9030634547,11-08-2021,11-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+731,Dr G Chandra Kiran,Dr G Chandra Kiran,,,MO10,MO10,Komarambheem Asifabad,Komarambheem Asifabad,,,,,9030506926,9030506926,11-08-2021,11-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+732,Bharath,Bharath,,,MO10,MO10,Komarambheem Asifabad,Komarambheem Asifabad,,,,,8639889816,8639889816,11-08-2021,11-08-2021,1,1,2,1,4,4,2,2,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+733,Krishna Prasad,Krishna Prasad,,,MO10,MO10,Komarambheem Asifabad,Komarambheem Asifabad,,,,,9640907373,9640907373,11-08-2021,11-08-2021,1,1,2,2,4,4,4,4,3,3,1,1,2,1,4,4,1,1,4,4,ane,ts,mo
+734,Dr ravikiran,Dr ravikiran,,,MO10,MO10,Komarambheem Asifabad,Komarambheem Asifabad,,,,,8019195673,8019195673,11-08-2021,11-08-2021,1,1,1,1,4,4,2,2,3,3,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+735,Dr.thirupathi,Dr.thirupathi,,,MO10,MO10,Komarambheem Asifabad,Komarambheem Asifabad,,,,,9966405897,9966405897,11-08-2021,11-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+736,Dr Nagendra Sidam,Dr Nagendra Sidam,,,MO10,MO10,Komarambheem Asifabad,Komarambheem Asifabad,,,,,9441490311,9441490311,11-08-2021,18-08-2021,1,1,1,1,2,2,4,4,3,3,2,1,1,1,4,4,1,1,4,4,ane,ts,mo
+737,Dr rushi,Dr rushi,,,MO10,MO10,Komarambheem Asifabad,Komarambheem Asifabad,,,,,8374885438,8374885438,11-08-2021,11-08-2021,1,1,1,1,4,4,2,4,3,3,2,1,1,1,4,4,1,1,3,4,ane,ts,mo
+738,Dr. Ashwini,Dr. Ashwini,,,MO10,MO10,Komarambheem Asifabad,Komarambheem Asifabad,,,,,7207465697,7207465697,11-08-2021,11-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+739,Muralidhar,Muralidhar,,,MO10,MO10,Komarambheem Asifabad,Komarambheem Asifabad,,,,,9000943460,9000943460,11-08-2021,11-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+740,Dr.sunkanna,Dr.sunkanna,,,MO10,MO10,Komarambheem Asifabad,Komarambheem Asifabad,,,,,9440586442,9440586442,11-08-2021,11-08-2021,1,1,2,2,4,4,4,4,1,1,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+741,KODURUPAKA naresh,KODURUPAKA naresh,,,MO10,MO10,Komarambheem Asifabad,Komarambheem Asifabad,,,,,9666270512,9666270512,11-08-2021,11-08-2021,1,1,2,2,2,4,4,4,3,3,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+742,Dr Sphurana,Dr Sphurana,,,MO10,MO10,Mancheriyal,Mancheriyal,,,,,9494308936,9494308936,12-08-2021,12-08-2021,1,1,1,1,2,2,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+743,Sunitha,Sunitha,,,MO10,MO10,Mancheriyal,Mancheriyal,,,,,9052528529,9052528529,12-08-2021,12-08-2021,1,1,1,1,4,2,4,4,3,3,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+744,Dr S Satyanarayana,Dr S Satyanarayana,,,MO10,MO10,Mancheriyal,Mancheriyal,,,,,9885415142,9885415142,12-08-2021,12-08-2021,1,1,1,2,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+745,Dr. A. Sandhya Rani,Dr. A. Sandhya Rani,,,MO10,MO10,Mancheriyal,Mancheriyal,,,,,9866420266,9866420266,12-08-2021,12-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,1,1,4,4,2,2,4,4,ane,ts,mo
+746,Aruna sri,Aruna sri,,,MO10,MO10,Mancheriyal,Mancheriyal,,,,,9849830825,9849830825,12-08-2021,12-08-2021,1,1,1,1,2,2,4,4,3,3,1,1,1,1,4,4,1,1,4,1,ane,ts,mo
+747,Krishna,Krishna,,,MO10,MO10,Mancheriyal,Mancheriyal,,,,,9494432349,9494432349,12-08-2021,12-08-2021,1,1,2,2,2,4,4,4,3,3,2,1,1,2,1,2,1,2,4,4,ane,ts,mo
+748,Dr.B.Rajani,Dr.B.Rajani,,,MO10,MO10,Mancheriyal,Mancheriyal,,,,,7674982732,7674982732,12-08-2021,12-08-2021,1,1,3,3,4,4,4,4,3,3,2,1,2,1,4,1,1,1,4,1,ane,ts,mo
+749,Dr Aruna,Dr Aruna,,,MO10,MO10,Mancheriyal,Mancheriyal,,,,,9949739049,9949739049,12-08-2021,12-08-2021,1,1,2,1,4,4,2,2,3,3,2,1,2,1,1,4,1,1,4,1,ane,ts,mo
+750,Dr Kranthi kumar,Dr Kranthi kumar,,,MO10,MO10,Mancheriyal,Mancheriyal,,,,,8985633383,8985633383,12-08-2021,12-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+751,P.Archana,P.Archana,,,MO10,MO10,Mancheriyal,Mancheriyal,,,,,8074443610,8074443610,12-08-2021,12-08-2021,1,1,2,2,4,4,4,4,3,3,3,1,1,1,4,4,2,2,4,4,ane,ts,mo
+752,PRASAD RAO.P,PRASAD RAO.P,,,MO10,MO10,Mancheriyal,Mancheriyal,,,,,9441862535,9441862535,12-08-2021,12-08-2021,1,1,1,2,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+753,Dr Kiranmai,Dr Kiranmai,,,MO10,MO10,Mancheriyal,Mancheriyal,,,,,8500148281,8500148281,13-08-2021,13-08-2021,1,1,1,1,4,3,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+754,Dr M.SHIVA PRATAP,Dr M.SHIVA PRATAP,,,MO10,MO10,Mancheriyal,Mancheriyal,,,,,6302566997,6302566997,13-08-2021,13-08-2021,1,1,2,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+755,Dr Ramesh Rapaka,Dr Ramesh Rapaka,,,MO10,MO10,Mancheriyal,Mancheriyal,,,,,9966509444,9966509444,13-08-2021,13-08-2021,1,1,2,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+756,Dr Shylaja G,Dr Shylaja G,,,MO10,MO10,Mancheriyal,Mancheriyal,,,,,7893230999,7893230999,13-08-2021,13-08-2021,1,1,2,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+757,Dr vijitha,Dr vijitha,,,MO10,MO10,Mancheriyal,Mancheriyal,,,,,9963463102,9963463102,13-08-2021,13-08-2021,1,1,2,1,2,4,4,4,3,3,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+758,Dr harish Kumar,Dr harish Kumar,,,MO10,MO10,Mancheriyal,Mancheriyal,,,,,9949993552,9949993552,13-08-2021,13-08-2021,1,1,1,1,4,4,2,4,3,3,3,1,2,2,4,4,2,1,4,4,ane,ts,mo
+759,Dr.E.Jhansi Rani,Dr.E.Jhansi Rani,,,MO10,MO10,Mancheriyal,Mancheriyal,,,,,9908232535,9908232535,13-08-2021,13-08-2021,1,1,1,1,4,4,2,4,3,3,1,1,2,2,4,4,2,1,1,4,ane,ts,mo
+760,Kumaraswamy,Kumaraswamy,,,MO10,MO10,Mancheriyal,Mancheriyal,,,,,8801551953,8801551953,13-08-2021,13-08-2021,2,1,1,1,2,2,4,4,3,3,1,1,2,2,1,4,1,1,1,4,ane,ts,mo
+761,Dr srinivas,Dr Ssrinivas,,,MO10,MO10,Mancheriyal,Mancheriyal,,,,,9849732157,9849732157,13-08-2021,13-08-2021,1,1,1,1,4,2,4,4,3,3,1,1,1,2,1,4,1,1,1,4,ane,ts,mo
+762,Dr.D.Sunilkumar,Dr.D.Sunilkumar,,,MO10,MO10,Mancheriyal,Mancheriyal,,,,,9989707605,9989707605,13-08-2021,13-08-2021,1,1,2,1,4,4,4,4,3,3,1,1,2,2,4,4,2,2,4,4,ane,ts,mo
+763,Dr. Navya,Dr. Navya,,,MO10,MO10,Adilabad,Adilabad,,,,,9440678923,9440678923,16-08-2021,16-08-2021,1,1,1,1,4,4,2,2,3,3,1,1,1,1,1,4,1,1,4,4,ane,ts,mo
+764,Naveen reddy,Naveen reddy,,,MO10,MO10,Adilabad,Adilabad,,,,,9160375765,9160375765,16-08-2021,16-08-2021,1,1,2,1,3,2,4,4,3,3,1,1,1,1,4,4,1,1,1,1,ane,ts,mo
+765,Kranthi kumar,Kranthi kumar,,,MO10,MO10,Adilabad,Adilabad,,,,,9985154680,9985154680,16-08-2021,16-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+766,Dr samanth Kumar,Dr samanth Kumar,,,MO10,MO10,Adilabad,Adilabad,,,,,8919820104,8919820104,16-08-2021,16-08-2021,1,1,1,1,4,4,2,2,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+767,Dr suresh,Dr suresh,,,MO10,MO10,Adilabad,Adilabad,,,,,9573263310,9573263310,16-08-2021,16-08-2021,1,1,2,1,2,2,2,4,3,3,2,1,2,1,4,4,2,1,1,1,ane,ts,mo
+768,Rahul,Rahul,,,MO10,MO10,Adilabad,Adilabad,,,,,9701081291,9701081291,16-08-2021,16-08-2021,1,1,1,1,4,4,2,2,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+769,Dr.sagar,Dr.sagar,,,MO10,MO10,Adilabad,Adilabad,,,,,8374306797,8374306797,16-08-2021,16-08-2021,1,1,1,1,2,4,2,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+770,Anitha,Anitha,,,MO10,MO10,Adilabad,Adilabad,,,,,7989905760,7989905760,16-08-2021,16-08-2021,1,1,1,1,2,2,4,4,1,1,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+771,Nirmala kusuma,Nirmala kusuma ml,,,MO10,MO10,Adilabad,Adilabad,,,,,9441363256,9441363256,16-08-2021,16-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,1,1,4,4,1,1,4,4,ane,ts,mo
+772,Dr neelofar,Dr neelofar,,,MO10,MO10,Adilabad,Adilabad,,,,,9542782588,9542782588,16-08-2021,16-08-2021,1,1,1,1,4,4,4,4,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+773,Dr kavyaraj,Dr kavyaraj,,,MO10,MO10,Adilabad,Adilabad,,,,,9912385985,9912385985,16-08-2021,16-08-2021,1,1,1,1,3,3,2,2,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+774,Narmada,Narmada,,,MO10,MO10,Adilabad,Adilabad,,,,,9011424604,9011424604,16-08-2021,16-08-2021,1,1,1,3,2,2,2,4,3,3,3,1,2,2,4,4,1,1,4,4,ane,ts,mo
+775,Dr hima bindu,Dr hima bindu,,,MO10,MO10,Adilabad,Adilabad,,,,,8074278660,8074278660,16-08-2021,16-08-2021,1,1,4,1,4,4,4,4,3,3,1,1,2,2,4,4,1,1,4,4,ane,ts,mo
+776,Dr.A.Rojarani,Dr.A.Rojarani,,,MO10,MO10,Adilabad,Adilabad,,,,,8332086760,8332086760,16-08-2021,16-08-2021,1,1,1,1,4,4,2,2,3,3,2,1,2,2,4,4,2,1,4,4,ane,ts,mo
+778,V.Sarasija,Dr.V.sarasija,,,MO10,MO10,Adilabad,Adilabad,,,,,9963590890,9963590890,17-08-2021,17-08-2021,1,1,1,1,4,4,2,2,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+779,Dr.Anuradha,Dr.Anuradha,,,MO10,MO10,Adilabad,Adilabad,,,,,9441047559,9441047559,17-08-2021,17-08-2021,1,1,1,1,4,2,2,2,3,3,1,1,1,1,4,4,1,1,4,1,ane,ts,mo
+780,Dr pawar bharath,Dr pawar bharath,,,MO10,MO10,Adilabad,Adilabad,,,,,8309050501,8309050501,17-08-2021,17-08-2021,1,1,2,1,4,4,4,4,3,3,2,1,1,2,4,4,1,1,4,4,ane,ts,mo
+781,ShikariSaikiran,ShikariSaikiran,,,MO10,MO10,Adilabad,Adilabad,,,,,9063164546,9063164546,17-08-2021,17-08-2021,1,1,2,1,4,4,4,4,3,3,2,1,1,2,4,4,1,1,4,4,ane,ts,mo
+782,SRINIVAS DEVALLA,SRINIVAS DEVALLA,,,MO10,MO10,Adilabad,Adilabad,,,,,8328384575,8328384575,17-08-2021,17-08-2021,1,1,1,1,3,4,2,4,3,3,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+783,Juveria afreen,Juveria afreen,,,MO10,MO10,Adilabad,Adilabad,,,,,9701101581,9701101581,17-08-2021,17-08-2021,1,1,1,2,4,4,2,4,3,3,2,1,4,2,4,4,1,1,4,4,ane,ts,mo
+784,Dr.vinod kumar,Dr vinod kumar,,,MO10,MO10,Adilabad,Adilabad,,,,,9440637877,9440637877,17-08-2021,17-08-2021,3,1,1,1,4,4,4,4,3,3,1,1,1,1,1,4,1,1,4,1,ane,ts,mo
+785,Dr s vijaykumar,Dr s vijaykumar,,,MO10,MO10,Adilabad,Adilabad,,,,,9010730380,9010730380,17-08-2021,17-08-2021,1,1,2,2,4,4,4,4,3,3,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+786,Dr B Vijayakumar,Dr B Vijayakumar,,,MO10,MO10,Adilabad,Adilabad,,,,,9908819640,9908819640,17-08-2021,17-08-2021,1,1,2,1,4,4,4,4,3,3,1,1,2,1,4,4,1,1,4,4,ane,ts,mo
+358,dr g vijay kumar,dr g vijay kumar,,,MO5,MO5,Nalgonda,Nalgonda,,,,,9448929365,9440629365,16-08-2021,16-08-2021,2,1,2,1,3,3,4,4,3,3,4,2,4,1,4,4,4,1,4,4,ane,ts,mo
+232,dr m.ravichand,dr m.ravichand,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,9849324032,9849324035,12-08-2021,12-08-2021,1,1,2,1,4,4,4,4,3,3,3,1,1,1,1,4,1,1,4,1,ane,ts,mo
+85,dr mamatha,dr mamatha,,,MO1,MO1,Medchal Malkajgiri,Medchal,,,,,9441593042,9441503042,17-08-2021,17-08-2021,1,2,2,2,4,4,2,4,3,3,3,1,2,2,4,4,1,1,4,1,ane,ts,mo
+271,dr raviraja,dr raviraja,,,MO4,MO4,Kamareddy,Kamareddy,,,,,7842340076,7842640076,10-08-2021,10-08-2021,1,1,1,1,4,4,2,2,3,3,2,1,2,2,4,4,2,1,4,4,ane,ts,mo
+194,dr sreeharsha,dr sreeharsha,,,MO3,MO3,Bhadradri Kothagudem,Bhadradri-Kothagudem,,,,,9885744974,9885744674,10-08-2021,10-08-2021,1,1,1,1,4,4,2,2,3,3,2,1,1,1,4,4,1,1,4,4,ane,ts,mo
+293,dr. vinod reddy,dr. vinod reddy,,,MO4,MO4,Vikarabad,Vikarabad,,,,,8179779090,8179779060,17-08-2021,17-08-2021,1,1,2,1,4,4,4,4,3,1,1,1,1,2,4,4,1,1,4,4,ane,ts,mo
+19,k pravalika,k pravalika,,,MO1,MO1,Medak,Medak,,,,,9490823481,9490823484,11-08-2021,11-08-2021,1,1,1,1,4,4,2,2,1,1,2,1,2,2,4,4,1,1,4,4,ane,ts,mo
+329,k rajesh,k rajesh,,,MO5,MO5,Khammam,Khammam,,,,,9752165882,9652165882,12-08-2021,12-08-2021,1,1,2,3,4,4,4,4,3,3,1,1,2,1,4,4,1,1,4,4,ane,ts,mo
+496,shirisha yeturu,shirisha yeturu,,,MO6,MO6,Hyderabad,Hyderabad,,,,,6301383938,6301383930,14-08-2021,14-08-2021,1,1,2,1,4,4,2,2,3,3,1,1,1,1,4,4,1,1,4,4,ane,ts,mo
+176,spandana,spandana,,,MO2,MO2,Jagityal,Jagityal,,,,,9705586596,9705586956,19-08-2021,19-08-2021,1,1,2,2,4,4,2,2,3,3,2,1,1,1,4,4,1,1,4,4,ane,ts,mo
