@@ -1,0 +1,29 @@
+"district_name","condition","pre_mean","pre_std","pre_mean_pct","post_mean","post_std","post_mean_pct","p_value"
+"Shravasti","ane",6.8,1.9,67.6,7.5,1.9,74.8,5.7e-05
+"Shravasti","aph",7.9,2,79.1,8.6,1.8,86.3,0.000113
+"Shravasti","fever",6.6,1.8,66.1,7.2,1.9,72,0.001248
+"Shravasti","hrt",7.2,1.6,72.4,7.4,1.6,73.9,0.320216
+"Shravasti","htn",7.6,1.7,75.8,8,1.7,80.5,0.003125
+"Shravasti","qanc",7.5,1.6,75.1,8.4,1.5,84.1,0
+"Shravasti","sob",5,1.4,49.8,5.6,1.2,55.6,7e-06
+"Sambhal","ane",6.4,1.7,64.4,6.6,1.7,65.9,0.478897
+"Sambhal","aph",7.9,1.8,78.8,8.5,1.7,85,0.013741
+"Sambhal","fever",6.4,1.6,64.3,6.5,1.9,65.4,0.620836
+"Sambhal","hrt",7.1,1.7,71.2,7.1,1.7,71,0.910315
+"Sambhal","htn",7.9,1.7,78.5,8,1.8,79.8,0.570472
+"Sambhal","qanc",7,1.9,69.9,7.6,1.9,75.8,0.015356
+"Sambhal","sob",4.7,1.3,46.9,5,1.3,50.3,0.043711
+"Kaushambi","ane",6.7,1.9,67.4,7.5,1.8,74.6,1.2e-05
+"Kaushambi","aph",7.2,2.2,71.7,9,1.3,89.7,0
+"Kaushambi","fever",5.7,1.8,57.1,6.9,1.6,69.4,0
+"Kaushambi","hrt",6.9,2.4,68.8,7.8,1.7,78.4,0
+"Kaushambi","htn",6.5,1.9,65.1,8.1,1.5,80.8,0
+"Kaushambi","qanc",7.6,1.7,75.8,8.5,1.5,84.6,0
+"Kaushambi","sob",4.5,1.3,45.5,5.2,1.1,51.6,0
+"Overall Average","ane",6.7,1.9,66.9,7.3,1.9,73,NA
+"Overall Average","aph",7.6,2.1,75.7,8.8,1.6,87.6,NA
+"Overall Average","fever",6.2,1.8,61.8,6.9,1.8,69.5,NA
+"Overall Average","hrt",7.1,2,70.5,7.5,1.7,75.3,NA
+"Overall Average","htn",7.2,1.9,71.8,8,1.6,80.5,NA
+"Overall Average","qanc",7.4,1.7,74.3,8.3,1.6,82.5,NA
+"Overall Average","sob",4.7,1.4,47.3,5.3,1.2,52.8,NA

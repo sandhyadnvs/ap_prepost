@@ -1,0 +1,12 @@
+/* Reduce font size of dashboard tab titles */
+.nav-tabs .nav-link {
+  font-size: 11px !important;  /* Adjust size */
+  padding: 5px 10px;  /* Reduce spacing */
+}
+
+/* Reduce chunk title font size inside dashboard panels */
+.panel-heading h4, .panel-heading h5, .panel-title {
+  font-size: 10px !important;  /* Adjust as needed */
+  font-weight: normal; /* Optional: Make it less bold */
+}
+
