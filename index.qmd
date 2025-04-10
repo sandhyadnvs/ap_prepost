@@ -1,5 +1,5 @@
 ---
-title: "Pre and Posttest Analysis - Andhra Pradesh"
+title: "Pre and Posttest Analysis - Andhra Pradesh "
 format: dashboard
 logo: "plots/ihrptm.jpg"
 fig-width: 10
@@ -324,7 +324,11 @@ sta1_mo1 <- df_mo1 %>%
     post_mean = round(mean(post_total_correct, na.rm = TRUE), 1),
     post_std = round(sd(post_total_correct, na.rm = TRUE), 1),
     post_mean_pct = round((mean(post_total_correct, na.rm = TRUE) / 10) * 100, 1),  # Post-test percentage
+    p_value = ifelse(
+      sum(!is.na(pre_total_correct)) > 1 & sum(!is.na(post_total_correct)) > 1, 
+      round(t.test(pre_total_correct, post_total_correct)$p.value, 6), 
       NA )
+  )
 
 # Calculate state average (overall mean, std, and percentage grouped by condition)
 state_avg_mo1 <- df_mo1 %>%
@@ -440,24 +444,102 @@ library(sf)
 
 #Plotting a map
 
-ap_anm_sf <- st_as_sf(ap_map)
+ap_mo1_sf <- st_as_sf(ap_map)
 
-ap_anm_sf <- ap_anm_sf |> 
+ap_mo1_sf <- ap_mo1_sf |> 
   select(-c("percentage_of_women_who_had_4_an_cs",
             "percentage_of_women_identified_as_high_risk"))
 
-# Modify the district name
-ap_anm_sf <- ap_anm_sf %>%
+# Modify the district names (standardizing all 26 districts)
+ap_mo1_sf <- ap_mo1_sf %>%
   mutate(district = ifelse(district == "Alluri Sitharama Raju", "Alluri Sitaram Raju", district))
 
-ap_anm_sf <- ap_anm_sf %>%
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "Anantapuramu", "Ananthapuram", district))
+
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "Dr. B. R. Ambedkar Konaseema", "Konaseema", district))
+
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "Sri Potti Sriramulu Nellore", "Nellore", district))
+
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "YSR", "Kadapa", district))
+
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "Vizianagaram", "Vijayanagaram", district))
+
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "Prakasam\xa0", "Prakasam", district))
+
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "Tirupati\xa0", "Tirupati", district))
+
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "Visakhapatnam\xa0", "Visakhapatnam", district))
+
+# Explicit no-change mappings for consistency (optional but recommended)
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "Alluri Sitaram Raju", "Alluri Sitaram Raju", district))
+
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "Anakapalli", "Anakapalli", district))
+
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "Annamayya", "Annamayya", district))
+
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "Bapatla", "Bapatla", district))
+
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "Chittoor", "Chittoor", district))
+
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "East Godavari", "East Godavari", district))
+
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "Eluru", "Eluru", district))
+
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "Guntur", "Guntur", district))
+
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "Kakinada", "Kakinada", district))
+
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "Krishna", "Krishna", district))
+
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "Kurnool", "Kurnool", district))
+
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "NTR", "NTR", district))
+
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "Nandyal", "Nandyal", district))
+
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "Palnadu", "Palnadu", district))
+
+# Modify the district name for Parvathipuram Manyam
+ap_mo1_sf <- ap_mo1_sf %>%
   mutate(district = ifelse(district == "Parvathipuram Manyam", "Parvatipuram Manyam", district))
 
-ap_anm_sf <- ap_anm_sf %>%
-  mutate(district = ifelse(district == "Prakasam", "Prakasam", district))
+# Explicit no-change mapping for consistency (if the name is already correct)
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "Parvatipuram Manyam", "Parvatipuram Manyam", district))
+
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "Sri Sathya Sai", "Sri Sathya Sai", district))
+
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "Srikakulam", "Srikakulam", district))
+
+ap_mo1_sf <- ap_mo1_sf %>%
+  mutate(district = ifelse(district == "West Godavari", "West Godavari", district))
 
 # Left join using different column names
-merged_sf_map <- left_join(ap_anm_sf, district_responses, by = c("district" = "district_name"))
+merged_sf_map <- left_join(ap_mo1_sf, district_responses, by = c("district" = "district_name"))
 
 #Identify districts in training
 merged_sf_map <- merged_sf_map %>%
@@ -1284,6 +1366,7 @@ sta1_anm1 <- df_anm1 %>%
     post_mean = round(mean(post_total_correct, na.rm = TRUE), 1),
     post_std = round(sd(post_total_correct, na.rm = TRUE), 1),
     post_mean_pct = round((mean(post_total_correct, na.rm = TRUE) / 10) * 100, 1),  # Post-test percentage
+    p_value = round(t.test(pre_total_correct, post_total_correct)$p.value, 6)
   )
 
 # Calculate state average (overall mean, std, and percentage grouped by condition)
@@ -1388,15 +1471,94 @@ ap_anm1_sf <- ap_anm1_sf |>
   select(-c("percentage_of_women_who_had_4_an_cs",
             "percentage_of_women_identified_as_high_risk"))
 
-# Modify the district name
+
+# Modify the district names (standardizing all 26 districts)
 ap_anm1_sf <- ap_anm1_sf %>%
   mutate(district = ifelse(district == "Alluri Sitharama Raju", "Alluri Sitaram Raju", district))
 
 ap_anm1_sf <- ap_anm1_sf %>%
-  mutate(district = ifelse(district == "Parvathipuram Manyam", "Parvatipuram Manyam", district))
+  mutate(district = ifelse(district == "Anantapuramu", "Ananthapuram", district))
+
+ap_anm1_sf <- ap_anm1_sf %>%
+  mutate(district = ifelse(district == "Dr. B. R. Ambedkar Konaseema", "Konaseema", district))
+
+ap_anm1_sf <- ap_anm1_sf %>%
+  mutate(district = ifelse(district == "Sri Potti Sriramulu Nellore", "Nellore", district))
+
+ap_anm1_sf <- ap_anm1_sf %>%
+  mutate(district = ifelse(district == "YSR", "Kadapa", district))
+
+ap_anm1_sf <- ap_anm1_sf %>%
+  mutate(district = ifelse(district == "Vizianagaram", "Vijayanagaram", district))
 
 ap_anm1_sf <- ap_anm1_sf %>%
   mutate(district = ifelse(district == "Prakasam\xa0", "Prakasam", district))
+
+ap_anm1_sf <- ap_anm1_sf %>%
+  mutate(district = ifelse(district == "Tirupati\xa0", "Tirupati", district))
+
+ap_anm1_sf <- ap_anm1_sf %>%
+  mutate(district = ifelse(district == "Visakhapatnam\xa0", "Visakhapatnam", district))
+
+# Explicit no-change mappings for consistency
+ap_anm1_sf <- ap_anm1_sf %>%
+  mutate(district = ifelse(district == "Alluri Sitaram Raju", "Alluri Sitaram Raju", district))
+
+ap_anm1_sf <- ap_anm1_sf %>%
+  mutate(district = ifelse(district == "Anakapalli", "Anakapalli", district))
+
+ap_anm1_sf <- ap_anm1_sf %>%
+  mutate(district = ifelse(district == "Annamayya", "Annamayya", district))
+
+ap_anm1_sf <- ap_anm1_sf %>%
+  mutate(district = ifelse(district == "Bapatla", "Bapatla", district))
+
+ap_anm1_sf <- ap_anm1_sf %>%
+  mutate(district = ifelse(district == "Chittoor", "Chittoor", district))
+
+ap_anm1_sf <- ap_anm1_sf %>%
+  mutate(district = ifelse(district == "East Godavari", "East Godavari", district))
+
+ap_anm1_sf <- ap_anm1_sf %>%
+  mutate(district = ifelse(district == "Eluru", "Eluru", district))
+
+ap_anm1_sf <- ap_anm1_sf %>%
+  mutate(district = ifelse(district == "Guntur", "Guntur", district))
+
+ap_anm1_sf <- ap_anm1_sf %>%
+  mutate(district = ifelse(district == "Kakinada", "Kakinada", district))
+
+ap_anm1_sf <- ap_anm1_sf %>%
+  mutate(district = ifelse(district == "Krishna", "Krishna", district))
+
+ap_anm1_sf <- ap_anm1_sf %>%
+  mutate(district = ifelse(district == "Kurnool", "Kurnool", district))
+
+ap_anm1_sf <- ap_anm1_sf %>%
+  mutate(district = ifelse(district == "NTR", "NTR", district))
+
+ap_anm1_sf <- ap_anm1_sf %>%
+  mutate(district = ifelse(district == "Nandyal", "Nandyal", district))
+
+ap_anm1_sf <- ap_anm1_sf %>%
+  mutate(district = ifelse(district == "Palnadu", "Palnadu", district))
+
+# Modify the district name for Parvathipuram Manyam
+ap_anm1_sf <- ap_anm1_sf %>%
+  mutate(district = ifelse(district == "Parvathipuram Manyam", "Parvatipuram Manyam", district))
+
+# Explicit no-change mapping for consistency (if the name is already correct)
+ap_anm1_sf <- ap_anm1_sf %>%
+  mutate(district = ifelse(district == "Parvatipuram Manyam", "Parvatipuram Manyam", district))
+
+ap_anm1_sf <- ap_anm1_sf %>%
+  mutate(district = ifelse(district == "Sri Sathya Sai", "Sri Sathya Sai", district))
+
+ap_anm1_sf <- ap_anm1_sf %>%
+  mutate(district = ifelse(district == "Srikakulam", "Srikakulam", district))
+
+ap_anm1_sf <- ap_anm1_sf %>%
+  mutate(district = ifelse(district == "West Godavari", "West Godavari", district))
 
 # Left join using different column names
 merged_sf_map_anm1 <- left_join(ap_anm1_sf, district_responses, by = c("district" = "district_name"))
@@ -2042,7 +2204,7 @@ print(pre_post_mean_pct_anm1)
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Relative Percentage Change</span>"
-#| fig-cap: "<span style='font-size:12px;'><span style='font-weight:bold;'>Relative percentage change:</span> Shows how much scores increased or decreased after training.<br><span style='font-weight:bold;'>Positive change:</span> Means participants scored higher after training.<br> <span style='font-weight:bold;'>Negative change:</span> Means scores dropped after training.</span>"
+#| fig-cap: "<span style='font-size:10px;'><span style='font-weight:bold;'>Relative percentage change:</span> Shows increase or decrease in post test scores compared to pre test scores.<br><span style='font-weight:bold;'>Positive change:</span> Participants scored higher in post test than in pretest.<br> <span style='font-weight:bold;'>Negative change:</span> Participants scored lower in post test than in pretest.</span>"
 
 # MO1 relative change
 print(plot_relative_change_mo1)
@@ -2053,7 +2215,7 @@ print(plot_relative_change_mo1)
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Relative Percentage Change</span>"
-#| fig-cap: "<span style='font-size:12px;'><span style='font-weight:bold;'>Relative percentage change:</span> Shows how much scores increased or decreased after training.<br><span style='font-weight:bold;'>Positive change:</span> Means participants scored higher after training.<br> <span style='font-weight:bold;'>Negative change:</span> Means scores dropped after training.</span>"
+#| fig-cap: "<span style='font-size:10px;'><span style='font-weight:bold;'>Relative percentage change:</span> Shows increase or decrease in post test scores compared to pre test scores.<br><span style='font-weight:bold;'>Positive change:</span> Participants scored higher in post test than in pretest.<br> <span style='font-weight:bold;'>Negative change:</span> Participants scored lower in post test than in pretest.</span>"
 
 # ANM1 relative change
 print(plot_relative_change_anm1)
