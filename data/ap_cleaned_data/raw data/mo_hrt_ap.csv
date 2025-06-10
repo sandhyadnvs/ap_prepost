@@ -1,0 +1,740 @@
+number,name_pre,name_post,gender_pre,gender_post,entry_pre,entry_post,age_pre,age_post,educational_qualification_pre,educational_qualification_post,experience_pre,experience_post,districts_pre,districts_post,nature_of_the_facility_pre,nature_of_the_facility_post,phc_name_pre,phc_name_post,mobile_no_pre,mobile_no_post,date_pre,date_post,q1_pre,q1_post,q2_pre,q2_post,q3_pre,q3_post,q4_pre,q4_post,q5_pre,q5_post,q6_pre,q6_post,q7_pre,q7_post,q8_pre,q8_post,q9_pre,q9_post,q10_pre,q10_post,condition,state,cadre
+1,Dr.shaik muqthiyar jani,Dr.shaik muqthiyar jani,2,2,APMTO1,APMTO1,8186899077,31,1,1,2.7,2.7,18,18,1,1,Koppunur,Koppunur,8186899077,8186899077,25-04-2025,25-04-2025,3,3,3,3,2,4,3,3,1,3,4,4,1,1,4,4,3,3,3,2,hrt,ap,mo
+2,Sk parveen begum,Sk parveen begum,2,2,APMTO1,APMTO1,25,25,1,1,0.24,0.24,18,18,2,2,Uphc nsp colony vnk,Uphc nsp colony vnk,9059335549,9059335549,25-04-2025,25-04-2025,2,3,3,3,2,1,4,3,2,3,4,4,1,2,3,4,1,3,2,2,hrt,ap,mo
+3,M.nashreen,M.nashreen,2,2,APMTO1,APMTO1,25,25,1,1,1.6,1.6,18,18,1,1,Phc pillutla,Phc pillutla,8500928215,8500928215,25-04-2025,25-04-2025,3,3,3,3,1,1,3,3,2,3,4,4,1,2,4,4,3,3,4,2,hrt,ap,mo
+4,Krishna Naik,Krishna Naik,1,1,APMTO1,APMTO1,38,38,1,1,5,5,18,18,1,1,Phc vellaturu,Phc vellaturu,9642199879,9642199879,25-04-2025,25-04-2025,2,3,3,3,1,4,2,3,2,3,2,4,4,2,3,3,2,3,2,2,hrt,ap,mo
+5,Annapureddy Bindu Madhavi,Annapureddy Bindu Madhavi,2,2,APMTO1,APMTO1,26,26,1,1,1.5,1.5,18,18,1,1,Phc madugula,Phc madugula,8978178177,8978178177,25-04-2025,25-04-2025,3,3,3,3,4,2,3,3,1,2,4,4,2,2,4,4,3,3,4,2,hrt,ap,mo
+6,Gayathri P,Gayathri P,2,2,APMTO1,APMTO1,29,29,1,1,1.5,1.5,18,18,2,2,UPHC BARAMPET,UPHC BARAMPET,7989485006,7989485006,25-04-2025,25-04-2025,3,3,1,3,2,2,3,3,1,3,4,4,4,2,4,4,3,3,1,2,hrt,ap,mo
+7,Dr.PARVEEN SULTANA,Dr.PARVEEN SULTANA,2,2,APMTO1,APMTO1,27,27,1,1,2.5,2.5,18,18,2,2,UPHC CHERUVU,UPHC CHERUVU,7989092716,7989092716,25-04-2025,25-04-2025,3,3,3,3,2,2,3,3,1,3,4,4,2,2,4,4,1,3,3,2,hrt,ap,mo
+8,Dr ramya,Dr ramya,2,2,APMTO1,APMTO1,25,25,1,1,2,2,18,18,1,1,Phc karempudi,Phc karempudi,8328560538,8328560538,25-04-2025,25-04-2025,3,3,3,3,2,2,3,3,1,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+9,Alli jhansi,Alli jhansi,2,2,APMTO1,APMTO1,27,27,1,1,2,2,18,18,1,1,Phc colocated gurazala,Phc colocated gurazala,9490656592,9490656592,25-04-2025,25-04-2025,3,3,3,3,4,4,3,3,3,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+10,Amulya immadisetty,Amulya immadisetty,2,2,APMTO1,APMTO1,34,34,1,1,4.2,4.2,18,18,1,1,Phc Dachepalli,Phc Dachepalli,9032889532,9032889532,25-04-2025,25-04-2025,2,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,4,3,hrt,ap,mo
+11,Dr.N Venkata ramana,Dr.N Venkata ramana,2,2,APMTO1,APMTO1,34,34,1,1,1.5,1.5,18,18,1,1,Phc pamidipadu,Phc pamidipadu,9032934485,9032934485,25-04-2025,25-04-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,3,hrt,ap,mo
+12,Dhanalakshmi Bandikalla,Dhanalakshmi Bandikalla,2,2,APMTO1,APMTO1,32,32,1,1,1.5,1.5,18,18,1,1,Phc Enugupalem,Phc Enugupalem,8977744147,8977744147,25-04-2025,25-04-2025,3,3,3,3,2,4,2,3,4,3,4,4,4,2,4,4,3,3,2,2,hrt,ap,mo
+13,Dr.J.Deepika Manjusha,Dr.J.Deepika Manjusha,2,2,APMTO1,APMTO1,29,29,1,1,2,2,18,18,1,1,PHC INAVOLU,PHC INAVOLU,9581870468,9581870468,25-04-2025,25-04-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,4,2,hrt,ap,mo
+14,Dr.Sravanthi,Dr.Sravanthi,2,2,APMTO1,APMTO1,29,29,1,1,1.5,1.5,18,18,1,1,Atchampet,Atchampet,8985575228,8985575228,25-04-2025,25-04-2025,3,3,3,3,4,4,3,3,3,3,4,4,1,2,3,3,3,3,1,2,hrt,ap,mo
+15,Sivaleela.k,Sivaleela.k,2,2,APMTO1,APMTO1,44,44,1,1,16,16,18,18,1,1,Macherla tribal phc,Macherla tribal phc,9989409002,9989409002,25-04-2025,25-04-2025,3,3,3,3,4,4,3,3,1,3,4,4,1,2,4,4,1,3,2,2,hrt,ap,mo
+16,Peeka  sucharitha,Peeka sucharitha,2,2,APMTO1,APMTO1,30,30,1,1,3,3,18,18,1,1,Phc dachepalli,Phc dachepalli,8074761193,8074761193,25-04-2025,25-04-2025,3,3,3,3,2,2,3,3,2,3,4,4,1,1,4,4,1,3,1,3,hrt,ap,mo
+17,Dr Bangaru Siva Rama Krishna,Dr Bangaru Siva Rama Krishna,1,1,APMTO1,APMTO1,35,35,1,1,2.5,2.5,18,18,1,1,MUTUKURU,MUTUKURU,9493708467,9493708467,25-04-2025,25-04-2025,3,3,3,3,2,2,3,3,2,3,4,4,2,2,4,4,3,3,3,3,hrt,ap,mo
+18,CHINTABATHINI ASHA LATHA,CHINTABATHINI ASHA LATHA,2,2,APMTO1,APMTO1,27,27,1,1,3.4,3.4,18,18,2,2,UPHC SHALEMNAGAR,UPHC SHALEMNAGAR,7285930945,7285930945,25-04-2025,25-04-2025,3,3,3,3,2,2,3,3,3,4,4,4,4,2,4,4,3,3,4,4,hrt,ap,mo
+19,SK.D. Nazeer,SK.D. Nazeer,1,1,APMTO1,APMTO1,35,35,1,1,3,3,18,18,1,1,PHC chandrajupalem,PHC chandrajupalem,8309513345,8309513345,25-04-2025,25-04-2025,3,3,1,3,2,2,3,3,4,3,4,4,4,2,4,4,4,3,1,2,hrt,ap,mo
+20,Dr Lakshmi Prasanna Brunga,Dr Lakshmi Prasanna Brunga,2,2,APMTO1,APMTO1,31,31,1,1,3.5,3.5,18,18,1,1,Uppalapadu,Uppalapadu,9490304655,9490304655,25-04-2025,25-04-2025,3,3,1,3,4,4,2,3,3,3,4,4,1,2,4,4,3,3,3,2,hrt,ap,mo
+21,U velugonda reddy,U velugonda reddy,1,1,APMTO1,APMTO1,35,35,1,1,2.5,2.5,18,18,1,1,75 tyalluru phc,75 tyalluru phc,9346784281,9346784281,25-04-2025,25-04-2025,4,3,3,3,2,2,3,3,3,1,4,4,1,1,4,4,3,3,1,4,hrt,ap,mo
+22,DR M VIJAY NAIK,DR M VIJAY NAIK,1,1,APMTO1,APMTO1,36,35,1,1,2.6,2.6,18,18,1,1,GADEVARIPALLI PHC,GADEVARIPALLI PHC,8801745300,8801745300,26-04-2025,25-04-2025,4,3,3,3,2,2,3,3,3,1,4,4,1,1,4,4,3,3,3,4,hrt,ap,mo
+23,Ghantasala bhanu prakash,GHANTASALA Bhanu prakash,1,1,APMTO1,APMTO1,25,25,1,1,1,1,18,18,1,1,Phc Durgi,Phc Durgi,8317653411,8317653411,25-04-2025,25-04-2025,2,3,3,3,2,2,3,3,3,3,4,4,1,1,4,4,3,3,1,2,hrt,ap,mo
+24,G Harsha Vardhan Reddy,G Harsha Vardhan Reddy,1,1,APMTO1,APMTO1,35,35,1,1,2,2.6,18,18,2,2,Babapet uphc,Babapet uphc,6302968284,6302968284,25-04-2025,25-04-2025,2,2,3,3,2,2,3,3,1,3,4,4,1,2,4,4,3,3,2,3,hrt,ap,mo
+25,L.padmavathi,L.padmavathi,2,2,APMTO1,APMTO1,38,38,1,1,6,6,18,18,1,1,Phc kambhampadu,Phc kambhampadu,9441095959,9441095959,25-04-2025,25-04-2025,4,3,3,3,4,2,2,3,4,3,4,4,4,1,4,4,3,3,3,4,hrt,ap,mo
+26,Dr.S.Revathi Bai,Dr.S.Revathi Bai,2,2,APMTO1,APMTO1,32,32,1,1,2,2,18,18,1,1,Phc Reddipalem,Phc Reddipalem,8333975067,8333975067,25-04-2025,25-04-2025,3,2,3,3,2,2,2,3,3,3,4,4,1,2,3,4,3,3,2,3,hrt,ap,mo
+27,Pothireddy Jagan Narasimha Reddy,Pothireddy Jagan Narasimha Reddy,1,1,APMTO1,APMTO1,29,29,1,1,2.5,2.5,18,18,1,1,Phc rompicherla,Phc rompicherla,8121912198,8121912198,25-04-2025,25-04-2025,2,3,3,3,2,2,3,3,1,2,4,4,2,1,4,4,3,3,2,2,hrt,ap,mo
+28,I RANI SAMYUKTHA,I RANI SAMYUKTHA,2,2,APMTO1,APMTO1,32,32,1,1,2,2,18,18,2,2,Uphc Pspatnam,Uphc pspatnam,9381495422,9381495422,25-04-2025,25-04-2025,3,3,3,3,2,2,3,3,3,4,4,4,1,1,4,4,3,3,4,4,hrt,ap,mo
+29,Orchu Monika Lakshmi Bhavani,Orchu Monika Lakshmi Bhavani,2,2,APMTO1,APMTO1,25,25,1,1,0.1,0.1,18,18,2,2,Uphc manukondavaripalem,Uphc manukondavaripalem,9398477295,9398477295,25-04-2025,25-04-2025,3,3,3,3,2,2,3,3,4,1,4,4,1,1,4,4,3,3,1,2,hrt,ap,mo
+30,Dr. Jathindev,Dr. Jathindev,1,1,APMTO1,APMTO1,32,32,1,1,3,3,18,18,2,2,UPHC-Subbaih thota,UPHC-Subbaiah thota,9951817174,9951817174,25-04-2025,25-04-2025,2,2,3,3,1,2,3,3,3,2,4,4,1,1,4,4,3,3,2,2,hrt,ap,mo
+31,YARAGORLA SAI KIRAN,YARAGORLA SAI KIRAN,1,1,APMTO1,APMTO1,28,28,1,1,25,25,18,18,2,2,UPHC SUGALI COLONY,SUGALI COLONY,9652272680,9652272680,25-04-2025,25-04-2025,3,3,3,3,2,2,3,3,3,2,4,4,1,1,4,4,3,3,2,2,hrt,ap,mo
+32,Hemanth,Hemanth,1,1,APMTO1,APMTO1,27,27,1,1,15,15,18,18,2,2,Uphc,Uphc bhavanarushi nagar,6300091346,6300091346,25-04-2025,25-04-2025,3,3,2,3,2,2,3,3,3,2,4,4,1,1,4,4,3,3,2,2,hrt,ap,mo
+33,-,Dhanush,-,1,-,APMTO1,-,27,-,1,-,8,-,18,-,1,-,Krosuru PHC,-,7013323257,-,25-04-2025,-,3,-,3,-,2,-,3,-,2,-,4,-,1,-,4,-,3,-,2,hrt,ap,mo
+34,-,Shahid,-,1,-,APMTO1,-,26,-,1,-,1.5,-,18,-,2,-,Uphc ramireddypet,-,9493995460,-,25-04-2025,-,2,-,3,-,2,-,3,-,2,-,4,-,1,-,4,-,3,-,2,hrt,ap,mo
+35,-,GUSTALA NAGA LAKSHMI,-,2,-,APMTO1,-,27,-,1,-,0.23,-,18,-,2,-,Uph rajakapeta,-,8790466457,-,25-04-2025,-,2,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,3,-,2,hrt,ap,mo
+36,V.rambabu Naik,V.rambabu Naik,1,1,APMTO1,APMTO1,34,34,1,1,1.1,1.1,18,18,1,1,Madipadu,Madipadu,7207242357,7207242357,06-05-2025,06-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,1,3,2,2,hrt,ap,mo
+37,Gnaneswari Chillara,Dr Gnaneswari Chillara,2,2,APMTO1,APMTO1,27,27,1,1,1.6,1.6,18,18,1,1,Primary health centre Nadendla,Primary health centre Nadendla,9951249096,9951249096,06-05-2025,06-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+38,Sai teja,Sai teja,1,1,APMTO1,APMTO1,25,25,1,1,2,1.5,18,18,1,1,Phc vellaturu,Phc vellaturu,7995600922,7995600922,06-05-2025,06-05-2025,3,3,3,3,4,2,3,1,4,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+39,P.KOUSHIK SAI SUNDAR,P.KOUSHIK SAI SUNDAR,1,1,APMTO1,APMTO1,30,30,1,1,2.2,2.2,18,18,2,2,Hanuman nagar,Hanuman nagar,7981812149,7981812149,06-05-2025,06-05-2025,3,3,1,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+40,Koppakula Lakshmi mounika,Koppakula Lakshmi mounika,2,2,APMTO1,APMTO1,28,28,1,1,1.7,1.7,18,18,1,1,Phc karempudi,Phc karempudi,8019666350,8019666350,06-05-2025,06-05-2025,3,3,3,3,4,2,3,3,1,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+41,Dr.M.Poojasree,Dr. M. Poojasree,2,2,APMTO1,APMTO1,29,29,1,1,2.9,2.9,18,18,1,1,PHC Kunkalagunta,PHC Kunkalagunta,9663360738,9663360738,06-05-2025,06-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,4,2,hrt,ap,mo
+42,Dr.u.sri lakshmi kavitha,Dr.u.sri lakshmi kavitha,2,2,APMTO1,APMTO1,29,29,1,1,2.9,2.9,18,18,1,1,Phc panidam,Phc panidam,9866292976,9866292976,06-05-2025,06-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,4,2,hrt,ap,mo
+43,Dr.Madhu Sudhan,Dr.Madhu Sudhan,1,1,APMTO1,APMTO1,28,28,1,1,1.9,1.9,18,18,1,1,Phc Gamalapadu,Phc Gamalapadu,9866134538,9866134538,06-05-2025,06-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,3,2,hrt,ap,mo
+44,Alapati Arun Kumar,Alapati Arun Kumar,1,1,APMTO1,APMTO1,35,35,1,1,4,4,18,18,1,1,Phc Kambhampdu,Phc Kambhampdu,9951312206,9951312206,06-05-2025,06-05-2025,2,2,3,3,2,2,3,3,1,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+45,Dr M Laxmana Reddy,Dr M Laxmana Reddy,1,1,APMTO1,APMTO1,34,34,1,1,1.6,1.6,18,18,1,1,Gadevaripalli,Gadevaripalli,9551647646,9551647646,06-05-2025,06-05-2025,2,4,3,3,2,2,3,3,1,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+46,Vinuthna,Vinuthna,2,2,APMTO1,APMTO1,31,31,1,1,1.9,1.9,18,18,1,1,Phc bollapalli,Phc bollapalli,9640640208,9640640208,06-05-2025,06-05-2025,3,3,3,3,4,2,3,3,4,3,4,4,1,2,1,4,1,1,3,2,hrt,ap,mo
+47,DR. SHAIK SUMAIYA,DR. SHAIK SUMAIYA,2,2,APMTO1,APMTO1,27,27,1,1,1,1,18,18,1,1,Co located phc chilakaluripet,Co located phc chilakaluripet,8639079686,8639079686,06-05-2025,06-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,3,hrt,ap,mo
+48,S Soumya,S Soumya,2,2,APMTO1,APMTO1,34,34,1,1,2.7,2.7,18,18,4,4,Pp unit vinukonda,Pp unit vinukonda,7032119506,7032119506,06-05-2025,06-05-2025,3,3,1,3,2,2,3,3,3,3,4,4,1,2,4,4,1,1,2,2,hrt,ap,mo
+49,Dr. S. Prasadarao,Dr. S. Prasadarao,1,1,APMTO1,APMTO1,44,44,1,1,2.5,2.5,18,18,1,1,Phc -Machavaram,Phc -Machavaram,9908142040,9908142040,06-05-2025,06-05-2025,3,3,1,3,2,2,3,3,3,3,4,4,1,2,4,4,1,3,2,2,hrt,ap,mo
+50,Bollipo Joel Prasad,Bollipo Joel Prasad,1,1,APMTO1,APMTO1,36,36,1,1,1.11,1.11,18,18,1,1,PHC PAMIDIPADU,PHC Pamidipadu,8978151111,8978151111,06-05-2025,06-05-2025,3,3,3,3,4,2,3,3,1,2,4,4,4,2,4,4,3,3,3,2,hrt,ap,mo
+51,Dr. G. Dharma Singh Sastry,Dr. G. Dharma Singh Sastry,1,1,APMTO1,APMTO1,29,29,1,1,2.9,2.9,18,18,2,2,Uphc market yard sattenapalli,Uphc market yard sattenapalli,9490419191,9490419191,06-05-2025,06-05-2025,3,3,1,3,2,2,3,3,3,3,4,4,1,2,4,4,2,3,3,2,hrt,ap,mo
+52,Dr.asiya,Dr.asiya,2,2,APMTO1,APMTO1,25,25,1,1,1.5,1.5,18,18,2,2,Uphcvengalreddy nagar,Uphc vengalreddy nagar,9553380860,9553380860,06-05-2025,06-05-2025,3,3,1,3,2,2,3,3,3,3,4,4,1,2,4,4,2,3,3,3,hrt,ap,mo
+53,Dr.RAMYA RAVIPUDI,Dr.Ramya Ravipudi,2,2,APMTO1,APMTO1,28,28,1,1,4.5,4,18,18,1,1,PHC SAVALYAPURAM,Phc SAVALYAPURAM,8143899549,8143899549,06-05-2025,06-05-2025,3,3,3,3,2,2,3,3,3,2,4,4,1,2,4,4,3,3,3,2,hrt,ap,mo
+54,M.leela prasad,M.leela prasad,1,1,APMTO1,APMTO1,36,36,1,1,16,16,18,18,1,1,Co located  amaravathi,Co located  amaravathi,8555039407,8555039407,06-05-2025,06-05-2025,3,2,3,3,2,2,2,3,3,3,4,4,1,2,4,4,1,3,4,2,hrt,ap,mo
+55,Dr prasanna kumar,Dr Prasanna kumar,1,1,APMTO1,APMTO1,32,32,1,1,2.5,2.5,18,18,1,1,Reddipalem phc,Reddipalem phc,9848355513,9848355513,06-05-2025,06-05-2025,3,3,3,3,1,2,3,3,3,3,4,4,1,2,2,4,3,3,1,2,hrt,ap,mo
+56,Haseena sk,Haseena sk,2,2,APMTO1,APMTO1,26,26,1,1,1.1,1.1,18,18,1,1,Phc Nekarikallu,Phc Nekarikallu,8096772773,8096772773,06-05-2025,06-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,3,3,3,3,1,2,hrt,ap,mo
+57,Dr VADDE MAMATHA PRIYA,Dr VADDE MAMATHA PRIYA,2,2,APMTO1,APMTO1,34,34,1,1,4.8,4.8,18,18,1,1,KOTAPPAKONDA,KOTAPPAKONDA,8500882424,8500882424,06-05-2025,06-05-2025,3,3,3,3,2,2,3,3,2,3,4,4,1,2,4,4,3,3,1,4,hrt,ap,mo
+58,Dr P Shaik Shameema,P Shaik Shameema,2,2,APMTO1,APMTO1,36,36,1,1,7,7,18,18,1,1,A Muppalla,A Muppalla,9966214162,9966214162,06-05-2025,06-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,1,2,4,4,3,3,3,3,hrt,ap,mo
+59,Bala Ankamma Bai,Bala Ankamma Bai,2,2,APMTO1,APMTO1,34,34,1,1,9,9,18,18,5,5,Sattenapalli,PP unit sattenapalli,9493585362,9493585362,06-05-2025,06-05-2025,3,3,1,3,2,2,3,3,2,3,4,4,2,2,4,4,3,3,3,4,hrt,ap,mo
+60,Dr D V SIVARATNA KUMAR,Dr D V SIVARATNA KUMAR,1,1,APMTO1,APMTO1,42,42,1,1,3.2,3.2,18,18,1,1,Attaluru,Attaluru,8465967777,8465967777,06-05-2025,06-05-2025,3,3,3,3,4,2,3,3,3,3,4,4,1,2,4,4,3,3,4,2,hrt,ap,mo
+61,M B PRASANTH KUMAR,M B PRASANTH KUMAR,1,1,APMTO1,APMTO1,35,35,1,1,2,2,18,18,1,1,Colocated phc vinukonda,Colocated phc vinukonda,8143207071,8143207071,06-05-2025,06-05-2025,3,3,3,3,2,2,1,3,2,2,4,4,1,2,4,4,3,3,3,2,hrt,ap,mo
+62,Dr.manti Siri chandana,Dr.manti Siri chandana,2,2,APMTO1,APMTO1,27,27,1,1,4,4,18,18,1,1,Dodleru,Dodleru,8187803775,8187803775,06-05-2025,06-05-2025,3,3,1,3,2,2,2,2,3,3,4,4,1,2,4,3,3,3,2,2,hrt,ap,mo
+63,B.nagaraju,B.nagaraju,1,1,APMTO1,APMTO1,32,32,1,1,2,2,18,18,1,1,Phc mutukuru,Phc mutukuru,7997628758,7997628758,06-05-2025,06-05-2025,3,1,3,3,3,4,2,3,2,3,3,4,3,2,3,3,2,4,2,4,hrt,ap,mo
+64,Potturi Bharadwaja,Potturi Bharadwaja,1,1,APMTO1,APMTO1,29,29,1,1,1.5,1.5,18,18,1,1,Edlapadu,Edlapadu,6281418068,6281418068,06-05-2025,06-05-2025,3,3,3,3,4,2,3,3,3,3,4,4,1,2,4,4,1,3,3,2,hrt,ap,mo
+65,Dr. Rama Devi,Dr. Rama Devi,2,2,APMTO1,APMTO1,43,43,1,1,4,4,18,18,1,1,Piduguralla,Piduguralla,9010731548,9010731548,06-05-2025,06-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,3,3,hrt,ap,mo
+66,Dr Prasad Naik,Dr L Prasad Naik,1,1,APMTO1,APMTO1,41,41,1,1,14,14,18,18,1,1,Ganapavaram,Ganapavaram,9553652426,9553652426,06-05-2025,06-05-2025,1,1,3,3,4,2,3,3,3,3,4,4,1,2,4,4,3,4,1,2,hrt,ap,mo
+67,Dr Raviteja Naik,Dr Raviteja Naik,1,1,APMTO1,APMTO1,38,38,1,1,15,8,18,18,1,1,Rajupalem,Rajupalem,9030936439,9030936439,06-05-2025,06-05-2025,3,3,3,3,4,2,3,1,3,3,4,4,1,2,4,4,3,4,1,2,hrt,ap,mo
+68,Y. Hema,Y. Hema,2,2,APMTO1,APMTO1,30,30,1,1,2.5,2.5,18,18,1,1,Rentachinthala,Rentachinthala,7207386942,7207386942,06-05-2025,06-05-2025,2,3,3,3,4,2,3,3,3,3,4,4,2,2,4,3,1,3,2,2,hrt,ap,mo
+69,Teresa Tadikonda,Teresa Tadikonda,2,2,APMTO1,APMTO1,28,28,1,1,2,2,18,18,1,1,Phc sirigiripadu,Phc sirigiripadu,9346537422,9346537422,06-05-2025,06-05-2025,3,2,3,3,4,4,3,3,3,3,4,4,1,1,4,4,3,3,3,3,hrt,ap,mo
+70,Dr  Rama Devi pallapu,Dr Rama Devi pallapu,2,2,APMTO1,APMTO1,33,33,1,1,1.5,1.5,18,18,1,1,Phc Goli,Phc Goli,9849612116,9849612116,06-05-2025,06-05-2025,3,3,3,3,2,2,2,3,2,3,2,4,1,2,4,3,3,3,3,2,hrt,ap,mo
+71,Shaik karimulla Mohinuddin,Shaik karimulla Mohinuddin,1,1,APMTO1,APMTO1,39,39,2,1,3,3,13,13,1,1,pedoutapalli,pedoutapalli,9121201325,9121201325,16-05-2025,16-05-2025,3,3,3,2,2,2,3,3,3,3,4,4,1,2,4,3,3,3,3,3,hrt,ap,mo
+72,U Nikitha Prasad,U Nikitha Prasad,2,2,APMTO1,APMTO1,27,27,1,1,3.2,3.2,13,13,1,1,Ghantasalapalem,Ghantasalapalem,9392109856,9392109856,16-05-2025,16-05-2025,3,3,3,3,2,2,3,3,3,2,4,4,2,2,4,4,2,3,1,2,hrt,ap,mo
+73,Dr ch sai kiran,Dr ch sai kiran,1,1,APMTO1,APMTO1,31,31,1,1,1.6,1.6,13,13,1,1,Rudrapaka,Rudrapaka,9700757487,9700757487,16-05-2025,16-05-2025,1,2,2,2,2,2,3,3,2,2,2,2,2,3,2,2,2,3,2,2,hrt,ap,mo
+74,Dr.P.Deepthi,-,2,-,APMTO1,-,34,-,1,-,2.2,-,13,-,1,-,PHC MOTURU,-,9010983015,-,16-05-2025,-,3,-,3,-,2,-,2,-,3,-,4,-,1,-,4,-,3,-,2,-,hrt,ap,mo
+75,Dr ch sai kiran,-,1,-,APMTO1,-,31,-,1,-,1.6,-,13,-,1,-,Rudrapaka,-,6281183185,-,16-05-2025,-,2,-,3,-,2,-,2,-,2,-,2,-,3,-,3,-,2,-,2,-,hrt,ap,mo
+76,Tvenkateswara rao,Tvenkateswara rao,1,1,APMTO1,APMTO1,40,40,1,1,6,6,13,13,1,1,Phc Ghantasala,Phc Ghantasala,8121263456,8121263456,16-05-2025,16-05-2025,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,hrt,ap,mo
+77,Srujana,Srujana,2,2,APMTO1,APMTO1,32,32,1,1,3.5,3.5,13,13,1,1,Gannavaram,Gannavaram,8886539973,8886539973,16-05-2025,16-05-2025,2,2,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,1,2,hrt,ap,mo
+78,Ch.Rajeswari,Ch Rajeswari,2,2,APMTO1,APMTO1,29,29,1,1,2.6,2.6,13,13,1,1,Movva phc,Movva phc,9154330649,9154330649,16-05-2025,16-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,1,4,4,2,3,4,2,hrt,ap,mo
+79,VaraprasadababuThullimelli,VaraprasadababuThullimelli,1,1,APMTO1,APMTO1,59,59,1,1,20,59,13,13,1,1,Zemigovepalli,Zemigovepalli,9951074660,9951074660,16-05-2025,16-05-2025,3,3,3,3,4,4,1,4,3,3,4,4,1,1,4,4,1,1,1,1,hrt,ap,mo
+80,Dr.s h v sai sandeep,Dr.s h v sai sandeep,1,1,APMTO1,APMTO1,30,30,1,1,31,31,13,13,1,1,Kruthivennu phc,Kruthivennu phc,8340834081,8340834081,16-05-2025,16-05-2025,2,2,3,3,2,2,3,2,1,1,4,4,2,1,4,4,3,3,2,2,hrt,ap,mo
+81,Dr Chandrika,Dr Chandrika,2,2,APMTO1,APMTO1,29,29,1,1,2.6,2.6,13,13,1,1,Phc Uppaluru,Phc Uppaluru,8985442457,8985442457,16-05-2025,16-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,1,4,4,3,3,3,2,hrt,ap,mo
+82,Kiranmai Yandrathi,Kiranmai Yandrathi,2,2,APMTO1,APMTO1,37,37,1,1,3.2,3.2,13,13,1,1,Veeravalli,Veeravalli,9493176727,9493176727,16-05-2025,16-05-2025,3,3,1,1,2,2,3,3,4,4,4,4,4,4,4,4,3,3,4,4,hrt,ap,mo
+83,G Sai Suswara,G Sai Suswara,2,2,APMTO1,APMTO1,27,27,1,1,2,2,13,13,1,1,Tallapalem,Tallapalem,9704598939,9704598939,16-05-2025,16-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,1,4,4,4,3,2,4,hrt,ap,mo
+84,K.syamprasad,K.syamprasad,1,1,APMTO1,APMTO1,40,40,1,1,6,6,13,13,1,1,Sorlagondi,Sorlagondi,9440145337,9440145337,16-05-2025,16-05-2025,1,3,3,3,2,2,1,1,3,3,4,2,1,1,4,4,3,3,3,2,hrt,ap,mo
+85,Dr M J Manjusha,Dr M J Manjusha,2,2,APMTO1,APMTO1,45,45,1,1,17,17,13,13,1,1,Bapulapadu,Bapulapadu,9154330383,9154330383,16-05-2025,16-05-2025,3,3,3,3,2,1,3,3,1,3,4,4,1,1,4,4,3,3,2,2,hrt,ap,mo
+86,K naga vajra kumar,K naga vajra kumar,1,1,APMTO1,APMTO1,35,35,1,1,0.5,0.5,13,13,2,2,UpHC yanamalakuduru,UpHC yanamalakuduru,9703308320,9703308320,16-05-2025,16-05-2025,3,2,3,3,2,2,3,2,3,3,4,4,2,2,4,4,3,3,1,2,hrt,ap,mo
+87,Sharabu manjula,Sharabu manjula,2,2,APMTO1,APMTO1,28,28,1,1,3.2,3.2,13,13,1,1,Poranki,Poranki,7075831718,7075831718,16-05-2025,16-05-2025,3,3,3,3,4,4,3,3,3,3,4,4,1,1,4,4,3,3,4,4,hrt,ap,mo
+88,Ghantasala lasya haritha,Ghantasala lasya haritha,2,2,APMTO1,APMTO1,32,32,1,1,1.5,1.5,13,13,1,1,Chinnapuram,Chinnapuram,9949908163,9949908163,16-05-2025,16-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,1,4,4,3,3,3,3,hrt,ap,mo
+89,Hima padmaja tammana,Hima padmaja tammana,2,2,APMTO1,APMTO1,29,29,1,1,2.2,2.2,13,13,1,1,Colocated phc guduru,Colocated phc guduru,9176162495,9176162495,16-05-2025,16-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,2,2,4,4,3,3,1,2,hrt,ap,mo
+90,T.Phani kumar,-,1,-,APMTO1,-,31,-,1,-,0.2,-,13,-,1,-,Nimmakuru,-,8309605664,-,16-05-2025,-,2,-,2,-,2,-,2,-,2,-,4,-,1,-,4,-,1,-,3,-,hrt,ap,mo
+91,Zeeshan khan,-,1,-,APMTO1,-,36,-,4,-,1.5,-,13,-,1,-,Kanumuru,-,8368861886,-,16-05-2025,-,3,-,3,-,4,-,3,-,3,-,4,-,2,-,4,-,3,-,3,-,hrt,ap,mo
+92,Adapa.Divya krishna,Adapa.Divya krishna,2,2,APMTO1,APMTO1,34,34,1,1,2.6,2.6,13,13,1,1,Ventrapragada,Ventrapragada,9908876655,9908876655,16-05-2025,16-05-2025,3,3,3,3,1,1,3,3,1,3,4,4,1,1,4,4,1,3,2,2,hrt,ap,mo
+93,Dr G Rajendra Prasad,Dr G Rajendra Prasad,1,1,APMTO1,APMTO1,51,51,4,4,11,11,13,13,1,1,Yalamarru,Yalamarru,9493148084,9493148084,16-05-2025,16-05-2025,3,4,3,3,2,2,3,3,3,3,4,4,4,4,4,4,1,1,2,2,hrt,ap,mo
+94,Yarlagadda Rupasri,Yarlagadda Rupasri,2,2,APMTO1,APMTO1,28,28,1,1,1.5,1.5,13,13,1,1,Mallavolu,Mallavolu,9494523005,9494523005,16-05-2025,16-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,1,4,4,3,3,2,3,hrt,ap,mo
+95,Sandhya,-,2,-,APMTO1,-,38,-,1,-,1.5,-,13,-,1,-,Mustabad,-,9866808330,-,16-05-2025,-,2,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,-,hrt,ap,mo
+96,Dr N Tejaswini,Dr N Tejaswini,2,2,APMTO1,APMTO1,30,30,1,1,3,3,13,13,1,1,Phc chinaogirala,Phc chinaogirala,7036704883,7036704883,16-05-2025,16-05-2025,4,3,3,3,2,2,3,3,1,3,4,4,2,2,4,4,3,3,3,3,hrt,ap,mo
+97,Dr.Sushma Chandolu,Dr.Sushma Chandolu,2,2,APMTO1,APMTO1,26,26,1,1,2.7,2.7,13,13,2,2,Uphc bethavolu,Uphx bethavolu,9676552747,9676552747,16-05-2025,16-05-2025,4,3,3,3,2,2,3,3,1,3,4,4,2,2,4,4,3,3,3,3,hrt,ap,mo
+98,Pradeep,Pradeep,1,1,APMTO1,APMTO1,40,40,1,1,2.7,2.7,13,13,1,1,Chevendrapalem,Chevendrapalem,9963055078,9963055078,16-05-2025,16-05-2025,3,1,3,3,2,4,2,2,4,3,4,2,2,1,4,4,3,3,2,2,hrt,ap,mo
+99,Dr.Chejarla Soundarya,Dr.Chejarla Soundarya,2,2,APMTO1,APMTO1,30,30,1,1,3,3,13,13,1,1,Phc Bantumilli,Phc Bantumilli,8367255565,8367255565,16-05-2025,16-05-2025,3,2,3,3,2,2,3,3,3,3,4,4,4,4,4,4,3,3,2,2,hrt,ap,mo
+100,Dr V Jayasree,Dr V Jayasree,2,2,APMTO1,APMTO1,29,29,1,1,2.7,2.7,13,13,1,1,Pedatummidi,Pedatummidi,7997930090,7997930090,16-05-2025,16-05-2025,3,2,3,3,2,2,3,3,3,3,4,4,4,4,4,4,3,3,2,2,hrt,ap,mo
+101,Dr.Meruga Balaji,-,1,-,APMTO1,-,32,-,1,-,2,-,13,-,1,-,Phc kapileswarapuram,-,8985915851,-,16-05-2025,-,2,-,1,-,2,-,4,-,3,-,4,-,1,-,4,-,1,-,1,-,hrt,ap,mo
+102,K.Venkatapadmavathi,K.Venkatapadmavathi,2,2,APMTO1,APMTO1,45,8096422018,1,1,17,17,13,13,1,1,Phc puritigadda,Phc puritigadda,8096422018,8096422018,16-05-2025,16-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,1,4,4,4,4,2,2,hrt,ap,mo
+103,Dr Vijay Kumar Kuraganti,Dr Vijay Kumar Kuraganti,1,1,APMTO1,APMTO1,38,38,1,1,2,2,13,13,1,1,PHC Nidumolu,PHC Nidumolu,9989483622,9989483622,16-05-2025,16-05-2025,3,3,3,3,4,4,3,3,4,4,4,4,2,2,4,4,2,2,2,2,hrt,ap,mo
+104,Dr Yasaswini,-,2,-,APMTO1,-,32,-,1,-,2.6,-,13,-,1,-,Phc gudlavalleru,-,7794052376,-,16-05-2025,-,2,-,3,-,2,-,4,-,3,-,4,-,2,-,4,-,3,-,3,-,hrt,ap,mo
+105,Dr Syed ameer,Dr Syed ameer,1,1,APMTO1,APMTO1,38,38,1,1,3.7,3.7,13,13,1,1,Phc nimmakuru,Phc nimmakuru,9908675265,9908675265,16-05-2025,16-05-2025,2,3,3,3,2,2,3,1,3,3,4,4,1,1,4,4,4,4,4,4,hrt,ap,mo
+106,K kezia rani,K kezia rani,2,2,APMTO1,APMTO1,27,27,1,1,18,18,13,13,2,2,Uphc slaughter Peta,Uphc slaughter Peta,9121525772,9121525772,16-05-2025,16-05-2025,3,2,3,3,2,2,3,3,3,3,4,4,1,1,4,4,3,3,3,3,hrt,ap,mo
+107,-,Spoorthy Sindhusha Kollipara,-,2,-,APMTO1,-,34,-,1,-,18,-,13,-,1,-,Ramapuram,-,6301113584,-,16-05-2025,-,3,-,3,-,4,-,3,-,3,-,4,-,4,-,4,-,3,-,4,hrt,ap,mo
+108,-,Dr K Rajeswara Rao,-,1,-,APMTO1,-,39,-,1,-,4.7,-,13,-,1,-,PHC EDURUMONDI,-,9542513876,-,16-05-2025,-,2,-,3,-,2,-,4,-,1,-,4,-,3,-,4,-,4,-,1,hrt,ap,mo
+109,-,Gopichand,-,1,-,APMTO1,-,29,-,1,-,2.6,-,13,-,2,-,Vanthena centre,-,8465048569,-,16-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,1,-,3,-,3,-,2,hrt,ap,mo
+110,-,Sirisha,-,2,-,APMTO1,-,38,-,1,-,9,-,13,-,1,-,Indupalli,-,9885068936,-,16-05-2025,-,2,-,3,-,1,-,3,-,3,-,4,-,1,-,4,-,3,-,2,hrt,ap,mo
+111,-,Dr.D.Sai Saranya,-,2,-,APMTO1,-,34,-,1,-,0,-,13,-,1,-,Phc Srikakulam,-,9491725804,-,16-05-2025,-,3,-,1,-,2,-,3,-,3,-,4,-,2,-,4,-,2,-,2,hrt,ap,mo
+112,-,Suvarchala k,-,2,-,APMTO1,-,32,-,1,-,36,-,13,-,1,-,Pedatummidi,-,9395362255,-,16-05-2025,-,3,-,3,-,2,-,3,-,1,-,4,-,1,-,4,-,3,-,2,hrt,ap,mo
+113,-,Dr akhila,-,2,-,APMTO1,-,29,-,1,-,6,-,13,-,1,-,Veerankilock,-,7396164077,-,16-05-2025,-,2,-,1,-,2,-,3,-,3,-,4,-,1,-,4,-,3,-,1,hrt,ap,mo
+114,-,Bijili,-,1,-,APMTO1,-,41,-,1,-,14,-,13,-,1,-,Penamaluru,-,8522877722,-,16-05-2025,-,2,-,3,-,2,-,2,-,2,-,3,-,2,-,2,-,3,-,2,hrt,ap,mo
+115,-,Dr sonti sivarama krishna rao,-,1,-,APMTO1,-,30,-,1,-,5,-,13,-,1,-,Katuru,-,9849723898,-,16-05-2025,-,3,-,3,-,1,-,3,-,1,-,4,-,3,-,4,-,1,-,1,hrt,ap,mo
+116,-,J Anitha,-,2,-,APMTO1,-,39,-,1,-,1.9,-,13,-,1,-,Srikakulam PHC,-,8882375771,-,16-05-2025,-,3,-,3,-,4,-,4,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+117,-,Dr Gayatri sai hari priya,-,2,-,APMTO1,-,24,-,1,-,0,-,13,-,1,-,Nimmakuru,-,6305402376,-,16-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+118,-,Dr sonti sivarama krishna rao,-,1,-,APMTO1,-,30,-,1,-,5,-,13,-,1,-,Katuru,-,9505490627,-,16-05-2025,-,3,-,3,-,4,-,1,-,1,-,4,-,1,-,4,-,1,-,1,hrt,ap,mo
+119,-,Dr K Rajeswara Rao,-,1,-,APMTO1,-,39,-,1,-,4.7,-,13,-,1,-,PHC EDURUMONDI,-,9542579998,-,16-05-2025,-,2,-,3,-,2,-,1,-,3,-,4,-,1,-,4,-,4,-,2,hrt,ap,mo
+120,-,PUSHADAPU Jahnavi,-,2,-,APMTO1,-,31,-,4,-,0.2,-,13,-,1,-,Chinnapuram,-,7661880323,-,16-05-2025,-,4,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,3,-,1,hrt,ap,mo
+121,-,Dr prasuja,-,1,-,APMTO1,-,40,-,4,-,15,-,13,-,1,-,Kankipadu,-,9703337720,-,16-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+122,-,Sirisha,-,2,-,APMTO1,-,38,-,1,-,9,-,13,-,1,-,Indupalli,-,988506893,-,16-05-2025,-,3,-,3,-,1,-,3,-,3,-,4,-,1,-,4,-,3,-,2,hrt,ap,mo
+123,-,dr indu,-,2,-,APMTO1,-,26,-,1,-,0,-,13,-,1,-,kapileswarapuram,-,8331004497,-,16-05-2025,-,2,-,1,-,2,-,2,-,3,-,4,-,3,-,4,-,1,-,3,hrt,ap,mo
+124,-,DrT S Prasanna,-,2,-,APMTO1,-,54,-,1,-,20.3,-,13,-,1,-,Thotlavalluru,-,7893982204,-,16-05-2025,-,3,-,3,-,4,-,3,-,1,-,4,-,1,-,4,-,3,-,2,hrt,ap,mo
+125,-,Bijili,-,1,-,APMTO1,-,41,-,1,-,14,-,13,-,1,-,Penamuluru,-,9440287772,-,16-05-2025,-,3,-,1,-,4,-,3,-,3,-,2,-,3,-,4,-,2,-,3,hrt,ap,mo
+126,PERNETI DEDEEPYA REDDY,PERNETI DEDEEPYA REDDY,2,2,APMTO1,APMTO1,32,32,1,1,18,18,17,17,1,1,SARVAYAPALEM,SARVAYAPALEM,9014567895,9014567895,26-05-2025,26-05-2025,3,3,3,3,4,2,3,3,1,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+127,Gali.Hena,Gali.Hena,2,2,APMTO1,APMTO1,30,30,1,1,2,2,17,17,1,1,PHC kodur,PHC kodur,7093123800,7093123800,26-05-2025,26-05-2025,3,3,3,3,4,2,3,3,1,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+128,Dr.J.Padmaja,-,2,-,APMTO1,-,30,-,1,-,36,-,17,-,1,-,Phc gattupalli,-,7993396038,-,26-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,-,hrt,ap,mo
+129,S.Lakshmi,S.Lakshmi,2,2,APMTO1,APMTO1,34,34,1,1,4,4,17,17,1,1,Jaladanki,Jaladanki,9701794059,9701794059,26-05-2025,26-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,4,4,4,4,3,3,3,4,hrt,ap,mo
+130,BIJJAM GEETHA REDDY,BIJJAM GEETHA REDDY,2,2,APMTO1,APMTO1,30,30,1,1,38,38,17,17,1,1,KALIGIRI,KALIGIRI,9398478970,9398478970,26-05-2025,26-05-2025,3,3,3,3,4,4,3,3,3,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+131,Sindhu Priya,Sindhu Priya,2,2,APMTO1,APMTO1,28,28,1,1,2.6,2.6,17,17,1,1,Chakicherla,Chakicherla,6300047577,6300047577,26-05-2025,26-05-2025,1,3,3,3,3,3,3,3,2,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+132,Dr syed juwariya banu,Dr syed juwariya banu,2,2,APMTO1,APMTO1,33,33,1,1,2.7,2.7,17,17,1,1,Phc machavaram,Phc machavaram,9550379669,9550379669,26-05-2025,26-05-2025,1,3,3,3,3,3,3,3,4,3,4,4,4,2,4,4,3,3,2,2,hrt,ap,mo
+133,Dr Mehetab shaik,Dr Mehetab shaik,2,2,APMTO1,APMTO1,35,35,1,1,5,5,17,17,1,1,Phc chejerla,Phc chejerla,9490680960,9490680960,26-05-2025,26-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,1,4,4,3,3,3,4,hrt,ap,mo
+134,Dr Mehetab shaik,-,2,-,APMTO1,-,35,-,1,-,5,-,17,-,1,-,Phc chejerla,-,8309204553,-,26-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,3,-,3,-,hrt,ap,mo
+135,Anushapriyanka,Anushapriyanka,2,2,APMTO1,APMTO1,37,37,1,1,6,6,17,17,1,1,Chevuru,Chevuru,7382221188,7382221188,26-05-2025,26-05-2025,3,3,1,3,4,2,3,3,1,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+136,Vineetha,Vineetha,2,2,APMTO1,APMTO1,27,27,1,1,2.5,2.5,17,17,1,1,Gandipalem,Gandipalem,9441647964,9441647964,26-05-2025,26-05-2025,3,3,3,3,2,1,3,3,3,3,4,4,1,2,4,4,3,3,1,2,hrt,ap,mo
+137,Dr.Kakani Jamima Prathyusha,Dr.Kakani Jamima Prathyusha,2,2,APMTO1,APMTO1,29,29,1,1,2,2,17,17,1,1,Colocated PHC Buchireddypalem,Colocated PHC Buchireddypalem,9515478196,9515478196,26-05-2025,26-05-2025,3,2,3,3,2,2,3,3,3,3,4,4,1,1,4,4,3,3,3,3,hrt,ap,mo
+138,Dr.m.vijayakeerthi,Dr.m.vijayakeerthi,2,2,APMTO1,APMTO1,35,35,1,1,4,4,17,17,1,1,Phc thurimerla,Phc thurimerla,9030782407,9030782407,26-05-2025,26-05-2025,3,3,3,3,4,4,3,3,3,2,4,4,4,4,4,4,3,3,3,3,hrt,ap,mo
+139,Dr.m.ramakrishna,Dr.m.ramakrishna,1,1,APMTO1,APMTO1,50,50,1,1,14,14,17,17,1,1,Kodavalur,Kodavalur,8886391050,8886391050,26-05-2025,26-05-2025,1,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,3,4,hrt,ap,mo
+140,Dr SYED AYUB APSAR,Dr Ayub,1,1,APMTO1,APMTO1,32,32,1,1,2.5,2.5,17,17,1,1,Duttalur,Duttalur,9966902863,9966902863,26-05-2025,26-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,1,2,hrt,ap,mo
+141,Dr Jyothi Rani Bathula,Dr Jyothi Rani Bathula,2,2,APMTO1,APMTO1,40,40,1,1,2.5,2.5,17,17,1,1,Phc chiramana,Phc chiramana,7995960423,7995960423,26-05-2025,26-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,1,4,4,3,3,3,3,hrt,ap,mo
+142,S.pravallika,S.pravallika,2,2,APMTO1,APMTO1,31,31,1,1,4.7,4.7,17,17,1,1,Kasumur,Kasumur,7799957569,7799957569,26-05-2025,26-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,1,4,4,3,3,4,4,hrt,ap,mo
+143,K.Anuradha,K.Anuradha,2,2,APMTO1,APMTO1,34,34,1,1,3,3,17,17,1,1,Lingasamudram PHC,Lingasamudram PHC,9160222087,9160222087,26-05-2025,26-05-2025,3,3,3,1,2,2,3,3,4,1,1,4,1,4,4,4,3,3,2,2,hrt,ap,mo
+144,DR G PADMAJA,-,2,-,APMTO1,-,52,-,3,-,10,-,17,-,4,-,Buchi Reddypalem,-,9676585003,-,26-05-2025,-,3,-,3,-,4,-,3,-,3,-,4,-,2,-,4,-,3,-,2,-,hrt,ap,mo
+145,Dr.A.Srinivasulu,Dr.A.Srinivasulu,1,1,APMTO1,APMTO1,30,30,1,1,4.5,4.5,17,17,1,1,PHC jaladanki,PHC jaladanki,9948961312,9948961312,26-05-2025,26-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,1,1,4,4,3,3,2,2,hrt,ap,mo
+146,GUNDAPAREDDY Ramya,GUNDAPAREDDY Ramya,2,2,APMTO1,APMTO1,29,29,1,1,0,0,17,17,1,1,Gudluru,Gudluru,8332048840,8332048840,26-05-2025,26-05-2025,3,3,3,3,2,1,3,3,3,3,2,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+147,Dr.Naveen Eggoni,Dr.Naveen Eggoni,1,1,APMTO1,APMTO1,36,36,1,1,2.7,2.7,17,17,1,1,"PHC CHITTALUR, CHEJARLA (M)",Chittalur,9654587919,9654587919,26-05-2025,26-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,1,3,3,2,hrt,ap,mo
+148,Dr V Rajasekharan,Dr V Rajasekharan,1,1,APMTO1,APMTO1,28,28,1,1,2.1,2.1,17,17,1,1,Phc juvvaladinne,Phc juvvaladinne,8121322836,8121322836,26-05-2025,26-05-2025,3,3,3,3,4,4,3,3,1,3,4,4,2,2,4,4,3,3,3,3,hrt,ap,mo
+149,S ASHOK,-,1,-,APMTO1,-,36,-,1,-,2,-,17,-,1,-,REVURU/BOMMAVARAM,-,8801237667,-,26-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,-,hrt,ap,mo
+150,Dr.P.Geyapoojitha,Dr.P.Geyapoojitha,2,2,APMTO1,APMTO1,30,30,1,1,2.6,2.6,17,17,1,1,Manubolu,Manubolu,7981580935,7981580935,26-05-2025,26-05-2025,3,2,3,3,2,2,3,3,3,3,4,4,2,2,4,4,1,1,2,2,hrt,ap,mo
+151,Dr Mohammed jufishan siddiqua banu,Md jufishan siddiqua banu,2,2,APMTO1,APMTO1,30,30,1,1,1.2,1.2,17,17,1,1,Colocated phc rapur,Colocated phc rapur,8247078981,8247078981,26-05-2025,26-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+152,Dr.C.Devi krupa,Dr.C.Devi krupa,2,2,APMTO1,APMTO1,34,34,1,1,6,6,17,17,1,1,Phc Muthukur,Phc Muthukur,7013054031,7013054031,26-05-2025,26-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+153,Sode.manogna,Sode.manogna,2,2,APMTO1,APMTO1,30,30,1,1,2,2,17,17,1,1,Narrawada,Narrawada,8639883808,8639883808,26-05-2025,26-05-2025,3,3,3,3,2,2,3,3,4,3,4,4,1,1,4,4,3,3,3,3,hrt,ap,mo
+154,Shaik Anwaru Basha,Shaik Anwaru Basha,1,1,APMTO1,APMTO1,25,28,1,1,2,2,17,17,1,1,PHC Kullur,PHC Kullur,8332002878,8332002878,26-05-2025,26-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,2,1,4,4,3,3,2,2,hrt,ap,mo
+155,Dr.K.Muralidhar,Dr.K.Muralidhar,1,1,APMTO1,APMTO1,58,58,1,1,20,20,17,17,1,1,CHAKALIKONDA,CHAKALIKONDA,9441570653,9441570653,26-05-2025,26-05-2025,3,3,3,3,4,2,3,3,2,3,4,3,2,2,4,4,3,3,2,3,hrt,ap,mo
+156,Dr.Arshad Hussain,Dr.Arshad Hussain,1,1,APMTO1,APMTO1,29,29,1,1,1.5,1.5,17,17,1,1,Southmopur PHC,Southmopur PHC,7207173943,7207173943,26-05-2025,26-05-2025,2,4,1,3,2,3,3,3,3,2,4,2,1,1,4,4,3,3,2,2,hrt,ap,mo
+157,Srinivas Reddy,Srinivas Reddy,1,1,APMTO1,APMTO1,40,40,4,4,5,5,17,17,1,1,Sangam,Sangam,7989697623,7989697623,26-05-2025,26-05-2025,3,3,3,3,1,2,3,3,3,3,4,2,1,1,4,4,3,3,4,2,hrt,ap,mo
+158,DR V V SURYA DHARMENDRA,DR V V SURYA DHARMENDRA,1,1,APMTO1,APMTO1,38,38,1,1,3.6,3.6,17,17,1,1,PHC VEPINAPI,PHC VEPINAPI,9492875070,9492875070,26-05-2025,26-05-2025,4,3,3,3,3,2,4,3,2,3,2,4,1,1,4,4,3,3,4,2,hrt,ap,mo
+159,Dr V Narasimha Rao,Dr V Narasimha Rao,1,1,APMTO1,APMTO1,37,37,1,1,3.5,3.5,17,17,1,1,PHC MD PURAM,PHC MD PURAM,9966947571,9966947571,26-05-2025,26-05-2025,4,3,3,3,3,2,4,3,2,3,2,4,1,1,4,4,3,3,4,2,hrt,ap,mo
+160,Dr B praveen kumar,Dr B praveen kumar,1,1,APMTO1,APMTO1,50,50,1,1,6.4,6.4,17,17,1,1,Phc kovurpalli,Phc kovurpalli,7729925009,7729925009,26-05-2025,26-05-2025,3,4,3,3,4,4,3,2,3,3,4,4,2,2,4,4,3,3,3,3,hrt,ap,mo
+161,G padmjaa,DR G PADMAJA,2,2,APMTO1,APMTO1,52,52,3,3,10,10,17,17,4,4,Buchi Reddypalem,Buchi Reddypalem,9676858003,9676858003,26-05-2025,26-05-2025,3,3,3,3,4,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+162,-,Hazarath reddy Kolli,-,1,-,APMTO1,-,39,-,1,-,5,-,17,-,1,-,Phc Allipuram,-,9581808017,-,26-05-2025,-,3,-,1,-,4,-,2,-,3,-,4,-,4,-,4,-,3,-,2,hrt,ap,mo
+163,-,Padmavati,-,2,-,APMTO1,-,42,-,3,-,9.8,-,17,-,4,-,Podalakur,-,7799689898,-,26-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+164,-,Dr.C. Amarendranath Reddy,-,1,-,APMTO1,-,50,-,1,-,24,-,17,-,1,-,PHC Raamateerdham,-,9849072387,-,26-05-2025,-,3,-,3,-,2,-,1,-,1,-,4,-,1,-,4,-,3,-,3,hrt,ap,mo
+165,-,Dr.J.Padmaja,-,2,-,APMTO1,-,30,-,1,-,37,-,17,-,1,-,Phc gattupalli,-,7993396035,-,26-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,3,hrt,ap,mo
+166,-,Padmavati,-,2,-,APMTO1,-,42,-,3,-,9.8,-,17,-,4,-,Podalakur,-,7799589898,-,16-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+167,-,Syed ahamed babu,-,1,-,APMTO1,-,35,-,1,-,3,-,17,-,1,-,Jonnawada,-,9550999341,-,26-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,3,-,3,hrt,ap,mo
+168,-,Sreekanth reddy. P,-,1,-,APMTO1,-,42,-,1,-,3.2,-,17,-,1,-,"Phc,Ananthasagaram",-,9553661801,-,26-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,3,-,1,hrt,ap,mo
+169,Dr.R.hareesh,Dr.R.hareesh,1,1,APMTO1,APMTO1,30,30,1,1,1.8,1.8,17,17,1,1,Phc narrawada,Phc narrawada,9248351249,9248351249,29-05-2025,29-05-2025,3,3,3,3,2,2,2,2,2,3,4,4,1,1,4,4,3,3,3,3,hrt,ap,mo
+170,Pratimapalle,Pratimapalle,2,2,APMTO1,APMTO1,35,35,1,1,1.8,1.8,17,17,1,1,Sarvayapalem,Sarvayapalem,9100519277,9100519277,29-05-2025,30-05-2025,3,3,3,3,2,3,3,3,3,3,4,4,1,1,4,4,3,3,4,2,hrt,ap,mo
+171,Pranutha palle,Pranutha palle,2,2,APMTO1,APMTO1,29,29,1,1,1.8,1.8,17,17,1,1,Chakicherla,Chakicherla,8919044022,8919044022,29-05-2025,29-05-2025,3,3,3,2,2,3,3,3,3,3,4,4,1,1,4,4,3,3,4,2,hrt,ap,mo
+172,Dr Swetha Billa,Dr Swetha Billa,2,2,APMTO1,APMTO1,38,38,3,3,10,10,17,17,4,4,CHC vinjamur,CHC vinjamur,7780653516,7780653516,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+173,Dr Shaista Amreen,-,2,-,APMTO1,-,29,-,1,-,2,-,17,-,1,-,Phc Gattupalli,-,6303783750,-,29-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,3,-,4,-,3,-,3,-,hrt,ap,mo
+174,Ch Rakesh Kumar,Ch Rakesh kumar,1,1,APMTO1,APMTO1,42,42,1,1,1.6,1.6,17,17,1,1,Machavaram,Machavaram,7989916783,7989916783,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,2,3,hrt,ap,mo
+175,P.Pranavi,P.Pranavi,2,2,APMTO1,APMTO1,25,25,1,1,0.8,0.8,17,17,1,1,Kasumur PHC,Kasumur PHC,9441583059,9441583059,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+176,Venkata sudharsanam Gali,Venkata sudharsanam Gali,2,2,APMTO1,APMTO1,35,35,4,4,2,2,17,17,1,1,"Colocated Phc, Rapur","Colocated phc, rapur",8367715099,8367715099,29-05-2025,29-05-2025,2,3,3,3,1,3,3,3,3,3,4,4,2,2,2,4,3,3,2,2,hrt,ap,mo
+177,Dr K S A Nithya Prasanthi,Dr K S A Nithya Prasanthi,2,2,APMTO1,APMTO1,33,33,2,2,1,1,17,17,1,1,PHC Juvvaladinne,PHC Juvvaladinne,7013698081,7013698081,29-05-2025,29-05-2025,2,4,3,3,2,2,3,3,3,3,4,4,1,1,4,4,3,3,2,2,hrt,ap,mo
+178,Dr.ATINA BHAVYA SRI,Dr.ATINA BHAVYA SRI,2,2,APMTO1,APMTO1,27,27,1,1,3.5,3.5,17,17,1,1,DMHO OFFICE NELLORE,DMHO OFFICE NELLORE,8074125466,8074125466,29-05-2025,29-05-2025,2,2,3,3,2,2,2,2,3,3,4,4,4,4,4,4,4,4,1,1,hrt,ap,mo
+179,Dr. Manjulamma,Dr. Manjulamma,2,2,APMTO1,APMTO1,42,42,1,1,6,6,17,17,1,1,Anumasamudram peta,Anumasamudram peta,9133100875,9133100875,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,4,2,hrt,ap,mo
+180,K.VEDAVALLI VANISREE,K.VEDAVALLI VANISREE,2,2,APMTO1,APMTO1,36,36,3,3,7,7,17,17,4,4,CHC venkatachalam,CHC venkatachalam,9701754428,9701754428,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+181,Alekhya,Alekhya,2,2,APMTO1,APMTO1,28,28,1,1,2.6,2.6,17,17,1,1,Dagadarthi,Dagadarthi,9121506028,9121506028,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+182,Dr vinutha,Dr vinutha,2,2,APMTO1,APMTO1,29,29,1,1,1.7,1.7,17,17,1,1,Phc chiramana,Phc chiramana,7702008084,7702008084,29-05-2025,29-05-2025,2,2,3,3,2,2,3,3,3,3,4,4,1,1,4,4,3,3,2,3,hrt,ap,mo
+183,C Kishore Kumar,C Kishore Kumar,1,1,APMTO1,APMTO1,55,55,1,1,22,22,17,17,1,1,Jagadevapeta,Jagadevapeta,7995878959,7995878959,29-05-2025,29-05-2025,3,3,3,3,2,2,2,3,3,3,4,4,1,2,4,4,3,3,2,3,hrt,ap,mo
+184,Giharika Posa,Giharika Posa,2,2,APMTO1,APMTO1,33,33,1,1,1.6,1.6,17,17,1,1,Phc kovurupalli,Phc kovurupalli,9700542665,9700542665,29-05-2025,29-05-2025,3,3,3,3,2,2,2,3,3,3,4,4,1,2,4,4,3,3,1,2,hrt,ap,mo
+185,Dr k Hari Krishna,Dr k Hari Krishna,1,1,APMTO1,APMTO1,37,37,1,1,3,3,17,17,1,1,Vidavalur,Vidavalur,7989002608,7989002608,29-05-2025,29-05-2025,1,3,3,3,2,2,3,3,1,1,4,4,2,2,4,4,3,3,2,3,hrt,ap,mo
+186,Dr Durathati Ashok,Dr Durathati Ashok,1,1,APMTO1,APMTO1,32,32,1,1,1.8,1.8,17,17,1,1,Sangam,Sangam,9676853088,9676853088,29-05-2025,29-05-2025,2,2,3,3,2,2,3,3,3,3,4,4,3,4,4,4,3,3,2,2,hrt,ap,mo
+187,Shaik mastan babu,Shaik mastan babu,1,1,APMTO1,APMTO1,30,30,1,1,2,2,17,17,1,1,Thallapudi,Thallapudi,8985116606,8985116606,29-05-2025,29-05-2025,2,2,3,3,2,2,4,2,3,3,4,4,2,2,4,4,4,2,3,2,hrt,ap,mo
+188,Dr shanthi,Dr shanthi,2,2,APMTO1,APMTO1,26,26,1,1,1.7,1.7,17,17,1,1,PHC MARRIPADU,PHC Marripadu,8309475798,8309475798,29-05-2025,29-05-2025,3,3,3,3,2,2,2,3,3,3,4,4,1,1,4,4,3,3,4,4,hrt,ap,mo
+189,Ummaleti sravani,-,2,-,APMTO1,-,30,-,1,-,2,-,17,-,1,-,Ananthasagaram,-,9110356387,-,29-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,4,-,4,-,3,-,3,-,hrt,ap,mo
+190,Dr.D.Narasimha Rao,Dr.D.Narasimha Rao,1,1,APMTO1,APMTO1,50,50,4,1,15,15,17,17,1,1,PHC CHITTALURU,PHC CHITTALURU,9866322384,9866322384,29-05-2025,29-05-2025,1,3,3,3,3,3,1,2,1,3,4,2,1,4,4,4,1,1,2,3,hrt,ap,mo
+191,Radhika,Radhika,2,2,APMTO1,APMTO1,32,32,1,1,2.6,2.6,17,17,1,1,Varigonda,Varigonda,9100164878,9100164878,29-05-2025,29-05-2025,3,3,3,3,2,4,2,4,3,1,4,4,4,4,4,4,2,3,1,3,hrt,ap,mo
+192,DR SD Irfan,DR SD Irfan,1,1,APMTO1,APMTO1,42,42,1,1,4.6,4.6,17,17,1,1,Inamadugu,Inamadugu,8801262999,8801262999,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,1,1,2,2,hrt,ap,mo
+193,Harshitha kooraparthy,Harshitha kooraparthy,2,2,APMTO1,APMTO1,29,29,1,1,4,4,17,17,1,1,O/oDMHO,O/oDMHO,7995348679,7995348679,29-05-2025,29-05-2025,2,3,2,3,2,2,2,2,3,3,4,4,4,4,4,4,3,3,3,3,hrt,ap,mo
+194,Swapna allampati,-,2,-,APMTO1,-,30,-,1,-,2.8,-,17,-,1,-,Seetharamapuram,-,8008115833,-,29-05-2025,-,2,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,-,hrt,ap,mo
+195,Dr.Nasuruddin shaik,-,1,-,APMTO1,-,38,-,1,-,2.8,-,17,-,1,-,PHC-KONDAPURAM,-,8247717845,-,29-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,1,-,hrt,ap,mo
+196,Shaikh Ayesha,Shaikh Ayesha,2,2,APMTO1,APMTO1,29,29,1,1,2.6,29,17,17,1,1,Varikuntapadu,Varikuntapadu,9182421344,9182421344,29-05-2025,29-05-2025,3,3,3,3,1,1,3,3,2,2,4,4,2,2,4,4,3,3,3,3,hrt,ap,mo
+197,L.sai priyanka,-,2,-,APMTO1,-,31,-,1,-,2.6,-,17,-,1,-,Gudluru,-,9494368584,-,29-05-2025,-,3,-,3,-,1,-,3,-,2,-,4,-,2,-,4,-,3,-,3,-,hrt,ap,mo
+198,T.Ramya jyothi,T.Ramya jyothi,2,2,APMTO1,APMTO1,36,36,1,1,3,3,17,17,1,1,Karedu,Karedu,8309973280,8309973280,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,4,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+199,Sankar,-,1,-,APMTO1,-,56,-,1,-,20,-,17,-,1,-,Mypadu,-,7382506740,-,29-05-2025,-,3,-,3,-,4,-,1,-,3,-,4,-,1,-,4,-,3,-,2,-,hrt,ap,mo
+200,Dr L Srujana,-,2,-,APMTO1,-,35,-,1,-,3,-,17,-,1,-,PHC chakalikonda,-,6305397918,-,29-05-2025,-,2,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,4,-,hrt,ap,mo
+201,-,Vinay kumar,-,1,-,APMTO1,-,32,-,1,-,2,-,17,-,1,-,Co-located phc buchireddypalem,-,8978251312,-,29-05-2025,-,4,-,4,-,4,-,4,-,4,-,4,-,4,-,4,-,4,-,4,hrt,ap,mo
+202,-,Swapna allampati,-,2,-,APMTO1,-,30,-,1,-,2.8,-,17,-,1,-,Seetharamapuram,-,9381674967,-,29-05-2025,-,2,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+203,-,GUNDALA BALACHANDRA BABU,-,1,-,APMTO1,-,32,-,1,-,2.11,-,17,-,1,-,PHC KODAVALUR,-,8985683212,-,29-05-2025,-,2,-,3,-,2,-,2,-,3,-,4,-,1,-,4,-,3,-,4,hrt,ap,mo
+204,-,Dr.Nasuruddin shaik,-,1,-,APMTO1,-,38,-,1,-,2.8,-,17,-,1,-,PHC-KONDAPURAM,-,8247717842,-,29-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+205,-,Mvijayalakshmi,-,2,-,APMTO1,-,35,-,1,-,1.5,-,17,-,1,-,Kaluvoya,-,9700022285,-,29-05-2025,-,3,-,3,-,1,-,3,-,2,-,4,-,2,-,4,-,3,-,3,hrt,ap,mo
+206,-,Dr Shaista Amreen,-,2,-,APMTO1,-,29,-,1,-,2,-,17,-,1,-,Phc Gattupalli,-,6303786750,-,29-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,3,-,4,-,3,-,2,hrt,ap,mo
+207,-,Ch Rakesh Kumar,-,1,-,APMTO1,-,42,-,1,-,1.6,-,17,-,1,-,Machavaram,-,8977918977,-,29-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,3,hrt,ap,mo
+208,-,Mvijayalakshmi,-,2,-,APMTO1,-,35,-,1,-,1.5,-,17,-,1,-,Kaluvoya,-,7993334415,-,29-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+209,-,L sai priyanka,-,2,-,APMTO1,-,31,-,1,-,2.6,-,17,-,1,-,Phc gudlur,-,8639361091,-,29-05-2025,-,3,-,3,-,1,-,3,-,2,-,4,-,2,-,4,-,3,-,3,hrt,ap,mo
+210,-,Tapala Charishma,-,2,-,APMTO1,-,31,-,1,-,5,-,17,-,1,-,Griddalur,-,8500757497,-,29-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,1,-,3,hrt,ap,mo
+211,-,Prameela,-,2,-,APMTO1,-,58,-,1,-,20,-,17,-,1,-,Vepinapi,-,6305798355,-,29-05-2025,-,3,-,3,-,3,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+212,-,Sivappa.s,-,1,-,APMTO1,-,36,-,1,-,2,-,17,-,1,-,Pokuru,-,7036575079,-,29-05-2025,-,3,-,3,-,4,-,3,-,3,-,4,-,1,-,4,-,3,-,1,hrt,ap,mo
+213,-,Kanna Sravanthi,-,2,-,APMTO1,-,29,-,1,-,1.5,-,17,-,1,-,PHC MD.PURAM,-,6305078402,-,28-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,4,-,4,-,3,-,2,hrt,ap,mo
+214,-,Dr Venkatesh,-,1,-,APMTO1,-,53,-,2,-,20,-,17,-,1,-,Ramatheerdham,-,9440052760,-,29-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,3,-,2,hrt,ap,mo
+215,-,Kanna Sravanthi,-,2,-,APMTO1,-,29,-,1,-,1.5,-,17,-,1,-,PHC MD.PURAM,-,9966162367,-,28-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,4,-,4,-,3,-,2,hrt,ap,mo
+216,-,PRODDATUR NAGENDRA,-,1,-,APMTO1,-,28,-,1,-,2,-,17,-,1,-,PHC BOMMAVARAM,-,9704342831,-,29-05-2025,-,2,-,3,-,2,-,3,-,3,-,4,-,4,-,4,-,3,-,4,hrt,ap,mo
+217,-,Dr.yedukondalu7,-,1,-,APMTO1,-,59,-,1,-,20,-,17,-,1,-,Thurimerla,-,9440503813,-,29-05-2025,-,3,-,3,-,3,-,3,-,3,-,4,-,3,-,3,-,3,-,3,hrt,ap,mo
+218,Varda Prashanth Kumar,Varda Prashanth Kumar,1,1,APMTO10,APMTO10,29,29,1,1,2.6,2.6,25,25,1,1,Mandavakuriti,Mandavakuriti,7569210405,7569210405,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,1,3,2,2,hrt,ap,mo
+219,Ungarala Nagendra prasad,Ungarala Nagendra prasad,1,1,APMTO10,APMTO10,28,28,1,1,2.7,2.4,25,25,1,1,Santhakaviti,Santhakaviti,9110748460,9110748460,27-05-2025,27-05-2025,2,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,1,3,4,4,hrt,ap,mo
+220,Dr B Prasanthi,Dr B Prasanthi,2,2,APMTO10,APMTO10,36,36,3,3,5,5,25,25,2,2,UPHC VT AGRAHARAM,UPHC VT AGRAHARAM,8790877358,8790877358,27-05-2025,27-05-2025,2,3,3,3,4,2,3,3,3,3,4,4,1,2,4,4,4,3,3,3,hrt,ap,mo
+221,Dr.j.k.mohan,Dr.j.krishna,1,1,APMTO10,APMTO10,56,56,1,1,22,22,25,25,1,1,THWARD,THWARD,9494202799,9494202799,27-05-2025,27-05-2025,1,3,3,3,2,2,2,2,1,1,4,4,1,1,4,4,3,3,1,1,hrt,ap,mo
+222,P.sivani,P.sivani,2,2,APMTO10,APMTO10,27,27,1,1,1.5,1.5,25,25,1,1,Boddam (vepada),Boddam (vepada),9121957215,9121957215,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,1,4,4,3,3,2,3,hrt,ap,mo
+223,Dr. S.prameela devi,Dr.S.Prameela devi,2,2,APMTO10,APMTO10,35,35,1,1,4,4,25,25,1,1,Pusapatirega,Pusapatirega,9177445874,9177445874,27-05-2025,27-05-2025,3,3,3,3,4,2,3,3,3,3,4,4,1,2,4,4,1,3,2,2,hrt,ap,mo
+224,Dr s chelamayya,Dr s chelamayya,1,1,APMTO10,APMTO10,49,49,4,4,17.3,17.3,21,25,1,1,Phc burada,Phc burada,9849300520,9849300520,27-05-2025,27-05-2025,3,3,3,3,2,2,2,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+225,Saikiran P,Saikiran P,1,1,APMTO10,APMTO10,41,41,1,1,0.1,0.1,25,25,1,1,Garividi,Garividi,9100338345,9100338345,27-05-2025,27-05-2025,3,3,1,1,2,2,3,3,3,2,4,4,4,4,4,4,3,3,1,3,hrt,ap,mo
+226,Dr. SHAIK IMRAN,Dr. SHAIK IMRAN,1,1,APMTO10,APMTO10,26,26,1,1,1.5,1.5,25,25,1,1,"Badangi ,Co located PHC","Badangi ,Co located PHC",6304918289,6304918289,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+227,Sudhareddy,Sudhareddy,2,2,APMTO10,APMTO10,30,30,1,1,1,1,25,25,1,1,Govindapuram,Govindapuram,7382545902,7382545902,27-05-2025,27-05-2025,2,2,3,3,2,2,4,3,3,3,4,4,1,1,4,4,3,3,2,2,hrt,ap,mo
+228,Tejavath Sravanthi bai,Tejavath sravanthi bai,2,2,APMTO10,APMTO10,30,30,1,1,2,2,25,25,1,1,Phc polipalli,Phc polipalli,7013243874,7013243874,27-05-2025,27-05-2025,3,3,3,3,4,2,3,3,3,3,4,4,4,4,4,4,3,3,2,2,hrt,ap,mo
+229,Satyanarayana Logisa,Satyanarayana Logisa,1,1,APMTO10,APMTO10,37,37,1,1,4.8,4.8,25,25,1,1,Bondapalli phc,Bondapalli phc,9912864979,9912864979,27-05-2025,27-05-2025,3,3,3,3,1,2,3,3,1,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+230,Dr m.siva rama krishna,Dr m.siva rama  krishna,1,1,APMTO10,APMTO10,35,35,1,1,1.5,1.5,25,25,1,1,Phc denkada,Phc denkada,8142240766,8142240766,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,1,3,2,2,hrt,ap,mo
+231,Dr.S.Bhagya Rekha,Dr.S.Bhagya Rekha,2,2,APMTO10,APMTO10,32,32,1,1,7,7,25,25,1,1,PHC Rellivalasa,PHC Rellivalasa,9989853139,9989853139,27-05-2025,27-05-2025,3,3,3,3,3,2,3,3,3,2,4,4,1,1,4,4,3,3,2,2,hrt,ap,mo
+232,Dr.ch.asirinaidu,Dr.ch.asirinaidu,1,1,APMTO10,APMTO10,34,34,1,1,3.2,3.2,25,25,1,1,Regidi Amadalavalasa PHC,Regidi Amadalavalasa PHC,7382412526,7382412526,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+233,Sravanthi,Sravanthi,2,2,APMTO10,APMTO10,42,42,4,4,2,2,24,24,1,1,Mopada,Mopada,9441195858,9441195858,27-05-2025,27-05-2025,3,3,3,3,4,2,3,3,3,3,4,4,1,2,4,4,3,3,3,2,hrt,ap,mo
+234,Akella Sarmishtha,-,2,-,APMTO10,-,25,-,1,-,1.5,-,25,-,1,-,PHC Devupalli,-,7093828545,-,27-05-2025,-,3,-,3,-,2,-,2,-,3,-,4,-,1,-,4,-,3,-,3,-,hrt,ap,mo
+235,Bollepalli Hemalatha,Bollepalli Hemalatha,2,2,APMTO10,APMTO10,36,36,1,1,6,6,25,25,1,1,Gantyada,Gantyada,9985184588,9985184588,27-05-2025,27-05-2025,1,3,3,3,3,2,3,3,3,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+236,Dr. B. Sowmya,Dr. B. Sowmya,2,2,APMTO10,APMTO10,30,30,1,1,2,2,25,25,1,1,Phc Arasada,Phc Arasada,6305040883,6305040883,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,4,3,4,4,1,2,4,4,1,3,2,2,hrt,ap,mo
+237,Dr.K.Padmavathi,Dr.K.Padmavathi,2,2,APMTO10,APMTO10,30,30,1,1,0.1,0.1,25,25,1,1,PHC SATIWADA,PHC SATIWADA,7337215924,7337215924,27-05-2025,27-05-2025,2,2,3,3,2,2,3,3,3,3,4,4,1,1,4,4,3,3,4,2,hrt,ap,mo
+238,Dr. B. Sireesha,Dr. B. Sireesha,2,2,APMTO10,APMTO10,32,32,1,1,2,2,25,25,1,1,Alamanda,Alamanda,7674947031,7674947031,27-05-2025,27-05-2025,1,3,3,3,2,4,3,3,3,3,4,4,4,2,4,4,3,3,2,3,hrt,ap,mo
+239,Dr Tejaswi yalla,Dr Tejaswi yalla,2,2,APMTO10,APMTO10,28,28,1,1,0.8,0.8,25,25,1,1,"Phc,pogiri",Pogiri,7989585493,7989585493,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,1,2,hrt,ap,mo
+240,Gollapalli Lavanya,Gollapalli Lavanya,2,2,APMTO10,APMTO10,36,36,4,4,36,6,25,25,1,1,Kottam,Kottam,9491801508,9491801508,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,1,2,hrt,ap,mo
+241,Dr R sateesh kumar,Dr sateesh kumar,1,1,APMTO10,APMTO10,28,28,1,1,2,2,25,25,1,1,Pm palem,Pm palem,9550922098,9550922098,27-05-2025,27-05-2025,2,2,3,3,2,2,3,3,3,3,4,4,1,1,4,4,3,3,3,4,hrt,ap,mo
+242,CH. Jyothi,CH. Jyothi,2,2,APMTO10,APMTO10,29,29,1,1,2.6,2.6,25,25,1,1,PHC vangara,PHC vangara,7893975853,7893975853,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+243,Manojnaramani,-,2,-,APMTO10,-,25,-,1,-,1.2,-,25,-,1,-,Phc perumali,-,9676186974,-,27-05-2025,-,1,-,3,-,2,-,3,-,1,-,4,-,1,-,4,-,3,-,1,-,hrt,ap,mo
+244,Dr.kalpana,Dr.kalpana,2,2,APMTO10,APMTO10,30,30,1,1,2,2,25,25,2,2,UPHC PHOOLBAUGH,UPHC PHOOLBAUGH,7569197932,7569197932,27-05-2025,27-05-2025,3,3,3,1,2,2,3,3,3,3,4,4,2,1,4,4,4,3,3,2,hrt,ap,mo
+245,Dr.Anil Makkuva,Dr.Anil Makkuva,1,1,APMTO10,APMTO10,30,30,1,1,2.5,2.5,25,25,1,1,Bondapalli(g),Bondapalli(G),9704837540,9704837540,27-05-2025,27-05-2025,3,2,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,3,hrt,ap,mo
+246,Dr. Reddy Chaitanya naidu,Dr. Reddy Chaitanya naidu,1,1,APMTO10,APMTO10,31,31,1,1,2.5,2.5,25,25,1,1,Dattirajeru,Dattirajeru,7032041106,7032041106,27-05-2025,27-05-2025,3,2,3,3,2,2,2,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+247,Dr. Venkatesh Ankam,Dr. Venkatesh Ankam,1,1,APMTO10,APMTO10,24,24,1,1,0.4,0.4,25,25,2,2,UPHC RAJEEVNAGAR COLONY,UPHC RAJEEVNAGAR COLONY,9491206609,9491206609,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,3,hrt,ap,mo
+248,Korukonda ashok kumar raju,Korukonda ashok kumar raju,1,1,APMTO10,APMTO10,28,28,1,1,2,2,25,25,2,2,UPHC ARUNDHATI NAGAR,UPHC ARUNDHATI NAGAR,9390768309,9390768309,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,3,hrt,ap,mo
+249,M USHA RANI,M USHA RANI,2,2,APMTO10,APMTO10,34,34,1,1,1.6,1.6,25,25,1,1,PHC CHALLAPETA,PHC CHALLAPETA,7337229822,7337229822,27-05-2025,27-05-2025,4,3,3,3,2,2,3,3,4,3,4,4,1,1,4,4,4,4,3,2,hrt,ap,mo
+250,Gudipudi Kalpana,Gudipudi Kalpana,2,2,APMTO10,APMTO10,39,39,1,1,1,1,25,25,1,1,Mentada,Mentada,9491467141,9491467141,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,4,4,4,3,3,4,2,hrt,ap,mo
+251,Dr MONGAM NARESH,Dr MONGAM NARESH,1,1,APMTO10,APMTO10,30,30,1,1,1.5,1.5,25,25,1,1,Phc Vadada,Phc Vadada,9392617264,9392617264,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,3,hrt,ap,mo
+252,Lakshmi Golla,Lakshmi Golla,2,2,APMTO10,APMTO10,43,43,1,1,17,17,25,25,1,1,Phc pakki,Phc pakki,9491036662,9491036662,27-05-2025,28-05-2025,2,3,3,3,4,2,2,3,3,3,4,1,4,1,4,4,3,3,1,4,hrt,ap,mo
+253,Samanthula bangaru akhila,Samanthula bangaru akhila,2,2,APMTO10,APMTO10,32,32,1,1,1.6,1.6,25,25,1,1,Primary health centre rakodu,Primary health centre rakodu,9398694745,9398694745,27-05-2025,27-05-2025,2,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,4,2,hrt,ap,mo
+254,Kaicherla Ajaykumar,Kaicherla Ajaykumar,1,1,APMTO10,APMTO10,31,31,1,1,2,2,25,25,1,1,Kallepalli,Kallepalli,9493507420,9493507420,27-05-2025,27-05-2025,2,4,1,3,4,2,2,3,3,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+255,Dhananjay,Dhananjay,1,1,APMTO10,APMTO10,35,35,1,1,1.6,1.6,25,25,1,1,Phc kondavelagada,Phc kondavelagada,9032473269,9032473269,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,4,2,hrt,ap,mo
+256,H V Sita Mahalakshmi,H V Sita Mahalakshmi,2,2,APMTO10,APMTO10,41,41,1,1,4,4,25,25,1,1,"PHC, kothavalasa","PHC , kothavalasa",9704523040,9704523040,27-05-2025,27-05-2025,3,3,3,3,2,2,2,3,3,3,4,4,2,2,4,4,3,3,3,3,hrt,ap,mo
+257,Dr.Valluri manoj,Dr.Valluri manoj,1,1,APMTO10,APMTO10,32,32,4,4,0,0,25,25,1,1,Gurla,Gurla,9160987820,9160987820,27-05-2025,27-05-2025,3,4,3,1,4,2,3,4,3,1,4,4,2,1,4,4,3,3,3,4,hrt,ap,mo
+258,Gedala Venkatesh,Gedala Venkatesh,1,1,APMTO10,APMTO10,33,33,1,1,2.8,2,25,25,1,1,CO S Kota,CO S Kota,8121739353,8121739353,27-05-2025,27-05-2025,3,4,3,3,4,2,3,3,3,3,4,4,1,2,4,4,3,3,3,2,hrt,ap,mo
+259,Dr E Gopala Krishna,E Gopala Krishna,1,1,APMTO10,APMTO10,52,52,1,1,25,25,25,25,1,1,Viyyampeta,Viyyampeta,8317526692,8317526692,27-05-2025,27-05-2025,3,2,1,3,4,2,3,3,1,3,4,4,1,1,4,4,3,3,3,3,hrt,ap,mo
+260,Paluri krishna,P krishna,1,1,APMTO10,APMTO10,32,32,1,1,0,0,25,25,1,1,Karlam phc,Phc karlam,9010000227,9010000227,27-05-2025,27-05-2025,3,3,1,3,2,2,1,1,3,1,4,4,3,3,4,4,3,3,2,2,hrt,ap,mo
+261,Neelapu anil ram kumar reddy,Neelapu Anil ram kumar reddy,1,1,APMTO10,APMTO10,35,35,1,1,4.8,4.8,25,25,1,1,PHC garbham,PHC garbham,7780544960,7780544960,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,4,1,hrt,ap,mo
+262,Dr VSK RAGHU VAMSI,Dr VSK RAGHU VAMSI,1,1,APMTO10,APMTO10,29,29,1,1,2.6,2.6,25,25,1,1,Piridi,Piridi,8074779400,8074779400,27-05-2025,27-05-2025,3,3,3,3,2,4,2,2,3,3,4,4,2,2,4,4,2,3,4,4,hrt,ap,mo
+263,BBAnkitha,-,2,-,APMTO10,-,26,-,1,-,2,-,25,-,2,-,Uphc Ulliveedhi,-,9989586119,-,27-05-2025,-,3,-,3,-,3,-,3,-,1,-,4,-,1,-,4,-,3,-,2,-,hrt,ap,mo
+264,-,Akella Sarmishtha,-,2,-,APMTO10,-,25,-,1,-,1.5,-,25,-,1,-,PHC Devupalli,-,7093728545,-,27-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,3,-,3,hrt,ap,mo
+265,-,Samrajya Lakshmi,-,2,-,APMTO10,-,56,-,1,-,20,-,25,-,1,-,Jami,-,9866710101,-,27-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,3,-,2,hrt,ap,mo
+266,-,Manojnaramani,-,2,-,APMTO10,-,25,-,1,-,1.2,-,25,-,1,-,Phc perumali,-,9676186975,-,27-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+267,-,BB Ankitha,-,2,-,APMTO10,-,26,-,1,-,2,-,25,-,2,-,Uphc Ulliveedhi,-,9988586119,-,27-05-2025,-,3,-,3,-,2,-,3,-,1,-,4,-,2,-,4,-,3,-,3,hrt,ap,mo
+268,Chetti Prathap,Dr Chetti Prathap,1,1,APMTO10,APMTO10,33,33,1,1,0.1,0.1,25,25,1,1,Govindapuram,Govindapuram,8297379193,8297379193,30-05-2025,30-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,3,hrt,ap,mo
+269,Dr Muvva Kishore Kumar,Dr Muvva Kishore Kumar,1,1,APMTO10,APMTO10,34,34,1,1,2,2,25,25,2,2,Uphc Santhapeta,Uphc Santhapeta,9490096999,9490096999,30-05-2025,30-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,3,hrt,ap,mo
+270,Y BOSU BABU,Y Bosu babu,1,1,APMTO10,APMTO10,27,27,1,1,0.9,0.9,25,25,2,2,Uphc vinayaka Nagar,Uphc vinayaka Nagar,8008524253,8008524253,30-05-2025,30-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,2,2,4,4,3,3,3,3,hrt,ap,mo
+271,Dr k. Goutam,Dr k goutam,1,1,APMTO10,APMTO10,28,28,1,1,2,2,25,25,2,2,Uphc jonnaguddi,Uphc jonnaguddi,8448027526,8448027526,30-05-2025,30-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,3,hrt,ap,mo
+272,Unga Kiran Kumar,Unga Kiran Kumar,1,1,APMTO10,APMTO10,27,27,1,1,2.2,2.2,21,21,2,2,Uphc adarshnagar,UPHC ADARSHNAGAR,6302914982,6302914982,30-05-2025,30-05-2025,3,3,3,3,2,3,3,3,3,3,4,4,2,2,4,4,3,3,3,3,hrt,ap,mo
+273,Dr Jami Loka Priya,Dr Jami Loka Priya,2,2,APMTO10,APMTO10,30,31,1,1,2.6,2.6,25,25,1,1,Mentada,Mentada,8985493137,8985493137,30-05-2025,30-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+274,Dr J ADITYA CHAKRAVARTHI,Dr J ADITYA CHAKRAVARTHI. U,1,1,APMTO10,APMTO10,31,31,1,1,2.6,2.6,25,25,1,1,Phc vadada,Phc vadada,8500902602,8500902602,30-05-2025,30-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+275,SAMEERA,SAMEERA,2,2,APMTO10,APMTO10,30,30,1,1,1.6,1.6,25,25,1,1,PHC Bondapalli,PHC Bondapalli,9100599993,9100599993,30-05-2025,30-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+276,Sirisha,Sirisha,2,2,APMTO10,APMTO10,34,34,1,1,18,18,25,25,1,1,Kondavelagada,Kondavelagada,9959605247,9959605247,30-05-2025,30-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+277,Manasvi Kota,Manasvi Kota,2,2,APMTO10,APMTO10,33,33,1,1,0.1,0.1,25,25,1,1,PHC POLIPALLI,PHC POLIPALLI,9573680357,9573680357,30-05-2025,30-05-2025,3,3,3,3,4,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+278,Gangisetty Krishna Saranya,Gangisetty Krishna Saranya,2,2,APMTO10,APMTO10,28,28,1,1,1.5,1.5,25,25,1,1,"PHC, Mopada","PHC, Mopada",9959233749,9959233749,30-05-2025,30-05-2025,2,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+279,N.Anusha,N .Anusha,2,2,APMTO10,APMTO10,36,36,1,1,0.1,0.1,25,25,1,1,Denkada,Denkada,9985216235,9985216235,30-05-2025,30-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+280,Dr Dogga Veneta Agnes,Dr Dogga Veneta Agnes,2,2,APMTO10,APMTO10,28,28,1,1,0.1,0.1,25,25,1,1,Phc Alamanda,Phc Alamanda,9140413387,9140413387,30-05-2025,30-05-2025,3,3,1,3,2,2,3,3,2,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+281,Naga swetha,Naga swetha,2,2,APMTO10,APMTO10,32,32,1,1,1.8,1.8,25,25,1,1,Phc jami,Phc jami,7702799788,7702799788,30-05-2025,30-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,1,4,hrt,ap,mo
+282,Kintala sreedhar,Kintala sreedhar,1,1,APMTO10,APMTO10,39,39,1,1,1.9,1.9,25,25,1,1,Gurla,Gurla,6305148174,6305148174,30-05-2025,30-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,1,4,hrt,ap,mo
+283,K.Amitha,K.Amitha,2,2,APMTO10,APMTO10,29,29,1,1,1.5,1.5,25,25,2,2,UPHC Gollapalli,UPHC Gollapalli,9908777369,9908777369,30-05-2025,30-05-2025,4,3,3,3,2,2,3,3,1,3,4,4,1,2,4,4,3,3,3,2,hrt,ap,mo
+284,Dr D. Seethal Varma,Dr D. Seethal Varma,2,2,APMTO10,APMTO10,47,47,1,1,20,20,25,25,1,1,Kothavalasa,Kothavalasa,9963060255,9963060255,30-05-2025,30-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,1,2,4,4,1,3,2,2,hrt,ap,mo
+285,Anil Kumar Kattala,Anil Kumar Kattala,1,1,APMTO10,APMTO10,27,27,1,1,1.8,1.9,25,25,1,1,PHC SATHIVADA,PHC SATHIVADA,9849153144,9849153144,30-05-2025,30-05-2025,3,3,1,3,2,2,3,3,3,3,4,4,2,2,4,4,1,1,3,3,hrt,ap,mo
+286,Mohammed aquib,Mohammed aquib,1,1,APMTO10,APMTO10,36,36,1,1,4,4,25,25,1,1,Thettangi phc,Thettangi phc,9951400090,9951400090,30-05-2025,30-05-2025,3,3,3,3,2,2,2,3,1,3,4,4,2,2,4,4,1,1,3,3,hrt,ap,mo
+287,Dr.M.Sreelakshmi,Dr.M.Sreelakshmi,2,2,APMTO10,APMTO10,29,29,1,1,2,2,25,25,1,1,Karlam,Karlam,6304478028,6304478028,30-05-2025,30-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,3,4,hrt,ap,mo
+288,Dr.N Manasa,Dr.N Manasa,2,2,APMTO10,APMTO10,26,26,1,1,1.6,1.6,25,25,1,1,Skota colocated Phc,Skota colocated Phc,8500545746,8500545746,30-05-2025,30-05-2025,3,3,3,3,2,2,3,3,4,3,4,4,1,2,4,4,3,3,3,2,hrt,ap,mo
+289,D.Tejeswani,D.Tejeswani,2,2,APMTO10,APMTO10,28,28,1,1,1.5,1.5,25,25,2,2,Klpuram,Klpuram,9963745708,9963745708,30-05-2025,30-05-2025,2,3,3,3,2,2,3,3,4,3,4,4,1,2,4,4,3,3,1,2,hrt,ap,mo
+290,Kunche Rajyalakshmi,Rajyalakshmi,2,2,APMTO10,APMTO10,35,35,1,1,5,5,25,25,1,1,Garividi phc,Garividi phc,9381135058,9381135058,30-05-2025,30-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,4,4,hrt,ap,mo
+291,B.divya,B.divya,2,2,APMTO10,APMTO10,26,26,1,1,1.2,1.2,25,25,1,1,Colocated bhogapuram,Colocated bhogapuram,9491458706,9491458706,30-05-2025,30-05-2025,3,3,3,3,2,2,3,3,4,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+292,A.SANJANA,A.SANJANA,2,2,APMTO10,APMTO10,26,26,1,1,0,0,25,25,1,1,Vepada,Vepada,6302585353,6302585353,30-05-2025,30-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,4,1,4,4,3,3,3,2,hrt,ap,mo
+293,Dr Reddi Swathi,Dr Reddi Swathi,2,2,APMTO10,APMTO10,32,32,1,1,3,3,25,25,1,1,PHC THERLAM,PHC THERLAM,8639633603,8639633603,30-05-2025,30-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+294,Dr Ajaykumar Attaluri,Dr Ajaykumar Attaluri,1,1,APMTO10,APMTO10,30,30,1,1,2.6,2.6,25,25,1,1,Garbham phc,Garbham phc,7780708884,7780708884,30-05-2025,30-05-2025,3,3,3,3,4,2,3,3,1,3,4,4,1,2,4,4,1,3,3,2,hrt,ap,mo
+295,Dileep kumar Pilli,Dileep kumar pilli,1,1,APMTO10,APMTO10,35,35,1,1,4.5,4.5,25,25,1,1,Ramabadrapuram,Ramabadrapuram,9492994849,9492994849,30-05-2025,30-05-2025,3,3,3,3,4,4,3,3,3,3,4,4,1,2,4,4,4,4,3,2,hrt,ap,mo
+296,Raghu Kunkunuri,Raghu Kunkunuri,1,1,APMTO10,APMTO10,29,29,1,1,2,1.6,25,25,1,1,Korapu kothavalasa,Korapu kothavalasa,6301507919,6301507919,30-05-2025,30-05-2025,4,3,3,3,2,2,3,3,1,3,4,4,3,3,4,4,1,3,2,1,hrt,ap,mo
+297,Dr.G Sai kumar,Dr g Sai kumar,1,1,APMTO10,APMTO10,29,29,1,1,2,2,25,25,2,2,UPHC Sai nagar,UPHC Sai nagar,9346620227,9346620227,30-05-2025,30-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,4,4,3,4,hrt,ap,mo
+298,Dr kasa Vandana,Dr kasa Vandana,2,2,APMTO10,APMTO10,25,25,1,1,0,0,25,25,1,1,Gantyada phc,Gantyada phc,6304283122,6304283122,30-05-2025,30-05-2025,2,2,3,3,2,2,3,3,1,3,4,4,1,2,4,4,1,3,3,2,hrt,ap,mo
+299,Dr.Raj KUMAR Rongali,Dr Raj KUMAR,1,1,APMTO10,APMTO10,35,35,1,1,4.6,4.6,25,25,1,1,Phc Rellivalasa,Phc Rellivalasa,6301135922,6301135922,30-05-2025,30-05-2025,3,2,1,3,2,2,3,3,2,3,4,4,1,3,4,4,3,3,2,1,hrt,ap,mo
+300,Dr B.Anil kumar Bejjapalli,Dr B.Anil kumar Bejjapalli,1,1,APMTO10,APMTO10,48,48,1,1,19.8,19.8,25,25,1,1,Phc  L kota,PHC L KOTA,9704933818,9704933818,30-05-2025,30-05-2025,4,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+301,Ajitbabu konchada,Ajitbabu konchada,1,1,APMTO10,APMTO10,48,48,1,1,3,3,25,25,1,1,Merakamudidam,Merakamudidam,9848271894,9848271894,30-05-2025,30-05-2025,1,3,3,3,1,2,3,3,1,1,4,4,1,2,4,3,2,2,3,4,hrt,ap,mo
+302,Dr.s.pallavi,-,2,-,APMTO10,-,34,-,1,-,18,-,25,-,1,-,Phc peddamajjipalem,-,9949734474,-,30-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,3,-,3,-,hrt,ap,mo
+303,Dr Rajesh Varma,Dr Rajesh Varma,1,1,APMTO10,APMTO10,54,54,1,1,20,20,25,25,1,1,PHC PUSAPATIREGA,PHC PUSAPATIREGA,9849773299,9849773299,30-05-2025,30-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+304,Gade Tejaswi Reddy,Gade Tejaswi Reddy,1,1,APMTO10,APMTO10,34,34,1,1,2.7,2.7,25,25,1,1,Phc Kallepalli,Phc Kallepalli,8179136448,8179136448,30-05-2025,30-05-2025,3,3,3,3,2,2,2,3,4,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+305,P.vamsi,P.Vamsi,1,1,APMTO10,APMTO10,29,29,1,1,2.2,2.2,25,25,1,1,COLOCATED PHC BADANGI,COLOCATED PHC BADANGI,9182156961,9182156961,30-05-2025,30-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,1,1,4,3,hrt,ap,mo
+306,Venkata Syam Prasad Mudadla,Venkata Syam Prasad Mudadla,1,1,APMTO10,APMTO10,34,34,4,4,1.5,1.5,25,25,2,2,UPHC Sangaveedhi,UPHC Sangaveedhi,9494373946,9494373946,30-05-2025,30-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+307,Dr Gudipati Bharadwaj,Dr Gudipati Bharadwaj,1,1,APMTO10,APMTO10,27,27,1,1,1.5,1.5,25,25,1,1,PHC PIRIDI,PHC PIRIDI,8008910275,8008910275,30-05-2025,30-05-2025,3,3,3,3,4,2,2,3,1,3,4,4,1,2,4,4,1,1,3,3,hrt,ap,mo
+308,Dr. T.Hara Dharma Maneesha,Dr. T. Hara Dharma Maneesha,2,2,APMTO10,APMTO10,30,30,1,1,1.5,1.5,25,25,1,1,Mandavakurthi,Mandavakurthi,8074603283,8074603283,30-05-2025,30-05-2025,3,3,1,3,2,2,3,3,3,3,4,4,1,1,4,4,3,3,3,3,hrt,ap,mo
+309,Dr O Sohini Raghav,Dr O Sohini Raghav,2,2,APMTO10,APMTO10,29,29,1,1,2.8,2.8,25,25,1,1,R Amadalavalasa PHC,R Amadalavalasa PHC,9948280315,9948280315,30-05-2025,30-05-2025,3,3,3,3,2,2,2,2,3,3,4,4,1,1,3,3,3,3,4,4,hrt,ap,mo
+310,Dr G Bhargavi,Dr G Bhargavi,2,2,APMTO10,APMTO10,36,36,1,1,7,7,25,25,1,1,Pogiri,Pogiri,9959435394,9959435394,30-05-2025,30-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,1,1,2,4,3,3,1,3,hrt,ap,mo
+311,Dr.V.Reena choudari,Dr.V.Reena choudari,2,2,APMTO10,APMTO10,33,33,1,1,2.6,2.6,25,25,1,1,Phc Burada,Phc Burada,8500269867,8500269867,30-05-2025,30-05-2025,3,3,3,3,2,2,2,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+312,DR KALAMATI ESWARA RAO,DR KALAMATI ESWARA RAO,1,1,APMTO10,APMTO10,27,27,1,1,2.2,2.2,25,25,1,1,PHC ARASADA,PHC ARASADA,8985439808,8985439808,30-05-2025,30-05-2025,3,2,3,3,3,3,3,3,2,2,2,2,2,2,4,4,3,3,2,2,hrt,ap,mo
+313,Mahanty,Mahanty Siddeswari,2,2,APMTO10,APMTO10,28,28,1,1,2.9,2.9,25,25,1,1,Phc boddam,Phc boddam,7013131838,7013131838,30-05-2025,30-05-2025,1,3,4,3,2,2,4,3,4,1,4,4,1,1,4,4,1,3,4,2,hrt,ap,mo
+314,S.venaktesh,S.venaktesh,1,1,APMTO10,APMTO10,29,29,1,1,2,2,25,25,1,1,Perumali phc,Perumali phc,8008940094,8008940094,30-05-2025,30-05-2025,1,3,4,3,2,2,4,3,4,1,4,4,1,1,4,4,1,3,2,2,hrt,ap,mo
+315,Aparna.m,Aparna.m,2,2,APMTO10,APMTO10,39,39,1,1,2.5,2.5,25,25,1,1,Arikathota,Arikathota,9603547960,9603547960,30-05-2025,30-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,4,4,hrt,ap,mo
+316,DR BONI SIMHADRI NAIDU,DR BONI SIMHADRI NAIDU,1,1,APMTO10,APMTO10,32,32,1,1,3.07,3.07,25,25,1,1,phc viyyampeta,phc viyyampeta,8328259717,8328259717,30-05-2025,30-05-2025,3,3,3,3,2,2,3,3,3,3,2,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+317,Dr. Kartheek U,Dr. Kartheek U,1,1,APMTO10,APMTO10,34,34,1,1,0.3,0.6,25,25,1,1,PHC Rakodu,PHC Rakodu,9032479819,9032479819,30-05-2025,30-05-2025,3,3,1,3,2,4,2,3,3,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+318,-,Dr.s.pallavi,-,2,-,APMTO10,-,34,-,1,-,18,-,25,-,1,-,Phc pm palem,-,9949724474,-,30-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,4,-,4,-,3,-,3,hrt,ap,mo
+319,Kasi suma priya,Kasi suma priya,2,2,APMTO5,APMTO5,28,28,1,1,2.6,2.6,13,13,1,1,Phc thallapalem,Phc,8978473370,8978473370,12-05-2025,12-05-2025,3,3,1,3,2,4,3,3,3,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+320,Dr Saira khatoon,Dr Saira khatoon,2,2,APMTO5,APMTO5,29,29,1,1,2,2,13,13,1,1,Veerankilock,Veerankilock,8333888398,8333888398,12-05-2025,12-05-2025,4,2,1,3,2,2,3,3,3,3,4,4,1,2,4,4,2,2,1,1,hrt,ap,mo
+321,DR NAMBURU SRI RAM SAI,DR NAMBURU SRI RAM SAI,1,1,APMTO5,APMTO5,30,30,1,1,4,4,13,13,1,1,PHC PEDAKALLEPALLI,PHC PEDAKALLEPALLI,9440638571,9440638571,12-05-2025,12-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,1,3,3,3,hrt,ap,mo
+322,Durga madhavi,Durga Madhavi,2,2,APMTO5,APMTO5,33,33,1,1,1.5,1.5,13,13,1,1,Kowthavaram,Kowthavaram,8185914334,8185914334,12-05-2025,12-05-2025,3,3,3,3,4,4,3,3,3,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+323,Dr Kamaraj Pavan Kumar Vinnakota,Dr Kamaraj Pavan Kumar Vinnakota,1,1,APMTO5,APMTO5,42,42,1,1,2.6,2.6,13,13,1,1,Bantumilli Primary Health Centre,Bantumilli Primary Health Centre,9440717601,9440717601,12-05-2025,12-05-2025,3,3,1,3,4,4,3,3,3,3,4,4,2,2,4,4,3,3,3,3,hrt,ap,mo
+324,Nikhita P,Nikhita P,2,2,APMTO5,APMTO5,34,33,1,1,3,3,13,13,1,1,Kankipadu PHC,Kankipadu PHC,8142544342,8142544342,12-05-2025,12-05-2025,3,3,3,3,2,2,3,3,2,3,4,4,1,1,4,4,1,3,2,2,hrt,ap,mo
+325,Saikiran Akkula,Saikiran Akkula,1,1,APMTO5,APMTO5,32,32,1,1,2.3,2.3,13,13,1,1,Nidumolu,Nidumolu,9441492558,9441492558,12-05-2025,12-05-2025,2,2,3,3,4,2,3,3,3,3,4,4,4,1,4,4,3,3,4,1,hrt,ap,mo
+326,Srikakulapu Harika,Dr Srikakulapu Harika,2,2,APMTO5,APMTO5,25,25,1,1,0.6,0.6,13,13,2,2,Yanamalakuduru,Yanamalakuduru,7569025739,7569025739,12-05-2025,12-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,2,2,4,4,3,3,4,2,hrt,ap,mo
+327,Dr  .K.Meena Devi,Dr  .K.Meena Devi,2,2,APMTO5,APMTO5,32,32,1,1,2.5,2.5,13,13,1,1,Phc pedana,Phc pedana,9948197235,9948197235,12-05-2025,12-05-2025,3,3,3,3,4,4,3,3,1,3,4,4,4,2,4,4,3,3,2,4,hrt,ap,mo
+328,Chirivella Mahitha,Chirivella Mahitha,2,2,APMTO5,APMTO5,30,30,1,1,2.1,2.1,13,13,1,1,Phc Guduru,Phc Guduru,9849995502,9849995502,12-05-2025,12-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,3,2,4,4,3,3,3,2,hrt,ap,mo
+329,V V SUBBARAO,V V SUBBARAO,1,1,APMTO5,APMTO5,57,57,1,1,20,20,13,13,1,1,Phc Indupalli,Phc Indupalli,9441072430,9441072430,12-05-2025,12-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,3,3,hrt,ap,mo
+330,Sujitha P,Sujitha P,2,2,APMTO5,APMTO5,37,37,4,4,1.5,1.5,13,13,1,1,Pedavutapalli,Pedavutapalli,7702550990,7702550990,12-05-2025,12-05-2025,3,3,3,3,4,4,3,3,1,3,4,4,1,1,4,4,3,3,2,3,hrt,ap,mo
+331,Dr T samata,Dr T samata,2,2,APMTO5,APMTO5,43,43,1,1,2,2,13,13,2,2,Uphc ntr colony,Uphc ntr colony,6301721440,6301721440,12-05-2025,12-05-2025,1,1,3,3,2,2,3,2,2,3,2,2,1,1,3,4,3,3,4,3,hrt,ap,mo
+332,Dr.A.Mercy joshua,Dr.A.Mercy joshua,2,2,APMTO5,APMTO5,30,30,1,1,4,4,13,13,1,1,PHC RUDRAPAKA,PHC RUDRAPAKA,8886582588,8886582588,12-05-2025,12-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,1,4,4,3,3,2,2,hrt,ap,mo
+333,Anil,-,1,-,APMTO5,-,30,-,1,-,2.5,-,13,-,1,-,Mopidevi,-,9182782160,-,12-05-2025,-,3,-,1,-,2,-,4,-,3,-,4,-,1,-,4,-,3,-,3,-,hrt,ap,mo
+334,Dr.Srinivas,Dr.Srinivas,1,1,APMTO5,APMTO5,51,51,2,2,18,18,13,13,1,1,Yalamarru,Yalamarru,9948400345,9948400345,12-05-2025,12-05-2025,3,4,3,3,2,4,3,3,1,3,4,4,1,2,4,4,1,3,2,3,hrt,ap,mo
+335,Dr Sunkara Hima Maheswari,Dr Sunkara Hima Maheswari,2,2,APMTO5,APMTO5,29,29,1,1,1.6,1.7,13,13,1,1,Katuru PHC,Katuru PHC,8501815595,8501815595,12-05-2025,12-05-2025,3,3,3,3,2,4,3,3,3,3,4,4,1,1,4,4,3,3,2,2,hrt,ap,mo
+336,DR.P.SRI HARSHA,DR.P.SRI HARSHA,1,1,APMTO5,APMTO5,33,33,1,1,18,18,13,13,1,1,PHC mustabada,PHC mustabada,8121589999,8121589999,12-05-2025,12-05-2025,3,3,3,3,2,4,3,3,3,3,4,4,4,4,4,4,3,3,3,4,hrt,ap,mo
+337,Dr ganta john David twinson,-,1,-,APMTO5,-,28,-,1,-,2.2,-,13,-,2,-,Uphc bapujinagar,-,9502605072,-,12-05-2025,-,3,-,1,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,-,hrt,ap,mo
+338,Ramyasai,Ramyasai,2,2,APMTO5,APMTO5,26,26,1,1,1.5,1.5,13,13,1,1,Phc chevendrapalem,Phc chevendrapalem,7569489999,7569489999,12-05-2025,12-05-2025,3,4,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+339,Parlapalli chupak teja,Parlapalli chupak teja,1,1,APMTO5,APMTO5,25,25,1,1,1.6,1.6,13,13,1,1,MOTURU,MOTURU,8105226342,8105226342,12-05-2025,12-05-2025,3,3,1,1,2,2,3,3,3,3,4,4,4,2,4,4,3,3,2,2,hrt,ap,mo
+340,Parlapalli chupak teja,-,1,-,APMTO5,-,25,-,1,-,1.6,-,13,-,1,-,MOTURU,-,9154330374,-,12-05-2025,-,3,-,1,-,2,-,3,-,3,-,4,-,4,-,4,-,3,-,2,-,hrt,ap,mo
+341,Dr.Asetty Susmitha,Dr.Asetty Susmitha,2,2,APMTO5,APMTO5,32,32,1,1,3.2,3.2,13,13,1,1,PHC PORANKI,PHC PORANKI,9493730869,9493730869,12-05-2025,12-05-2025,3,3,3,3,4,2,3,3,3,3,4,4,1,2,4,4,3,3,1,2,hrt,ap,mo
+342,Dr.N.S.N.V.K.SAI LALITHA,Dr.N.S.N.V.K.SAI LALITHA,2,2,APMTO5,APMTO5,28,28,1,1,1.5,1.5,13,13,1,1,PHC PENAMALURU,PHCPenamaluru,9439722540,9439722540,12-05-2025,12-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,1,3,2,2,hrt,ap,mo
+343,Dr T Jitendra Kumar,Dr T Jitendra Kumar,1,1,APMTO5,APMTO5,30,30,1,1,24,2.4,13,13,1,1,Phc Atkuru,Phc Atkuru,9742166724,9742166724,12-05-2025,12-05-2025,3,3,3,3,4,4,3,3,3,3,4,4,4,4,4,4,3,3,2,2,hrt,ap,mo
+344,Dr Renu priyanka,Dr Renu priyanka,2,2,APMTO5,APMTO5,33,33,1,1,3,3,13,13,1,1,Ghantasalapalem,Ghantasalapalem,8688937070,8688937070,12-05-2025,12-05-2025,3,4,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,3,hrt,ap,mo
+345,Dr Hena Shaik,Dr Hena Shaik,2,2,APMTO5,APMTO5,27,27,1,1,2,2,13,13,1,1,PHC LAKSHMIPURAM,Phc lakshmipuram,9550921037,9550921037,12-05-2025,12-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,1,4,4,3,3,2,2,hrt,ap,mo
+346,Bvr Sandeep,-,1,-,APMTO5,-,30,-,1,-,2.7,-,13,-,1,-,Phc ventrapragada,-,8074042433,-,12-05-2025,-,3,-,3,-,2,-,3,-,4,-,4,-,2,-,4,-,3,-,2,-,hrt,ap,mo
+347,Bvr Sandeep,Bvr Sandeep,1,1,APMTO5,APMTO5,30,30,1,1,2.7,2.7,13,13,1,1,Phc ventrapragada,Phc ventrapragada,9739038425,9739038425,12-05-2025,12-05-2025,3,3,3,3,2,2,3,3,4,3,4,4,2,4,4,4,3,3,2,2,hrt,ap,mo
+348,Dr.Midhuna,Dr.Midhuna,2,2,APMTO5,APMTO5,32,32,1,1,2,2,13,13,1,1,Phc kruthivennu,Phc kruthivennu,8885215303,8885215303,12-05-2025,12-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,3,hrt,ap,mo
+349,-,Anil,-,1,-,APMTO5,-,30,-,1,-,2.5,-,13,-,1,-,Mopidevi,-,9187282160,-,12-05-2025,-,3,-,3,-,2,-,4,-,3,-,4,-,2,-,4,-,3,-,1,hrt,ap,mo
+350,-,Dr.D . Raja,-,1,-,APMTO5,-,34,-,1,-,2.6,-,13,-,1,-,phc penamaluru,-,8328529746,-,12-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+351,-,Vallabhu Parameswari Devi,-,2,-,APMTO5,-,28,-,1,-,16,-,13,-,2,-,Bandarkota,-,7993128798,-,12-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,3,hrt,ap,mo
+352,-,Ragi Pranay Sagar,-,1,-,APMTO5,-,26,-,1,-,0.9,-,13,-,1,-,Veeravalli,-,7995142287,-,12-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,1,-,3,hrt,ap,mo
+353,-,dr indravathi,-,2,-,APMTO5,-,43,-,1,-,14,-,13,-,1,-,phc chinnaogirala,-,8885626810,-,12-05-2025,-,3,-,3,-,4,-,3,-,1,-,4,-,1,-,4,-,3,-,1,hrt,ap,mo
+354,-,dr indravathi,-,2,-,APMTO5,-,43,-,1,-,14,-,13,-,1,-,phc chinnaogirala,-,8106855803,-,12-05-2025,-,3,-,3,-,4,-,3,-,1,-,4,-,1,-,4,-,3,-,1,hrt,ap,mo
+355,-,Dr.Anju vangivarapu,-,2,-,APMTO5,-,37,-,1,-,1.9,-,13,-,1,-,Uppaluru,-,6305513503,-,12-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,4,-,3,hrt,ap,mo
+356,-,Dr ganta john David twinson,-,1,-,APMTO5,-,28,-,1,-,2.2,-,13,-,2,-,Uphc bapujinagar,-,9059690455,-,12-05-2025,-,3,-,1,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+357,-,M.Indra Kumar reddy,-,1,-,APMTO5,-,32,-,1,-,4,-,13,-,1,-,Nagayalanka,-,9110381711,-,12-05-2025,-,3,-,3,-,1,-,3,-,1,-,4,-,1,-,4,-,3,-,1,hrt,ap,mo
+358,-,J Madhu,-,1,-,APMTO5,-,36,-,1,-,6,-,13,-,1,-,Ramapuram phc,-,8309881766,-,12-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,3,-,4,-,3,-,2,hrt,ap,mo
+359,-,Vemuri pramod kumar,-,1,-,APMTO5,-,48,-,1,-,14,-,13,-,1,-,Ghantasala,-,9010688111,-,12-05-2025,-,2,-,2,-,2,-,2,-,2,-,2,-,2,-,2,-,2,-,2,hrt,ap,mo
+360,-,Dr K vijaya Rao,-,1,-,APMTO5,-,35,-,1,-,4,-,13,-,1,-,PHC PURITIGADDA,-,9505599508,-,12-05-2025,-,3,-,3,-,2,-,3,-,3,-,2,-,1,-,4,-,3,-,1,hrt,ap,mo
+361,-,Dasari sravika,-,2,-,APMTO5,-,35,-,1,-,1,-,13,-,1,-,Phc pedaparupudi,-,9966645219,-,12-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,3,-,3,hrt,ap,mo
+362,-,Sirisha,-,2,-,APMTO5,-,30,-,1,-,1.5,-,13,-,1,-,Mandapakala,-,9908708043,-,12-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,3,-,2,hrt,ap,mo
+363,-,Shaik Reyaz,-,1,-,APMTO5,-,27,-,1,-,1.5,-,13,-,1,-,Vekanuru,-,7981674080,-,12-05-2025,-,4,-,1,-,2,-,3,-,3,-,4,-,3,-,4,-,3,-,2,hrt,ap,mo
+364,-,Ragi Pranay Sagar,-,1,-,APMTO5,-,26,-,1,-,0.9,-,13,-,1,-,Veeravalli,-,8328020124,-,12-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,1,-,4,hrt,ap,mo
+365,-,Rajesh,-,1,-,APMTO5,-,42,-,1,-,5,-,13,-,1,-,Kanumuru,-,9849186087,-,12-05-2025,-,3,-,3,-,4,-,3,-,3,-,4,-,3,-,4,-,2,-,2,hrt,ap,mo
+366,-,Dr.veerendranath.thota,-,1,-,APMTO5,-,41,-,2,-,2,-,13,-,2,-,Narayanapuram uphc,-,8688915449,-,12-05-2025,-,3,-,3,-,3,-,2,-,2,-,4,-,1,-,4,-,3,-,4,hrt,ap,mo
+367,-,G joganandarao,-,1,-,APMTO5,-,28,-,1,-,3,-,13,-,2,-,Dhaniyalapeta,-,9390042294,-,12-05-2025,-,2,-,2,-,3,-,1,-,3,-,4,-,2,-,4,-,2,-,2,hrt,ap,mo
+368,-,Apoorva,-,2,-,APMTO5,-,24,-,1,-,0,-,13,-,1,-,Indu,-,8341481391,-,13-05-2025,-,2,-,3,-,2,-,1,-,2,-,4,-,3,-,4,-,3,-,3,hrt,ap,mo
+369,Dr.Sahitya,Dr.Sahitya,2,2,APMTO2,APMTO2,35,35,1,1,2.7,2.7,5,5,1,1,Santhamaguluru,Santhamaguluru,7416265627,7416265627,06-05-2025,06-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,1,3,1,2,hrt,ap,mo
+370,Dr. G. Tulasi Rajeswari,Dr. G. Tulasi Rajeswari,2,2,APMTO2,APMTO2,41,41,1,1,6.3,6.3,5,5,1,1,Chinamatlapudi,Chinamatlapudi,9866022354,9866022354,06-05-2025,06-05-2025,4,3,3,3,2,2,3,3,3,2,4,4,2,2,4,4,3,3,4,3,hrt,ap,mo
+371,R.Jyothsna,R.Jyothsna,2,2,APMTO2,APMTO2,27,27,1,1,2,2,5,5,1,1,PHC Yelchuru,PHC Yelchuru,7993849828,7993849828,06-05-2025,06-05-2025,3,4,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+372,Dr.Raviteja,-,1,-,APMTO2,-,27,-,1,-,15,-,5,-,1,-,Guntupalli,-,7569691138,-,06-05-2025,-,3,-,1,-,4,-,2,-,3,-,4,-,1,-,4,-,3,-,3,-,hrt,ap,mo
+373,Rameez Ahmed sk,Rameez Ahmed shaik,1,1,APMTO2,APMTO2,37,37,1,1,2.6,2.6,5,5,1,1,Dronadula,Dronadula,9177302752,9177302752,06-05-2025,06-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,1,3,3,2,hrt,ap,mo
+374,Dr P Sai Sri Charan,Dr P Sai Sri Charan,1,1,APMTO2,APMTO2,32,32,1,1,2.7,2.7,5,5,1,1,PHC Chinaganjam,PHC Chinaganjam,7207504736,7207504736,06-05-2025,06-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,1,2,hrt,ap,mo
+375,Divyasri nambur,Divyasri Nambur,2,2,APMTO2,APMTO2,36,36,1,1,6,6,5,5,1,1,Chandolu,Chandolu,9676170772,9676170772,06-05-2025,06-05-2025,2,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,4,1,hrt,ap,mo
+376,Movva yesubabu,-,1,-,APMTO2,-,40,-,1,-,13.8,-,5,-,1,-,Amarthaluru,-,9441898680,-,06-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,3,-,4,-,hrt,ap,mo
+377,Abdul samad shaik,ABDUL SAMAD SHAIK,1,1,APMTO2,APMTO2,35,35,1,1,1.5,1.5,5,5,1,1,Phc kavuru,Phc kavuru,8019167252,8019167252,06-05-2025,06-05-2025,3,3,3,3,2,2,3,3,4,3,4,4,1,1,4,4,3,3,2,2,hrt,ap,mo
+378,Dr.d.nagarjuna,-,1,-,APMTO2,-,37,-,1,-,6,-,5,-,1,-,Kuchinapudi phc,-,9603843641,-,06-05-2025,-,1,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,3,-,1,-,hrt,ap,mo
+379,Dr.Talpa Sai Babu Tata,Dr.Talpa Sai Babu Tata,1,1,APMTO2,APMTO2,35,35,1,1,1.5,1.5,5,5,1,1,Mollagunta,Mollagunta,8500792856,8500792856,06-05-2025,06-05-2025,3,3,1,3,2,2,3,3,4,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+380,Dr. Keerthi saroj,Dr. Keerthi saroj,2,2,APMTO2,APMTO2,31,31,1,1,2.6,2.6,5,5,1,1,SANTHARAVURU,SANTHARAVURU,9618234852,9618234852,06-05-2025,06-05-2025,3,3,3,3,2,2,3,3,4,3,4,4,1,2,4,4,3,3,3,2,hrt,ap,mo
+381,Dr. Sirisha Ganji,Dr. Sirisha Ganji,2,2,APMTO2,APMTO2,41,41,1,1,4,4,5,5,2,2,Uphc mariyammapeta,Uphc mariyammapeta,8121422015,8121422015,06-05-2025,06-05-2025,3,3,1,3,2,2,3,3,1,3,4,4,1,2,4,4,1,3,3,2,hrt,ap,mo
+382,Dr Siva Chennaiah,Dr Siva Chennaiah,1,1,APMTO2,APMTO2,34,34,1,1,4,4,5,5,1,1,J pangulur,J pangulur,8019984900,8019984900,06-05-2025,06-05-2025,3,3,1,3,2,2,3,3,1,3,4,4,1,2,4,4,3,3,3,3,hrt,ap,mo
+383,G.bhanu prakash rao,G.bhanu prakash rao,1,1,APMTO2,APMTO2,45,45,1,1,17,17,5,5,1,1,Phc.inkollu,Phc.inkollu,9000920138,9000920138,06-05-2025,06-05-2025,1,1,3,3,4,3,4,2,4,3,2,2,1,1,4,4,4,3,3,2,hrt,ap,mo
+384,Dr S Vyshnavi Krishna,Dr S Vyshnavi Krishna,2,2,APMTO2,APMTO2,28,28,1,1,2.6,2.6,5,5,1,1,PHC Vedhullapalli,PHC Vedhullapalli,9182924989,9182924989,06-05-2025,06-05-2025,3,3,3,3,1,2,3,3,3,3,4,4,1,2,4,3,3,3,3,2,hrt,ap,mo
+385,Dr Sree Hashma Priya J,Dr Sree Hashma Priya J,2,2,APMTO2,APMTO2,28,28,1,1,2.6,2.6,5,5,1,1,Phc Swarna,Phc Swarna,7702917147,7702917147,06-05-2025,06-05-2025,3,2,3,3,2,2,2,2,4,3,4,4,1,2,4,4,3,3,4,2,hrt,ap,mo
+386,Dr. B. Chandrika Rani,Dr. B. Chandrika Rani,2,2,APMTO2,APMTO2,28,28,1,1,1.5,1.5,5,5,1,1,Phc Tsunduru,Phc Tsunduru,7660078972,7660078972,06-05-2025,06-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,1,1,4,4,3,3,2,2,hrt,ap,mo
+387,Dr D.Venkata akshitha,Dr D.Venkata akshitha,2,2,APMTO2,APMTO2,26,26,1,1,1.6,1.6,5,5,1,1,Phc korisapadu,Phc korisapadu,8098342717,8098342717,06-05-2025,06-05-2025,3,3,1,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,3,hrt,ap,mo
+388,Haritha,Haritha,2,2,APMTO2,APMTO2,32,32,1,1,1.5,1.5,5,5,1,1,Daggubadu,Daggubadu,9010059956,9010059956,06-05-2025,06-05-2025,3,3,3,3,2,2,3,3,2,3,4,4,1,1,4,4,3,3,2,2,hrt,ap,mo
+389,Dr Venkatesh.I,Dr Venkatesh.I,1,1,APMTO2,APMTO2,35,35,1,1,2.7,2.7,5,5,1,1,NARASAYAPALEM,NARASAYAPALEM,9999688605,9999688605,06-05-2025,06-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,1,3,hrt,ap,mo
+390,Dr Y Guna sairam,Dr Y Guna sairam,1,1,APMTO2,APMTO2,28,28,1,1,2.5,2.5,5,5,1,1,Moparru,Moparru,8885944777,8885944777,06-05-2025,06-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,1,1,hrt,ap,mo
+391,Rajesh,Rajesh,1,1,APMTO2,APMTO2,36,36,1,1,4.5,4.5,5,5,1,1,Duddukur,Duddukur,8008855515,8008855515,06-05-2025,06-05-2025,3,3,3,3,2,2,3,3,1,2,4,4,1,2,4,4,3,3,2,3,hrt,ap,mo
+392,Polasam kalyan,-,1,-,APMTO2,-,29,-,1,-,1.6,-,5,-,2,-,UPHC RAILPETA,-,9390015905,-,06-05-2025,-,2,-,1,-,2,-,3,-,4,-,4,-,1,-,4,-,3,-,2,-,hrt,ap,mo
+393,Dr Y Manish Nanda,-,1,-,APMTO2,-,30,-,1,-,2.1,-,5,-,2,-,Paparajuthota,-,6303537152,-,06-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,3,-,3,-,hrt,ap,mo
+394,Yaragalla Naveena,Yaragalla Naveena,2,2,APMTO2,APMTO2,29,29,1,1,1.5,1.5,5,5,1,1,Colocated Martur phc,Colocated Martur phc,9059394566,9059394566,06-05-2025,06-05-2025,3,3,3,3,3,2,3,3,1,2,4,4,2,2,4,4,3,3,3,3,hrt,ap,mo
+395,Dr. CHITTIBABU G,Dr.CHITTIBABU G,1,1,APMTO2,APMTO2,51,51,1,1,6.5,6.5,5,5,1,1,MEDARAMETLA PHC,MEDARAMETLA PHC,9441261449,9441261449,06-05-2025,06-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,1,4,4,3,3,4,3,hrt,ap,mo
+396,Panguluri Harikrishna,Panguluri Harikrishna,1,1,APMTO2,APMTO2,30,30,1,1,2.1,2.1,5,5,1,1,Addanki colocated phc,Addanki colocated phc,7288821445,7288821445,06-05-2025,06-05-2025,3,3,3,3,2,2,3,3,1,1,4,4,2,2,4,4,3,3,4,4,hrt,ap,mo
+397,Siddela pranay kumar,-,1,-,APMTO2,-,29,-,1,-,2.1,-,5,-,2,-,UPHC vykuntapuram,-,8374110559,-,06-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,2,-,3,-,hrt,ap,mo
+398,Dr P.Sai Vyshnavi,Dr P.Sai Vyshnavi,2,2,APMTO2,APMTO2,25,25,1,1,1.5,1.5,5,5,1,1,Vetapalem phc,Vetapalem phc,8919388900,8919388900,06-05-2025,06-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,2,2,4,4,3,3,3,3,hrt,ap,mo
+399,Nula Triveni,Nula Triveni,2,2,APMTO2,APMTO2,27,27,1,1,1.9,1.9,5,5,2,2,Uphc sgcolony,Uphc sgcolony,8106482448,8106482448,06-05-2025,06-05-2025,3,3,3,3,2,2,3,3,4,3,4,4,2,2,4,4,4,3,4,3,hrt,ap,mo
+400,-,DrMounica,-,2,-,APMTO2,-,28,-,1,-,3,-,5,-,2,-,Uhc pedisonpeta,-,7207663095,-,06-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+401,-,P jyothirmai,-,2,-,APMTO2,-,27,-,1,-,1.5,-,5,-,1,-,Chirala colocated,-,9676689281,-,06-05-2025,-,3,-,3,-,2,-,3,-,2,-,4,-,2,-,4,-,3,-,3,hrt,ap,mo
+402,RACHAMALLA RAJASEKHAR REDDY,RACHAMALLA RAJASEKHAR REDDY,1,1,APMTO2,APMTO2,27,27,1,1,1.5,1.5,5,5,1,1,PHC KORISAPADU,PHC KORISAPADU,9553332641,9553332641,08-05-2025,08-05-2025,3,3,3,3,2,2,3,3,2,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+403,Aniesh Molakalapalli,Aniesh Molakalapalli,1,1,APMTO2,APMTO2,29,29,1,1,2,2,5,5,1,1,Prasangulapadu,Prasangulapadu,8500330371,8500330371,08-05-2025,08-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,4,2,hrt,ap,mo
+404,P Sri Harsha,P Sri Harsha,1,1,APMTO2,APMTO2,25,25,1,1,1.6,1.6,5,5,1,1,YADDANAPUDI,YADDANAPUDI,9392827992,9392827992,08-05-2025,08-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+405,bhusetty samba sivaiah,bhusetty samba sivaiah,1,1,APMTO2,APMTO2,34,34,1,1,2.5,2.5,5,5,1,1,duddukuru,duddukuru,9493354603,9493354603,08-05-2025,08-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,4,2,4,4,3,3,4,2,hrt,ap,mo
+406,Dr Gowtham Muddamsetty,Dr Gowtham Muddamsetty,1,1,APMTO2,APMTO2,29,29,1,1,2.6,2.6,5,5,1,1,PHC CHERUKURU,PHC CHERUKURU,9346784599,9346784599,08-05-2025,08-05-2025,3,3,3,3,4,2,3,3,3,3,4,4,2,2,4,4,3,3,1,2,hrt,ap,mo
+407,Nimmagadda Chandrika,Nimmagadda Chandrika,2,2,APMTO2,APMTO2,26,26,1,1,1.6,1.6,5,5,1,1,Phc Chandole,Phc Chandole,8919670566,8919670566,08-05-2025,08-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+408,K.Pradeep Chandra,K.Pradeep Chandra,1,1,APMTO2,APMTO2,29,29,1,1,2,2,5,5,1,1,Inturu phc,Inturu,9381018708,9381018708,08-05-2025,08-05-2025,2,3,1,3,4,4,3,3,3,3,4,4,1,2,4,4,4,3,1,3,hrt,ap,mo
+409,Dr kata Bala raju,Dr KATA BALA RAJU,1,1,APMTO2,APMTO2,33,33,1,1,2.5,2.5,5,5,1,1,Phc modepalli,Phc modepalli,6301368719,6301368719,08-05-2025,08-05-2025,3,3,3,3,2,2,3,3,1,2,2,2,1,2,1,3,1,3,2,3,hrt,ap,mo
+410,Dr.Saleha Zuber G.K.,Dr.Saleha Zuber G.K.,2,2,APMTO2,APMTO2,28,28,1,1,2.1,2.1,5,5,1,1,Phc kavuru,Phc kavuru,9154330133,9154330133,08-05-2025,08-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,4,2,4,4,3,3,4,2,hrt,ap,mo
+411,Dr A Sreenivasarao,Dr A Sreenivasarao,1,1,APMTO2,APMTO2,51,51,1,1,17,17,5,5,1,1,PHC Mulpuru,PHC Mulpuru,9989608647,9989608647,08-05-2025,08-05-2025,1,2,3,3,2,2,1,3,1,1,1,4,1,2,1,4,2,3,1,3,hrt,ap,mo
+412,Shaik shahin,Shaik shahin,2,2,APMTO2,APMTO2,26,26,1,1,0.4,0.4,5,5,2,2,UPHC nizampatnam road,UPHC nizampatnam road,9703964483,9703964483,08-05-2025,08-05-2025,3,2,3,3,4,2,3,3,1,3,4,4,1,2,4,4,1,3,4,3,hrt,ap,mo
+413,Dr.Bhavana Koti,Dr.Bhavana Koti,2,2,APMTO2,APMTO2,26,26,1,1,1.4,1.4,5,5,1,1,Primary Health center Kanagala,Primary Health center Kanagala,9490915670,9490915670,08-05-2025,08-05-2025,3,3,1,3,2,2,3,3,4,3,4,4,1,2,4,4,3,3,3,2,hrt,ap,mo
+414,N SRIHARSHA,N SRIHARSHA,1,1,APMTO2,APMTO2,38,38,1,1,1.4,1.4,5,5,1,1,MODEPALLI,MODEPALLI,8500302386,8500302386,08-05-2025,08-05-2025,3,3,3,3,2,2,3,3,2,3,4,4,2,4,4,4,3,3,3,2,hrt,ap,mo
+415,Dr. Lanka Pavan Chaitanya,Dr. Lanka Pavan Chaitanya,1,1,APMTO2,APMTO2,35,35,1,1,6,6,5,5,1,1,PHC Narasayapalem,PHC Narasayapalem,9959438164,9959438164,08-05-2025,08-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,4,2,hrt,ap,mo
+416,Dr.Sravani garnepudi,DrSravani garnepudi,2,2,APMTO2,APMTO2,29,29,1,1,0.3,0.3,5,5,1,1,PHC MEDARAMETLA,PHC MEDARAMETLA,9494459297,9494459297,08-05-2025,08-05-2025,3,3,3,3,2,2,3,3,4,3,4,4,1,2,4,4,3,3,3,2,hrt,ap,mo
+417,M Gopi,-,1,-,APMTO2,-,25,-,1,-,1,-,5,-,2,-,UPHC VB colony,-,6300488273,-,08-05-2025,-,2,-,3,-,2,-,2,-,3,-,4,-,1,-,4,-,4,-,2,-,hrt,ap,mo
+418,U.Rajasekhar Reddy,U.Rajasekhar Reddy,1,1,APMTO2,APMTO2,26,26,1,1,1.4,1.4,5,5,1,1,Visweswaram,Visweswaram,8247737831,8247737831,08-05-2025,08-05-2025,3,3,3,3,4,2,3,3,4,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+419,JayaSimha gottipati,JayaSimha gottipati,1,1,APMTO2,APMTO2,28,28,1,1,2,2,5,5,2,2,Uphc gajulapalem,Uphc gajulapalem,8179298409,8179298409,08-05-2025,08-05-2025,3,3,3,3,2,2,2,3,3,3,4,4,1,2,4,4,1,3,3,2,hrt,ap,mo
+420,Dr.Sravanya Choppara,Dr.Sravanya Choppara,2,2,APMTO2,APMTO2,28,28,1,1,3,3,5,5,1,1,Phc Mollagunta,Phc Mollagunta,7989798303,7989798303,08-05-2025,08-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,1,2,4,4,3,3,3,2,hrt,ap,mo
+421,P Bharathi,P Bharathi,2,2,APMTO2,APMTO2,33,33,1,1,2.1,2.1,5,5,1,1,Kopperapadu,Kopperapadu,9494142741,9494142741,08-05-2025,08-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,3,2,hrt,ap,mo
+422,M.Hema Madhuri,M Hema Madhuri,2,2,APMTO2,APMTO2,25,25,1,1,1.5,1.5,5,5,2,2,Uphc kakanipalem,Uphc kakanipalem,9494678309,9494678309,08-05-2025,08-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,3,3,hrt,ap,mo
+423,Dr Harshavardhan aditya A,Dr Harshavardhan aditya A,1,1,APMTO2,APMTO2,27,27,1,1,1.3,1.3,5,5,1,1,Phc pandillapalli,Phc Pandillapalli,8790845213,8790845213,08-05-2025,08-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+424,Dr Bala Rajeswari,Dr Bala Rajeswari,2,2,APMTO2,APMTO2,28,28,1,1,1.8,1.8,5,5,1,1,Phc j panguluru,Phc j panguluru,8522073389,8522073389,08-05-2025,08-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,1,2,4,4,3,3,3,2,hrt,ap,mo
+425,Dr Swathikiran,Dr Swathikiran,1,1,APMTO2,APMTO2,34,34,1,1,2.7,2.7,5,5,1,1,PHC-vetapalam,PHC-vetapalam,9701634594,9701634594,08-05-2025,08-05-2025,3,3,3,3,2,2,3,3,4,3,4,4,2,2,4,4,3,3,3,4,hrt,ap,mo
+426,Buradagunta Kishore,Buradagunta kishore,1,1,APMTO2,APMTO2,34,34,1,1,3,3,5,5,1,1,Phc viseswaram,Viseswaram,9985525069,9985525069,08-05-2025,08-05-2025,2,3,3,3,2,2,2,3,3,3,4,4,4,1,4,4,3,3,4,2,hrt,ap,mo
+427,Dr P Manasa Priyadharsini,Dr P Manasa Priyadharsini,2,2,APMTO2,APMTO2,37,37,1,1,6.3,6.3,5,5,1,1,Phc Vedhullapalli,Phc Vedhullapalli,8977381678,8977381678,08-05-2025,08-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+428,K Indirapriyadarshini,K.indirapriyadarshini,2,2,APMTO2,APMTO2,38,38,1,1,5,5,5,5,1,1,Tsunduru,Tsunduru,9642053077,9642053077,08-05-2025,08-05-2025,3,1,1,3,2,2,2,3,3,3,4,4,2,2,4,4,3,3,3,3,hrt,ap,mo
+429,Srinidhi,Srinidhi,2,2,APMTO2,APMTO2,38,38,4,4,11,11,5,5,1,1,Edlapalli,Edlapalli,9966576531,9966576531,08-05-2025,08-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,2,2,4,4,3,3,2,3,hrt,ap,mo
+430,Anjali,Dr.Anjali,2,2,APMTO2,APMTO2,29,29,1,1,3,3,5,5,1,1,Phc inkollu,Inkollu,8008125633,8008125633,08-05-2025,08-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+431,Boda Nagendra,Boda Nagendra,1,1,APMTO2,APMTO2,31,31,1,1,2.5,2.5,5,5,1,1,Santharavuru,Santharavuru,8074058164,8074058164,08-05-2025,08-05-2025,3,3,2,3,2,4,1,3,1,3,2,4,3,2,3,4,3,3,3,3,hrt,ap,mo
+432,Dr S Jaya Kumar,Dr S Jaya Kumar,1,1,APMTO2,APMTO2,35,35,1,1,4,4,5,5,1,1,Pandillapalli,Pandillapalli,9492608287,9492608287,08-05-2025,08-05-2025,3,3,3,3,2,2,2,3,3,4,4,2,2,1,4,4,3,2,2,3,hrt,ap,mo
+433,B SAI DEEPTHI,B SAI DEEPTHI,2,2,APMTO2,APMTO2,29,29,1,1,2,2,5,5,1,1,NIZAMPATNAM COLOCATED PHC,NIZAMPATNAM COLOCATED PHC,9550903693,9550903693,08-05-2025,08-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+434,K Indirapriyadarshini,K Indirapriyadarshini,2,2,APMTO2,APMTO2,38,38,1,1,5,5,5,5,1,1,Tsunduru,Tsunduru,8555896068,8555896068,08-05-2025,08-05-2025,3,3,1,3,2,2,2,3,3,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+435,R John prasad,R John Prasad,1,1,APMTO2,APMTO2,35,35,1,1,2,2,5,5,1,1,PHC Dhulipudi,PHC Dhulipudi,9000448998,9000448998,08-05-2025,08-05-2025,3,3,3,3,2,4,3,3,3,3,4,4,2,2,4,4,3,3,1,2,hrt,ap,mo
+436,Shaik suhana begum,Shaik suhana begum,2,2,APMTO2,APMTO2,38,38,1,1,7,7,5,5,1,1,Karlapalem,Karlapalem,6305976791,6305976791,08-05-2025,08-05-2025,3,3,3,3,2,2,2,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+437,-,M Gopi,-,1,-,APMTO2,-,25,-,1,-,1,-,5,-,2,-,UPHC VB colony,-,6300458276,-,08-05-2025,-,2,-,1,-,4,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+438,Dr .M.Nikitha,Dr.M.Nikitha,2,2,APMTO2,APMTO2,29,29,1,1,2.8,2.8,22,22,1,1,Phc reddypalli,Phc reddypalli,8074200119,8074200119,23-05-2025,23-05-2025,2,3,3,3,2,2,3,3,3,1,4,4,1,2,4,4,3,3,3,3,hrt,ap,mo
+439,BANASI APARNA,BANASI APARNA,2,2,APMTO2,APMTO2,29,29,1,1,2.7,2.7,22,22,1,1,Amadagur,Amadagur,7981907716,7981907716,23-05-2025,23-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+440,B.Naveena,B.Naveena,2,2,APMTO2,APMTO2,31,31,1,1,0.5,0.5,22,22,1,1,Parigi,Parigi,7075676854,7075676854,23-05-2025,23-05-2025,3,3,3,3,1,4,3,3,4,3,4,4,2,2,4,4,4,3,3,2,hrt,ap,mo
+441,Tejaswini,Dr.Tejaswini,2,2,APMTO2,APMTO2,30,30,1,1,2.4,2.4,22,22,1,1,Chilamathur,Chilamathur,6303028002,6303028002,23-05-2025,23-05-2025,3,3,3,3,4,2,3,3,3,3,4,4,1,2,4,4,3,3,4,4,hrt,ap,mo
+442,B VASU,B VASU,1,1,APMTO2,APMTO2,28,28,1,1,1.6,1.6,22,22,1,1,Colocated Phc-Gorantla,Colocated Phc-Gorantla,7702348347,7702348347,23-05-2025,23-05-2025,3,2,3,3,2,2,3,3,1,3,4,4,2,2,4,4,3,3,1,2,hrt,ap,mo
+443,Dr J Dileep Kumar,Dr J Dileep Kumar,1,1,APMTO2,APMTO2,38,38,1,1,2.7,2.7,22,22,1,1,PHC Darsinamala,PHC Darsinamala,7799118007,7799118007,23-05-2025,23-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+444,Dr.D.Harsha Mithra,Dr.D.Harsha Mithra,1,1,APMTO2,APMTO2,34,34,1,1,2,2,22,22,1,1,Koduru Chilamathur mandal,Koduru Chilamathur mandal,8121408236,8121408236,23-05-2025,23-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+445,Gouthami N,Gouthami N,2,2,APMTO2,APMTO2,30,30,1,1,29,29,22,22,2,2,Uphc Siva nagar,Uphc Siva nagar,9392756299,9392756299,23-05-2025,23-05-2025,3,3,3,3,3,2,2,3,2,3,4,4,1,2,1,4,3,3,2,2,hrt,ap,mo
+446,Dr.P.Saritha,Dr.P.Saritha,2,2,APMTO2,APMTO2,40,40,1,1,2.7,2.7,22,22,1,1,Phc Perur,Phc Perur,9553554266,9553554266,23-05-2025,23-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+447,Dr Bhargavi,-,2,-,APMTO2,-,29,-,1,-,3.1,-,22,-,1,-,Phc Neelakantapuram,-,7989224805,-,23-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,3,-,1,-,hrt,ap,mo
+448,Dr.K.Sruthi,Dr.K.Sruthi,2,2,APMTO2,APMTO2,26,26,1,1,0.6,0.6,22,22,2,2,Uphc New sc colony madakasira,Uphc new sc colony madakasira,9441646719,9441646719,23-05-2025,23-05-2025,1,3,3,3,4,2,3,3,1,3,4,4,2,2,4,4,3,3,3,3,hrt,ap,mo
+449,K.Sravani,K.Sravani,2,2,APMTO2,APMTO2,32,32,1,1,2.2,2.2,22,22,1,1,PHC GUTTUR,PHC GUTTUR,8096380996,8096380996,23-05-2025,23-05-2025,3,3,3,3,4,2,3,3,1,3,4,4,1,2,4,4,3,3,1,2,hrt,ap,mo
+450,Dr Bhargavi,-,2,-,APMTO2,-,29,-,1,-,3.1,-,22,-,1,-,Phc Neelakantapuram,-,7731054858,-,23-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,3,-,1,-,hrt,ap,mo
+451,Dr Jyothsna J,Dr Jyothsna J,2,2,APMTO2,APMTO2,37,37,4,4,5,5,22,22,1,1,Phc puttaparthi,Phc puttaparthi,7348899704,7348899704,23-05-2025,23-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+452,C lokeswar reddy,C lokeswar reddy,1,1,APMTO2,APMTO2,34,34,1,1,18,18,22,22,1,1,Phc kokkanti,Kokkanti,9398196541,9398196541,23-05-2025,23-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,4,4,4,4,3,3,3,4,hrt,ap,mo
+453,Dr.B.UshaRani,Dr.B.UshaRani,2,2,APMTO2,APMTO2,29,29,1,1,40,40,22,22,2,2,Uphc Kutagulla Kadiri,UPHC KUTAGULLA KADIRI,9494789335,9494789335,23-05-2025,23-05-2025,3,3,3,3,2,2,3,3,2,2,4,4,1,1,1,4,4,3,2,3,hrt,ap,mo
+454,D Gayathri,Dr D Gayathri,2,2,APMTO2,APMTO2,28,28,1,1,2.7,2.8,22,22,1,1,Agali,Agali,9353529192,9353529192,23-05-2025,23-05-2025,3,3,3,3,4,2,2,2,1,3,4,4,1,1,4,4,3,3,2,2,hrt,ap,mo
+455,Dr Ravi Naik,Dr Ravi Naik,1,1,APMTO2,APMTO2,36,36,1,1,3,3,22,22,1,1,Phcnsgate,Phcnsgate,7799481492,7799481492,23-05-2025,23-05-2025,3,3,3,3,4,1,1,2,1,3,4,4,1,2,4,4,1,3,1,1,hrt,ap,mo
+456,Sk baba Fakruddin,Sk baba Fakruddin,1,1,APMTO2,APMTO2,35,35,1,1,2,2,22,22,1,1,Gandlapenta,Gandlapenta,9052836154,9052836154,23-05-2025,23-05-2025,3,2,1,1,2,2,3,3,3,3,4,4,2,3,4,4,3,3,4,4,hrt,ap,mo
+457,Soundarya,Soundarya,2,2,APMTO2,APMTO2,29,29,1,1,2.7,2.7,22,22,1,1,Gudibanda,Gudibanda,8500442752,8500442752,23-05-2025,23-05-2025,3,3,3,3,2,2,2,3,3,3,4,4,1,1,4,4,3,3,2,2,hrt,ap,mo
+458,Dr K  VINOD KUMAR,Dr K  VINOD KUMAR,1,1,APMTO2,APMTO2,34,34,1,1,3,3,22,22,1,1,KALLUMARRI,KALLUMARRI,9959971279,9959971279,23-05-2025,23-05-2025,2,3,3,3,2,4,3,3,3,3,4,4,3,2,4,4,3,3,3,1,hrt,ap,mo
+459,Ambareesh,Ambareesh,1,1,APMTO2,APMTO2,31,31,1,1,2.5,2.5,22,22,1,1,PHC Amarapuram,PHC Amarapuram,8341493440,8341493440,23-05-2025,23-05-2025,2,2,3,3,2,2,4,2,3,3,4,4,4,2,4,4,3,3,4,3,hrt,ap,mo
+460,Kiranmai,Kiranmai,2,2,APMTO2,APMTO2,37,37,1,1,3,3,22,22,2,2,Indiranagar,Indiranagar,8919210138,8919210138,23-05-2025,23-05-2025,1,1,3,3,1,1,3,3,2,3,4,4,4,4,4,3,3,2,4,2,hrt,ap,mo
+461,DR Ramya,DR Ramya,2,2,APMTO2,APMTO2,29,29,1,1,2.5,2.5,22,22,1,1,Phc peddamanthuru,Phc peddamanthuru,9063683261,9063683261,23-05-2025,23-05-2025,3,3,3,3,4,4,3,3,3,3,4,4,1,1,4,4,3,3,3,2,hrt,ap,mo
+462,Bharathi,Bharathi,2,2,APMTO2,APMTO2,28,28,1,1,24,24,22,22,1,1,Phc morubagal,Phc morubagal,7569760998,7569760998,23-05-2025,23-05-2025,2,1,3,3,2,2,3,3,3,3,4,4,1,1,4,3,2,2,3,3,hrt,ap,mo
+463,Dr j padmaja,-,2,-,APMTO2,-,50,-,1,-,18,-,22,-,1,-,Phc Bevanahalli,-,8985595764,-,23-05-2025,-,2,-,3,-,4,-,3,-,3,-,4,-,4,-,1,-,4,-,2,-,hrt,ap,mo
+464,Dr chenna reddy,Dr chenna reddy,1,1,APMTO2,APMTO2,44,44,1,1,10,10,22,22,1,1,PHC kanaganapalli,PHC kanaganapalli,9703640121,9703640121,23-05-2025,23-05-2025,2,3,3,3,3,2,3,3,3,3,4,4,1,2,4,4,3,3,3,4,hrt,ap,mo
+465,C.M.Aiesha Tasneem,C.M.Aiesha Tasneem,2,2,APMTO2,APMTO2,28,28,1,2,2.6,2.6,22,22,1,1,Primary health centre somandepalli,Primary health centre somandepalli,7013639794,7013639794,23-05-2025,23-05-2025,3,3,3,3,4,2,2,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+466,Sunil,-,1,-,APMTO2,-,52,-,1,-,18,-,22,-,1,-,Phc Bukkapataman,-,8500232033,-,23-05-2025,-,1,-,3,-,4,-,2,-,1,-,4,-,1,-,4,-,3,-,3,-,hrt,ap,mo
+467,Vishnu vardhan. A,Vishnu vardhan. A,1,1,APMTO2,APMTO2,36,36,4,4,0.1,0.1,22,22,1,1,"Phc, bathalapalli","Phc, bathalapalli",8247549961,8247549961,23-05-2025,23-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,1,1,4,4,3,3,2,2,hrt,ap,mo
+468,-,Dr Bhargavi,-,2,-,APMTO2,-,29,-,1,-,3.1,-,22,-,1,-,Phc Neelakantapuram,-,7689224805,-,23-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,3,-,3,hrt,ap,mo
+469,-,P.swetha,-,2,-,APMTO2,-,33,-,1,-,1.6,-,22,-,1,-,Mudigubba,-,9494731911,-,23-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,4,hrt,ap,mo
+470,-,Sunil,-,1,-,APMTO2,-,52,-,1,-,18,-,22,-,1,-,Phc Bukkapataman,-,8500232023,-,23-05-2025,-,1,-,3,-,3,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+471,-,G.vinodkumar,-,1,-,APMTO2,-,42,-,1,-,2,-,22,-,1,-,Patnam,-,9652727898,-,23-05-2025,-,1,-,3,-,3,-,3,-,3,-,4,-,1,-,4,-,2,-,2,hrt,ap,mo
+472,Likhith reddy,Likhith reddy,1,1,APMTO2,APMTO2,28,29,1,1,2,2,22,22,2,2,Rajeev Gandhi nagar,Rajeev Gandhi nagar,8520858526,8520858526,26-05-2025,26-05-2025,3,3,3,3,1,2,3,3,3,1,4,4,2,2,4,4,3,3,1,2,hrt,ap,mo
+473,E bhanu prakash,E bhanu prakash,1,1,APMTO2,APMTO2,33,33,1,1,3.2,3.2,22,22,1,1,Odcheruvu,Odcheruvu,9494689511,9494689511,26-05-2025,26-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+474,Dr.D.Prameela,Dr.D.Prameela,2,2,APMTO2,APMTO2,35,35,4,4,11.4,11.4,22,22,1,1,"Phc, patnam","Phc, patnam",7013318115,7013318115,26-05-2025,26-05-2025,3,3,3,3,2,3,3,3,3,3,4,4,1,2,4,4,3,3,4,2,hrt,ap,mo
+475,M.Haritha,M.Haritha,2,2,APMTO2,APMTO2,27,27,1,1,1.6,1.6,22,22,1,1,Phc Tadimarri,Phc Tadimarri,9441503546,9441503546,26-05-2025,26-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,1,2,4,4,3,3,1,2,hrt,ap,mo
+476,Dr.c.nivedita,Dr.c.nivedita,2,2,APMTO2,APMTO2,54,54,1,1,18,18,22,22,1,1,VMcheruvu,VMcheruvu,8106099027,8106099027,26-05-2025,26-05-2025,3,3,3,3,2,2,2,3,3,3,4,4,1,1,4,4,3,3,4,4,hrt,ap,mo
+477,Y.kavitha,Y.kavitha,2,2,APMTO2,APMTO2,31,31,1,1,2.5,2.5,22,22,1,1,Peruru,Peruru,6304647738,6304647738,26-05-2025,26-05-2025,2,3,3,3,4,2,3,3,3,3,4,4,4,2,4,4,3,3,2,2,hrt,ap,mo
+478,Dr.C.Vengal Rao,Dr.C.Vengal Rao,1,1,APMTO2,APMTO2,27,27,1,1,2,2,22,22,1,1,PHC Morubagal,PHC Morubagal,8099856854,8099856854,26-05-2025,26-05-2025,3,3,3,3,2,2,3,3,2,3,4,2,2,2,4,4,3,3,2,4,hrt,ap,mo
+479,Dr C S SOMASHEKAR,Dr C S SOMASHEKAR,1,1,APMTO2,APMTO2,42,42,1,1,2,2,22,22,1,1,PHC RODDAM,Phc Roddam,9686996446,9686996446,26-05-2025,26-05-2025,3,3,3,3,4,2,3,3,2,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+480,dr v omkar,Dr omkar,1,1,APMTO2,APMTO2,30,30,1,1,0.18,0.18,22,22,1,1,somandepalli,somandepalli,9663379541,9663379541,26-05-2025,26-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,2,2,4,4,2,3,2,2,hrt,ap,mo
+481,Dr Praveen kumar,Dr Praveen kumar,1,1,APMTO2,APMTO2,35,35,1,1,2.1,2.1,22,22,1,1,Phc Peddamanthuru,Phc Peddamanthuru,9703646992,9703646992,26-05-2025,26-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+482,Naveen,Naveen,1,1,APMTO2,APMTO2,40,40,4,4,25,24,22,22,2,2,Uphc Srinivasa Nagar,Uphc Srinivasa Nagar,9966404511,9966404511,26-05-2025,26-05-2025,2,2,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,3,4,hrt,ap,mo
+483,G manjunath,G manjunath,1,1,APMTO2,APMTO2,38,38,1,1,4.8,4.8,22,22,1,1,Bevanahalli,Bevanahalli,9748249273,9748249273,26-05-2025,26-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,1,2,hrt,ap,mo
+484,Dr V DHARMA RAJU,Dr V DHARMA RAJU,1,1,APMTO2,APMTO2,36,36,1,1,1.6,1.6,22,22,1,1,Kokkanti,Kokkanti,7989846767,7989846767,26-05-2025,26-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,3,2,4,4,3,3,1,2,hrt,ap,mo
+485,Rama krishna,Rama krishna,1,1,APMTO2,APMTO2,47,47,1,1,4.8,4.8,22,22,1,1,Chilamathur,Chilamathur,9705219772,9705219772,26-05-2025,26-05-2025,3,3,3,3,2,2,2,3,3,3,4,4,1,2,4,4,3,3,1,2,hrt,ap,mo
+486,B V Chandra sekhar,-,1,-,APMTO2,-,43,-,1,-,4.7,-,22,-,1,-,Chowluru,-,9948211141,-,26-05-2025,-,3,-,3,-,4,-,3,-,1,-,4,-,2,-,4,-,3,-,2,-,hrt,ap,mo
+487,Dr k suresh,Dr k suresh,1,1,APMTO2,APMTO2,27,27,1,1,1.5,1.5,22,22,1,1,Phc Bukkapatnam,Phc Bukkapatnam,8919134896,8919134896,26-05-2025,26-05-2025,3,3,3,3,3,3,3,3,1,3,4,4,2,2,4,4,3,3,1,2,hrt,ap,mo
+488,B Anandavardhan,B Anandavardhan,1,1,APMTO2,APMTO2,33,33,1,1,4.8,4.8,22,22,1,1,N.P.Kunta,N.P.Kunta,7013801023,7013801023,26-05-2025,26-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+489,Aftaf,Aftaf,1,1,APMTO2,APMTO2,38,38,1,1,1.5,1.5,22,22,1,1,Talupula Phc,Talupula Phc,8106777108,8106777108,26-05-2025,26-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+490,Dr N Venkata Chiranjeevi,Dr N Venkata Chiranjeevi,1,1,APMTO2,APMTO2,42,42,1,1,4.7,4.7,22,22,1,1,Phc lepakshi,Phc lepakshi,8500541851,8500541851,26-05-2025,26-05-2025,3,3,1,3,4,4,3,3,3,3,4,4,1,1,4,4,4,4,2,3,hrt,ap,mo
+491,Dr.B.Lavanya,Dr.B.Lavanya,2,2,APMTO2,APMTO2,40,40,4,4,10,1,22,22,1,1,Phc krishnapuram,Phc krishnapuram,9008298010,9008298010,26-05-2025,26-05-2025,4,2,3,3,2,2,1,3,3,1,4,4,2,2,2,4,3,3,3,2,hrt,ap,mo
+492,Chowdary priya,Chowdary priya,2,2,APMTO2,APMTO2,25,25,1,1,0.4,0.4,22,22,2,2,Uphc durganagar,Uphc durganagar,9959146607,9959146607,26-05-2025,26-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,3,hrt,ap,mo
+493,DR.A.BHANU REKHA,DR.A.BHANU REKHA,2,2,APMTO2,APMTO2,33,33,1,1,3,3,22,22,1,1,PHC KANAGANAPALLI,PHC KANAGANAPALLI,8374958484,8374958484,26-05-2025,26-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+494,Moona,V moona,2,2,APMTO2,APMTO2,34,34,1,1,7,7,22,22,1,1,PHC Amadagur,PHC Amadagur,9398035980,9398035980,26-05-2025,26-05-2025,2,2,3,3,2,2,3,3,3,1,4,4,2,1,4,4,3,3,1,2,hrt,ap,mo
+495,Shaheena,Shaheeena,2,2,APMTO2,APMTO2,29,29,1,1,0.1,0.1,22,22,1,1,Ramagiri,Ramagiri,7989893205,7989893205,26-05-2025,26-05-2025,3,3,3,3,2,2,2,3,1,3,4,4,4,2,4,4,3,3,4,3,hrt,ap,mo
+496,Dr Alekhya,Dr Alekhya,2,2,APMTO2,APMTO2,28,28,1,1,1.6,1.6,22,22,1,1,Phc Nallacheruvu,Phc Nallacheruvu,7981018077,7981018077,26-05-2025,26-05-2025,4,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+497,Sreenivasulu naik,Sreenivasulu naik,1,1,APMTO2,APMTO2,30,30,1,1,2.7,2.7,22,22,1,1,K gunudmala,K gundumala,9380219108,9380219108,26-05-2025,26-05-2025,3,3,3,3,4,2,3,3,3,3,4,4,1,1,4,4,3,3,1,4,hrt,ap,mo
+498,Dr D V D UDAYA KIRAN,Dr D V D UDAYA KIRAN,1,1,APMTO2,APMTO2,37,37,1,1,2.6,2.6,22,22,1,1,Co located phc penukonda,Co located phc penukonda,6302697773,6302697773,26-05-2025,26-05-2025,2,4,3,3,2,2,3,3,4,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+499,Dr naresh,Dr G Naresh,1,1,APMTO2,APMTO2,30,30,1,1,3,3,22,22,1,1,Kadirepalli,Kadirepalli,9010138468,9010138468,26-05-2025,26-05-2025,2,2,3,3,1,3,1,2,1,2,1,4,1,1,4,4,2,2,2,2,hrt,ap,mo
+500,T S JAYAKUMAR,T S JAYAKUMAR,1,1,APMTO2,APMTO2,34,34,1,1,2.7,2.7,22,22,1,1,Hemavathi,Hemavathi,9494750180,9494750180,26-05-2025,26-05-2025,2,2,3,3,2,2,1,3,3,3,4,4,1,1,4,4,2,2,2,1,hrt,ap,mo
+501,ShaikRuby,ShaikRuby,2,2,APMTO2,APMTO2,28,28,1,1,2,2,22,22,1,1,Utukur,Utukur,9992224802,9992224802,26-05-2025,26-05-2025,3,3,3,3,2,4,3,3,3,3,4,4,1,1,4,4,3,3,2,2,hrt,ap,mo
+502,Ranganayani madhavi,Ranganayani madhavi,2,2,APMTO2,APMTO2,30,30,1,1,2.7,2.7,22,22,1,1,PHC KONDAPURAM,PHC KONDAPURAM,9392609898,9392609898,28-05-2025,28-05-2025,3,3,3,3,4,2,3,3,1,3,4,4,1,1,4,4,3,3,2,2,hrt,ap,mo
+503,Dr T Arunkumar,Dr T Arunkumar,1,1,APMTO2,APMTO2,38,38,1,1,0.1,0.8,22,22,1,1,Bathalapalli,Bathalapalli,8247287237,8247287237,28-05-2025,28-05-2025,3,3,1,3,2,2,3,3,1,1,4,4,2,2,4,4,1,3,2,2,hrt,ap,mo
+504,Aekila Govardhan naidu,Aekila Govardhan naidu,1,1,APMTO2,APMTO2,26,26,1,1,1.5,1.5,22,22,1,1,Tadimaari,Tadimaari,9347056197,9347056197,28-05-2025,28-05-2025,3,2,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+505,Sruthi mommela,Sruthimommela,2,2,APMTO2,APMTO2,31,31,1,1,2,2,22,22,1,1,Phc gorantla,Phc gorantla,9108215930,9108215930,28-05-2025,28-05-2025,2,2,3,3,2,2,3,3,1,1,4,4,1,1,4,4,1,3,3,4,hrt,ap,mo
+506,N bhagyalakshmi,N bhagyalakshmi,2,2,APMTO2,APMTO2,35,35,1,1,1,1,22,22,1,1,Roddam phc,Roddam phc,8247353171,8247353171,28-05-2025,28-05-2025,3,3,3,3,4,4,3,3,3,3,4,4,1,1,4,4,3,3,4,4,hrt,ap,mo
+507,Dr.G.Munichandrika,Dr.G.Munichandrika,2,2,APMTO2,APMTO2,29,29,1,1,1.8,1.8,22,22,1,1,PHC puttaparthi,PHC puttaparthi,9989305991,9989305991,28-05-2025,28-05-2025,3,3,3,3,4,2,3,3,4,3,4,4,2,1,4,4,3,3,2,2,hrt,ap,mo
+508,Dr.SV NagadurgaDevi,Dr.SV Naga durgadevi,2,2,APMTO2,APMTO2,30,30,1,1,2,2,22,22,1,1,Vmcheruvu,Vmcheruvu,9491505515,9491505515,28-05-2025,28-05-2025,3,3,3,3,4,2,3,3,4,3,4,4,1,1,4,4,3,3,2,2,hrt,ap,mo
+509,Kathi.swetha,Kathi.swetha,2,2,APMTO2,APMTO2,28,28,1,1,2.5,2.5,22,22,2,2,Uphc sai nagar,Uphc sai nagar,8142609134,8142609134,28-05-2025,28-05-2025,3,3,3,3,2,2,3,3,3,2,4,4,1,2,4,4,3,3,3,3,hrt,ap,mo
+510,Kamal rohith,Kamal Rohith,1,1,APMTO2,APMTO2,28,27,1,1,1.9,1.9,22,22,1,1,Phc Obuladevaracheruvu,Phc Obuladevaracheruvu,9701984660,9701984660,28-05-2025,28-05-2025,3,3,3,3,4,4,3,3,1,3,4,4,1,2,4,4,3,3,2,3,hrt,ap,mo
+511,Priyanka,Priyanka,2,2,APMTO2,APMTO2,29,29,1,1,2,2,22,22,2,2,UPHC KOTHAPETA DHARMAVARAM,UPHC KOTHAPETA DHARMAVARAM,8500076023,8500076023,28-05-2025,28-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+512,Swaroopareddy,Swaroopareddy,2,2,APMTO2,APMTO2,32,31,1,1,2,2.5,22,22,1,1,Parigi,Parigi,9959448414,9959448414,28-05-2025,28-05-2025,3,3,4,3,2,2,2,3,3,3,4,4,1,1,4,4,3,3,3,3,hrt,ap,mo
+513,Dr Prasanth kumar,Dr Prasanth kumar,1,1,APMTO2,APMTO2,36,36,1,1,2.9,2.9,22,22,1,1,Ns gate,Ns gate,7794891456,7794891456,28-05-2025,28-05-2025,3,3,3,3,4,4,3,3,3,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+514,dr.p.venkata narayana reddy,dr.p.venkata narayana reddy,1,1,APMTO2,APMTO2,45,45,1,1,4.7,4.7,22,22,1,1,Pamudurthi,Pamudurthi,9912273317,9912273317,28-05-2025,28-05-2025,3,3,3,3,2,4,3,3,3,3,4,4,2,2,4,4,3,3,1,2,hrt,ap,mo
+515,Catari asritha,Catari asritha,2,2,APMTO2,APMTO2,27,27,1,1,1.6,1.6,22,22,1,1,Phc talupula,Phc talupula,6305743987,6305743987,28-05-2025,28-05-2025,2,3,3,3,2,2,3,3,3,3,4,4,1,1,4,4,3,3,2,2,hrt,ap,mo
+516,M vijay kumar,M vijay kumar,1,1,APMTO2,APMTO2,27,27,1,1,24,24,22,22,2,2,Uphc muddireddy palli,Uphc muddireddy palli,9515770898,9515770898,28-05-2025,28-05-2025,3,3,3,3,2,2,2,3,1,3,4,4,1,2,4,4,2,3,1,2,hrt,ap,mo
+517,K Suresh Kumar,K Suresh Kumar,1,1,APMTO2,APMTO2,34,34,1,1,2.3,2.3,22,22,1,1,Utukuru,Utukuru phc,8919587829,8919587829,28-05-2025,28-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,1,3,4,3,3,3,3,hrt,ap,mo
+518,Dr R Rajendra,Dr R Rajendra,1,1,APMTO2,APMTO2,40,40,1,1,6,40,22,22,1,1,PHC MUDIGUBBA,PHC MUDIGUBBA,9154330990,9154330990,28-05-2025,28-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,1,4,4,3,3,2,3,hrt,ap,mo
+519,M NAGARAJU NAIK,M NAGARAJU NAIK,1,1,APMTO2,APMTO2,37,37,1,1,32,32,22,22,1,1,GUTTUR,guttur,9491983011,9491983011,28-05-2025,28-05-2025,3,3,3,3,4,4,3,3,1,2,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+520,Raj kumar,Raj kumar,1,1,APMTO2,APMTO2,32,32,1,1,2.6,2.6,22,22,1,1,Lepakshi,Lepakshi,9701862716,9701862716,28-05-2025,28-05-2025,2,2,3,3,2,2,3,3,3,2,4,4,4,1,4,4,3,3,2,3,hrt,ap,mo
+521,Dr.nikhesh,Dr.nikhesh,1,1,APMTO2,APMTO2,32,32,1,1,3.2,3.2,22,22,1,1,Koduru,Koduru,8309599163,8309599163,28-05-2025,28-05-2025,3,2,3,3,2,2,4,3,3,2,4,4,2,2,4,4,3,3,2,3,hrt,ap,mo
+522,Bonala bhargav,Bonala bhargav,1,1,APMTO2,APMTO2,30,30,1,1,3.3,3.3,22,22,1,1,HEMAVATHI,HEMAVATHI,8639006018,8639006018,28-05-2025,28-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,3,4,4,4,3,3,3,2,hrt,ap,mo
+523,S MAHESWARA MARUTHI,S MAHESWARA MARUTHI,1,1,APMTO2,APMTO2,29,29,1,1,2.11,2.11,22,22,1,1,PHC gandlapenta,PHC gandlapenta,9494146532,9494146532,28-05-2025,28-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,1,4,4,1,3,2,2,hrt,ap,mo
+524,Shantha Kumari K S,Shantha Kumari K S,2,2,APMTO2,APMTO2,31,31,1,1,1.6,1.6,22,22,1,1,Chowlur,Chowlur,9000637830,9000637830,28-05-2025,28-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,1,4,4,3,3,3,2,hrt,ap,mo
+525,Katerappagari prathap,Katerappagari prathap,1,1,APMTO2,APMTO2,30,30,1,1,1.5,30,22,22,1,1,Ramagiri,Ramagiri,7416857853,7416857853,28-05-2025,28-05-2025,2,3,3,3,2,2,3,3,3,3,4,4,4,2,4,4,3,3,2,3,hrt,ap,mo
+526,-,S JAYANTH NAIK,-,1,-,APMTO2,-,37,-,1,-,1.5,-,22,-,1,-,K.b.halli,-,7095653635,-,28-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+527,-,Shaik Rehana bhanu,-,2,-,APMTO2,-,29,-,1,-,2,-,22,-,1,-,Colocated phc penukonda,-,7207402636,-,28-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+528,-,S JAYANTH NAIK,-,1,-,APMTO2,-,37,-,1,-,1.5,-,22,-,1,-,K.b.halli,-,6305378014,-,28-05-2025,-,3,-,3,-,1,-,3,-,2,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+529,-,V Shanthi,-,2,-,APMTO2,-,34,-,1,-,2.11,-,22,-,1,-,Y Gundumala,-,7285959547,-,28-05-2025,-,3,-,3,-,2,-,3,-,1,-,4,-,2,-,4,-,3,-,4,hrt,ap,mo
+530,G . Rupa devi,-,2,-,APMTO4,-,30,-,1,-,2.2,-,26,-,1,-,Venkataramannna gudem,-,9502454455,-,27-05-2025,-,3,-,3,-,4,-,3,-,4,-,4,-,1,-,4,-,1,-,1,-,hrt,ap,mo
+531,Dr.Seelam Satish,Dr.Seelam Satish,1,1,APMTO4,APMTO4,31,31,4,4,2.5,2.5,26,26,1,1,Phc Yelamanchili,Yelamanchili,9000146258,9000146258,27-05-2025,27-05-2025,3,3,3,3,4,2,2,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+532,Pyla Satya Sowjanya,Pyla Satya Sowjanya,2,2,APMTO4,APMTO4,29,29,1,1,2,2,26,26,1,1,Co located Palakollu,Co located Palakollu,7995571115,7995571115,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,4,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+533,Dr Mohana Peddi,Dr Mohana peddi,2,2,APMTO4,APMTO4,34,34,1,1,4,4,26,26,2,2,"Uphc Munisif street, Narsapuram",Uphc Munisif street,6304883779,6304883779,27-05-2025,27-05-2025,3,2,3,3,4,2,3,3,1,3,4,4,1,1,4,4,3,3,3,4,hrt,ap,mo
+534,Sai bhavani k,Sai bhavani k,2,2,APMTO4,APMTO4,28,28,1,1,1.6,1.6,26,26,1,1,Velpur,Velpur,9440542611,9440542611,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+535,D.mallika,D.mallika,2,2,APMTO4,APMTO4,29,29,1,1,1.7,1.7,26,26,1,1,Phc marteru,Phc marteru,9490779952,9490779952,27-05-2025,27-05-2025,1,3,3,3,2,2,3,3,3,3,4,4,1,1,4,4,3,3,2,2,hrt,ap,mo
+536,Dr.G.DayaMani,Dr. G.DayaMani,2,2,APMTO4,APMTO4,27,27,1,1,18,1.8,26,26,1,1,PHC Tundurru,PHC tundurru,9912545579,9912545579,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+537,Dr.K.Lakshmi Parvathi,Dr.K.Lakshmi Parvathi,2,2,APMTO4,APMTO4,30,30,1,1,1.6,1.6,26,26,1,1,PHC Mogalthuru,PHC Mogalthuru,8179713284,8179713284,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,1,2,hrt,ap,mo
+538,Dr.Pavani.B,Dr.Pavani.B,2,2,APMTO4,APMTO4,30,30,1,1,3.3,3.3,26,26,1,1,"PHc, Achanta Vemavaram","PHc, Achanta Vemavaram",9959258218,9959258218,27-05-2025,27-05-2025,3,3,3,3,4,4,3,4,4,3,4,4,2,2,4,4,4,3,2,2,hrt,ap,mo
+539,P.Kanaka Priya,Kanaka Priya,2,2,APMTO4,APMTO4,26,26,1,1,1.6,1.8,26,26,1,1,Penumantra,Penumantra,9494693177,9494693177,27-05-2025,27-05-2025,2,2,3,3,2,2,3,4,2,3,4,4,2,2,1,1,3,3,1,4,hrt,ap,mo
+540,Prudvi Raj,Prudvi Raj,1,1,APMTO4,APMTO4,39,39,1,1,5,5,26,26,2,2,UPHC NGO Colony Tanuku,UPHC NGO Colony Tanuku,9912390720,9912390720,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+541,DR AKULA CHIRANJEEVI,Akula chiranjeevi,1,1,APMTO4,APMTO4,33,33,1,1,3,3,26,26,1,1,Turputallu,Turputallu,7337249377,7337249377,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,2,3,2,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+542,dr.shravvya chinnam,-,2,-,APMTO4,-,27,-,1,-,2.5,-,26,-,2,-,UPHC WEAKERS COLONY tadepalligudem,-,7702585387,-,27-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,3,-,2,-,hrt,ap,mo
+543,Chevvakula sudhakar,Chevvakula sudhakar,1,1,APMTO4,APMTO4,41,41,1,1,2.3,2.3,26,26,1,1,Phc kalipatnam,Phc kalipatnam,8074447462,8074447462,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,2,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+544,Dr.Devireddy Supraja,Dr.Devireddy Supraja,2,2,APMTO4,APMTO4,29,29,1,1,2,2,26,26,1,1,PODURU,PODURU,9515899738,9515899738,27-05-2025,27-05-2025,2,3,3,3,4,4,2,3,2,2,4,4,1,1,3,3,3,3,3,3,hrt,ap,mo
+545,Dr P L Sunanda,Dr P L Sunanda,2,2,APMTO4,APMTO4,27,27,1,1,3,3,26,26,1,1,Undi phc,Undi phc,9133735182,9133735182,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,4,2,4,4,3,3,2,2,hrt,ap,mo
+546,N RAJA NAGA BHUSHAN,-,1,-,APMTO4,-,31,-,1,-,2.5,-,26,-,2,-,UPHC KOMMAI CHERUVU GATTU TANUKU,-,9849554213,-,27-05-2025,-,3,-,3,-,4,-,3,-,4,-,4,-,4,-,4,-,3,-,2,-,hrt,ap,mo
+547,K Jerusha,-,2,-,APMTO4,-,25,-,1,-,2,-,26,-,1,-,PHC LB Cherla,-,8074834239,-,27-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,4,-,hrt,ap,mo
+548,Kasini Sirisha,Kasini Sirisha,2,2,APMTO4,APMTO4,29,29,1,1,4,4,26,26,2,2,yagarlapalli uphc,yagarlapalli uphc,9063603970,9063603970,27-05-2025,27-05-2025,3,1,3,3,4,4,3,3,3,3,4,4,4,1,4,4,3,3,3,3,hrt,ap,mo
+549,Dr Mani Thyagi,Dr Mani Thyagi,2,2,APMTO4,APMTO4,33,33,1,1,4,4,26,26,1,1,Phc Gummuluru,Phc Gummuluru,9490780185,9490780185,27-05-2025,27-05-2025,2,2,3,3,2,2,3,3,3,3,4,4,4,2,4,4,3,3,4,2,hrt,ap,mo
+550,Dr kathinokkula satyavathi,Dr k satyavathi,2,2,APMTO4,APMTO4,32,32,1,1,26,24,26,26,1,1,achantavemavaram,Achantavemavarm,8885356908,8885356908,27-05-2025,27-05-2025,3,3,3,3,2,2,3,2,3,3,4,4,1,1,4,4,3,3,4,1,hrt,ap,mo
+551,Dr.Krishna Durga.S,-,2,-,APMTO4,-,27,-,1,-,2,-,26,-,2,-,Uphc Balusumudi,-,8074667716,-,27-05-2025,-,2,-,3,-,2,-,3,-,3,-,4,-,4,-,4,-,3,-,2,-,hrt,ap,mo
+552,Dr Anisha,Dr Anisha,2,2,APMTO4,APMTO4,29,29,1,1,1,1,26,26,2,2,Kadakatla,Kadakatla,9030851994,9030851994,27-05-2025,27-05-2025,3,1,3,3,4,4,3,3,4,3,4,4,1,1,4,4,3,3,3,3,hrt,ap,mo
+553,Dr V L kranthi reddy,-,1,-,APMTO4,-,37,-,1,-,2.5,-,26,-,1,-,Phc Iragavaram,-,9493987300,-,27-05-2025,-,3,-,3,-,2,-,3,-,1,-,4,-,2,-,4,-,3,-,2,-,hrt,ap,mo
+554,A VEERA VENKATESH,-,1,-,APMTO4,-,30,-,1,-,2.5,-,26,-,1,-,MADHAVARAM,-,9573706055,-,27-05-2025,-,3,-,3,-,2,-,3,-,2,-,2,-,2,-,4,-,3,-,2,-,hrt,ap,mo
+555,Drv.poojitha,-,2,-,APMTO4,-,27,-,1,-,2.6,-,26,-,1,-,PHC mudunuru,-,8074308986,-,27-05-2025,-,3,-,3,-,2,-,3,-,2,-,4,-,2,-,4,-,3,-,2,-,hrt,ap,mo
+556,J. Leela,-,2,-,APMTO4,-,26,-,1,-,2.2,-,26,-,1,-,Pennada,-,8897295915,-,27-05-2025,-,3,-,3,-,4,-,3,-,3,-,4,-,1,-,4,-,3,-,3,-,hrt,ap,mo
+557,Dr A Aruna Rani,Dr A ARUNA Rani,2,2,APMTO4,APMTO4,50,50,4,4,11,11,26,26,1,1,Gollavanitippa,Gollavanitippa,7989575925,7989575925,27-05-2025,27-05-2025,1,4,3,3,2,2,3,3,3,3,4,4,4,4,4,4,3,3,3,3,hrt,ap,mo
+558,Swarna Niranjani,Swarna Niranjani,2,2,APMTO4,APMTO4,28,28,1,1,3,3,26,26,1,1,Palakoderu,Palakoderu,9494611566,9494611566,27-05-2025,27-05-2025,3,2,3,4,1,2,3,3,3,2,4,3,1,3,4,4,3,2,4,2,hrt,ap,mo
+559,Dr p.kiran,Dr p.kiran,1,1,APMTO4,APMTO4,43,43,1,1,2.04,2.04,26,26,1,1,Phc manchili,Phc manchili,8639880697,8639880697,27-05-2025,27-05-2025,3,2,3,3,2,4,2,2,3,3,4,4,2,3,3,1,2,3,2,3,hrt,ap,mo
+560,S V L N Prasad,S V L N PRASAD,1,1,APMTO4,APMTO4,35,35,1,1,1,1,26,26,2,2,Maruthi Nagar,Maruthi Nagar,9294056938,9294056938,27-05-2025,27-05-2025,3,2,3,2,4,4,3,2,3,3,4,1,1,2,4,2,3,2,2,1,hrt,ap,mo
+561,Dr.Leena supriya,Dr.Leena supriya,2,2,APMTO4,APMTO4,31,31,1,1,2.2,2.2,26,26,1,1,Colocated phc palakol,Colocated phc palakol,9493304308,9493304308,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,4,4,hrt,ap,mo
+562,PRATAP,PRATAP,1,1,APMTO4,APMTO4,35,35,1,1,6,6,26,26,1,1,LANKALAKODERU,LANKALAKODERU,9666850608,9666850608,27-05-2025,27-05-2025,3,3,3,3,4,4,3,3,2,3,4,4,1,1,4,4,1,1,4,3,hrt,ap,mo
+563,Dr saigiri reddy,-,1,-,APMTO4,-,34,-,1,-,4,-,26,-,1,-,Relangi,-,8639394300,-,27-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,-,hrt,ap,mo
+564,Dr.D.Venu babu,Dr.D.Venu babu,1,1,APMTO4,APMTO4,32,32.5,1,1,2.5,2.5,26,26,1,1,PHC VALLURU,PHC VALLURU,9908510238,9908510238,27-05-2025,27-05-2025,3,1,3,3,2,2,4,4,2,2,4,4,4,1,4,4,3,3,4,4,hrt,ap,mo
+565,GOVATHOTI VANYA SIRI ki,GOVATHOTI VANYA SIRI ki,2,2,APMTO4,APMTO4,25,25,1,1,0.5,0.5,26,26,2,2,UPHC NTR JUNCTION TADEPALLIGUDEM,UPHC NTR JUNCTION TADEPALLIGUDEM,9989939861,9989939861,27-05-2025,27-05-2025,2,2,3,3,2,2,2,3,3,3,4,4,1,1,4,4,4,4,4,4,hrt,ap,mo
+566,Dr Aswini,Aswini,2,2,APMTO4,APMTO4,32,32,1,1,0.1,0.8,26,26,1,1,Phc medapadu,Phc medapadu,8247761884,8247761884,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+567,Dr.P.Kirnmai,Dr.P.Kirnmai,2,2,APMTO4,APMTO4,33,33,1,1,3.2,3.2,26,26,1,1,PHC Ganapavaram,PHC Ganapavaram,9704012040,9704012040,27-05-2025,27-05-2025,3,3,3,3,2,4,3,3,1,1,4,4,1,1,4,4,3,3,1,2,hrt,ap,mo
+568,Sarabu Sunil,Sarabu Sunil,1,1,APMTO4,APMTO4,29,29,1,1,1.5,1.5,26,26,1,1,Phc kalla,Phc kalla,8520867444,8520867444,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,4,4,hrt,ap,mo
+569,Dr.P.Kirnmai,-,2,-,APMTO4,-,33,-,1,-,3.2,-,26,-,1,-,PHC Ganapavaram,-,8309678254,-,27-05-2025,-,3,-,3,-,2,-,3,-,1,-,4,-,1,-,4,-,3,-,1,-,hrt,ap,mo
+570,Dr.Benny samuel,Dr.Benny samuel,1,1,APMTO4,APMTO4,30,30,1,1,2,2,26,26,1,1,yandagandi,yandagandi,7675032139,7675032139,27-05-2025,27-05-2025,3,3,3,3,2,2,2,2,3,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+571,Daniel Raju Nalli,-,1,-,APMTO4,-,29,-,1,-,1,-,26,-,2,-,UPHC Bank Colony Tanuku,-,7729936977,-,27-05-2025,-,3,-,1,-,4,-,3,-,1,-,4,-,2,-,4,-,3,-,2,-,hrt,ap,mo
+572,Paidi Divya,-,2,-,APMTO4,-,31,-,1,-,0.3,-,26,-,2,-,Uphc SP street Bhimavaram,-,8330912674,-,27-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,1,-,2,-,hrt,ap,mo
+573,Dr K Nagaraju,Dr K Nagaraju,1,1,APMTO4,APMTO4,39,39,1,1,3.8,3.8,26,26,1,1,Attili,Attili,9908357080,9908357080,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+574,Dr priyanka,Dr priyanka,2,2,APMTO4,APMTO4,34,34,1,1,3.2,3.2,26,26,1,1,Pippara,Pippara,8639767510,8639767510,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+575,Dr Rajesh kumar,Dr Rajesh kumar,1,1,APMTO4,APMTO4,37,37,1,1,4.5,4.5,26,26,1,1,Pentapadu,Pentapadu,9618338126,9618338126,27-05-2025,27-05-2025,3,3,3,3,2,2,3,3,2,1,4,4,1,1,4,4,3,3,4,4,hrt,ap,mo
+576,Dr S Sree vasavi,-,2,-,APMTO4,-,31,-,1,-,2.7,-,26,-,2,-,Uphc weavers colony,-,7893732266,-,27-05-2025,-,3,-,3,-,2,-,2,-,3,-,4,-,1,-,4,-,3,-,3,-,hrt,ap,mo
+577,-,Ramesh,-,1,-,APMTO4,-,34,-,1,-,3,-,26,-,1,-,Pedakapavaram,-,9676194307,-,27-05-2025,-,1,-,3,-,2,-,1,-,3,-,4,-,2,-,4,-,1,-,2,hrt,ap,mo
+578,-,Leela,-,2,-,APMTO4,-,26,-,1,-,2.2,-,26,-,1,-,Pennada,-,8897205915,-,27-05-2025,-,4,-,3,-,4,-,3,-,3,-,4,-,4,-,4,-,3,-,2,hrt,ap,mo
+579,Dr S Sri Harsha,Dr S Sri Harsha,1,1,APMTO4,APMTO4,30,30,1,1,2.7,2.7,26,26,1,1,venkataramannagudem,venkataramannagudem,9533535734,9533535734,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,1,3,2,2,hrt,ap,mo
+580,Dr Sai Chandra Ballary,Dr Sai Chandra Ballary,1,1,APMTO4,APMTO4,38,38,1,1,30,30,26,26,1,1,Undi PHC,Undi PHC,8919164876,8919164876,29-05-2025,29-05-2025,3,4,3,3,2,2,3,3,3,3,4,4,1,1,1,4,3,3,2,3,hrt,ap,mo
+581,DR KMR KISHORE,DR KMR KISHORE,1,1,APMTO4,APMTO4,32,32,1,1,8,8,26,26,1,1,PHC VELPUR,PHC VELPUR,9160266400,9160266400,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,3,2,4,4,1,1,4,4,3,3,3,3,hrt,ap,mo
+582,KANDIKATLA SHARON CHAKRAVARTHI,KANDIKATLA SHARON CHAKRAVARTHI,1,1,APMTO4,APMTO4,24,24,1,1,0.1,0.1,26,26,2,2,Yamijalavari Street,Yamijalavari Street,6303791383,6303791383,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,3,2,hrt,ap,mo
+583,Jonnalagadda eswar chandra vidya sagar,Jonnalagadda eswar chandra vidya sagar,1,1,APMTO4,APMTO4,25,25,1,1,1.6,1.6,26,26,1,1,TUNDURRU,TUNDURRU,8309860304,8309860304,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,3,3,hrt,ap,mo
+584,DR Y.Mounika,DR Y.Mounika,2,2,APMTO4,APMTO4,28,28,1,1,2.6,2.6,26,26,1,1,PHC IRAGAVARAM,PHC IRAGAVARAM,7396099576,7396099576,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+585,Dr B Anil kiran,Dr B Anil Kiran,1,1,APMTO4,APMTO4,27,27,1,1,2,2,26,26,1,1,Kalipatnam,Kalipatnam,9491078060,9491078060,29-05-2025,29-05-2025,3,3,3,2,4,2,3,3,3,3,4,4,1,2,4,4,3,3,3,3,hrt,ap,mo
+586,Bhavana Tadikonda,Bhavana Tadikonda,2,2,APMTO4,APMTO4,25,25,1,1,1.5,1.5,26,26,1,1,PHC Kalavapudi co located kalla,PHC Kalavapudi co located kalla,7995639964,7995639964,29-05-2025,29-05-2025,3,3,3,3,4,2,3,3,3,3,4,4,2,2,4,4,3,1,4,4,hrt,ap,mo
+587,Dr.I.C KEERTHANA,Dr.I.C KEERTHANA,2,2,APMTO4,APMTO4,31,31,1,1,2,2,26,26,1,1,PHC YENDAGANDI,PHC YENDAGANDI,9603399180,9603399180,29-05-2025,29-05-2025,3,3,3,3,4,2,3,3,3,3,4,4,2,2,4,4,3,3,4,4,hrt,ap,mo
+588,Y.Hasitha,Dr.Y.Hasitha,2,2,APMTO4,APMTO4,29,29,1,1,2,2,26,26,1,1,Pennada PHC,Pennada PHC,8106155538,8106155538,29-05-2025,29-05-2025,2,2,3,3,4,2,3,3,1,3,4,4,1,1,4,4,3,3,3,3,hrt,ap,mo
+589,Dr.I.Sreedivya,Dr.I.Sreedivya,2,2,APMTO4,APMTO4,27,27,1,1,2.8,2.8,26,26,1,1,Pippara,Pippara,7997682286,7997682286,29-05-2025,29-05-2025,3,3,1,3,2,2,3,3,3,3,4,4,1,2,4,4,1,1,3,2,hrt,ap,mo
+590,Dr. Sindhu,Dr. Sindhu,2,2,APMTO4,APMTO4,30,30,1,1,2,2,26,26,1,1,Madhavaram,Madhavaram,9573659537,9573659537,29-05-2025,29-05-2025,3,3,3,3,4,2,3,3,3,3,4,4,1,1,1,4,3,3,4,3,hrt,ap,mo
+591,Dr.surekha,Dr.surekha,2,2,APMTO4,APMTO4,30,30,1,1,2.5,2.5,26,26,1,1,Phc atilli,Phc atilli,7287968845,7287968845,29-05-2025,29-05-2025,3,3,3,3,2,4,3,3,3,4,4,4,2,2,4,4,1,3,4,4,hrt,ap,mo
+592,Dr navya jeevan,Dr Navya jeevan,2,2,APMTO4,APMTO4,31,31,1,1,2.11,2.11,26,26,1,1,LANKALAKODERU,LANKALAKODERU,9347753536,9347753536,29-05-2025,29-05-2025,3,3,3,3,4,2,3,3,3,3,4,4,1,2,4,4,3,3,2,3,hrt,ap,mo
+593,Supriya,Supriya,2,2,APMTO4,APMTO4,29,29,1,1,1.6,1.6,26,26,1,1,Phc siddantham,Phc siddantham,7780399258,7780399258,29-05-2025,29-05-2025,3,3,3,3,4,2,3,3,3,3,4,4,2,2,4,4,3,4,2,4,hrt,ap,mo
+594,Dr Pradeep kumar Kodali,-,1,-,APMTO4,-,39,-,1,-,2.8,-,26,-,1,-,Alamuru,-,7661019493,-,29-05-2025,-,1,-,3,-,3,-,2,-,2,-,4,-,4,-,4,-,3,-,3,-,hrt,ap,mo
+595,Dr Ranjith Kumar,Dr Ranjith Kumar,1,1,APMTO4,APMTO4,28,28,1,1,2.8,2.8,26,26,1,1,Turputallu,Turputallu,9912377163,9912377163,29-05-2025,29-05-2025,3,3,3,3,4,4,2,3,3,3,4,4,1,1,4,4,3,3,2,2,hrt,ap,mo
+596,Dr K.Chandra Rekha,Dr K.Chandra Rekha,2,2,APMTO4,APMTO4,30,30,1,1,2.7,2.7,26,26,1,1,PHC Doddipatla,PHC Doddipatla,9573713399,9573713399,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,3,4,hrt,ap,mo
+597,Dr Unnamatla Navaneeth,Dr Unnamatla Navaneeth,1,1,APMTO4,APMTO4,27,27,1,1,1.7,1.7,26,26,1,1,PHC KONITHIWADA,PHC KONITHIWADA,9542270264,9542270264,29-05-2025,29-05-2025,2,2,1,1,4,4,2,3,3,3,4,4,1,2,4,4,1,3,3,2,hrt,ap,mo
+598,MEESALA CHANDRA SHEKAR,-,1,-,APMTO4,-,32,-,1,-,36,-,26,-,2,-,BANGAARU VAARI CHERUVU GATTU,-,9390528861,-,29-05-2025,-,3,-,3,-,2,-,3,-,3,-,2,-,2,-,4,-,3,-,2,-,hrt,ap,mo
+599,Dr P NARESH KUMAR,Dr P NARESH KUMAR,1,1,APMTO4,APMTO4,37,37,1,1,25,2.1,26,26,1,1,PHC GUMMALURU,PHC GUMMALURU,9550261223,9550261223,29-05-2025,29-05-2025,3,3,3,3,3,2,3,3,1,3,4,4,1,1,4,4,1,1,2,3,hrt,ap,mo
+600,Dr K Hyndavi,Dr K Hyndavi,2,2,APMTO4,APMTO4,37,37,1,1,3,3,26,26,1,1,Valluru phc,Valluru phc,9908929343,9908929343,29-05-2025,29-05-2025,3,3,1,3,2,2,3,3,1,3,4,4,4,2,4,4,3,3,3,3,hrt,ap,mo
+601,Dr.G.hena,Dr.G.hena,2,2,APMTO4,APMTO4,25,25,1,1,0.1,0.1,26,26,1,1,Phc elamanchili,Phc elamanchili,9121338988,9121338988,29-05-2025,29-05-2025,3,3,3,3,2,3,3,3,3,3,4,4,1,2,4,4,3,3,3,3,hrt,ap,mo
+602,Mavuri Madhuri,Mavuri madhuri,2,2,APMTO4,APMTO4,29,29,1,1,2.7,2.7,26,26,1,1,Lb cherla,Lb cherla,7306148777,7306148777,29-05-2025,29-05-2025,3,3,3,3,2,3,3,3,3,3,4,4,1,2,4,4,3,3,2,3,hrt,ap,mo
+603,Dr Kiranmai,Dr Kiranmai,2,2,APMTO4,APMTO4,29,29,1,1,2.7,2.7,26,26,1,1,phc manchili,phc manchili,8500847116,8500847116,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,3,2,4,4,1,1,4,4,1,3,4,3,hrt,ap,mo
+604,K.omkarnath,K.omkarnath,1,1,APMTO4,APMTO4,34,34,1,1,0.1,0.1,26,26,1,1,Ganapavaram,Ganapavaram,7013082452,7013082452,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,1,4,4,3,3,4,4,hrt,ap,mo
+605,Mohammad akber pasha,Mohammad akber pasha,1,1,APMTO4,APMTO4,28,28,1,1,0,0,26,26,1,1,Gollavanithippa phc,Gollavanithippa phc,9989393332,9989393332,29-05-2025,29-05-2025,1,4,1,3,1,2,1,3,1,3,1,4,2,1,1,4,1,3,1,2,hrt,ap,mo
+606,Dr K N V S Pavan Kumar,Dr K N V S Pavan Kumar,1,1,APMTO4,APMTO4,28,28,1,1,1.6,1.6,26,26,1,1,Mudunuru phc,Mudunuru phc,9182981277,9182981277,29-05-2025,29-05-2025,2,3,3,3,2,4,4,2,3,1,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+607,Chaveer,-,1,-,APMTO4,-,29,-,1,-,6,-,26,-,1,-,Marteru,-,9494540247,-,29-05-2025,-,1,-,3,-,2,-,2,-,3,-,4,-,1,-,4,-,3,-,2,-,hrt,ap,mo
+608,Payam uma shankar,Payam uma shankar,1,1,APMTO4,APMTO4,29,29,1,1,2,2,26,26,1,1,Penugonda phc,Penugonda phc,9494335925,9494335925,29-05-2025,29-05-2025,1,1,3,3,2,2,2,2,2,3,4,4,1,1,4,4,3,3,1,1,hrt,ap,mo
+609,Burgu Rajasekhar,Rajasekhar Burgu,1,1,APMTO4,APMTO4,38,38,1,1,1.6,1.6,26,26,1,1,PHC Pedakapavaram,PHC Pedakapavaram,9985669944,9985669944,29-05-2025,29-05-2025,2,2,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+610,Dr k B Ravi,-,1,-,APMTO4,-,53,-,1,-,48,-,26,-,1,-,Rdlanni PHC,-,9440116725,-,29-05-2025,-,3,-,1,-,3,-,3,-,3,-,1,-,4,-,4,-,3,-,3,-,hrt,ap,mo
+611,Dr A pooja,-,2,-,APMTO4,-,33,-,1,-,10,-,26,-,1,-,AVEMAVARAM,-,9490926054,-,29-05-2025,-,1,-,3,-,2,-,2,-,1,-,4,-,2,-,4,-,3,-,2,-,hrt,ap,mo
+612,Dr Ch V Rangam Naidu,-,1,-,APMTO4,-,42,-,1,-,16,-,26,-,1,-,Palakoderu,-,9177998889,-,29-05-2025,-,1,-,3,-,2,-,2,-,1,-,4,-,2,-,4,-,3,-,2,-,hrt,ap,mo
+613,-,Dr.V.Anil kumar,-,1,-,APMTO4,-,62,-,1,-,62,-,26,-,1,-,Alamuru,-,9441491226,-,29-05-2025,-,1,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,3,-,4,hrt,ap,mo
+614,-,Dr M Gulab raj kumar,-,1,-,APMTO4,-,48,-,1,-,20,-,26,-,1,-,Veeravasaram,-,9440124284,-,29-05-2025,-,1,-,3,-,3,-,2,-,1,-,4,-,3,-,4,-,3,-,3,hrt,ap,mo
+615,DR.PRIYANKA,DR.PRIYANKA,2,2,APMTO3,APMTO3,29,29,1,1,2,2,8,8,1,1,PHc kutukuluru,PHc kutukuluru,9177369922,9177369922,02-06-2025,02-06-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,1,3,3,2,hrt,ap,mo
+616,K suneel,K.suneel,1,1,APMTO3,APMTO3,31,31,1,1,3,3,8,8,1,1,Phc seethanagaram,Phc seethanagaram,8639658374,8639658374,02-06-2025,02-06-2025,3,3,3,3,2,4,3,3,3,3,4,4,3,2,4,4,3,3,2,2,hrt,ap,mo
+617,Dr. K. Meenakshi,Dr. K. Meenakshi,2,2,APMTO3,APMTO3,35,35,1,1,4,4,8,8,1,1,Phc Ramavaram,Phc Ramavaram,9440603868,9440603868,02-06-2025,02-06-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,1,3,4,2,hrt,ap,mo
+618,Swarna latha,Swarna latha,2,2,APMTO3,APMTO3,30,30,1,1,3,3,8,8,1,1,Annadevarapeta,Annadevarapeta,9515828258,9515828258,02-06-2025,02-06-2025,3,2,1,3,4,2,3,3,3,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+619,KATHANTI CHANDRA BABU,KATHANTI CHANDRA BABU,1,1,APMTO3,APMTO3,27,27,1,1,18,18,8,8,1,1,KALAVALAPALLI,KALAVALAPALLI,6309648470,6309648470,02-06-2025,02-06-2025,2,2,3,3,2,2,3,3,3,3,4,4,2,2,4,4,1,3,3,2,hrt,ap,mo
+620,Dr.TADIKONDA MANOJ,Dr.TADIKONDA MANOJ,1,1,APMTO3,APMTO3,34,34,1,1,4,4,8,8,1,1,Phc Chagallu,Phc Chagallu,8106752600,8106752600,02-06-2025,02-06-2025,3,3,3,1,2,4,3,3,3,3,4,4,4,2,4,4,3,3,2,2,hrt,ap,mo
+621,Talluri PJS Benedict,Talluri PJS Benedict,1,1,APMTO3,APMTO3,45,45,1,1,4.8,4.8,8,8,1,1,Palacherla,Palacherla,9866067717,9866067717,02-06-2025,02-06-2025,1,1,3,3,4,2,3,3,3,3,4,4,1,2,4,4,3,3,1,1,hrt,ap,mo
+622,A H VIJAY KUMAR,A H VIJAY KUMAR,1,1,APMTO3,APMTO3,48,48,1,1,16,16,8,8,1,1,PERAVALI,PERAVALI,9490719111,9490719111,02-06-2025,02-06-2025,3,3,3,3,2,4,3,3,3,3,4,4,2,2,4,4,3,3,4,2,hrt,ap,mo
+623,Dr.Nishita.k,Dr.Nishita.k,2,2,APMTO3,APMTO3,32,32,1,1,5,5,8,8,1,1,Brahmanagudem,Brahmanagudem,8331988681,8331988681,02-06-2025,02-06-2025,4,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,1,3,2,2,hrt,ap,mo
+624,Dr MARY VASANTHA,Mary vasantha,2,2,APMTO3,APMTO3,40,40,4,4,7,7,8,8,2,2,Vl Puram,Vl puram,9490181296,9490181296,02-06-2025,02-06-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,1,4,4,3,3,2,2,hrt,ap,mo
+625,G.vijaya lakshmi,G.vijaya lakshmi,2,2,APMTO3,APMTO3,28,28,1,1,3,3,8,8,1,1,Phc konkuduru,Phc konkuduru,8247676468,8247676468,02-06-2025,02-06-2025,3,3,3,3,2,2,3,3,1,3,4,4,2,2,4,4,3,3,4,2,hrt,ap,mo
+626,Dr.Ch.Venkata Lakshmi,Dr.Ch.Venkata Lakshmi,2,2,APMTO3,APMTO3,32,32,1,1,2.6,2.6,8,8,1,1,Rajanagaram,Rajanagaram,9494634802,9494634802,02-06-2025,02-06-2025,3,3,3,3,4,2,3,3,1,3,4,4,1,2,4,4,3,3,4,2,hrt,ap,mo
+627,IRFAN Sayyad,IRFAN Sayyad,1,1,APMTO3,APMTO3,31,31,1,1,2,2,8,8,1,1,PHC Velivennu,PHC Velivennu,9440892153,9440892153,02-06-2025,02-06-2025,1,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+628,Venu sri lakshmi,Venu sri lakshmi,2,2,APMTO3,APMTO3,29,29,1,1,3,3,8,8,1,1,Rangampeta,Rangampeta,9030223279,9030223279,02-06-2025,02-06-2025,3,3,3,3,2,2,3,3,1,3,4,4,1,2,4,4,3,3,4,2,hrt,ap,mo
+629,Sivaji Mattaparthi,Sivaji Mattaparthi,1,1,APMTO3,APMTO3,38,38,1,1,6,6,8,8,1,1,Samisragudem,Samisragudem,9959309139,9959309139,02-06-2025,02-06-2025,2,3,3,3,2,2,3,3,3,3,4,4,4,4,4,4,1,3,3,2,hrt,ap,mo
+630,Hari chandana,Hari chandana,2,2,APMTO3,APMTO3,29,29,1,1,2.8,2.8,8,8,1,1,Phc Yadavolu,Phc yadavolu,7287984354,7287984354,02-06-2025,02-06-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,3,2,hrt,ap,mo
+631,P ANNAPURNA,P ANNAPURNA,2,2,APMTO3,APMTO3,35,35,1,1,2.6,2.6,8,8,1,1,Malakapalli,Malakapalli,7337011793,7337011793,02-06-2025,02-06-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,3,2,hrt,ap,mo
+632,E Naga Devi,E Naga Devi,2,2,APMTO3,APMTO3,31,31,1,1,2.2,2.2,8,8,1,1,Katheru phc,Katheru phc,8500796446,8500796446,02-06-2025,02-06-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,4,2,hrt,ap,mo
+633,E Yesu rani,E Yesu rani,2,2,APMTO3,APMTO3,30,40,1,1,2,2,8,8,1,1,Bobbillanka,Bobbillanka,6281724080,6281724080,02-06-2025,02-06-2025,3,3,3,3,2,2,3,3,3,3,4,4,4,2,4,4,3,3,4,2,hrt,ap,mo
+634,Dr Mohamed Siraj uddin,Dr Mohamed Siraj uddin,1,1,APMTO3,APMTO3,30,30,1,1,3.1,3.1,8,8,1,1,Nallajerla,Nallajerla,9000785275,9000785275,02-06-2025,02-06-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,1,3,3,2,hrt,ap,mo
+635,Andrew Talluri,Andrew Talluri,1,1,APMTO3,APMTO3,41,41,1,1,1.8,1.6,8,8,1,1,Tadimalla,Tadimalla,9032171740,9032171740,02-06-2025,02-06-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,1,3,3,2,hrt,ap,mo
+636,Dr. B V V Durga Bhavani,Dr. B V V Durga Bhavani,2,2,APMTO3,APMTO3,28,28,1,1,2.6,2.6,8,8,1,1,Phc Hukumpeta,Phc Hukumpeta,8903782795,8903782795,02-06-2025,02-06-2025,3,3,1,3,2,2,3,3,1,3,4,4,1,2,2,4,3,3,2,2,hrt,ap,mo
+637,Krovvidi hemaraju,Krovvidi hemaraju,1,1,APMTO3,APMTO3,30,30,1,1,2.6,2.6,8,8,1,1,Kanuru,Kanuru,8790688368,8790688368,02-06-2025,02-06-2025,3,3,3,3,2,4,3,3,3,3,4,4,2,2,4,4,1,3,2,2,hrt,ap,mo
+638,Dr.P.RAVI KUMAR,Dr.P.RAVI KUMAR,1,1,APMTO3,APMTO3,45,45,1,1,17,17,8,8,1,1,PHC MARKONDAPADU,PHC MARKONDAPADU,9441140584,9441140584,02-06-2025,02-06-2025,3,3,3,3,3,4,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+639,Dr P.Komala,-,2,-,APMTO3,-,54,-,4,-,26,-,8,-,1,-,DMHO office,-,9908677225,-,02-06-2025,-,3,-,3,-,2,-,4,-,1,-,4,-,4,-,4,-,3,-,1,-,hrt,ap,mo
+640,Dr.M.Durgadevi,Dr.M.Durgadevi,2,2,APMTO3,APMTO3,36,36,1,1,4,4,8,8,1,1,PHC BICCAVOLU,PHC BICCAVOLU,9985055519,9985055519,02-06-2025,02-06-2025,4,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+641,Gangadhar,-,1,-,APMTO3,-,39,-,1,-,5,-,8,-,1,-,Nallajerla,-,9910716011,-,02-06-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,1,-,2,-,hrt,ap,mo
+642,-,E Yesu Rani,-,2,-,APMTO3,-,30,-,1,-,2,-,8,-,1,-,Bobbillanka,-,6281624080,-,02-06-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+643,-,Dr pallala tejasree,-,2,-,APMTO3,-,31,-,1,-,2.6,-,8,-,1,-,Primary health center Kanuru,-,9642508666,-,02-06-2025,-,3,-,3,-,2,-,3,-,1,-,4,-,1,-,4,-,1,-,2,hrt,ap,mo
+644,-,Dr.R.usha devi,-,2,-,APMTO3,-,30,-,1,-,2.7,-,8,-,1,-,PHC Undrajavaram,-,7095257139,-,02-06-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+645,Dr P Dilip Krishna,Dr P Dilip Krishna,1,1,APMTO3,APMTO3,26,26,1,1,2,2,8,8,2,2,Meraka veedhi,Meraka veedhi,8778596748,8778596748,03-06-2025,03-06-2025,2,2,3,3,2,1,1,1,3,3,4,4,1,1,4,4,1,1,3,3,hrt,ap,mo
+646,Dr pallala tejasree,-,2,-,APMTO3,-,31,-,1,-,2.6,-,8,-,1,-,Phc Kanuru,-,8367095811,-,03-06-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,1,-,2,-,hrt,ap,mo
+647,N N S Mourya,N N S Mourya,1,1,APMTO3,APMTO3,29,29,1,1,2.2,2.2,8,8,1,1,Colocated phc kadiyam,Colocated phc kadiyam,9908150713,9908150713,03-06-2025,03-06-2025,2,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,4,2,hrt,ap,mo
+648,N Raja Ashokchandra,N Raja Ashokchandra,1,1,APMTO3,APMTO3,35,35,1,1,1.2,1.2,8,8,1,1,Kalavalapalli phc,Kalavalapalli phc,9908736595,9908736595,03-06-2025,03-06-2025,3,2,3,3,1,2,3,1,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+649,Dr.D.Durgaprasad,Dr.D.Durgaprasad,1,1,APMTO3,APMTO3,37,37,1,1,7,7,8,8,1,1,Kutukuluru,Kutukuluru,9441162609,9441162609,03-06-2025,03-06-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+650,B.Prasanth,B Prasanth,1,1,APMTO3,APMTO3,27,27,1,1,1.5,1.5,8,8,1,1,PHC Yadavolu,PHC Yadavolu,8919183076,8919183076,03-06-2025,03-06-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,4,2,hrt,ap,mo
+651,Dr Venkata Krishna Chaitanya Atkuri,Dr Venkata Krishna Chaitanya Atkuri,1,1,APMTO3,APMTO3,30,31,1,1,4.6,4.6,8,8,1,1,PHC SEETHANAGARAM,PHC SEETHANAGARAM,9491496597,9491496597,03-06-2025,03-06-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+652,Krishnaveni,Krishnaveni,2,2,APMTO3,APMTO3,34,34,1,1,18,18,8,8,1,1,Kotikesavaram,Kotikesavaram,9492005857,9492005857,03-06-2025,03-06-2025,4,4,3,3,3,2,2,3,3,3,4,4,2,2,4,4,3,4,3,2,hrt,ap,mo
+653,Chinta Teresa Paul,Chinta Teresa Paul,2,2,APMTO3,APMTO3,27,27,1,1,0.6,0.6,8,8,2,2,UPHC CHRISTIANPETA,UPHC CHRISTIANPETA,9491714442,9491714442,03-06-2025,03-06-2025,3,2,3,3,2,2,3,3,1,3,4,4,1,2,4,4,1,3,3,3,hrt,ap,mo
+654,Jayasree badugu,Jayasree badugu,2,2,APMTO3,APMTO3,36,36,3,1,1,1,8,8,1,1,Phc brahmanagudem,Phc brahmanagudem,7981841525,7981841525,03-06-2025,03-06-2025,3,3,3,3,2,2,2,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+655,Dr D Sai Krishna,Dr D Sai Krishna,1,1,APMTO3,APMTO3,28,28,1,1,0.2,0.2,8,8,2,2,UPHC Bruhannalapeta,UPHC Bruhannalapeta,9966608587,9966608587,03-06-2025,03-06-2025,2,3,3,3,2,2,2,3,3,3,4,4,1,2,4,4,3,3,3,2,hrt,ap,mo
+656,Ruman,Ruman,2,2,APMTO3,APMTO3,26,26,1,1,2,2,8,8,1,1,Biccavolu,Biccavolu,6303156243,6303156243,03-06-2025,03-06-2025,3,3,3,3,2,3,3,3,1,3,4,4,1,2,4,4,3,3,3,3,hrt,ap,mo
+657,S.Nikhitha,S.Nikhitha,2,2,APMTO3,APMTO3,29,29,1,1,2,2,8,8,1,1,G.kothapalli,G.kothapalli,8374366637,8374366637,03-06-2025,03-06-2025,3,3,3,3,4,2,3,3,3,3,4,4,2,2,4,4,3,3,1,2,hrt,ap,mo
+658,Dr.R.S.S.V.Prasad,-,2,-,APMTO3,-,48,-,1,-,18,-,8,-,1,-,PHC Undrajavaram,-,9440710052,-,03-06-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,3,-,3,-,hrt,ap,mo
+659,Dr Y Srujana,Dr Y Srujana,2,2,APMTO3,APMTO3,31,31,1,1,3,3,8,8,1,1,Phc velivennu,Phc velivennu,8019751790,8019751790,03-06-2025,03-06-2025,3,3,3,3,4,2,2,3,2,3,4,4,4,2,1,4,3,3,2,2,hrt,ap,mo
+660,Kakkala chinna rao,Kakkala Chinna rao,1,1,APMTO3,APMTO3,30,30,1,1,18,18,8,8,1,1,Rangampeta,Rangampeta,7674085548,7674085548,03-06-2025,03-06-2025,2,2,3,1,2,2,3,3,3,3,4,4,4,2,4,4,2,3,3,2,hrt,ap,mo
+661,Dr Asha latha,Dr Asha latha,2,2,APMTO3,APMTO3,27,27,1,1,1,1,8,8,1,1,Tadimalla,Tadimalla,9959523989,9959523989,03-06-2025,03-06-2025,3,3,3,3,1,2,3,3,3,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+662,Penumaka Suchandana,Penumaka Suchandana,2,2,APMTO3,APMTO3,34,34,1,1,18,18,8,8,1,1,Malakapalli,Malakapalli,9985464669,9985464669,03-06-2025,03-06-2025,3,3,3,3,2,2,2,3,3,3,4,4,1,2,4,4,1,3,2,2,hrt,ap,mo
+663,Raja sekhar,-,1,-,APMTO3,-,37,-,1,-,2.11,-,8,-,1,-,Pothavaram,-,7993045101,-,03-06-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,3,-,hrt,ap,mo
+664,Dr. Prasanna Kumar,Dr. Prasanna Kumar,1,1,APMTO3,APMTO3,26,26,1,1,1.4,1.4,8,8,2,2,UPHC NTR COLONY,UPHC NTR COLONY,9966713119,9966713119,03-06-2025,03-06-2025,3,3,3,3,4,2,3,3,4,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+665,Tummalapalli vineetha,Tummalapalli vineetha,2,2,APMTO3,APMTO3,30,30,1,1,0.6,0.6,8,8,2,2,Ava vambay colony uphc,Ava vambay colony uphc,9390658007,9390658007,03-06-2025,03-06-2025,3,3,3,3,4,2,3,3,4,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+666,M.K.Anuhya,M.K.Anuhya,2,2,APMTO3,APMTO3,30,30,1,1,2,2,8,8,2,2,Kambalapeta,Kambalapeta,9494334583,9494334583,03-06-2025,03-06-2025,2,3,3,3,2,2,3,3,3,3,2,4,1,2,4,4,3,3,4,2,hrt,ap,mo
+667,B Navya Sree,B Navya sree,2,2,APMTO3,APMTO3,30,30,1,1,16,16,8,8,1,1,Annadevarapeta PHC,Annadevarapeta PHC,9182864095,9182864095,03-06-2025,03-06-2025,3,3,3,3,2,2,3,3,1,3,4,4,1,2,4,4,3,3,3,2,hrt,ap,mo
+668,Jagadeesh,Jagadeesh,1,1,APMTO3,APMTO3,32,32,1,1,2,2,8,8,1,1,Katheru,Katheru,8555884505,8555884505,03-06-2025,03-06-2025,2,3,1,3,2,2,4,3,3,3,4,4,1,2,4,4,3,3,3,2,hrt,ap,mo
+669,Dr swarupa,-,2,-,APMTO3,-,27,-,1,-,2,-,8,-,1,-,Phc kadiyapulanka,-,8185844832,-,03-06-2025,-,3,-,3,-,2,-,3,-,1,-,4,-,2,-,4,-,3,-,2,-,hrt,ap,mo
+670,N Sumathi Devi,N Sumathi Devi,2,2,APMTO3,APMTO3,58,58,1,1,24,24,8,8,1,1,Kadiyapulanka,Kadiyapulanka,9393151618,9393151618,03-06-2025,03-06-2025,1,3,3,3,2,2,1,3,3,3,4,4,4,2,4,4,3,3,4,2,hrt,ap,mo
+671,Dr D SANJEEV KUMAR,DR D.SANJEEV KUMAR,1,1,APMTO3,APMTO3,27,27,1,1,1.5,1.5,8,8,1,1,PHC DEVARAPALLI,PHC DEVARAPALLI,7075520610,7075520610,03-06-2025,03-06-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+672,T arunroy,-,1,-,APMTO3,-,30,-,1,-,2,-,8,-,1,-,Phc markondapadu,-,8688271830,-,03-06-2025,-,3,-,3,-,2,-,2,-,3,-,4,-,2,-,4,-,3,-,2,-,hrt,ap,mo
+673,Dr K.Praneetha,Dr K.Praneetha,2,2,APMTO3,APMTO3,30,30,1,1,2,2,8,8,1,1,Colocated phc kovvuru,Colocated phc kovvuru,9182385444,9182385444,03-06-2025,03-06-2025,3,3,4,3,4,4,2,2,1,3,4,4,2,2,4,4,3,3,1,2,hrt,ap,mo
+674,srinidhi M R,Srinidhi M R,2,2,APMTO3,APMTO3,30,30,1,1,1.6,1.6,8,8,1,1,samisragudem,Samisragudem,9632063811,9632063811,03-06-2025,03-06-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,2,hrt,ap,mo
+675,-,Manand chandra marri,-,1,-,APMTO3,-,26,-,1,-,2,-,8,-,2,-,Uphc shambunagar,-,8497973366,-,03-06-2025,-,3,-,3,-,4,-,3,-,1,-,4,-,1,-,4,-,3,-,2,hrt,ap,mo
+676,-,Janapati.Satish,-,1,-,APMTO3,-,34,-,1,-,1.9,-,8,-,1,-,Gowripatnam,-,6300582651,-,03-06-2025,-,4,-,1,-,2,-,2,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+677,-,Dr Talluri Uday Angel,-,2,-,APMTO3,-,28,-,1,-,1.6,-,8,-,1,-,Phc Rajanagaram,-,9133175102,-,03-06-2025,-,3,-,3,-,2,-,3,-,4,-,4,-,2,-,4,-,3,-,3,hrt,ap,mo
+678,-,Manand chandra marri,-,1,-,APMTO3,-,26,-,1,-,2,-,8,-,2,-,Uphc shambunagar,-,8328362075,-,03-06-2025,-,3,-,2,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+679,-,Dr AKHIL AHAMED SHAIK,-,1,-,APMTO3,-,27,-,1,-,24,-,8,-,2,-,UPHC ANAND NAGAR RJY,-,8309938182,-,03-06-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+680,-,Dr. TEJASRI ESANAGIRI,-,2,-,APMTO3,-,27,-,1,-,0.24,-,8,-,1,-,Peravali,-,8074463878,-,03-06-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+681,-,Dr.Manikyamba,-,2,-,APMTO3,-,27,-,1,-,2,-,8,-,2,-,UPHC INNISPETA,-,7416922436,-,03-06-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+682,-,Rayudu charishma venkata sai sri,-,2,-,APMTO3,-,25,-,1,-,0.6,-,8,-,2,-,Uphc Ambedkar nagar,-,9866087237,-,03-06-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+683,-,P V L Neelima,-,2,-,APMTO3,-,30,-,1,-,2.6,-,8,-,2,-,UPHC Sarangadharametta,-,7382214555,-,03-06-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+684,Kalpana,Kalpana,2,2,APMTO9,APMTO9,30,30,1,1,36,36,9,9,1,1,Narsapuram,T Narsapuram,7013340044,7013340044,29-05-2025,29-05-2025,1,3,1,3,1,2,1,3,1,3,1,4,1,2,1,4,1,3,1,2,hrt,ap,mo
+685,Dr.Suma CH,Dr.Suma CH,2,2,APMTO9,APMTO9,29,29,1,1,2.2,2.2,9,9,1,1,PHC Tadikalapudi,PHC Tadikalapudi,6302261418,6302261418,29-05-2025,29-05-2025,3,4,3,3,4,2,3,3,1,3,4,4,1,1,4,4,3,3,2,3,hrt,ap,mo
+686,Pradeep chandra,Pradeep chandra,1,1,APMTO9,APMTO9,33,33,1,1,1.5,1.5,9,9,1,1,Phc chataparru,Phc chataparru,8333949540,8333949540,29-05-2025,29-05-2025,3,4,3,3,2,2,3,3,3,1,4,4,1,2,4,4,1,3,3,4,hrt,ap,mo
+687,Bms Balakrishna,Bms Balakrishna,1,1,APMTO9,APMTO9,30,30,1,1,2.4,2.4,9,9,2,2,Uphc gajjalavari cheru,Uphc gajjalavari cheru,8074425667,8074425667,29-05-2025,29-05-2025,1,3,3,3,4,4,3,3,3,2,4,4,1,2,4,4,2,3,3,3,hrt,ap,mo
+688,Shaik salma sultana,Shaik salma sultana,2,2,APMTO9,APMTO9,33,33,1,1,2,2,9,9,1,1,Phc Nandhapuram,Phc Nandhapuram,9398396257,9398396257,29-05-2025,29-05-2025,3,3,3,3,4,4,2,3,3,3,4,4,1,2,4,4,2,3,3,3,hrt,ap,mo
+689,Naimisha samudrala,Naimisha samudrala,2,2,APMTO9,APMTO9,30,30,1,1,1.5,1.5,9,9,1,1,Lingapalem,Lingapalem,8790485600,8790485600,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,1,2,4,4,2,3,2,3,hrt,ap,mo
+690,Dr sandeep,Sandeep kumar,1,1,APMTO9,APMTO9,30,30,1,1,46,48,9,9,2,2,Harijanapeta,Harijanapeta,9381218369,9381218369,29-05-2025,29-05-2025,3,3,4,3,1,2,3,3,3,3,2,4,1,1,4,4,3,3,1,2,hrt,ap,mo
+691,I praveen kumar,I praveen kumar,1,1,APMTO9,APMTO9,31,31,1,1,2.8,2.8,9,9,1,1,Pothunuru,Pothunuru,8465959195,8465959195,29-05-2025,29-05-2025,3,3,3,3,2,2,2,3,1,3,4,4,1,1,4,4,3,3,1,1,hrt,ap,mo
+692,Dr Jaahnavi,Dr Jaahnavi,2,2,APMTO9,APMTO9,30,30,1,1,1.8,1.8,9,9,1,1,Gundugolanu,Gundugolanu,9441802137,9441802137,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,4,1,4,4,3,3,3,2,hrt,ap,mo
+693,Dr.K.Bhagyasri,Dr.K.Bhagyasri,2,2,APMTO9,APMTO9,30,30,1,1,2.6,2.6,9,9,1,1,PNKOLANU,PNKOLANU,9603307716,9603307716,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+694,Manasa,Manasa,2,2,APMTO9,APMTO9,34,34,1,1,5,5,9,9,1,1,Phc kagupadu,Phc kagupadu,8464800770,8464800770,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,4,3,4,4,4,1,4,4,3,3,3,2,hrt,ap,mo
+695,Tummala suruchi,Tummala suruchi,2,2,APMTO9,APMTO9,30,30,1,1,2,2,9,9,2,2,Uphc banginapallithota,Uphc banginapallithota,9550446345,9550446345,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,1,1,4,4,3,4,4,4,hrt,ap,mo
+696,Dr.Mounika,A mounika,2,2,APMTO9,APMTO9,31,29,1,1,3,3,9,9,1,1,Phc krpuram,Kr puram,9908023917,9908023917,29-05-2025,29-05-2025,3,3,3,3,2,2,2,2,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+697,Dr Shaik Joshima,Dr shaik joshima,2,2,APMTO9,APMTO9,30,30,1,1,2,2,9,9,1,1,Phc lokumudi,PHC lokumudi,7702120254,7702120254,29-05-2025,29-05-2025,2,2,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+698,Dr Prathyusha Relangi,Dr Prathyusha Relangi,2,2,APMTO9,APMTO9,27,27,1,1,2.2,2.2,9,9,1,1,PHC Vijayarai,PHC Vijayarai,8341243900,8341243900,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+699,Kakarla madhuri,Kakarla madhuri,2,2,APMTO9,APMTO9,28,28,1,1,2.8,2.8,9,9,1,1,Koida,Koida,8333983759,8333983759,29-05-2025,29-05-2025,3,3,3,3,2,2,2,2,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+700,Nethala Geetha,Nethala Geetha,2,2,APMTO9,APMTO9,27,27,1,1,1.5,1.5,9,9,1,1,Phc yerraguntapalli,Phc yerraguntapalli,9701660423,9701660423,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,4,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+701,Dr ANDUGULA MADDI ANJANEYULU,Dr ANDUGULA MADDI ANJANEYULU,1,1,APMTO9,APMTO9,31,31,1,1,31,31,9,9,1,1,Borrampalem,Borrampalem,6304562950,6304562950,29-05-2025,29-05-2025,1,1,3,3,2,2,3,3,3,3,4,4,4,4,4,4,3,3,2,2,hrt,ap,mo
+702,Pendela Gowtham Raju,Pendela Gowtham Raju,1,1,APMTO9,APMTO9,26,26,1,1,1.6,1.6,9,9,2,2,UPHC POWERPETA,UPHC POWERPETA,9010677145,9010677145,29-05-2025,29-05-2025,3,3,3,3,4,2,3,3,3,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+703,MD AABIDA BEGUM,MD AABIDA BEGUM,2,2,APMTO9,APMTO9,34,34,1,1,3.1,3.1,9,9,1,1,K gokavaram,K gokavaram,9849856709,9849856709,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,1,3,4,4,2,2,4,4,3,3,4,2,hrt,ap,mo
+704,Dr.K Roja lalitha,Dr.K Roja lalitha,2,2,APMTO9,APMTO9,27,27,1,1,2.7,2.7,9,9,1,1,PHC GOPANNAPALEM,PHC GOPANNAPALEM,8688660449,8688660449,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,2,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+705,PALLEPAMU MANJULA DEVI,PALLEPAMU MANJULA DEVI,2,2,APMTO9,APMTO9,30,30,1,1,2.7,2.7,9,9,1,1,PHC SAGGURU,PHC SAGGURU,9110715873,9110715873,29-05-2025,30-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+706,Subbaraju varma,Subbaraju varma,1,1,APMTO9,APMTO9,36,36,1,1,6,6,9,9,1,1,Phc chebrolu,Phc chebrolu,8886555038,8886555038,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,4,2,4,4,3,3,2,2,hrt,ap,mo
+707,KIRAN CHAITANYA RAGHAVAPURAM,DR KIRAN CHAITANYA KOPPULA,1,1,APMTO9,APMTO9,35,35,1,1,5,5,9,9,1,1,PHC RAGHAVAPURAM,PHC Raghavapuram,7680980313,7680980313,29-05-2025,29-05-2025,3,3,3,3,2,2,2,3,3,3,4,4,1,2,4,4,3,3,1,2,hrt,ap,mo
+708,T.V.L.P.KUMAR,T.V.L.P KUMAR,1,1,APMTO9,APMTO9,44,44,1,1,76,76,9,9,1,1,Kamavarapukota,Kamavarapukota,9346252477,9346252477,29-05-2025,29-05-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,1,2,hrt,ap,mo
+709,Dr.chakradhar.chennuri,Dr.chakradhar.chennuri,1,1,APMTO9,APMTO9,33,33,1,1,4.8,4.8,9,9,1,1,Pedapadu,Pedapadu,9047699146,9047699146,29-05-2025,29-05-2025,1,1,3,3,2,4,3,2,1,2,4,4,1,1,4,4,3,3,2,2,hrt,ap,mo
+710,Dr K Anand Kumar,-,1,-,APMTO9,-,55,-,1,-,14,-,9,-,1,-,PHC Gudiwakalanka,-,9490970730,-,29-05-2025,-,1,-,3,-,4,-,2,-,2,-,4,-,3,-,3,-,3,-,2,-,hrt,ap,mo
+711,Pittala arunajyothi,-,2,-,APMTO9,-,34,-,1,-,17,-,9,-,1,-,Pulla phc,-,9505880160,-,29-05-2025,-,3,-,3,-,4,-,3,-,3,-,4,-,1,-,4,-,3,-,3,-,hrt,ap,mo
+712,-,Pittala arunajyothi,-,2,-,APMTO9,-,34,-,1,-,17,-,9,-,1,-,Pulla phc,-,9505580160,-,29-05-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,3,-,2,hrt,ap,mo
+713,-,Dr K gangadhar kumar,-,1,-,APMTO9,-,56,-,1,-,240,-,9,-,3,-,PP unit nuzivid,-,9848750765,-,29-05-2025,-,3,-,4,-,4,-,4,-,2,-,4,-,4,-,4,-,4,-,4,hrt,ap,mo
+714,Karim Dr,Karim,1,1,APMTO9,APMTO9,38,38,1,1,6,6,9,9,1,1,Ramanakkapeta,Ramanakkapeta,9985269619,9985269619,02-06-2025,02-06-2025,3,3,3,3,2,4,3,3,1,1,4,4,1,1,4,4,2,2,4,4,hrt,ap,mo
+715,Vittamsetti sasankar,-,1,-,APMTO9,-,29,-,1,-,1.4,-,9,-,2,-,Uphc kothapeta,-,9640646328,-,02-06-2025,-,2,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,3,-,4,-,hrt,ap,mo
+716,PAVITHRA NUKATHOTI,PAVITHRA NUKATHOTI,2,2,APMTO9,APMTO9,35,35,1,1,1,1,9,9,1,1,Mandavalli,Mandavalli,7780316800,7780316800,02-06-2025,02-06-2025,3,3,3,3,2,2,3,3,1,3,4,4,1,1,4,4,3,3,2,4,hrt,ap,mo
+717,Mohammed Akhter jaha begum,-,2,-,APMTO9,-,25,-,1,-,1.9,-,9,-,2,-,UPHC SANIVARAPUPETA -1,-,7569770789,-,02-06-2025,-,3,-,3,-,2,-,3,-,2,-,4,-,1,-,4,-,4,-,3,-,hrt,ap,mo
+718,KATARI ANANTH PAUL,KATARI ANANTH PAUL,1,1,APMTO9,APMTO9,32,32,1,1,2.5,2.5,9,9,1,1,PEDAPADU PRIMARY HEALTH CENTER,PEDAPADU PRIMARY HEALTH CENTER,9550462889,9550462889,02-06-2025,02-06-2025,3,3,3,3,2,2,3,3,3,3,4,4,4,1,4,4,3,3,3,3,hrt,ap,mo
+719,Abdul Tasleem,Abdul Tasleem,2,2,APMTO9,APMTO9,30,30,1,1,2.6,2.6,9,9,1,1,Koyyalagudem,Koyyalagudem,7989390815,7989390815,02-06-2025,02-06-2025,3,3,3,3,2,2,3,3,1,1,4,4,1,2,4,4,2,1,3,2,hrt,ap,mo
+720,Eluri Sai Anusha,Eluri Sai Anusha,2,2,APMTO9,APMTO9,30,30,1,1,0.24,0.24,9,9,1,1,PHC Kagupadu,PHC Kagupadu,8186009832,8186009832,02-06-2025,02-06-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,3,2,hrt,ap,mo
+721,M.Jyothi,M.Jyothi,2,2,APMTO9,APMTO9,32,32,1,1,2,2,9,9,1,1,Phc Chanubanda,Phc Chanubanda,7702034122,7702034122,02-06-2025,09-06-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,4,2,hrt,ap,mo
+722,Dr.G.Yagnasree,Dr.G.Yagnasree,2,2,APMTO9,APMTO9,34,34,1,1,4,4,9,9,1,1,Ch pothepalli,Ch pothepalli,7993570624,7993570624,02-06-2025,02-06-2025,3,3,3,3,2,2,3,3,2,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+723,Shanthi Sree Vaddadhi,Shanthi Sree Vadddhi,2,2,APMTO9,APMTO9,40,40,1,1,4,4,9,9,1,1,Mudinepalli Phc,Mudinepalli,8977980830,8977980830,02-06-2025,02-06-2025,1,3,3,3,2,2,4,3,1,3,4,4,1,1,4,4,3,3,3,2,hrt,ap,mo
+724,A Ashokkumar,-,1,-,APMTO9,-,39,-,1,-,6.4,-,9,-,1,-,Lakkavaram,-,6300281518,-,02-06-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,1,-,4,-,3,-,3,-,hrt,ap,mo
+725,Salmankhan,-,1,-,APMTO9,-,30,-,1,-,1.7,-,9,-,2,-,Uphc dangenagar,-,7093479043,-,02-06-2025,-,3,-,3,-,2,-,2,-,3,-,4,-,1,-,4,-,3,-,3,-,hrt,ap,mo
+726,Sai sudha,Sai sudha,2,2,APMTO9,APMTO9,33,33,1,1,4,4,9,9,3,3,Nuzividu ppunit,Nuzividu ppunit,9490063305,9490063305,02-06-2025,02-06-2025,3,3,3,3,2,2,3,3,3,3,4,4,1,2,4,4,3,3,2,2,hrt,ap,mo
+727,K.S.Navya,-,2,-,APMTO9,-,27,-,1,-,1.5,-,9,-,2,-,Uphc AAS colony,-,7674824334,-,02-06-2025,-,2,-,3,-,2,-,3,-,1,-,4,-,2,-,4,-,3,-,2,-,hrt,ap,mo
+728,Kurapati Agatha,Kurapati Agatha,2,2,APMTO9,APMTO9,34,34,1,1,2.7,2.7,9,9,1,1,PHC Velairpadu,PHC Velairpadu,9440958992,9440958992,02-06-2025,02-06-2025,3,3,3,3,2,2,3,3,3,3,4,4,2,2,4,4,3,3,3,3,hrt,ap,mo
+729,A Sreenivasulu Reddy,-,1,-,APMTO9,-,36,-,1,-,2.5,-,9,-,1,-,Chatrai,-,7893982532,-,02-06-2025,-,3,-,3,-,2,-,3,-,1,-,4,-,2,-,4,-,3,-,2,-,hrt,ap,mo
+730,Surasura Nandini,Surasura Nandini,2,2,APMTO9,APMTO9,30,30,1,1,3.2,3.2,9,9,1,1,PHC Doramamidi,PHC Doramamidi,9014861599,9014861599,02-06-2025,02-06-2025,3,3,3,3,2,1,3,3,3,3,4,4,1,1,4,4,3,3,3,2,hrt,ap,mo
+731,Dr S Manasa,Dr S Manasa,2,2,APMTO9,APMTO9,27,27,1,1,1.4,1.4,9,9,2,2,Uphc mothevarithota,Uphc mothevarithota,6379800977,6379800977,02-06-2025,02-06-2025,2,2,3,3,2,2,3,3,1,3,4,4,3,3,4,4,3,3,4,4,hrt,ap,mo
+732,Sk Chaitanya challa,Sk Chaitanya challa,2,2,APMTO9,APMTO9,36,36,1,1,2.8,2.8,9,9,1,1,Pothunuru,Pothunuru,8790324095,8790324095,02-06-2025,02-06-2025,3,3,3,3,2,1,3,3,3,3,4,4,4,1,4,4,3,3,3,3,hrt,ap,mo
+733,Dr.R.N.Jyothsna,Dr.R.N.Jyothsna,2,2,APMTO9,APMTO9,51,51,1,1,17.1,17.1,9,9,1,1,Phc Edara,Phc Edara,9912551811,9912551811,02-06-2025,02-06-2025,3,3,3,3,4,4,3,2,1,3,4,4,2,2,4,4,3,3,2,2,hrt,ap,mo
+734,-,Dr v madhusudhana rao,-,1,-,APMTO9,-,36,-,1,-,3,-,9,-,1,-,Devapudi,-,9550768724,-,02-06-2025,-,3,-,3,-,2,-,3,-,1,-,4,-,1,-,4,-,3,-,2,hrt,ap,mo
+735,-,B Sunanda kumari,-,2,-,APMTO9,-,37,-,1,-,6.4,-,9,-,1,-,Phc Digavalli,-,7330936076,-,02-06-2025,-,3,-,3,-,4,-,3,-,1,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+736,-,Pitta Twinkle,-,2,-,APMTO9,-,29,-,1,-,1.6,-,9,-,2,-,Lambadipeta,-,8019545459,-,02-06-2025,-,3,-,3,-,1,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+737,-,Pragathi,-,2,-,APMTO9,-,27,-,1,-,1.5,-,9,-,2,-,Narsimaraopeta,-,9182973154,-,02-06-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+738,-,Chitikina Venkata Neelima,-,2,-,APMTO9,-,30,-,1,-,1.6,-,9,-,2,-,Jwalaphareswari  colony,-,8309856969,-,02-06-2025,-,3,-,3,-,2,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
+739,-,PITTA Twinkle,-,2,-,APMTO9,-,29,-,1,-,1.5,-,9,-,2,-,Lambadipeta,-,9182923484,-,02-06-2025,-,3,-,3,-,1,-,3,-,3,-,4,-,2,-,4,-,3,-,2,hrt,ap,mo
