@@ -3937,7 +3937,7 @@ write.csv(df_questions_combined_anm1_ap_gt, "tables/df_questions_combined_anm1_a
 #| title: "Topics"
 #| font-size-content: 5
 
-"Quality ANC(qanc)"
+"Quality ANC (qanc)"
 
 ```
 
@@ -3947,7 +3947,7 @@ write.csv(df_questions_combined_anm1_ap_gt, "tables/df_questions_combined_anm1_a
 #| title: "Topics"
 #| font-size-content: 5
 
-"Anaemia(ane)"
+"Anaemia (ane)"
 
 ```
 
@@ -3967,7 +3967,7 @@ write.csv(df_questions_combined_anm1_ap_gt, "tables/df_questions_combined_anm1_a
 #| title: "Topics"
 #| font-size-content: 5
 
-"Hypertension(htn)"
+"Hypertension (htn)"
 
 ```
 
@@ -3987,7 +3987,7 @@ write.csv(df_questions_combined_anm1_ap_gt, "tables/df_questions_combined_anm1_a
 #| font-size-content: 5
 #| title: "Topics"
 
-"Epilepsy(epi)"
+"Epilepsy (epi)"
 
 ```
 
@@ -4132,7 +4132,7 @@ df_questions_combined_anm1_ap_gt
 #| title: "Topics"
 #| font-size-content: 5
 
-"Previous LSCS(plscs)"
+"Previous LSCS (plscs)"
 
 ```
 
@@ -4142,7 +4142,7 @@ df_questions_combined_anm1_ap_gt
 #| title: "Topics"
 #| font-size-content: 5
 
-"Heart Disease(hrt)"
+"Heart Disease (hrt)"
 
 ```
 
@@ -4152,7 +4152,7 @@ df_questions_combined_anm1_ap_gt
 #| title: "Topics"
 #| font-size-content: 5
 
-"Tuberculosis(tb)"
+"Tuberculosis (tb)"
 
 ```
 
@@ -4172,7 +4172,7 @@ df_questions_combined_anm1_ap_gt
 #| font-size-content: 5
 #| title: "Topics"
 
-"Fetal Growth Restriction(fgr)"
+"Fetal Growth Restriction (fgr)"
 
 ```
 
@@ -4182,7 +4182,7 @@ df_questions_combined_anm1_ap_gt
 #| font-size-content: 5
 #| title: "Topics"
 
-"Bleeding before 20weeks(ble)"
+"Bleeding before 20weeks (ble)"
 
 ```
 
@@ -4272,7 +4272,7 @@ df_questions_combined_mo2_gt
 #| title: "Topics"
 #| font-size-content: 5
 
-"Preterm Labor and PPROM(pprom)"
+"Preterm Labor and PPROM (pprom)"
 
 ```
 
@@ -4292,7 +4292,7 @@ df_questions_combined_mo2_gt
 #| title: "Topics"
 #| font-size-content: 5
 
-"Reduced Fetal Movement(rfm)"
+"Reduced Fetal Movement (rfm)"
 
 ```
 
@@ -4312,7 +4312,7 @@ df_questions_combined_mo2_gt
 #| font-size-content: 5
 #| title: "Topics"
 
-"Rh- Negative(rh)"
+"Rh- Negative (rh)"
 
 ```
 
@@ -4322,7 +4322,7 @@ df_questions_combined_mo2_gt
 #| font-size-content: 5
 #| title: "Topics"
 
-"Teenage Pregnancy(teen)"
+"Teenage Pregnancy (teen)"
 
 ```
 
@@ -4332,7 +4332,7 @@ df_questions_combined_mo2_gt
 #| font-size-content: 5
 #| title: "Topics"
 
-"Perineal Trauma(pt)"
+"Perineal Trauma (pt)"
 
 ```
 
