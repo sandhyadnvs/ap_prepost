@@ -2273,15 +2273,20 @@ sta1_mo3 <- df_mo3 %>%
   summarise(
     pre_mean = round(mean(pre_total_correct, na.rm = TRUE), 1),
     pre_std = round(sd(pre_total_correct, na.rm = TRUE), 1),
-    pre_mean_pct = round((mean(pre_total_correct, na.rm = TRUE) / 10) * 100, 1),  # Pre-test percentage
+    pre_mean_pct = round((mean(pre_total_correct, na.rm = TRUE) / 10) * 100, 1),
     post_mean = round(mean(post_total_correct, na.rm = TRUE), 1),
     post_std = round(sd(post_total_correct, na.rm = TRUE), 1),
-    post_mean_pct = round((mean(post_total_correct, na.rm = TRUE) / 10) * 100, 1),  # Post-test percentage
+    post_mean_pct = round((mean(post_total_correct, na.rm = TRUE) / 10) * 100, 1),
     p_value = ifelse(
-      sum(!is.na(pre_total_correct)) > 1 & sum(!is.na(post_total_correct)) > 1, 
-      round(t.test(pre_total_correct, post_total_correct)$p.value, 6), 
-      NA )
+      sum(!is.na(pre_total_correct)) > 1 & 
+      sum(!is.na(post_total_correct)) > 1 &
+      length(unique(na.omit(pre_total_correct))) > 1 & 
+      length(unique(na.omit(post_total_correct))) > 1,
+      round(t.test(pre_total_correct, post_total_correct)$p.value, 6),
+      NA
+    )
   )
+
 
 # Calculate state average (overall mean, std, and percentage grouped by condition)
 state_avg_mo3 <- df_mo3 %>%
